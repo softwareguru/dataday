@@ -1,0 +1,145 @@
+
+######################## default configuration ####################
+baseURL = "https://sg.com.mx/dataday/"
+title = "Data Day(s) 2021"
+enableRobotsTXT = true
+RemovePathAccents = true
+
+googleAnalytics = "UA-21077034-25"
+
+theme = "dataday"
+# post pagination
+paginate = "10"
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+speaker = "speakers"
+
+# output
+[outputs]
+home = ["HTML", "RSS"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
+############################## navigation ###############################
+[menu]
+
+
+  [[menu.main]]
+  name = "Programa"
+  URL = "programa"
+  weight = 2
+
+  [[menu.main]]
+  name = "Conferencistas"
+  URL = "speakers"
+  weight = 3
+
+  [[menu.main]]
+  name = "Preguntas Frecuentes"
+  URL = "faq"
+  weight = 4
+
+
+#################### default parameters ################################
+[params]
+logo = "images/logo.svg"
+home = "Home"
+
+# Meta data
+description = "Data Day(s) es el congreso líder de ciencia e ingeniería de datos en México con tres tracks: data MBA, hard core machine learning, e ingeniería de datos."
+image = "/dataday/images/card.jpg"
+images = ["/dataday/images/card.jpg"]
+twitter_user = "@revistasg"
+email = "eventos@sg.com.mx"
+author = "Software Guru"
+
+disclaimer = ""
+
+# Navigation button
+[params.navigation_button]
+label = "TICKETS"
+link = "/tickets"
+
+
+############################# social icon ############################
+[[params.social]]
+icon = "tf-ion-social-twitter"
+link = "https://twitter.com/RevistaSG"
+
+[[params.social]]
+icon = "tf-ion-social-youtube"
+link = "https://www.youtube.com/c/softwareguru"
+
+[[params.social]]
+icon = "fab fa-slack"
+link = "https://istio.slack.com"
+
+[[params.social]]
+icon = "tf-ion-social-octocat"
+link = "https://github.com/softwareguru"
+
+[[params.social]]
+icon = "tf-ion-android-mail"
+link = "mailto:eventos@sg.com.mx"
+
+[[params.footer_about]]
+name = "Istio website"
+link = "https://istio.io"
+
+[[params.footer_resources]]
+name = "Organizers"
+link = "/istiocon-2021/organizers"
+
+[[params.footer_resources]]
+name = "Code of Conduct"
+link = "/istiocon-2021/coc"
+
+[[params.footer_resources]]
+name = "Privacy policy"
+link = "/istiocon-2021/privacy"
+
+[[params.footer_resources]]
+name = "Call for papers"
+link = "https://sessionize.com/istiocon-2021/"
+
+[[params.footer_resources]]
+name = "Partnership opportunities"
+link = "/istiocon-2021/partner/IstioCon2021_Partner_Packages_v2.pdf"
+
+
+
+############################# Plugins ##############################
+# CSS Plugins
+[[params.plugins.css]]
+link = "https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css"
+[[params.plugins.css]]
+link ="/plugins/color-switcher-design/color-switcher-design.css"
+[[params.plugins.css]]
+link = "/plugins/themefisher-font/themefisher-font.min.css"
+[[params.plugins.css]]
+link = "/plugins/flaticon/flaticon.css"
+[[params.plugins.css]]
+link = "https://unpkg.com/bootstrap-table@1.18.2/dist/bootstrap-table.min.css"
+
+
+
+# JS Plugins
+[[params.plugins.js]]
+link = "https://code.jquery.com/jquery-3.5.1.slim.min.js" 
+
+[[params.plugins.js]]
+link="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"
+
+[[params.plugins.js]]
+link="https://kit.fontawesome.com/2e09285ae6.js"
+
+[[params.plugins.js]]
+link="https://unpkg.com/bootstrap-table@1.18.2/dist/bootstrap-table.min.js"
+
+
