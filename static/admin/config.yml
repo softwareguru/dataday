@@ -21,7 +21,7 @@ collections: # A list of collections the CMS should be able to edit
   - name: "speakers"
     label: "Speaker"
     folder: "/content/speakers"
-    path: "/content/speakers/{{slug}}/_index.md"
+    path: "{{slug}}/index"
     media_folder: "/static/images/speakers/"
     public_folder: "/images/speakers"
     create: true
