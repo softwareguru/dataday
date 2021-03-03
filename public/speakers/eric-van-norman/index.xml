@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eric Van Norman on Data Day(s) 2021</title>
+    <link>/speakers/eric-van-norman/</link>
+    <description>Recent content in Eric Van Norman on Data Day(s) 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="/speakers/eric-van-norman/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Prepping the sails for a ship-shape Istio Release</title>
+      <link>/sessions/prepping-the-sails-for-a-ship-shape-istio-release/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/prepping-the-sails-for-a-ship-shape-istio-release/</guid>
+      <description>Another Istio release is out! You may be nervous, but we have been continuously improving our release qualification process to hopefully ease your concerns. In 2020, we collected feedback and used it to focus on producing higher quality and more consistent releases. We created a Definition of Done to determine what it means for releases and features to be considered stable. This has led to release notes tooling, standardized feature maturity levels and release gates.</description>
+    </item>
+    
+  </channel>
+</rss>

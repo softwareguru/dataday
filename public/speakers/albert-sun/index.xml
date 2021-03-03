@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Albert Sun on Data Day(s) 2021</title>
+    <link>/speakers/albert-sun/</link>
+    <description>Recent content in Albert Sun on Data Day(s) 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="/speakers/albert-sun/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>5 tips for your first Istio.io contribution</title>
+      <link>/sessions/5-tips-for-your-first-istio.io-contribution</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/5-tips-for-your-first-istio.io-contribution</guid>
+      <description>A first commit to Istio.io can be daunting and there is a large amount of learning and commitment required to contribute to Istio.io. By presenting my experiences, I want to encourage both people familiar and unfamiliar to Istio, to contribute. I also hope to give some insight on the PR process for contributing to Istio.io, and show some relatively easy first commit examples. I found a home in the Docs WG, and I hope to help introduce others to this community by helping with their first commit.</description>
+    </item>
+    
+  </channel>
+</rss>

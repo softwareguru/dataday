@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhonghu Xu on Data Day(s) 2021</title>
+    <link>/speakers/zhonghu-xu/</link>
+    <description>Recent content in Zhonghu Xu on Data Day(s) 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="/speakers/zhonghu-xu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Preserve Original Source Address within Istio</title>
+      <link>/sessions/preserve-original-source-address-within-istio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/preserve-original-source-address-within-istio/</guid>
+      <description>Original source address is heavily relied on by many scenarios, however in service mesh, with sidecar injected and traffic proxied by a sidecar, it is naturally unable to get the original client ip address.
+In this presentation, Zhonghu will introduce what istio and envoy have done to help preserve original source ip both for TCP and HTTP protocols. And then he will present a live demo about how to achieve original src IP preserve with proxy protocol, original source filter, and TProxy.</description>
+    </item>
+    
+  </channel>
+</rss>

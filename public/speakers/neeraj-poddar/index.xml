@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neeraj Poddar on Data Day(s) 2021</title>
+    <link>/speakers/neeraj-poddar/</link>
+    <description>Recent content in Neeraj Poddar on Data Day(s) 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="/speakers/neeraj-poddar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Istio Project Roadmap</title>
+      <link>/sessions/istio-project-roadmap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/istio-project-roadmap/</guid>
+      <description>Neeraj Poddar and Louis Ryan from the Istio technical oversight committee, lead an update on the development of the project and the roadmap for 2021.</description>
+    </item>
+    
+    <item>
+      <title>Istio Project Roadmap (China)</title>
+      <link>/sessions/istio-project-roadmap-china/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/istio-project-roadmap-china/</guid>
+      <description>Neeraj Poddar and Louis Ryan from the Istio technical oversight committee, lead an update on the development of the project and the roadmap for 2021.</description>
+    </item>
+    
+    <item>
+      <title>Using Istio to build the next generation 5G platform</title>
+      <link>/sessions/using-istio-to-build-the-next-generation-5g-platform/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/using-istio-to-build-the-next-generation-5g-platform/</guid>
+      <description>Building the next fastest, secure and reliable 5G platform is challenging in its own right but doing that while modernizing your infrastructure and onboarding Cloud-Native Functions (CNFs) from multiple vendors can be a herculean effort
+In this talk, we will cover how Istio can be used in 5G platforms to achieve uniform security and visibility across these CNFs deployed in multiple clusters across different sites including edge. However, rolling out Istio at this scale brings its own challenges around lifecycle management, tenant isolation, identity management and visibility beyond metrics and traces.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Murugappan Chetty on Data Day(s) 2021</title>
+    <link>/speakers/murugappan-chetty/</link>
+    <description>Recent content in Murugappan Chetty on Data Day(s) 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="/speakers/murugappan-chetty/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Building Platforms with Istio</title>
+      <link>/sessions/building-platforms-with-istio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/building-platforms-with-istio/</guid>
+      <description>Optum is one of the early adopters of Istio and its been used in a number of use-cases within the organization.
+In this presentation, Murugappan Chetty of Optum will go over the platform that they built with kubernetes, Istio and knative, where internal users run their workloads.
+Audience attending this session will get to know about
+ Istio features leveraged by the platform like, security, observability, traffic routing, client libraries, external dns etc.</description>
+    </item>
+    
+  </channel>
+</rss>

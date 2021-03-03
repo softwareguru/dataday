@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eitan Yarmush on Data Day(s) 2021</title>
+    <link>/speakers/eitan-yarmush/</link>
+    <description>Recent content in Eitan Yarmush on Data Day(s) 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="/speakers/eitan-yarmush/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Istio Debugging: Finding and Fixing Issues in a Multi-cluster Service Graph</title>
+      <link>/sessions/istio-debugging-finding-and-fixing-issues-in-a-multi-cluster-service-graph/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/istio-debugging-finding-and-fixing-issues-in-a-multi-cluster-service-graph/</guid>
+      <description>Istio has some basic tooling to facilitate request troubleshooting, but it has something much more powerful at its core: Envoy proxy. When requests in the mesh start failing, Envoy is the definitive source for debugging information as it has a wealth of telemetry and logging that can be enabled to pinpoint problems along the request path. Trouble with certificates? Incorrect headers? Connection pooling or upstream errors? Un-routable request?
+In this talk, we’ll look at how to build a repeatable and automatable set of tools to quickly debug a request path across multiple hops and potentially across multiple clusters and Istio control planes.</description>
+    </item>
+    
+  </channel>
+</rss>

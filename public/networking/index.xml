@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Networking on Data Day(s) 2021</title>
+    <link>/networking/</link>
+    <description>Recent content in Networking on Data Day(s) 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 06 Jan 2021 18:26:06 -0600</lastBuildDate>
+    
+	<atom:link href="/networking/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Slack - Event chat</title>
+      <link>/networking/slack/</link>
+      <pubDate>Wed, 06 Jan 2021 18:26:06 -0600</pubDate>
+      
+      <guid>/networking/slack/</guid>
+      <description>Join the conversation at #istiocon channel in the Istio Slack and get all the event details while you chat with other event attendees, comment on the sessions and interact with speakers.</description>
+    </item>
+    
+    <item>
+      <title>Office hours</title>
+      <link>/networking/office_hours/</link>
+      <pubDate>Wed, 06 Jan 2021 18:26:06 -0600</pubDate>
+      
+      <guid>/networking/office_hours/</guid>
+      <description>Join the office hours at gather.town on Wednesday, February 24th, from 10:45 - 13:00 GMT -8, and contact with the Istio community experts. Link to Office hours.</description>
+    </item>
+    
+    <item>
+      <title>Photo booth</title>
+      <link>/networking/photobooth/</link>
+      <pubDate>Wed, 06 Jan 2021 18:26:06 -0600</pubDate>
+      
+      <guid>/networking/photobooth/</guid>
+      <description>If there is no selfie then it didn&amp;rsquo;t happen, right? Visit https://istiocon.virtualbooth.co to take your picture and share it at the #istiocon-photobooth in the Istio slack.</description>
+    </item>
+    
+    <item>
+      <title>Social event</title>
+      <link>/networking/social_event/</link>
+      <pubDate>Wed, 06 Jan 2021 18:26:06 -0600</pubDate>
+      
+      <guid>/networking/social_event/</guid>
+      <description>Join us at gather.town on Thursday, February 25th, after the morning block (14:20 - 16:20 GMT -8), and get a portrait cartoon, play video games, and network with the Istio community. Link to the event.</description>
+    </item>
+    
+    <item>
+      <title>Trivia</title>
+      <link>/networking/trivia/</link>
+      <pubDate>Wed, 06 Jan 2021 18:26:06 -0600</pubDate>
+      
+      <guid>/networking/trivia/</guid>
+      <description>Challenge your techie skills by participating at the event trivia at the #istiocon slack channel, and win a $100usd gift card.</description>
+    </item>
+    
+    <item>
+      <title>Feedback</title>
+      <link>/networking/evaluation/</link>
+      <pubDate>Wed, 06 Jan 2021 18:26:06 -0600</pubDate>
+      
+      <guid>/networking/evaluation/</guid>
+      <description>Help us improve by completing the event evaluation and win a $100 USD gift card. Link to evaluation.</description>
+    </item>
+    
+  </channel>
+</rss>

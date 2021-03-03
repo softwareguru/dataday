@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alex Van Boxel on Data Day(s) 2021</title>
+    <link>/speakers/alex-van-boxel/</link>
+    <description>Recent content in Alex Van Boxel on Data Day(s) 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="/speakers/alex-van-boxel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Know your peers</title>
+      <link>/sessions/know-your-peers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/know-your-peers/</guid>
+      <description>It’s lonely in your pod, but finally, you receive that long-awaited knock on the port&amp;hellip; but can you trust that inbound request?
+This session dives into an essential aspect of a service mesh: trust. We’ll dive into how certificates work into Istio, use peer authentication, and explain concepts like SPIFFE identifiers. Peer thrust can also be leveraged in the application architecture.
+A mesh is not only for cluster administrators but also for architects and developers, making it well worth to highlight those patterns.</description>
+    </item>
+    
+  </channel>
+</rss>

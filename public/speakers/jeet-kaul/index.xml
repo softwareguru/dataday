@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jeet Kaul on Data Day(s) 2021</title>
+    <link>/speakers/jeet-kaul/</link>
+    <description>Recent content in Jeet Kaul on Data Day(s) 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="/speakers/jeet-kaul/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FICO&#39;s Istio Journey</title>
+      <link>/sessions/fico-istio-journey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/fico-istio-journey/</guid>
+      <description>FICO started it&amp;rsquo;s mesh journey in 2019, picking up Istio at 0.8. It&amp;rsquo;s been a bumpy road! Istio has matured a lot in that time, and the organization&amp;rsquo;s deployment and usage of Istio has matured significantly too. Jeet, a VP of Engineering at FICO, will walk through FICO&amp;rsquo;s journey with Istio from 2019 to today, discussing why they chose Istio initially, some of the growing pains they experienced, and what business goals they&amp;rsquo;ve been able to achieve because of Istio.</description>
+    </item>
+    
+  </channel>
+</rss>

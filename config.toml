@@ -1,6 +1,6 @@
 
 ######################## default configuration ####################
-baseURL = "https://sg.com.mx/dataday/"
+baseURL = "/"
 title = "Data Day(s) 2021"
 enableRobotsTXT = true
 RemovePathAccents = true
@@ -53,8 +53,8 @@ home = "Home"
 
 # Meta data
 description = "Data Day(s) es el congreso líder de ciencia e ingeniería de datos en México con tres tracks: data MBA, hard core machine learning, e ingeniería de datos."
-image = "/dataday/images/card.jpg"
-images = ["/dataday/images/card.jpg"]
+image = "images/card.jpg"
+images = ["images/card.jpg"]
 twitter_user = "@revistasg"
 email = "eventos@sg.com.mx"
 author = "Software Guru"

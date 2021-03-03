@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ed Snible on Data Day(s) 2021</title>
+    <link>/speakers/ed-snible/</link>
+    <description>Recent content in Ed Snible on Data Day(s) 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="/speakers/ed-snible/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Extending Envoy with WASM from start to finish</title>
+      <link>/sessions/extending-envoy-with-wasm-from-start-to-finish/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/extending-envoy-with-wasm-from-start-to-finish/</guid>
+      <description>This talk is for every engineer interested in creating traffic management and telemetry capabilities for the mesh itself.
+Istio has offered extensibility through WebAssembly since 1.5. User code, running in the sidecar, can implement custom traffic management and telemetry. No Istio control plane access or special builds of the sidecar are needed. C++ and JavaScript developers can write, compile, deploy and test extensions quickly, with just a bit of Istio EnvoyFilter YAML on their clusters.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Animesh Chaturvedi on Data Day(s) 2021</title>
+    <link>/speakers/animesh-chaturvedi/</link>
+    <description>Recent content in Animesh Chaturvedi on Data Day(s) 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="/speakers/animesh-chaturvedi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Large scale data ingestion using Istio/Envoy</title>
+      <link>/sessions/large-scale-data-ingestion-using-istio/envoy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/large-scale-data-ingestion-using-istio/envoy/</guid>
+      <description>This talk will share the experience of building a data lake using Istio / Envoy. This talk will cover why we selected Istio for building a data lake in early 2019. Our journey with Istio and go in depth the challenges we ran into scaling the ingestion pipeline to scale to process several hundred tera bytes a day.</description>
+    </item>
+    
+  </channel>
+</rss>

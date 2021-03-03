@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Louis Ryan on Data Day(s) 2021</title>
+    <link>/speakers/louis-ryan/</link>
+    <description>Recent content in Louis Ryan on Data Day(s) 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="/speakers/louis-ryan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Istio Project Roadmap</title>
+      <link>/sessions/istio-project-roadmap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/istio-project-roadmap/</guid>
+      <description>Neeraj Poddar and Louis Ryan from the Istio technical oversight committee, lead an update on the development of the project and the roadmap for 2021.</description>
+    </item>
+    
+    <item>
+      <title>Istio Project Roadmap (China)</title>
+      <link>/sessions/istio-project-roadmap-china/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/istio-project-roadmap-china/</guid>
+      <description>Neeraj Poddar and Louis Ryan from the Istio technical oversight committee, lead an update on the development of the project and the roadmap for 2021.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nick Nellis on Data Day(s) 2021</title>
+    <link>/speakers/nick-nellis/</link>
+    <description>Recent content in Nick Nellis on Data Day(s) 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="/speakers/nick-nellis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Debugging Istio within the Department of Defense</title>
+      <link>/sessions/debugging-and-maintainability-istio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/debugging-and-maintainability-istio/</guid>
+      <description>Since the release of Istio 1.0, a major development effort has been spent on making it easier to use. Whether you are already running Istio in production or trying it out for the first time, it’s important that you know about the latest and greatest when it comes to debugging and maintaining istio.
+Adam Toy from the Department of Defense will walk you through how the USAF&amp;rsquo;s Platform One program is utilizing Istio to establish a zero-trust PaaS infrastructure, as well as some of the new things Istio has to offer in terms of debugging and maintainability he has learned along the way.</description>
+    </item>
+    
+  </channel>
+</rss>

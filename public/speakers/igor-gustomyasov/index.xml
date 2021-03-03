@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Igor Gustomyasov on Data Day(s) 2021</title>
+    <link>/speakers/igor-gustomyasov/</link>
+    <description>Recent content in Igor Gustomyasov on Data Day(s) 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="/speakers/igor-gustomyasov/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sberbank Story: moving Istio from PoC to production</title>
+      <link>/sessions/sberbank-story-moving-istio-from-poc-to-production/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/sberbank-story-moving-istio-from-poc-to-production/</guid>
+      <description>50+ On-Premise Kubernetes Clusters in a Private Cloud, 500+ Compute Nodes, 10+ Istio Meshes, and 2 years of joint efforts with IBM. This is Sberbank&amp;rsquo;s journey from the technology preview stage to a production-grade Istio mesh installation. Joint speech from IBM and Sberbank representatives will cover the history of their collaboration in detail: key faced problems and solutions, main architectural decisions, and plans for the future.</description>
+    </item>
+    
+  </channel>
+</rss>

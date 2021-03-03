@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christian Posta on Data Day(s) 2021</title>
+    <link>/speakers/christian-posta/</link>
+    <description>Recent content in Christian Posta on Data Day(s) 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="/speakers/christian-posta/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>I want to sketch a mesh for you</title>
+      <link>/sessions/i-want-to-sketch-a-mesh-for-you/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/i-want-to-sketch-a-mesh-for-you/</guid>
+      <description>Virtual conference presentations lack the dynamic and expressive feeling of a live talk in so many dimensions, and explaining complex concepts can be difficult. Even in person, one of the best ways to convey problems, solutions, and architecture discussions is through diagramming and white boarding. As one of the authors of Istio in Action for Manning Publishers, I&amp;rsquo;ve gone through many refinements of diagrams to help explain Istio. In this talk, we&amp;rsquo;ll use live diagramming, architecture sketches, demos and no slides, to illustrate how best to get started with Istio and iteratively adopt it into production.</description>
+    </item>
+    
+    <item>
+      <title>Istio Multicluster Workshop</title>
+      <link>/sessions/istio-multicluster-workshop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/istio-multicluster-workshop/</guid>
+      <description>This workshop is based on Istio and Gloo Mesh. Each participant will have a dedicated VM and we will go through diferent labs.</description>
+    </item>
+    
+  </channel>
+</rss>

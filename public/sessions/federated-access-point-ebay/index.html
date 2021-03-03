@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en-US"><head>
+  <meta charset="utf-8">
+  <title>Federated Access Point - eBay统一流量管理方案 | Data Day(s) 2021</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+  <meta name="description"
+    content="Data Day(s) es el congreso líder de ciencia e ingeniería de datos en México con tres tracks: data MBA, hard core machine learning, e ingeniería de datos.">
+  
+  <meta name="author" content="Software Guru">
+
+  <meta property="og:title" content="Federated Access Point - eBay统一流量管理方案" />
+<meta property="og:description" content="eBay拥有上百个Kubernetes集群，承载数千个不同通络拓扑的微服务应用。部署跨地域的高可用应用，并做精细化流量管理和日常运维，是互联网公司面临的日渐严峻的挑战。 本演讲会展示eBay如何基于Isito的统一的流量管理模型，基于集群联邦，完成跨地域，跨集群的南北和东西流量统一管理。包括智能DNS，四层和七层负载均衡配置，流量变更的灰度发布，智能化流量再平衡策略等。" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/sessions/federated-access-point-ebay/" />
+<meta property="og:image" content="/images/card.jpg"/>
+
+
+  <meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="/images/card.jpg"/>
+
+<meta name="twitter:title" content="Federated Access Point - eBay统一流量管理方案"/>
+<meta name="twitter:description" content="eBay拥有上百个Kubernetes集群，承载数千个不同通络拓扑的微服务应用。部署跨地域的高可用应用，并做精细化流量管理和日常运维，是互联网公司面临的日渐严峻的挑战。 本演讲会展示eBay如何基于Isito的统一的流量管理模型，基于集群联邦，完成跨地域，跨集群的南北和东西流量统一管理。包括智能DNS，四层和七层负载均衡配置，流量变更的灰度发布，智能化流量再平衡策略等。"/>
+
+
+  
+  
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-21077034-25"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+    gtag('config', 'UA-21077034-25');
+  </script>
+  
+
+  <!-- plugins -->
+  
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css">
+  
+  <link rel="stylesheet" href="/plugins/color-switcher-design/color-switcher-design.css">
+  
+  <link rel="stylesheet" href="/plugins/themefisher-font/themefisher-font.min.css">
+  
+  <link rel="stylesheet" href="/plugins/flaticon/flaticon.css">
+  
+  <link rel="stylesheet" href="https://unpkg.com/bootstrap-table@1.18.2/dist/bootstrap-table.min.css">
+  
+
+  <!-- Main Stylesheet -->
+  
+  <link rel="stylesheet" href='/scss/style.min.css?v=202103030612' media="screen">
+
+  <!--Favicon-->
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "Data Day(s) 2021",
+      "startDate": "2021-03-22T11:00-05:00",
+      "endDate": "2021-03-26T19:00-05:00",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
+      "location": {
+        "@type": "VirtualLocation",
+        "url": "https://sg.com.mx/dataday"
+      },
+      "image": [
+        "https://sg.com.mx/dataday/images/card.jpg"
+      ],
+      "description": "Data Day(s) es el congreso líder de ciencia e ingeniería de datos en México con tres tracks: data MBA, hard core machine learning, e ingeniería de datos.",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://sg.com.mx/dataday/tickets",
+        "price": "1200",
+        "priceCurrency": "MXN",
+        "availability": "https://schema.org/InStock",
+        "validFrom": "2021-01-01T12:00"
+      },
+      "performer": {
+        "@type": "PerformingGroup",
+        "name": "Data Day Mexico"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "Software Guru",
+        "url": "https://devrel.sg.com.mx"
+      }
+    }
+  </script>
+
+  
+
+</head><body>
+	<div class="page-wrapper">
+<header>
+  <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-black">
+    <div class="container" style="align-items: flex-end;">
+      <a class="navbar-brand" href='/'>
+        <img src="/images/logo.svg" alt="Data Day(s) 2021" class="img-fluid logo-b">
+      </a>
+
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
+        aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon text-white"></span>
+      </button>
+
+      
+      <div class="navbar-collapse collapse text-center" id="navigation">
+        <ul class="navbar-nav mx-auto">
+          
+            
+            <li class="nav-item">
+              <a class="nav-link" href="/programa">Programa</a>
+            </li>
+            
+          
+            
+            <li class="nav-item">
+              <a class="nav-link" href="/speakers">Conferencistas</a>
+            </li>
+            
+          
+            
+            <li class="nav-item">
+              <a class="nav-link" href="/faq">Preguntas Frecuentes</a>
+            </li>
+            
+          
+
+          
+          <li class="cta">
+            <a href="/tickets"
+            class="theme-btn btn-style-one text-white px-3">TICKETS</a>
+          </li>
+          
+        </ul>                
+      
+
+      </div>
+    </div>
+  </nav>
+</header>
+
+
+
+
+<section class="speaker-detail">
+  <div class="auto-container">
+    <div class="row mt-4">
+      <div class="image-column col-lg-3 d-none d-lg-block">
+        <div class="schedule-block col-lg-10 col-md-12 col-sm-12">
+          <div class="sec-title text-center">
+            <span class="title">Speaker(s):</span>
+            <div class="speaker-info" style="margin-bottom: 20px;">
+              
+              <figure class="thumb">
+                <a href="/speakers/jesse-meng/">
+                  <img class="rounded-circle" src="/" alt="">
+                  <h5 class="name" style="color: #466bb0;">Jesse Meng</h5>
+                </a>
+              </figure>
+              
+            </div>
+
+          </div>
+        </div>
+
+
+      </div>
+      <div class="info-column col-lg-9 col-md-12 col-sm-12" style="margin-top: -10px;">
+        <div class="inner-column">
+          <div class="text-box">
+            <h3>Federated Access Point - eBay统一流量管理方案</h3>
+            <p class="session-meta" id="date">Feb-25 02:00 UTC</p>
+            <p class="session-meta" id="lang">Language: Chinese</p>
+            <div class="d-lg-none d-xl-none">
+              By 
+              
+              <a class="speaker-inline-item" href="/speakers/jesse-meng/">Jesse Meng</a>
+                
+            </div>
+
+            <div class="content mt-4"><p>eBay拥有上百个Kubernetes集群，承载数千个不同通络拓扑的微服务应用。部署跨地域的高可用应用，并做精细化流量管理和日常运维，是互联网公司面临的日渐严峻的挑战。
+本演讲会展示eBay如何基于Isito的统一的流量管理模型，基于集群联邦，完成跨地域，跨集群的南北和东西流量统一管理。包括智能DNS，四层和七层负载均衡配置，流量变更的灰度发布，智能化流量再平衡策略等。</p>
+</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+  </div>
+  </div>
+</section>
+
+
+<footer class="footer-wrapper">
+	<div class="copyright-wrapper">
+		<div class="copyright-container container">
+			<div class="copyright-left">
+				Data Day es otro fantástico evento de <a href="http://sg.com.mx">Software Guru</a>. </div>
+			<div class="copyright-right">
+				<a href="/dataday/about-us/">Acerca de</a> | <a
+					href="/dataday/patrocinadores-y-expositores/">Patrocinadores y Expositores</a> | <a
+					href="mailto:eventos@sg.com.mx">Contacto</a>
+			</div>
+		</div>
+	</div>
+</footer></div>
+	<div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-angle-double-up"></span></div>
+	
+	<!-- JS Plugins -->
+	
+	<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+	
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></script>
+	
+	<script src="https://kit.fontawesome.com/2e09285ae6.js"></script>
+	
+	<script src="https://unpkg.com/bootstrap-table@1.18.2/dist/bootstrap-table.min.js"></script>
+	
+  
+	
+	
+</body>
+
+</html>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Live on Data Day(s) 2021</title>
+    <link>/live/</link>
+    <description>Recent content in Live on Data Day(s) 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 06 Jan 2021 18:26:06 -0600</lastBuildDate>
+    
+	<atom:link href="/live/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IstioCon 2021 Live</title>
+      <link>/test/</link>
+      <pubDate>Tue, 10 Sep 2019 07:51:25 +0000</pubDate>
+      
+      <guid>/test/</guid>
+      <description>  We can put more instructions or links here. </description>
+    </item>
+    
+  </channel>
+</rss>

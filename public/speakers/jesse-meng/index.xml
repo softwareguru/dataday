@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jesse Meng on Data Day(s) 2021</title>
+    <link>/speakers/jesse-meng/</link>
+    <description>Recent content in Jesse Meng on Data Day(s) 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="/speakers/jesse-meng/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Federated Access Point - eBay统一流量管理方案</title>
+      <link>/sessions/federated-access-point-ebay/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/federated-access-point-ebay/</guid>
+      <description>eBay拥有上百个Kubernetes集群，承载数千个不同通络拓扑的微服务应用。部署跨地域的高可用应用，并做精细化流量管理和日常运维，是互联网公司面临的日渐严峻的挑战。 本演讲会展示eBay如何基于Isito的统一的流量管理模型，基于集群联邦，完成跨地域，跨集群的南北和东西流量统一管理。包括智能DNS，四层和七层负载均衡配置，流量变更的灰度发布，智能化流量再平衡策略等。</description>
+    </item>
+    
+  </channel>
+</rss>

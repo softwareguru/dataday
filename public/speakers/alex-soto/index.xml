@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alex Soto on Data Day(s) 2021</title>
+    <link>/speakers/alex-soto/</link>
+    <description>Recent content in Alex Soto on Data Day(s) 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="/speakers/alex-soto/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Improving Security with Istio</title>
+      <link>/sessions/improving-security-with-istio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/improving-security-with-istio/</guid>
+      <description>As we start to go toward cloud-native infrastructure and build our applications out of microservices, we must fully face the drawbacks and challenges to doing so. One of the most important aspect is securing (authentication and authorization) the services correctly.
+In this session, we&amp;rsquo;ll show how Istio can simplify your security model when adopting (micro) services architecture.
+We expect most developers haven&amp;rsquo;t adequately solved for these issues, so we&amp;rsquo;ll take it to step by step and build up a strong understanding of Istio and how it is used to secure the service mesh.</description>
+    </item>
+    
+  </channel>
+</rss>

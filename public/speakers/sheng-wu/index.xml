@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sheng Wu on Data Day(s) 2021</title>
+    <link>/speakers/sheng-wu/</link>
+    <description>Recent content in Sheng Wu on Data Day(s) 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="/speakers/sheng-wu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How Is Apache SkyWalking Powering Istio Observability</title>
+      <link>/sessions/how-is-apache-skywalking-powering-istio-observability/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/how-is-apache-skywalking-powering-istio-observability/</guid>
+      <description>Istio provides a default observability solution through telemetry v2, which improves a lot than the Mixer v1 solution. Apache SkyWalking, as a widely adopted and powerful open-source APM project. It provides all tracing, metrics, and logging out of the box. For the Istio ecosystem, it provides full observability for k8s and VM environments and covers both the Data Panel and Control Panel. In this session, we are going to introduce how we do this, what is more, we bring to the end-users through these.</description>
+    </item>
+    
+  </channel>
+</rss>

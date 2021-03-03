@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John Zheng on Data Day(s) 2021</title>
+    <link>/speakers/john-zheng/</link>
+    <description>Recent content in John Zheng on Data Day(s) 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="/speakers/john-zheng/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How HP set up secure and wise platform with Istio</title>
+      <link>/sessions/how-hp-set-up-secure-and-wise-platform-with-istio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/how-hp-set-up-secure-and-wise-platform-with-istio/</guid>
+      <description>In this talk we will share what we have done at HP with Istio (all the way back from v 0.2) in order to support huge loads.</description>
+    </item>
+    
+  </channel>
+</rss>

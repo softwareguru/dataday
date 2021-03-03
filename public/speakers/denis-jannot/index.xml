@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Denis Jannot on Data Day(s) 2021</title>
+    <link>/speakers/denis-jannot/</link>
+    <description>Recent content in Denis Jannot on Data Day(s) 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="/speakers/denis-jannot/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Istio Multicluster Workshop</title>
+      <link>/sessions/istio-multicluster-workshop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/istio-multicluster-workshop/</guid>
+      <description>This workshop is based on Istio and Gloo Mesh. Each participant will have a dedicated VM and we will go through diferent labs.</description>
+    </item>
+    
+  </channel>
+</rss>
