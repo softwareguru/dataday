@@ -68,7 +68,7 @@ node_modules/
 .env
 
 themes/docsy
-public/istiocon-2021
+public
 resources
 *Zone.Identifier
 
