@@ -36,7 +36,7 @@ collections: # A list of collections the CMS should be able to edit
     files:
       - file: "site/content/about.md"
         label: "Acerca de"
-        name: "Acerca de Data Days"
+        name: "Acerca de Data Day"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
