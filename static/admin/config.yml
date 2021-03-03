@@ -2,7 +2,7 @@ backend:
   name: git-gateway
   branch: main
 
-media_folder: "static/images/uploads" # Folder where user uploaded files should go
+media_folder: "/static/images/uploads" # Folder where user uploaded files should go
 public_folder: "/images/uploads"
 
 collections: # A list of collections the CMS should be able to edit
@@ -22,7 +22,7 @@ collections: # A list of collections the CMS should be able to edit
     label: "Speaker"
     folder: "content/speakers"
     path: "content/speakers/{{slug}}"
-    media_folder: "static/images/speakers/"
+    media_folder: "/static/images/speakers/"
     public_folder: "/images/speakers"
     create: true
     fields:
@@ -35,7 +35,7 @@ collections: # A list of collections the CMS should be able to edit
   - name: "pages"
     label: "Pages"
     files:
-      - file: "site/content/about.md"
+      - file: "/content/about.md"
         label: "Acerca de"
         name: "Acerca de Data Day"
         fields:
