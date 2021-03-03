@@ -20,8 +20,8 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "speakers"
     label: "Speaker"
-    folder: "content/speakers"
-    path: "content/speakers/{{slug}}"
+    folder: "/content/speakers"
+    path: "/content/speakers/{{slug}}"
     media_folder: "/static/images/speakers/"
     public_folder: "/images/speakers"
     create: true
