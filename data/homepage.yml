@@ -35,7 +35,7 @@ event_info:
       text : "Durante Data Day(s) Virtual  trataremos temas como: modelado predictivo, machine learning, procesamiento de lenguaje natural, visualización y procesamiento de datos, entre otros temas."
       icon-class: "fa fa-table" 
       cta_text: "Ver agenda de sesiones"
-      cta_link: "http://sg.com.mx/dataday/schedule/"
+      cta_link: "http://sg.com.mx/dataday/agenda/"
 
 ####################### Timer #############################
 timer:
