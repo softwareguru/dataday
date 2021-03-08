@@ -9,7 +9,7 @@ url: "/faq"
  Debes adquirir tu ticket y en el mail de confirmación de registro te enviaremos más información.
 
 #### ¿Cuál será el horario del evento?
-Consulta la [Agenda de sesiones(/agenda).]
+Consulta la [Agenda de sesiones](/datadays/agenda).
 
 #### ¿Cómo ingreso a un taller?
 Para los talleres usaremos Zoom. Para cada taller te compartiremos un link y código para que te puedas registrar.
@@ -42,7 +42,7 @@ En SG nos preocupamos por la seguridad e integridad de nuestros asistentes y tod
 SG creemos en la difusión del conocimiento de los innovadores. Creemos que la innovación se ve reforzada por una variedad de perspectivas, y nuestro objetivo es crear un ambiente de conferencia inclusiva, respetuosa, que invite a la participación de personas de todas las razas, etnias, géneros, edades, capacidades, las religiones, y la orientación sexual. Puedes revisar nuestra política de diversidad aquí.
 
 #### Cómo convenzo a mi jefe
-Preparamos una guía sobre como el tema, incluyendo una carta justificando tu asistencia.
+Consulta [esta guía con tips](/datadays/tips), incluyendo una carta justificando tu asistencia.
 
 #### Contáctanos
 Si no hemos logrado resolver tus preguntas, por favor contáctanos:  eventos@sg.com.mx y vía telefónica: +52 56 1368 5529
