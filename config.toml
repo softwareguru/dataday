@@ -32,17 +32,17 @@ home = ["HTML", "RSS"]
 
   [[menu.main]]
   name = "Agenda"
-  URL = "/agenda"
+  URL = "agenda"
   weight = 2
 
   [[menu.main]]
   name = "Conferencistas"
-  URL = "/speakers"
+  URL = "speakers"
   weight = 3
 
   [[menu.main]]
   name = "Preguntas Frecuentes"
-  URL = "/faq"
+  URL = "faq"
   weight = 4
 
 
