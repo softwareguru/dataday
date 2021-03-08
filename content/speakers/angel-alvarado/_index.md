@@ -1,6 +1,5 @@
 ---
 title: "Angel Alvarado"
-url: "/speaker/angel-alvarado/"
 image: /images/speakers/angel-alvarado.jpg
 date: 2021-03-01
 event-2018: true

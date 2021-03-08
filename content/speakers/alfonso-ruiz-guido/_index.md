@@ -1,6 +1,5 @@
 ---
 title: "Alfonso Ruiz Guido"
-url: /speaker/alfonso-ruiz-guido/
 image: /images/speakers/2020/02/Alfonso.jpg
 date: 2020-02-07
 event-2020: true

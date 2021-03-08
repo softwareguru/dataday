@@ -1,6 +1,5 @@
 ---
 title: "Raúl Castro"
-url: /speaker/raul-castro/
 image: /images/speakers/2019/10/raul-castro.jpg
 date: 2020-02-07
 event-: true

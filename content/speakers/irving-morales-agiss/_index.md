@@ -1,6 +1,5 @@
 ---
 title: "Irving Morales Agiss"
-url: /speaker/irving-morales-agiss/
 image: /images/speakers/2017/01/Irving-Morales_BN.jpg.png
 date: 2017-01-30
 event-: true

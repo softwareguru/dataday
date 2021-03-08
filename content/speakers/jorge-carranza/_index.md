@@ -1,6 +1,5 @@
 ---
 title: "Jorge Ramón Carranza"
-url: /speaker/jorge-carranza/
 image: /images/speakers/jorge-carranza.jpg
 date: 2021-03-03
 event-2021: true

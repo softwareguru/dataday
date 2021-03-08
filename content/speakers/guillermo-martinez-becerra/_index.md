@@ -1,6 +1,5 @@
 ---
 title: "Guillermo Martinez Becerra"
-url: /speaker/guillermo-martinez-becerra/
 image: /images/speakers/2020/02/Guillermo-Martinez.jpg
 date: 2020-02-07
 event-2020: true

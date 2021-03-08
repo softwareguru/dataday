@@ -1,6 +1,5 @@
 ---
 title: "Roberto Ponce López"
-url: /speaker/roberto-ponce-lopez/
 image: /images/speakers/roberto-ponce.jpg
 date: 2021-02-16
 event-2021: true

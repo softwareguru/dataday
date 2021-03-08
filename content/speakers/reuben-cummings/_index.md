@@ -1,6 +1,5 @@
 ---
 title: "Reuben Cummings"
-url: /speaker/reuben-cummings/
 image: /images/speakers/2018/01/reuben-cummings.jpg
 date: 2018-01-22
 event-2018: true

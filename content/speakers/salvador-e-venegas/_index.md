@@ -1,6 +1,5 @@
 ---
 title: "Salvador E. Venegas-Andraca"
-url: /speaker/salvador-e-venegas/
 image: /images/speakers/2020/01/Salvador-E.-Venegas.jpg
 date: 2020-01-13
 event-2019cdmx: true

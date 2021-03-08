@@ -1,6 +1,5 @@
 ---
 title: "Pablo Campos"
-url: /speaker/pablo-campos/
 image: /images/speakers/2020/02/pablo-campos.jpg
 date: 2020-02-26
 event-2020: true

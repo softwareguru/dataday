@@ -1,6 +1,5 @@
 ---
 title: "Aldo Valadez"
-url: /speaker/aldo-valadez/
 image: /images/speakers/2019/09/aldo_valadez.jpg
 date: 2019-09-25
 event-2019mty: true

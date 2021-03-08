@@ -1,6 +1,5 @@
 ---
 title: "Mariana Franklin"
-url: /speaker/mariana-franklin/
 image: /images/speakers/2019/10/mariana-franklin.jpg
 date: 2019-10-30
 event-2019mty: true

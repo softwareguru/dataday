@@ -1,6 +1,5 @@
 ---
 title: "Jose Aimer Suárez Hernández"
-url: /speaker/jose-aimer-suarez-hernandez/
 image: /images/speakers/speaker.jpg
 date: 2017-02-20
 event-: true

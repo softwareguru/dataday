@@ -1,6 +1,5 @@
 ---
 title: "Alejandro Flores"
-url: /speaker/alejandro-flores/
 image: /images/speakers/2017/03/AlejandroFlores-negro2b1.png
 date: 2017-03-08
 event-: true

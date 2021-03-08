@@ -1,6 +1,5 @@
 ---
 title: "Marilú Lopez"
-url: /speaker/marilu-lopez/
 image: /images/speakers/2019/09/marilu-lopez.jpg
 date: 2019-09-26
 event-2019mty: true

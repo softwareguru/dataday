@@ -1,6 +1,5 @@
 ---
 title: "Teresa Ortíz"
-url: /speaker/teresa-ortiz
 image: /images/speakers/2020/02/tereom.jpg
 date: 2020-02-11
 event-2020: true

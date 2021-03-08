@@ -1,6 +1,5 @@
 ---
 title: "Betsabé Acuña"
-url: /speaker/betsabe-acuna/
 image: /images/speakers/2020/02/Betsabé-Acuña1.png
 date: 2020-02-07
 event-: true

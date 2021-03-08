@@ -1,6 +1,5 @@
 ---
 title: "José Ignacio Domínguez"
-url: /speaker/jose-ignacio-dominguez/
 image: /images/speakers/2019/01/joseidom.jpg
 date: 2019-01-24
 event-2019cdmx: true

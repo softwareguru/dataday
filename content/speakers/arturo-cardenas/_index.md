@@ -1,6 +1,5 @@
 ---
 title: "Arturo Cárdenas"
-url: /speaker/arturo-cardenas/
 image: /images/speakers/2018/01/arturo-cardenas.jpg
 date: 2018-01-23
 event-2018: true

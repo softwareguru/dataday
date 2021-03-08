@@ -1,6 +1,5 @@
 ---
 title: "Thomas Grabowski"
-url: /speaker/thomas-grabowski/
 image: /images/speakers/2020/06/thomas-grabowski.jpg
 date: 2020-07-27
 event-2020: true

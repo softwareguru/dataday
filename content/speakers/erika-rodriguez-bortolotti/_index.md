@@ -1,6 +1,5 @@
 ---
 title: "Erika Rodriguez Bortolotti"
-url: /speaker/erika-rodriguez-bortolotti/
 image: /images/speakers/2021/02/Ericka.png
 date: 2021-02-17
 event-: true

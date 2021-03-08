@@ -1,6 +1,5 @@
 ---
 title: "Omar Camacho"
-url: /speaker/omar-camacho/
 image: /images/speakers/2018/03/omar-camacho.jpg
 date: 2018-03-01
 event-2018: true

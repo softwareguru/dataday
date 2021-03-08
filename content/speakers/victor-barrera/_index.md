@@ -1,6 +1,5 @@
 ---
 title: "Victor Barrera"
-url: /speaker/victor-barrera/
 image: /images/speakers/2017/03/Victor-Barrera-negro.png
 date: 2017-03-07
 event-: true

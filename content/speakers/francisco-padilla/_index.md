@@ -1,6 +1,5 @@
 ---
 title: "Francisco Padilla"
-url: /speaker/francisco-padilla/
 image: /images/speakers/2019/01/fpadilla.jpg
 date: 2019-01-24
 event-2019cdmx: true

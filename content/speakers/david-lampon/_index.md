@@ -1,6 +1,5 @@
 ---
 title: "David Lampón"
-url: /speaker/david-lampon/
 image: /images/speakers/2017/01/david_lampon.jpg
 date: 2017-01-30
 event-: true

@@ -1,6 +1,5 @@
 ---
 title: "Omar Peña"
-url: /speaker/omar-olivares/
 image: /images/speakers/2020/02/omar-olivares.jpg
 date: 2020-02-12
 event-2020: true

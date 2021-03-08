@@ -1,6 +1,5 @@
 ---
 title: "Angel Rafael Ortega Ramírez"
-url: /speaker/angel-rafael-ortega-ramirez/
 image: /images/speakers/angel-rafael-ortega.jpg
 date: 2020-07-20
 event-2020: true

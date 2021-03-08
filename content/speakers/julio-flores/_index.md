@@ -1,6 +1,5 @@
 ---
 title: "Julio Flores"
-url: /speaker/julio-flores/
 image: /images/speakers/2019/01/julio-flores.jpg
 date: 2019-01-30
 event-2019cdmx: true

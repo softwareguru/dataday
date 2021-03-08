@@ -1,6 +1,5 @@
 ---
 title: "Diego Villa"
-url: /speaker/diego-villa/
 image: /images/speakers/2020/06/diego-villa.jpg
 date: 2020-07-20
 event-2020: true

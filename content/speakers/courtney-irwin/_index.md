@@ -1,6 +1,5 @@
 ---
 title: "Courtney Irwin"
-url: /speaker/courtney-irwin/
 image: /images/speakers/courtney-irwin.jpg
 date: 2021-02-16
 event-2021: true

@@ -1,6 +1,5 @@
 ---
 title: "Martha Villanueva"
-url: /speaker/martha-villanueva/
 image: /images/speakers/martha-villanueva.jpg
 date: 2021-02-17
 event-2021: true

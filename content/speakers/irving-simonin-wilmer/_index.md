@@ -1,6 +1,5 @@
 ---
 title: "Irving Simonin Wilmer"
-url: /speaker/irving-simonin-wilmer/
 image: /images/speakers/2018/02/irving-e1519098526509.jpg
 date: 2018-02-19
 event-2019cdmx: true

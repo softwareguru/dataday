@@ -1,6 +1,5 @@
 ---
 title: "Ludim Sánchez"
-url: /speaker/ludim-sanchez/
 image: /images/speakers/2019/10/ludim_sanchez.png
 date: 2019-10-31
 event-2019mty: true

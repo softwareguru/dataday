@@ -1,6 +1,5 @@
 ---
 title: "Enrique Bonilla"
-url: /speaker/enrique-bonilla/
 image: /images/speakers/enrique-bonilla.jpg
 date: 2019-02-14
 event-2019cdmx: true

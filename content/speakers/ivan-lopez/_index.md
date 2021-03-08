@@ -1,6 +1,5 @@
 ---
 title: "Iván López"
-url: /speaker/ivan-lopez/
 image: /images/speakers/ivan-lopez.jpg
 date: 2021-02-23
 event-2021: true

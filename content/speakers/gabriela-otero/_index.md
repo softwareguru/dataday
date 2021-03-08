@@ -1,6 +1,5 @@
 ---
 title: "Gabriela Otero"
-url: /speaker/gabriela-otero/
 image: /images/speakers/2017/01/Gabriela-Otero_BN.jpg.png
 date: 2017-01-30
 event-: true

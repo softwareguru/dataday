@@ -1,6 +1,5 @@
 ---
 title: "Bárbara Gaspar"
-url: /speaker/barbara-gaspar/
 image: /images/speakers/barbara-gaspar.jpg
 date: 2021-03-03
 event-2021: true

@@ -1,6 +1,5 @@
 ---
 title: "Joao Salcedo"
-url: /speaker/joao-salcedo/
 image: /images/speakers/2020/07/0-1.jpg
 date: 2020-07-07
 event-2020: true

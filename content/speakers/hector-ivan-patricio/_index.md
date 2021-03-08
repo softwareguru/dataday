@@ -1,6 +1,5 @@
 ---
 title: "Héctor Iván Patricio"
-url: /speaker/hector-ivan-patricio/
 image: /images/speakers/2019/01/hectorip.jpg
 date: 2019-01-24
 event-2019cdmx: true

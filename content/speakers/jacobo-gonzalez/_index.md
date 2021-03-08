@@ -1,6 +1,5 @@
 ---
 title: "Jacobo González"
-url: /speaker/jacobo-gonzalez/
 image: /images/speakers/2019/01/jacobo-gonzalez.jpg
 date: 2019-01-24
 event-2019cdmx: true

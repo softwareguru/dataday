@@ -1,6 +1,5 @@
 ---
 title: "Pedro Vallejo Castillo"
-url: /speaker/pedro-vallejo-castillo/
 image: /images/speakers/2019/09/pedro_vallejo.jpg
 date: 2019-01-14
 event-: true

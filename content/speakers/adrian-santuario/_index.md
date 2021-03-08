@@ -1,6 +1,5 @@
 ---
 title: "Adrián Santuario"
-url: /speaker/adrian-santuario/
 image: /images/speakers/2018/01/adrian-santuario.jpg
 date: 2018-01-23
 event-2018: true

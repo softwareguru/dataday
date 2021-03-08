@@ -1,6 +1,5 @@
 ---
 title: "Francisco Muñoz"
-url: /speaker/francisco-munoz/
 image: /images/speakers/francisco-munoz.jpg
 date: 2021-02-16
 event-2021: true

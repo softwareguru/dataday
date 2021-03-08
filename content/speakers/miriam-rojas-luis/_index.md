@@ -1,6 +1,5 @@
 ---
 title: "Miriam Rojas-Luis"
-url: /speaker/miriam-rojas-luis/
 image: /images/speakers/2019/10/miriam-rojas.jpg
 date: 2019-10-14
 event-2019mty: true

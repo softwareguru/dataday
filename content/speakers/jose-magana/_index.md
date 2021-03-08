@@ -1,6 +1,5 @@
 ---
 title: "José Magaña"
-url: /speaker/jose-magana/
 image: /images/speakers/jose-magana.jpg
 date: 2021-02-16
 event-2021: true

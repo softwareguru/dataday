@@ -1,6 +1,5 @@
 ---
 title: "Luis Eduardo Almazán Sifuentes"
-url: /speaker/luis-eduardo-almazan-sifuentes/
 image: /images/speakers/2020/07/LuisEduardo.jpg
 date: 2020-07-07
 event-2020: true

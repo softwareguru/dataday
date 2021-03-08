@@ -1,6 +1,5 @@
 ---
 title: "Javier Luraschi"
-url: /speaker/javier-luraschi/
 image: /images/speakers/javier-luraschi.jpg
 date: 2021-02-16
 event-2021: true

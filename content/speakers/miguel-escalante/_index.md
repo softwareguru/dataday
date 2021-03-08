@@ -1,6 +1,5 @@
 ---
 title: "Miguel Escalante"
-url: /speaker/miguel-escalante/
 image: /images/speakers/miguel-escalante.jpg
 date: 2017-01-30
 event-2017: true

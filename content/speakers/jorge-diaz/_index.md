@@ -1,6 +1,5 @@
 ---
 title: "Jorge Díaz"
-url: /speaker/jorge-diaz/
 image: /images/speakers/2017/03/Jorge-Díaz.png
 date: 2017-03-08
 event-: true

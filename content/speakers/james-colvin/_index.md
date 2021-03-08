@@ -1,6 +1,5 @@
 ---
 title: "James Colvin"
-url: /speaker/james-colvin/
 image: /images/speakers/2020/06/recent_tie_small.jpg
 date: 2020-06-24
 event-2020: true

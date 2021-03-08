@@ -1,6 +1,5 @@
 ---
 title: "José González Ayerdi"
-url: /speaker/jose-gonzalez-ayerdi/
 image: /images/speakers/2019/09/josegzza.jpg
 date: 2019-09-26
 event-2019mty: true

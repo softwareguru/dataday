@@ -1,6 +1,5 @@
 ---
 title: "Christian Ladrón de Guevara"
-url: /speaker/christian-ladron-de-guevara/
 image: /images/speakers/speaker.jpg
 date: 2018-03-13
 event-2018: true

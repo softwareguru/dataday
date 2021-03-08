@@ -1,6 +1,5 @@
 ---
 title: "Sergio Araiza"
-url: /speaker/sergio-araiza/
 image: /images/speakers/2017/01/Sergioaraiza.jpg
 date: 2017-01-30
 event-2018: true

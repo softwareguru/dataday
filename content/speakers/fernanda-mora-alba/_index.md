@@ -1,6 +1,5 @@
 ---
 title: "Fernanda Mora Alba"
-url: /speaker/fernanda-mora-alba/
 image: /images/speakers/fernanda-mora.jpg
 date: 2017-03-07
 event-2019cdmx: true

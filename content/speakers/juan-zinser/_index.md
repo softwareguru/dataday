@@ -1,6 +1,5 @@
 ---
 title: "Juan Zinser"
-url: /speaker/juan-zinser/
 image: /images/speakers/2018/01/juan-zinser.jpg
 date: 2019-10-25
 event-2018: true

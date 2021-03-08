@@ -1,6 +1,5 @@
 ---
 title: "Adolfo Martínez"
-url: /speaker/adolfo-martinez/
 image: /images/speakers/2017/01/Pic3-1.jpg
 date: 2017-01-30
 event-2018: true

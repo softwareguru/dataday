@@ -1,6 +1,5 @@
 ---
 title: "Maru Lango"
-url: /speaker/maru-lango/
 image: /images/speakers/2017/01/Maru_400x400.png
 date: 2017-01-30
 event-: true

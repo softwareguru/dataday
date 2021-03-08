@@ -1,6 +1,5 @@
 ---
 title: "Armando Flores"
-url: /speaker/armando-flores/
 image: /images/speakers/2019/09/armando_flores.jpg
 date: 2019-09-23
 event-2019mty: true

@@ -1,6 +1,5 @@
 ---
 title: "Santosh Umesh Shet"
-url: /speaker/santosh-umesh-shet/
 image: /images/speakers/santosh-umesh.jpg
 date: 2021-02-16
 event-2021: true

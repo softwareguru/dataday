@@ -1,6 +1,5 @@
 ---
 title: "Javier Ruiz"
-url: /speaker/javier-ruiz/
 image: /images/speakers/javier-ruiz.jpg
 date: 2020-07-17
 event-2020: true

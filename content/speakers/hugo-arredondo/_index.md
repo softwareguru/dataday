@@ -1,6 +1,5 @@
 ---
 title: "Hugo Arredondo"
-url: /speaker/hugo-arredondo/
 image: /images/speakers/2019/03/hugo_arredondo.jpg
 date: 2019-03-05
 event-2019mty: true

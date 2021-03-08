@@ -1,6 +1,5 @@
 ---
 title: "Gabriel Balderas"
-url: /speaker/gabriel-balderas/
 image: /images/speakers/gabriel-balderas.jpg
 date: 2021-02-17
 event-2021: true

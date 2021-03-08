@@ -1,6 +1,5 @@
 ---
 title: "Amaury Gutiérrez"
-url: /speaker/amaury-gutierrez/
 image: /images/speakers/2018/01/amaury-gutierrez.jpg
 date: 2018-01-23
 event-2018: true

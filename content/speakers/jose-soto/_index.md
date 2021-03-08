@@ -1,6 +1,5 @@
 ---
 title: "José Soto Galindo"
-url: /speaker/jose-soto/
 image: /images/speakers/speaker.jpg
 date: 2018-03-13
 event-2018: true

@@ -1,6 +1,5 @@
 ---
 title: "Edmundo Molina Perez"
-url: /speaker/edmundo-molina-perez/
 image: /images/speakers/edmundo-molina.jpg
 date: 2021-02-25
 event-2021: true

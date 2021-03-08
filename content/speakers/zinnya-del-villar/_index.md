@@ -1,6 +1,5 @@
 ---
 title: "Zinnya del Villar"
-url: /speaker/zinnya-del-villar/
 image: /images/speakers/2018/01/zinnya.jpg
 date: 2018-01-23
 event-2021: true

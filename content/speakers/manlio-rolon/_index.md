@@ -1,6 +1,5 @@
 ---
 title: "Manlio Rolón"
-url: /speaker/manlio-rolon/
 image: /images/speakers/2019/01/manlio-rolon.jpg
 date: 2019-01-24
 event-2019cdmx: true

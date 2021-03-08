@@ -1,6 +1,5 @@
 ---
 title: "José Carlos Méndez de la Torre"
-url: /speaker/jose-carlos-mendez-de-la-torre/
 image: /images/speakers/2017/01/Jose-Carlos-Mendez_BN.jpg.png
 date: 2017-01-30
 event-2019mty: true

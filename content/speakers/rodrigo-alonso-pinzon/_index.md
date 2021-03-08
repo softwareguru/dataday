@@ -1,6 +1,5 @@
 ---
 title: "Rodrigo Alonso Pinzón"
-url: /speaker/rodrigo-alonso-pinzon/
 image: /images/speakers/2017/03/Rodrigo.png
 date: 2017-03-15
 event-: true

@@ -1,6 +1,5 @@
 ---
 title: "Eva Sasson"
-url: /speaker/eva-sasson/
 image: /images/speakers/2019/01/eva-sasson.jpeg
 date: 2019-01-24
 event-2019cdmx: true

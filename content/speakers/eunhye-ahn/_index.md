@@ -1,6 +1,5 @@
 ---
 title: "Eunhye Ahn"
-url: /speaker/eunhye-ahn/
 image: /images/speakers/2020/01/Eunhye-Ahn.png
 date: 2020-01-13
 event-2020: true

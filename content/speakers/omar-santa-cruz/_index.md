@@ -1,6 +1,5 @@
 ---
 title: "Omar Santa Cruz"
-url: /speaker/omar-santa-cruz/
 image: /images/speakers/omar-santa-cruz.jpg
 date: 2021-02-25
 event-2021: true

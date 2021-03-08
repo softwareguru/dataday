@@ -1,6 +1,5 @@
 ---
 title: "Alexandra Lemus"
-url: "/speaker/alexandra-lemus"
 image: /images/speakers/2018/02/alexandra-lemus.jpg
 date: 2017-03-15
 event-2018: true

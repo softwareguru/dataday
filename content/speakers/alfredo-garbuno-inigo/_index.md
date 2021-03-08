@@ -1,6 +1,5 @@
 ---
 title: "Alfredo Garbuno Íñigo"
-url: /speaker/alfredo-garbuno-inigo/
 image: /images/speakers/alfredo-garbuno.jpg
 date: 2021-02-26
 event-2021: true

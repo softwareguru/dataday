@@ -1,6 +1,5 @@
 ---
 title: "Crystal Yan"
-url: /speaker/crystal-yan/
 image: /images/speakers/2018/01/crystal-yan.jpg
 date: 2018-01-23
 event-2018: true

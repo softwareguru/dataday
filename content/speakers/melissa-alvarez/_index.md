@@ -1,6 +1,5 @@
 ---
 title: "Melissa Alvarez"
-url: /speaker/melissa-alvarez/
 image: /images/speakers/melissa-alvarez.jpg
 date: 2020-07-28
 event-2020: true

@@ -1,6 +1,5 @@
 ---
 title: "James Lamb"
-url: /speaker/james-lamb/
 image: /images/speakers/james-lamb.jpg
 date: 2021-02-16
 event-2021: true

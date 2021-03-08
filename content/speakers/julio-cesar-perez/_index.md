@@ -1,6 +1,5 @@
 ---
 title: "Julio Cesar Perez"
-url: /speaker/julio-cesar-perez/
 image: /images/speakers/2020/07/image0.jpeg
 date: 2020-07-16
 event-2020: true

@@ -1,6 +1,5 @@
 ---
 title: "Ricardo Rentería"
-url: /speaker/ricardo-renteria/
 image: /images/speakers/2017/03/ricardo-renteria.png
 date: 2017-03-08
 event-2018: true

@@ -1,6 +1,5 @@
 ---
 title: "Eduardo Blancas"
-url: /speaker/eduardo-blancas/
 image: /images/speakers/eduardo-blancas.jpg
 date: 2021-02-16
 event-2021: true

@@ -1,6 +1,5 @@
 ---
 title: "Argenis León"
-url: /speaker/argenis-leon/
 image: /images/speakers/2020/02/argenis-leon.jpg
 date: 2020-02-07
 event-2020: true

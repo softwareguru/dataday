@@ -1,6 +1,5 @@
 ---
 title: "Roberto Sánchez"
-url: /speaker/roberto-sanchez/
 image: /images/speakers/2019/10/roberto-sanchez.png
 date: 2019-10-21
 event-2019mty: true

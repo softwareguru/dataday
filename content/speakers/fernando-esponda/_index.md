@@ -1,6 +1,5 @@
 ---
 title: "Fernando Esponda"
-url: /speaker/fernando-esponda/
 image: /images/speakers/2019/11/fernando-esponda.jpg
 date: 2019-11-01
 event-2019mty: true

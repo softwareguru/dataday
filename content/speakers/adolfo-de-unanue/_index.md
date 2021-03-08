@@ -1,6 +1,5 @@
 ---
 title: "Adolfo De Unánue"
-url: /speaker/adolfo-de-unanue/
 image: /images/speakers/2017/01/adolfo-unane.jpg
 date: 2020-01-13
 event-2018: true

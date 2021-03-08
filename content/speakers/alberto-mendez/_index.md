@@ -1,6 +1,5 @@
 ---
 title: "Alberto Méndez"
-url: /speaker/alberto-mendez/
 image: /images/speakers/2019/03/alberto-mendez.jpeg
 date: 2019-03-04
 event-2019cdmx: true

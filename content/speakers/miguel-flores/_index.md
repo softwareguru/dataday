@@ -1,6 +1,5 @@
 ---
 title: "Miguel Flores"
-url: /speaker/miguel-flores/
 image: /images/speakers/miguel-flores.jpg
 date: 2017-03-02
 event-2017: true

@@ -1,6 +1,5 @@
 ---
 title: "Moyocoyani Molina Espíritu"
-url: /speaker/moyocoyani-molina-espiritu/
 image: /images/speakers/2018/01/moyocoyani-molina.jpg
 date: 2018-01-23
 event-2018: true

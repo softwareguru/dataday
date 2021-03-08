@@ -1,6 +1,5 @@
 ---
 title: "Andrea Fernández Conde"
-url: /speaker/andrea-fernandez-conde/
 image: /images/speakers/2017/01/Andrea-Fernandez_BN.jpg.png
 date: 2017-01-30
 event-2018: true

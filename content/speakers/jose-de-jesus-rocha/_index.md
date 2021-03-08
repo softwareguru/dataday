@@ -1,6 +1,5 @@
 ---
 title: "José de Jesús Rocha"
-url: /speaker/jose-de-jesus-rocha/
 image: /images/speakers/2019/10/jj-rocha.jpg
 date: 2019-10-15
 event-2019mty: true

@@ -1,6 +1,5 @@
 ---
 title: "Roberto Bárcenas Curtis"
-url: /speaker/roberto-barcenas-curtis/
 image: /images/speakers/roberto-barcenas.jpg
 date: 2021-02-20
 event-2021: true

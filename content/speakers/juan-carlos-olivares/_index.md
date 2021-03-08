@@ -1,6 +1,5 @@
 ---
 title: "Juan Carlos Olivares"
-url: /speaker/juan-carlos-olivares/
 image: /images/speakers/2019/01/jcolivares.jpg
 date: 2019-01-24
 event-2019cdmx: true

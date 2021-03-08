@@ -1,6 +1,5 @@
 ---
 title: "Alonso Baranda"
-url: /speaker/alonso-baranda/
 image: /images/speakers/2018/01/alonso-baranda.jpg
 date: 2018-01-23
 event-2018: true

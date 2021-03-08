@@ -1,6 +1,5 @@
 ---
 title: "Leobardo Morales"
-url: /speaker/leobardo-morales/
 image: /images/speakers/2019/03/leobardo.jpeg
 date: 2019-03-19
 event-2019cdmx: true

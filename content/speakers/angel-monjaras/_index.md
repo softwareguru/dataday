@@ -1,6 +1,5 @@
 ---
 title: "Angel Monjarás"
-url: /speaker/angel-monjaras/
 image: /images/speakers/2018/01/angel-monjaras.jpg
 date: 2018-01-23
 event-2018: true

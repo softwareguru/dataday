@@ -1,6 +1,5 @@
 ---
 title: "Sergio Nieto"
-url: /speaker/sergio-nieto/
 image: /images/speakers/2019/10/Sergio-Nieto.png
 date: 2019-10-25
 event-2019mty: true

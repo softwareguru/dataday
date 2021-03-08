@@ -1,6 +1,5 @@
 ---
 title: "Paco Mekler"
-url: /speaker/paco-mekler/
 image: /images/speakers/2017/01/Paco-Makler_BN.jpg.png
 date: 2017-01-30
 event-: true

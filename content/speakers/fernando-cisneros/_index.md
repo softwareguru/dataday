@@ -1,6 +1,5 @@
 ---
 title: "Fernando Cisneros"
-url: /speaker/fernando-cisneros/
 image: /images/speakers/2017/01/PIC2.jpg
 date: 2017-01-30
 event-: true

@@ -1,6 +1,5 @@
 ---
 title: "Raphaëlle Roffo"
-url: /speaker/raphaelle-roffo/
 image: /images/speakers/2020/02/Raphaelle.jpg
 date: 2020-02-07
 event-2020: true

@@ -1,6 +1,5 @@
 ---
 title: "Luis Martínez"
-url: /speaker/luis-martinez/
 image: /images/speakers/2020/07/image1.jpg
 date: 2020-07-16
 event-2020: true

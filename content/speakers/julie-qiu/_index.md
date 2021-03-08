@@ -1,6 +1,5 @@
 ---
 title: "Julie Qiu"
-url: /speaker/julie-qiu/
 image: /images/speakers/2018/01/julie-qiu.png
 date: 2018-01-23
 event-2018: true

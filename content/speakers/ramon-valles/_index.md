@@ -1,6 +1,5 @@
 ---
 title: "Ramón Valles"
-url: /speaker/ramon-valles/
 image: /images/speakers/2019/10/ramon-valles.jpg
 date: 2019-10-31
 event-2019mty: true

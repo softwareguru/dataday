@@ -1,6 +1,5 @@
 ---
 title: "Axayacatl Valenzuela"
-url: "/speaker/axayacatl-valenzuela/"
 image: "/images/speakers/axayacatl-valenzuela.jpg"
 date: 2021-02-16
 event-2021: true

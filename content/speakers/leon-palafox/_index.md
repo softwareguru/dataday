@@ -1,6 +1,5 @@
 ---
 title: "León Palafox"
-url: /speaker/leon-palafox/
 image: /images/speakers/2019/01/leon-palafox.jpg
 date: 2019-01-24
 event-2019cdmx: true

@@ -1,6 +1,5 @@
 ---
 title: "Eduardo Jallath"
-url: /speaker/eduardo-jallath/
 image: /images/speakers/2017/01/Eduardo.png
 date: 2017-01-30
 event-: true

@@ -1,6 +1,5 @@
 ---
 title: "Jesús Ramos"
-url: /speaker/jesus-ramos/
 image: /images/speakers/2015/12/jesusramos.jpeg
 date: 2015-12-22
 event-2017: true

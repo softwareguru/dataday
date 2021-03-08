@@ -1,6 +1,5 @@
 ---
 title: "Rafael Coss"
-url: /speaker/rafael-coss/
 image: /images/speakers/2019/03/rafael-coss.jpg
 date: 2020-07-15
 event-2021: true

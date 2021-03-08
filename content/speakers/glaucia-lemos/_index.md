@@ -1,6 +1,5 @@
 ---
 title: "Glaucia Lemos"
-url: /speaker/glaucia-lemos/
 image: /images/speakers/2019/03/glaucia-lemos.png
 date: 2019-03-19
 event-2019cdmx: true

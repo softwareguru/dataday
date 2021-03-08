@@ -1,6 +1,5 @@
 ---
 title: "Eduardo Ramírez"
-url: /speaker/eduardo-ramirez/
 image: /images/speakers/eduardo-ramirez.jpg
 date: 2019-02-14
 event-2019cdmx: true

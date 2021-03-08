@@ -1,6 +1,5 @@
 ---
 title: "Jorge Nájera"
-url: /speaker/jorge-najera/
 image: /images/speakers/2019/02/jorge-najera.jpeg
 date: 2019-02-14
 event-2019cdmx: true

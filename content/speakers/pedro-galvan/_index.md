@@ -1,6 +1,5 @@
 ---
 title: "Pedro Galvan"
-url: /speaker/pedro-galvan/
 image: /images/speakers/2020/07/pedrogk.jpg
 date: 2015-12-30
 event-2020: true

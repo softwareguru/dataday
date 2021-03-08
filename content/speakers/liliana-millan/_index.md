@@ -1,6 +1,5 @@
 ---
 title: "Liliana Millán"
-url: /speaker/liliana-millan/
 image: /images/speakers/liliana-millan.jpg
 date: 2017-01-12
 event-2019cdmx: true

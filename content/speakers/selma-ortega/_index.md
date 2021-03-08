@@ -1,6 +1,5 @@
 ---
 title: "Selma Ortega"
-url: /speaker/selma-ortega/
 image: /images/speakers/selma-ortega.jpg
 date: 2021-02-16
 event-2021: true

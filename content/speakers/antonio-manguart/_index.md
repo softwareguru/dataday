@@ -1,6 +1,5 @@
 ---
 title: "Antonio Manguart"
-url: /speaker/antonio-manguart/
 image: /images/speakers/2019/01/antonio-manguart.jpg
 date: 2019-01-24
 event-2019cdmx: true

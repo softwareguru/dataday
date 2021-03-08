@@ -1,6 +1,5 @@
 ---
 title: "José Antonio García Ramirez"
-url: /speaker/jose-antonio-garcia-ramirez
 image: /images/speakers/2019/09/ja_garcia.jpg
 date: 2019-09-25
 event-2019cdmx: true

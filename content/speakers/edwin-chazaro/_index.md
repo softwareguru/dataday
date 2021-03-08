@@ -1,6 +1,5 @@
 ---
 title: "Edwin Chazaro"
-url: /speaker/edwin-chazaro/
 image: /images/speakers/2019/01/edwin-chazaro.jpeg
 date: 2019-01-24
 event-2019cdmx: true

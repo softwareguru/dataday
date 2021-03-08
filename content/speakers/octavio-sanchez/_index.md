@@ -1,6 +1,5 @@
 ---
 title: "Octavio Sánchez"
-url: /speaker/octavio-sanchez/
 image: /images/speakers/2019/09/octavio_sanchez.jpg
 date: 2019-09-25
 event-2019mty: true

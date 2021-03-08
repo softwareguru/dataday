@@ -1,6 +1,5 @@
 ---
 title: "Carlos López Nataren"
-url: /speaker/carlos-lopez-nataren/
 image: /images/speakers/2019/02/nataren2.jpg
 date: 2019-02-14
 event-2019cdmx: true

@@ -1,6 +1,5 @@
 ---
 title: "Pablo Suárez Serrato"
-url: /speaker/pablo-suarez-serrato/
 image: /images/speakers/2017/01/Pablo-Suarez_BN.jpg.png
 date: 2017-01-30
 event-: true

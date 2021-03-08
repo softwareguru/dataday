@@ -1,6 +1,5 @@
 ---
 title: "Juan Manuel Casanueva"
-url: /speaker/juan-manuel-casanueva/
 image: /images/speakers/2017/03/Juan-Manuel-Casanueva.png
 date: 2017-03-13
 event-2018: true

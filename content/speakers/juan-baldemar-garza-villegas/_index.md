@@ -1,6 +1,5 @@
 ---
 title: "Juan Baldemar Garza Villegas"
-url: /speaker/juan-baldemar-garza-villegas/
 image: /images/speakers/2019/09/juan_baldemar.jpg
 date: 2019-09-25
 event-2019mty: true

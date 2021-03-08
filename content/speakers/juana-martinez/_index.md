@@ -1,6 +1,5 @@
 ---
 title: "Juana Martínez"
-url: /speaker/juana-martinez/
 image: /images/speakers/2019/09/juana_martinez.jpg
 date: 2019-09-26
 event-2019mty: true

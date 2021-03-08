@@ -1,6 +1,5 @@
 ---
 title: "Santiago Díaz"
-url: /speaker/santiago-diaz/
 image: /images/speakers/2020/07/0.jpg
 date: 2020-07-07
 event-2020: true

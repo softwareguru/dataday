@@ -1,6 +1,5 @@
 ---
 title: "Hernan Galante"
-url: /speaker/hernan-galante/
 image: /images/speakers/2020/07/HG.jpg
 date: 2020-07-16
 event-2020: true

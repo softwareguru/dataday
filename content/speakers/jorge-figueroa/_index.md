@@ -1,6 +1,5 @@
 ---
 title: "Jorge Figueroa"
-url: /speaker/jorge-figueroa/
 image: /images/speakers/jorge-figueroa.jpg
 date: 2021-02-23
 event-2021: true

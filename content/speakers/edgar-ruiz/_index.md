@@ -1,6 +1,5 @@
 ---
 title: "Edgar Ruíz"
-url: /speaker/edgar-ruiz/
 image: /images/speakers/edgar-ruiz.jpg
 date: 2017-02-28
 event-2018: true
