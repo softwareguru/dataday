@@ -25,17 +25,17 @@ event_info:
       text : "Data Day(s) virtual serán 5 días de conferencias y workshops online, dirigido a personas involucradas en el procesamiento y análisis de datos en contextos empresariales."
       icon-class: "fa fa-info" 
       cta_text: "Conoce más"
-      cta_link: "http://sg.com.mx/dataday/about-us/"
+      cta_link: "http://sg.com.mx/datadays/about-us/"
     - label : "¿Quiénes deben participar?"
       text : "Todos los involucrados en el análisis, gestión y procesamiento de datos: data analysts, data scientists, data managers."
       icon-class: "fa fa-group" 
       cta_text: "Quiero participar"
-      cta_link: "http://sg.com.mx/dataday/tickets/"
+      cta_link: "http://sg.com.mx/datadays/tickets/"
     - label : "¿Cuál será el contenido?"
       text : "Durante Data Day(s) Virtual  trataremos temas como: modelado predictivo, machine learning, procesamiento de lenguaje natural, visualización y procesamiento de datos, entre otros temas."
       icon-class: "fa fa-table" 
       cta_text: "Ver agenda de sesiones"
-      cta_link: "http://sg.com.mx/dataday/agenda/"
+      cta_link: "http://sg.com.mx/datadays/agenda/"
 
 ####################### Timer #############################
 timer:
@@ -46,7 +46,7 @@ cta:
   enable : true
   message: "Data Day es el congreso para profesionistas de datos de habla hispana interesados en prácticas y herramientas de clase mundial."
   label: No dejes pasar esta oportunidad
-  link: https://sg.com.mx/dataday/tickets
+  link: https://sg.com.mx/datadays/tickets
   
 
 ####################### pricing #############################
