@@ -50,4 +50,18 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
           - {label: Body, name: body, widget: markdown}
+      - file: "/content/diversidad.md"
+        label: "Diversidad"
+        name: "Diversidad"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Body, name: body, widget: markdown}
+      - file: "/content/coc.md"
+        label: "Código de conducta"
+        name: "Código de conducta"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Body, name: body, widget: markdown}
             
