@@ -5,7 +5,12 @@ url: "/tickets"
 
 ---
 
-<iframe src="https://www.eventbrite.com.mx/checkout-external?eid=137342490085&amp;parent=https%3A%2F%2Fsg.com.mx%2Fdataday%2Ftickets%2F" data-automation="checkout-widget-iframe-137342490085" allowtransparency="true" frameborder="0" scrolling="auto" width="100%" height="100%"></iframe>
+<div style="text-align: center;">
+<!-- Noscript content for added SEO -->
+<noscript><a href="https://datadays2021.eventbrite.com.mx" rel="noopener noreferrer" target="_blank"></noscript>
+<!-- You can customize this button any way you like -->
+<button id="eventbrite-widget-modal-trigger-137342490085" type="button" class="theme-btn btn-style-one">Adquirir boletos</button>
+<noscript></a>Adquiere tus boletos en Eventbrite</noscript>
 
 <script src="https://www.eventbrite.com.mx/static/widgets/eb_widgets.js"></script>
 
@@ -15,16 +20,14 @@ url: "/tickets"
     };
 
     window.EBWidgets.createWidget({
-        // Required
         widgetType: 'checkout',
         eventId: '137342490085',
-        iframeContainerId: 'eventbrite-widget-container-137342490085',
-
-        // Optional
-        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
-        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+        modal: true,
+        modalTriggerElementId: 'eventbrite-widget-modal-trigger-137342490085',
+        onOrderComplete: exampleCallback
     });
 </script>
+</div>
 
 <h2>Descuentos</h2>
 <p>Estos descuentos <strong>solo aplican en el periodo de tarifa normal y no son acumulables entre sí</strong>:</p>
