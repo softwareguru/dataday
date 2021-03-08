@@ -7,6 +7,7 @@ time_start: 2021-03-25T12:30:00-06:00
 time_end:   2021-03-25T13:15:00-06:00
 block: d
 slot: t3
+track: machine-learning
 ---
 
 The City of Monterrey in Nuevo Leon is rapidly increasing its demand for potable water due to its growing industrial activity and population. It is widely believed that the expansion of the city´s water infrastructure is a key measure needed to support future water demand. However, environmental concerns of different projects and more importantly climate change and water demand uncertainty have increased the complexity of this decision.

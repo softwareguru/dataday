@@ -7,6 +7,7 @@ time_start: 2021-03-25T11:45:00-06:00
 time_end:   2021-03-25T12:30:00-06:00
 block: d
 slot: t2
+track: strategy
 ---
 
 Puede estar pensando: si puedo tener consultas de múltiples fuentes y definir un modelo lógico en mi herramienta de reporteo, ¿por qué necesitaría un software de virtualización de datos?

@@ -8,6 +8,7 @@ time_start: 2021-03-25T18:30:00-06:00
 time_end:   2021-03-25T19:15:00-06:00
 block: d
 slot: t7
+track: machine-learning
 ---
 
 Betza and Angel will walk you through a step-by-step process of how to apply data analysis, data science and data engineering using public datasets to understand the impact of financial investment and other factors on students' academic outcomes for the state of California in 2016.

@@ -7,6 +7,7 @@ time_start: 2021-03-24T11:00:00-06:00
 time_end:   2021-03-24T11:45:00-06:00
 block: c
 slot: t1
+track: data-4-good
 ---
 
 La necesidad de una mejor recopilación de datos relacionados con la violencia de género ha sido reconocida a nivel internacional por las Naciones Unidas en su compromiso de erradicar la violencia contra las mujeres, en donde LATAM muestra las peores cifras y México es uno de los países más peligros para las mujeres.

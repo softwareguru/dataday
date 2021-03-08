@@ -103,39 +103,26 @@
 	margin: 0;
 }
 
-.keynote .session-info {
-	background-color: #b0b0f0;
-}
-
-.presentation .session-info {
+.machine-learning .session-info {
 	background-color: #d0d0d0;
 }
 
-.adoption .session-info,
-.spotlight .session-info {
+.strategy .session-info {
 	background-color: #d0f0d6;
 }
 
-.workshop .session-info {
+.data-engineering .session-info {
 	background-color: #f0f0b0;
 }
 
-.lightning .session-info {
+.workshop .session-info {
 	background-color: #80c9fa;
-	border-radius: 0px;
 }
 
-.session-item.lightning {
-	margin:0;
-}
-
-.networking .session-info {
+.data-4-good .session-info {
 	background-color: #f7b8f7;
 }
 
-.networking {
-	margin-top: 1em;
-}
 
 .color-code-list {
 	display: flex;

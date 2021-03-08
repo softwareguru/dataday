@@ -7,6 +7,7 @@ time_start: 2021-03-26T12:30:00-06:00
 time_end:   2021-03-26T14:00:00-06:00
 block: e
 slot: w1
+track: workshop
 ---
 
 Al finalizar el proceso de contratación dentro del departamento de datos de Anzen Digital se inicia la incorporación del nuevo recluta a nuestra cultura, negocio, datos, procesos y tecnología. Sin embargo, el proceso de onboarding no inicia en este punto, el onbording en Anzen inicia desde el proceso de las entrevistas, y la primera parte de esté finaliza cuando el nuevo colega a construido una sólida relación con sus colegas de equipo, líderes y demás integrantes del círculo de trabajo. La otra parte de su onboarding finaliza cuando se han ejecutado con una serie de pasos que permiten al nuevo científico de datos cumplir con los estándares de la empresa para poder perfilarlo como científico de datos y asignarle un rango.

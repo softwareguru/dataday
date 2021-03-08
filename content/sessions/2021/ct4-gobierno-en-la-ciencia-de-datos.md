@@ -1,12 +1,13 @@
 ---
 id: ct4
-title: "Gobierno en la ciencia de datos"
+title: "Governance en la ciencia de datos"
 speakers:
  - Aldo Valadez
 time_start: 2021-03-24T13:15:00-06:00
 time_end:   2021-03-24T14:00:00-06:00
 block: c
 slot: t4
+track: strategy
 ---
 
 En esta plática exploro sobre el como empezar a meter gobierno (governance) en la ciencia de datos revisando los siguientes puntos

@@ -7,6 +7,7 @@ time_start: 2021-03-26T11:00:00-06:00
 time_end:   2021-03-26T11:45:00-06:00
 block: e
 slot: t1
+track: data-4-good
 ---
 
 El objetivo de esta charla es contar un caso de éxito en la apertura de datos dentro del Poder Judicial.
