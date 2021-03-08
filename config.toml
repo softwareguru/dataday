@@ -1,6 +1,6 @@
 
 ######################## default configuration ####################
-baseURL = "/"
+baseURL = "https://sg.com.mx/datadays/"
 title = "Data Day(s) 2021"
 enableRobotsTXT = true
 RemovePathAccents = true
@@ -31,24 +31,24 @@ home = ["HTML", "RSS"]
 
 
   [[menu.main]]
-  name = "Programa"
-  URL = "programa"
+  name = "Agenda"
+  URL = "/agenda"
   weight = 2
 
   [[menu.main]]
   name = "Conferencistas"
-  URL = "speakers"
+  URL = "/speakers"
   weight = 3
 
   [[menu.main]]
   name = "Preguntas Frecuentes"
-  URL = "faq"
+  URL = "/faq"
   weight = 4
 
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.svg"
+logo = "images/ddvirtual-logo.png"
 home = "Home"
 
 # Meta data

@@ -13,6 +13,7 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - {label: "ID", name: "id", widget: "string"}
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Speakers", name: "speakers", widget: "relation", multiple: true, collection: "speakers", search_fields: ["title"], value_field: "title", required: false }
       - {label: "Start time", name: "time_start", widget: "datetime", required: false}
       - {label: "End time", name: "time_end", widget: "datetime", required: false}
       - {label: "Image", name: "image", widget: "image", required: false}
@@ -42,3 +43,11 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
           - {label: Body, name: body, widget: markdown}
+      - file: "/content/faq.md"
+        label: "Preguntas Frecuentes"
+        name: "Preguntas Frecuentes"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Body, name: body, widget: markdown}
+            

@@ -42,30 +42,30 @@
     {
       "@context": "https://schema.org",
       "@type": "Event",
-      "name": "{{ .Site.Title }}",
-      "startDate": "2021-03-22T11:00-05:00",
-      "endDate": "2021-03-26T19:00-05:00",
+      "name": {{ .Site.Title }},
+      "startDate": {{ .Site.Params.start_date }},
+      "endDate": {{ .Site.Params.end_date }},
       "eventStatus": "https://schema.org/EventScheduled",
       "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
       "location": {
         "@type": "VirtualLocation",
-        "url": "https://sg.com.mx/dataday"
+        "url": {{ .Site.BaseURL }}
       },
       "image": [
-        "https://sg.com.mx/dataday/images/card.jpg"
+        {{ .Site.Params.image | absURL }}
       ],
-      "description": "{{ .Site.Params.description }}",
+      "description": {{ .Site.Params.description }},
       "offers": {
         "@type": "Offer",
-        "url": "https://sg.com.mx/dataday/tickets",
-        "price": "1200",
-        "priceCurrency": "MXN",
+        "url": {{ with .Site.Params.navigation_button.link }}{{ . | absURL }}{{ end }},
+        "price": "0",
+        "priceCurrency": "USD",
         "availability": "https://schema.org/InStock",
         "validFrom": "2021-01-01T12:00"
       },
       "performer": {
         "@type": "PerformingGroup",
-        "name": "Data Day Mexico"
+        "name": "Apache Beam Community"
       },
       "organizer": {
         "@type": "Organization",

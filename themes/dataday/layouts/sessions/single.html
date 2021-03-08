@@ -2,7 +2,7 @@
 
 <!-- Speaker Detail -->
 <section class="speaker-detail">
-  <div class="auto-container">
+  <div class="container">
     <div class="row mt-4">
       <div class="image-column col-lg-3 d-none d-lg-block">
         <div class="schedule-block col-lg-10 col-md-12 col-sm-12">
@@ -10,9 +10,11 @@
             <span class="title">Speaker(s):</span>
             <div class="speaker-info" style="margin-bottom: 20px;">
               {{ range (.GetTerms "speakers") }}
-              <figure class="thumb">
+              <figure class="thumb my-3">
                 <a href="{{ .Permalink }}">
-                  <img class="rounded-circle" src="{{ .Params.image | relURL}}" alt="">
+                  <div class="img-container">
+                    <img class="img-fluid rounded-circle" src="{{ .Params.image | relURL}}" alt="">
+                  </div>
                   <h5 class="name" style="color: #466bb0;">{{ .Title }}</h5>
                 </a>
               </figure>
@@ -28,8 +30,8 @@
         <div class="inner-column">
           <div class="text-box">
             <h3>{{ .Title }}</h3>
-            <p class="session-meta" id="date">{{ with .Params.time_start | time }}{{ .Format "Jan-2 15:04 MST" }}{{ end }}</p>
-            <p class="session-meta" id="lang">{{ with .Params.language }}Language: {{ humanize . }}{{ end }}</p>
+            <p class="session-meta" id="date">{{ with .Params.time_start | time }}{{ .Format "Jan-2-2006 15:04" }}{{ end }}</p>
+            {{ with .Params.language }}<p class="session-meta" id="lang">Idioma: {{ humanize . }}</p>{{ end }}
             <div class="d-lg-none d-xl-none">
               By 
               {{ range (.GetTerms "speakers") }}
