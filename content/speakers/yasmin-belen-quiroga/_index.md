@@ -1,6 +1,6 @@
 ---
 title: "Yasmín Belen Quiroga"
-image: /images/speakers/2021/02/Yasmín-Belen-Quiroga.png
+image: /images/speakers/yasmin-quiroja.jpg
 date: 2021-02-25
 event-2021: true
 ---
