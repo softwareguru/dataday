@@ -1,7 +1,6 @@
 ---
 id: et3
 title: "Utilizar conocimientos de dispositivos móviles para el análisis del comportamiento espacio temporal de visitantes en una región"
-url: /session/utilizar-conocimientos-de-dispositivos-moviles-para-el-analisis-del-comportamiento-espacio-temporal-de-visitantes-en-una-region/
 speakers:
  - Virgilio Santiago Benitez
 time_start: 2021-03-26T12:30:00-06:00

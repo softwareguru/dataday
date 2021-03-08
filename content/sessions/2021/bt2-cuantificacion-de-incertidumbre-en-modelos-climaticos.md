@@ -1,7 +1,6 @@
 ---
 id: bt2
 title: "Cuantificación de Incertidumbre en Modelos Climáticos, por ITAM"
-url: /session/cuantificacion-de-incertidumbre-en-modelos-climaticos/
 speakers:
  - Alfredo Garbuno Íñigo
 time_start: 2021-03-23T11:45:00-06:00

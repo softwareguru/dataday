@@ -1,7 +1,6 @@
 ---
 id: et4
 title: "Continuous Delivery for Machine Learning"
-url: /session/continuous-delivery-for-machine-learning/
 speakers:
  - Leticia Cruz
 time_start: 2021-03-26T13:15:00-06:00

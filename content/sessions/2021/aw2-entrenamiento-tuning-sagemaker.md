@@ -1,7 +1,6 @@
 ---
 id: aw2
 title: "Workshop: Entrenamiento, Tuning e Implementación de modelos de aprendizaje automático externos en SageMaker de AWS"
-url: /session/workshop-entrenamiento-tunning-e-implementacion-de-modelos-de-aprendizaje-automatico-externos-en-sagemaker-de-aws/
 speakers:
  - Juana Martinez
 time_start: 2021-03-22T17:45:00-06:00

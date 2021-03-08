@@ -1,7 +1,6 @@
 ---
 id: cw1
 title: "Apache Beam workshop presented by Google Cloud"
-url: /session/apache-beam-workshop-presented-by-google-cloud/
 speakers:
  - 
 time_start: 2021-03-24T12:30:00-06:00

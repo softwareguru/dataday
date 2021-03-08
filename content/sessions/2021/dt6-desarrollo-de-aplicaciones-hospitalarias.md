@@ -1,7 +1,6 @@
 ---
 id: dt6
 title: "Desarrollo de aplicaciones hospitalarias"
-url: /session/desarrollo-de-aplicaciones-hospitalarias/
 speakers:
  - José Magaña
 time_start: 2021-03-25T17:45:00-06:00

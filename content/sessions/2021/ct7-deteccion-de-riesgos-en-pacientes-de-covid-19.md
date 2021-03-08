@@ -1,7 +1,6 @@
 ---
 id: ct7
 title: "Detección de riesgos en pacientes de COVID-19"
-url: /session/deteccion-de-riesgos-en-pacientes-de-covid-19/
 speakers:
  - Roberto Bárcenas Curtis
 time_start: 2021-03-24T18:30:00-06:00

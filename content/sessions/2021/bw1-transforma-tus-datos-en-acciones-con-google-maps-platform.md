@@ -1,7 +1,6 @@
 ---
 id: bw1
 title: "Workshop: Transforma tus Datos en Acciones con Google Maps Platform, por BSI"
-url: /session/transforma-tus-datos-en-acciones-con-google-maps-platform/
 speakers:
  - Gabriel Balderas
  - Martha Villanueva

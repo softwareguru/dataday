@@ -1,7 +1,6 @@
 ---
 id: ct1
 title: "La necesidad de una recopilación de datos de calidad en violencia de género"
-url: /session/la-necesidad-de-una-recopilacion-de-datos-de-calidad-en-violencia-de-genero/
 speakers:
  - Zinnya del Villar
 time_start: 2021-03-24T11:00:00-06:00

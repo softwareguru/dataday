@@ -1,7 +1,6 @@
 ---
 id: at3
 title: "Data strategy"
-url: /session/titulo-por-confirmar/
 speakers:
  - Liliana Millán
 time_start: 2021-03-22T12:30:00-06:00

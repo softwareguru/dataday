@@ -1,7 +1,6 @@
 ---
 id: bt7
 title: "From development to production in a snap with Ploomber"
-url: /session/from-development-to-production-in-a-snap-with-ploomber/
 speakers:
  - Eduardo Blancas
 time_start: 2021-03-23T18:30:00-06:00

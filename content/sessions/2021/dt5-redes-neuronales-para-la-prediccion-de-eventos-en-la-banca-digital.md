@@ -1,7 +1,6 @@
 ---
 id: dt5
 title: "Redes neuronales para la predicción de eventos en la banca digital"
-url: /session/redes-neuronales-para-la-prediccion-de-eventos-en-la-banca-digital/
 speakers:
  - Jorge Carranza
 time_start: 2021-03-25T17:00:00-06:00

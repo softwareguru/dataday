@@ -1,7 +1,6 @@
 ---
 id: dw1
 title: "Workshop: Análisis de Imágenes satelitales con Google Earth Engine"
-url: /session/analisis-de-imagenes-satelitales-con-google-earth-engine/
 speakers:
  - Enrique Bonilla
 time_start: 2021-03-25T12:30:00-06:00

@@ -1,7 +1,6 @@
 ---
 id: dt7
 title: "Gentle introduction to Data Science by understanding the impact of financial investment and other factors on student academic outcomes"
-url: "/session/gentle-introduction-data-science-financial-investment"
 speakers:
  - Angel Alvarado
  - Betzabe Villarreal

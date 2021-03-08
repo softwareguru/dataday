@@ -1,7 +1,6 @@
 ---
 id: bt6
 title: "Anxiety, Stress, and Sadness: The Consequences of COVID-19 on Mental Health in Latin America"
-url: /session/anxiety-stress-and-sadness-the-consequences-of-covid-19-on-mental-health-in-latin-america/
 speakers:
  - Abel Rodríguez Tirado
 time_start: 2021-03-23T17:45:00-06:00

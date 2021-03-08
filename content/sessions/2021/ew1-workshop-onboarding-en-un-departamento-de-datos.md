@@ -1,7 +1,6 @@
 ---
 id: ew1
 title: "Workshop: Onboarding en un departamento de datos"
-url: /session/workshop-onboarding-en-un-departamento-de-datos/
 speakers:
  - Omar Santa Cruz
 time_start: 2021-03-26T12:30:00-06:00

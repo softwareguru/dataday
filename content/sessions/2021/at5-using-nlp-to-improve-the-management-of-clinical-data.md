@@ -1,7 +1,6 @@
 ---
 id: at5
 title: "Using NLP to improve the management of clinical data"
-url: /session/using-nlp-to-improve-the-management-of-clinical-data/
 speakers:
  - Courtney Irwin
 time_start: 2021-03-22T17:00:00-06:00

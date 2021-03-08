@@ -1,7 +1,6 @@
 ---
 id: ct5
 title: "IA: Cómo pudimos pronosticar el precio del jamón de puerco y ayudamos a una compañía líder en la industria a ahorrar millones de dólares, por Derevo"
-url: /session/ia-como-pudimos-pronosticar-el-precio-del-jamon-de-puerco-y-ayudamos-a-una-compania-lider-en-la-industria-a-ahorrar-millones-de-dolares-por-derevo/
 speakers:
  - Jorge Figueroa
 time_start: 2021-03-24T17:00:00-06:00

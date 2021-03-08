@@ -1,7 +1,6 @@
 ---
 id: ct3
 title: "Plataforma analítica: Una inversión, Dos rendimientos"
-url: /session/plataforma-analitica-una-inversion-dos-rendimientos/
 speakers:
  - Antonio Padrós
 time_start: 2021-03-24T12:30:00-06:00

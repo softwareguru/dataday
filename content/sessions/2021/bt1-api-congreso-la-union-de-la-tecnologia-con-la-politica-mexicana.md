@@ -1,7 +1,6 @@
 ---
 id: bt1
 title: "API Congreso: La unión de la tecnología con la política mexicana"
-url: /session/api-congreso-la-union-de-la-tecnologia-con-la-politica-mexicana/
 speakers:
  - Selma Ortega
 time_start: 2021-03-23T11:00:00-06:00

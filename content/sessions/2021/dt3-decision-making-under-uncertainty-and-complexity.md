@@ -1,7 +1,6 @@
 ---
 id: dt3
 title: "Decision Making Under Uncertainty and Complexity"
-url: /session/decision-making-under-uncertainty-and-complexity/
 speakers:
  - Edmundo Molina Pérez
 time_start: 2021-03-25T12:30:00-06:00

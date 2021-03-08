@@ -1,7 +1,6 @@
 ---
 id: at2
 title: "Ya tengo un modelo. ¿Y ahora qué hago con él?"
-url: /session/ya-tengo-un-modelo-y-ahora-que-hago-con-el/
 speakers:
  - Adolfo de Unanue
 time_start: 2021-03-22T11:45:00-06:00

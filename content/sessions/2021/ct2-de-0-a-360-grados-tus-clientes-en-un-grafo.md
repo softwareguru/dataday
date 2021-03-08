@@ -1,7 +1,6 @@
 ---
 id: ct2
 title: "De 0 a 360 grados. Tus clientes en un grafo, por VinkOS"
-url: /session/de-0-a-360-grados-tus-clientes-en-un-grafo/
 speakers:
  - Luis Eduardo Almazán Sifuentes
 time_start: 2021-03-24T11:45:00-06:00

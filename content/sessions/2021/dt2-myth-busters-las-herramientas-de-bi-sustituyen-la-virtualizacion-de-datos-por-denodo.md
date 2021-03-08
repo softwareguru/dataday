@@ -1,7 +1,6 @@
 ---
 id: dt2
 title: "Mythbusters: las herramientas de BI sustituyen la virtualización de datos, por denodo"
-url: /session/myth-busters-las-herramientas-de-bi-sustituyen-la-virtualizacion-de-datos-por-denodo/
 speakers:
  - Iván López
 time_start: 2021-03-25T11:45:00-06:00

@@ -1,7 +1,6 @@
 ---
 id: et2
 title: "Almacenamiento y Procesamiento de datos con Azure presentado por Microsoft"
-url: /session/almacenamiento-y-procesamiento-de-datos-con-azure-presentado-por-microsoft/
 speakers:
  - Axayacatl Valenzuela
 time_start: 2021-03-26T11:45:00-06:00

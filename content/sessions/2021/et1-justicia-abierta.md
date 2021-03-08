@@ -1,7 +1,6 @@
 ---
 id: et1
 title: "Justicia Abierta"
-url: /session/justicia-abierta/
 speakers:
  - Yasmín Belen Quiroga
 time_start: 2021-03-26T11:00:00-06:00

@@ -1,7 +1,6 @@
 ---
 id: bt3
 title: "Repensando la Optimización"
-url: /session/repensando-la-optimizacion/
 speakers:
  - Miguel Escalante
 time_start: 2021-03-23T12:30:00-06:00

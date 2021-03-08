@@ -1,7 +1,6 @@
 ---
 id: ct4
 title: "Gobierno en la ciencia de datos"
-url: /session/gobierno-en-la-ciencia-de-datos/
 speakers:
  - Aldo Valadez
 time_start: 2021-03-24T13:15:00-06:00

@@ -1,7 +1,6 @@
 ---
 id: dt1
 title: "Using Call Detail Records and Sentiment Analysis to Analyze the Development Challenges Faced by Syrian Refugees and Host Communities in Lebanon"
-url: /session/using-call-detail-records-and-sentiment-analysis-to-analyze-the-development-challenges-faced-by-syrian-refugees-and-host-communities-in-lebanon/
 speakers:
  - Roaa Al Feel
 time_start: 2021-03-25T11:00:00-06:00

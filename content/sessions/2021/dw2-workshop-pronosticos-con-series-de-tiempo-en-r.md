@@ -1,7 +1,6 @@
 ---
 id: dw2
 title: "Workshop: Pronósticos con Series de Tiempo en R"
-url: /session/workshop-pronosticos-con-series-de-tiempo-en-r/
 speakers:
  - Jorge Nájera
 time_start: 2021-03-25T17:45:00-06:00

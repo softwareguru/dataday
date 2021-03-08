@@ -1,7 +1,6 @@
 ---
 id: bw2
 title: "Workshop: Scaling LightGBM with Python and Dask"
-url: /session/workshop-scaling-lightgbm-with-python-and-dask/
 speakers:
  - James Lamb
 time_start: 2021-03-23T17:45:00-06:00
