@@ -7,7 +7,7 @@ title: "Workshop: Entrenamiento, Tuning e Implementación de modelos de
   aprendizaje automático externos en SageMaker de AWS"
 speakers:
   - Juana Martinez
-time_start: 2021-03-22T23:45:00.000Z
+time_start: 2021-03-22T17:45:00-06:00
 slot: w2
 ---
 

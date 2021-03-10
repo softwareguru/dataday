@@ -1,12 +1,12 @@
 ---
-time_end: 2021-03-24T18:30:00.000Z
+time_end: 2021-03-24T12:30:00-06:00
 track: data-4-good
 block: c
 id: ct2
 title: Detección de riesgos en pacientes de COVID-19
 speakers:
   - Roberto Bárcenas Curtis
-time_start: 2021-03-24T17:45:00.000Z
+time_start: 2021-03-24T11:45:00-06:00
 slot: t2
 ---
 

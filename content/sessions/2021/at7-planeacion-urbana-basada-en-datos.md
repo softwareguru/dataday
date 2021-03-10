@@ -6,7 +6,7 @@ id: at7
 title: Planeación urbana basada en datos
 speakers:
   - Roberto Ponce López
-time_start: 2021-03-23T00:30:00.000Z
+time_start: 2021-03-22T18:30:00-06:00
 slot: t7
 ---
 

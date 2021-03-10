@@ -1,12 +1,12 @@
 ---
-time_end: 2021-03-25T01:15:00.000Z
+time_end: 2021-03-24T19:15:00-06:00
 track: strategy
 block: c
 id: ct7
 title: De 0 a 360 grados. Tus clientes en un grafo, por VinkOS
 speakers:
-  - Luis Eduardo Almazán Sifuentes
-time_start: 2021-03-25T00:30:00.000Z
+  - Luis Almazán
+time_start: 2021-03-24T18:30:00-06:00
 slot: t7
 ---
 
