@@ -46,7 +46,7 @@ Todas las sesiones serán grabadas y se compartirán con los asistentes del even
 
 #### Código de conducta
 
-En SG nos preocupamos por la seguridad e integridad de nuestros asistentes y todos los involucrados en nuestros eventos, para lo cuál, te dejamos un código de conducta que seguimos, si quieres leer más acerca de el, puedes hacer click aquí.
+En SG nos preocupamos por la seguridad e integridad de nuestros asistentes y todos los involucrados en nuestros eventos, para lo cuál, te dejamos un código de conducta que seguimos, si quieres leer más acerca de el, puedes hacer [click aquí](https://sg.com.mx/datadays/coc).
 
 #### Diversidad
 
