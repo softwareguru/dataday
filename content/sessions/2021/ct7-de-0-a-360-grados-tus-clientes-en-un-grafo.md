@@ -1,13 +1,13 @@
 ---
-id: ct7
-title: "De 0 a 360 grados. Tus clientes en un grafo, por VinkOS"
-speakers:
- - Luis Eduardo Almazán Sifuentes
-time_start: 2021-03-24T11:45:00-06:00
-time_end:   2021-03-24T12:30:00-06:00
-block: c
-slot: t7
+time_end: 2021-03-25T01:15:00.000Z
 track: strategy
+block: c
+id: ct7
+title: De 0 a 360 grados. Tus clientes en un grafo, por VinkOS
+speakers:
+  - Luis Eduardo Almazán Sifuentes
+time_start: 2021-03-25T00:30:00.000Z
+slot: t7
 ---
 
 Entender al cliente, conocer sus demandas, necesidades, perfiles y comportamientos resulta clave para poder generar mejores estrategias que ayuden a alcanzar una alta calidad de servicio. Esta típica problemática en cualquier negocio se puede abordar desde un moderno enfoque: mediante un esquema de grafos, obtener la vista 360 del cliente.
