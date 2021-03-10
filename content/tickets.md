@@ -36,7 +36,7 @@ url: "/tickets"
 <li>20% de descuento a profesionistas que cubren ellos mismos el costo de su pase (factura a nombre de persona física). ¿Entras en esta categoría? Utiliza el código&nbsp;<strong>INDEPENDIENTE</strong>&nbsp;</li>
 <li>20% de descuento para estudiantes. Regístrate con el código <strong>ESTUDIANTE</strong>&nbsp;y posteriormente envíanos la imagen de tu credencial vigente a <a href="mailto:eventos@sg.com.mx">eventos@sg.com.mx</a>.</li>
 <li>20% de descuento para asociaciones y clusters de Tecnología, AMITI, PROSOFTWARE, si eres socio de alguna de ellas acércate a ellos para conocer el código correspondiente.</li>
-<li>Grupos de 10 o más personas, escribe a&nbsp;<a href="mailto:eventos@sg.com.mx" target="_blank" rel="noopener">eventos@sg.com.mx</a>&nbsp;para obtener un descuento de grupo</li>
+<li>25% de descuento para grupos mayores de 5 personas.</li>
 </ul>
 
 <h2>Formas de pago</h2>
