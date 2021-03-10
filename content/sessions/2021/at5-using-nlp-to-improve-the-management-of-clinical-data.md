@@ -1,13 +1,13 @@
 ---
-id: at5
-title: "Using NLP to improve the management of clinical data"
-speakers:
- - Courtney Irwin
-time_start: 2021-03-22T17:00:00-06:00
-time_end:   2021-03-22T17:45:00-06:00
-block: a
-slot: t5
+time_end: 2021-03-22T17:45:00-06:00
 track: data-4-good
+block: a
+id: at5
+title: Using NLP to improve the management of clinical data
+speakers:
+  - Courtney Irwin
+time_start: 2021-03-22T19:15:00.000Z
+slot: t5
 ---
 
 Courtney Irwin (MetadataWorks) will present two recent case studies utilising natural language processing methods to improve the utility and interoperability of clinical data for the National Health Service in the UK.
