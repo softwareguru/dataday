@@ -1,7 +1,7 @@
 ---
 id: ct7
-title: "Workshop: Automatización de Machine Learning desde la formación hasta
-  las aplicaciones"
+title: "Taller: Automatización de Machine Learning desde la formación hasta las
+  aplicaciones"
 speakers:
   - Rafael Coss
 time_start: 2021-03-24T23:45:00.000Z
