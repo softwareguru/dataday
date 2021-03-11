@@ -1,16 +1,17 @@
 ---
-id: cw2-automatizacion-de-machine-learning
-title: Automatización de Machine Learning desde la formación hasta las aplicaciones
-speakers:
- - Rafael Coss
-time_start: 2021-03-24T17:45:00-06:00
 time_end: 2021-03-24T19:15:00-06:00
-block: c
-slot: w2
-format: 2
-language: 
 track: workshop
-tags:
+block: c
+id: cw2-automatizacion-de-machine-learning
+title: "Taller: Automatización de Machine Learning desde la formación hasta las
+  aplicaciones"
+speakers:
+  - Rafael Coss
+time_start: 2021-03-24T17:45:00-06:00
+format: 2
+language: null
+tags: null
+slot: w2
 ---
 
 ¿Cómo se puede acelerar el desarrollo y el éxito de casos de uso con automatización, aprendizaje automático y plataforms de IA modernas? ¿Cómo puede tener varios equipos en su organización para crear modelos de ML precisos sin ser expertos en ciencia de datos o aprendizaje automático?
