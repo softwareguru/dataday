@@ -6,7 +6,7 @@ id: cw1
 title: "Taller: Paso a paso para nuestro primer pipeline con Apache Beam y Dataflow"
 speakers:
   - Israel Herraiz
-time_start: 2021-03-24T12:30:00-06:00
+time_start: 2021-03-24T12:30:00-06:00 
 slot: w1
 ---
 

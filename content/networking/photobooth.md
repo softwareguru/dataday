@@ -6,6 +6,7 @@ button:
 link: https://istiocon.virtualbooth.co
 draft: false
 weight: 3
+draft: true
 ---
 
 If there is no selfie then it didn't happen, right? Visit <a target="_blank" href="https://istiocon.virtualbooth.co">https://istiocon.virtualbooth.co</a> to take your picture and share it at the #istiocon-photobooth in the Istio slack. 

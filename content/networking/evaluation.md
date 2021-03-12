@@ -1,11 +1,10 @@
 ---
-title: "Feedback"
+title: "Evaluación"
 date: 2021-01-06T18:26:06-06:00
 image: /images/networking/feedback.jpg
-button: 
-link: https://docs.google.com/forms/d/1pVBuSLF1I9itBxdrXqlW_Q_SWkxJ6TL0O7kZt6U-t-4/edit
+button: Evaluación del evento
+link: 
 draft: false
-weight: 5
+weight: 3
 ---
-
-Help us improve by completing the event evaluation and win a $100 USD gift card. [Link to evaluation](https://docs.google.com/forms/d/1pVBuSLF1I9itBxdrXqlW_Q_SWkxJ6TL0O7kZt6U-t-4/edit).
+Áyudanos a mejorar completando la evaluación y gana un headset BOSE.

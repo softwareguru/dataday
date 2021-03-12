@@ -1,10 +1,10 @@
 ---
-title: "Slack - Event chat"
+title: "Slack"
 date: 2021-01-06T18:26:06-06:00
 image: /images/networking/slack.jpg
-button: More
-link: https://istio.slack.com/
+button: Unirme a Slack
+link: https://sg1.run/2021+
 weight: 1
 ---
 
-Join the conversation at #istiocon channel in the [Istio Slack](https://slack.istio.io) and get all the event details while you chat with other event attendees, comment on the sessions and interact with speakers.
+Únete a la conversación en Slack y no te pierdas ningún detalle.
