@@ -1,14 +1,14 @@
 ---
-time_end: 2021-03-24T17:45:00.000Z
+time_end: 2021-03-24T11:45:00-06:00
 track: data-4-good
-block: d
+block: c
 id: dt1
 title: Using Call Detail Records and Sentiment Analysis to Analyze the
   Development Challenges Faced by Syrian Refugees and Host Communities in
   Lebanon
 speakers:
   - Roaa Al Feel
-time_start: 2021-03-24T17:00:00.000Z
+time_start: 2021-03-24T11:00:00-06:00
 language: Inglés
 slot: t1
 ---

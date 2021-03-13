@@ -1,12 +1,12 @@
 ---
-time_end: 2021-03-25T17:45:00.000Z
+time_end: 2021-03-25T11:45:00-06:00
 track: data-4-good
-block: c
+block: d
 id: ct1
 title: La necesidad de una recopilación de datos de calidad en violencia de género
 speakers:
   - Zinnya del Villar
-time_start: 2021-03-25T17:00:00.000Z
+time_start: 2021-03-25T11:00:00-06:00
 slot: t1
 ---
 
