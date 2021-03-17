@@ -10,5 +10,5 @@ draft: false
 <div class="container">
 <ul>
   <li>Puedes ver las grabaciones dando click es SCHEDULE (parte superior izquierda) y seleccionar la sesion previa a visualizar.</li>
-  <li>Únete a la conversación en el canal #general de <a href="https://sg1.run/2021+" target="_blank">Slack.</a</li>
+  <li>Únete a la conversación en el canal #general de <a href="https://sg1.run/2021" target="_blank">Slack.</a</li>
 </ul>
