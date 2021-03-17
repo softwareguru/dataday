@@ -43,12 +43,8 @@ Todos se <b>realizarán vía zoom</b>, y debes registrarte a cada taller al que 
 <br>
 <h2>¿Cómo nos comunicaremos con los asistentes?</h2>
 
-El medio de comunicación oficial para el evento que utilizaremos es Slack, y cada taller tendrá un canal asignado. Te invitamos a ingresar https://sg1.run/2021+
+El medio de comunicación oficial para el evento que utilizaremos es Slack, y cada taller tendrá un canal asignado. Te invitamos a ingresar https://sg1.run/2021
 
-Recuerda que a partir del 15 de marzo podrás tener acceso al Kit Virtual de participantes y al crowdcast, plataforma por donde se transmitirá el evento.
-
-Quedamos atentos a cualquier duda o comentarios.
-El equipo de SG
 
 
 
