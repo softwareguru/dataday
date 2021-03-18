@@ -45,6 +45,17 @@ home = ["HTML", "RSS"]
   URL = "faq"
   weight = 4
 
+  #[[menu.main]]
+  #name = "Kit Virtual"
+  #URL = "swag"
+  #weight = 5
+
+
+  #[[menu.main]]
+  #name = "Networking"
+  #URL = "networking"
+  #weight = 6
+
 
 #################### default parameters ################################
 [params]
