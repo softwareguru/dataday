@@ -1,7 +1,7 @@
 ---
 title: "Nos vemos en Data Days Town 8 bits"
 date: 2021-01-06T18:26:06-06:00
-image: /images/networking/gather.jpg
+image: /images/networking/gather.png
 button: Unirme a Gather.Town
 link: https://gather.town/app/I83cnBbmbAD5R7TA/datadaysvirtual
 weight: 5

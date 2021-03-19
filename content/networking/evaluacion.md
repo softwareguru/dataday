@@ -1,9 +1,9 @@
 ---
 title: "¡Danos tu opinión y participa por una Echo Dot 4Gen!"
 date: 2021-01-06T18:26:06-06:00
-image: /images/networking/feedback.jpg
+image: /images/networking/evaluation.png
 button: Evaluación del evento
-link: https://sg1.run/2021
+link: 
 draft: false
 weight: 3
 ---
