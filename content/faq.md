@@ -20,6 +20,13 @@ Para los talleres usaremos Zoom. Para cada taller te compartiremos un link y có
 
 No es necesario reservar tu lugar para charlas. Simplemente ingresa al evento cuando lo desees. Solo para talleres, si necesitas estar registrado en cada uno.
 
+
+No es necesario reservar tu lugar para charlas. Simplemente ingresa al evento cuando lo desees.
+1. Previo al evento, aparecerá en el sitio web el botón: LIVE. O podrás ingresar a la página:
+2. Dar click al botón que dice “Ingresar / Join”. Saldrá un pop-up con el mensaje “Join event” solicitando tu dirección de email.
+3. Al introducir tu email, el sistema detectará si ya estás registrada(o) y en caso de ser así te mostrará un botón para recibir un login link por correo. Dale click y recibirás un correo con un enlace para hacer login a Data Days Virtual en Crowdcast (la plataforma que estamos utilizando para la transmisión).
+4. Si en el paso 3 el sistema no reconoce tu correo, te pedimos nos contactes: eventos@sg.com.mx
+
 #### ¿Dónde puedo ver las grabaciones?
 
 Durante la semana del evento las grabaciones estarán disponibles desde la misma página de transmisión, y posterior al evento te compartiremos el acceso a las grabaciones disponibles.
@@ -30,7 +37,11 @@ Solo necesitas una computadora con un navegador web actualizado, de preferencia 
 
 #### ¿Cómo puedo contactar con otros participantes y ponentes?
 
-Para manejar esta comunicación estaremos utilizando slack. Te compartiremos vía mail la liga para ingresar al slack del evento.
+
+
+Para manejar esta comunicación estaremos utilizando slack.
+
+Te invitamos a que te unas a nosotros en [https://sg1.run/2021](https://sg1.run/2021).
 
 #### ¿Cómo puedo solicitar soporte?
 

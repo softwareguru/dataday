@@ -41,20 +41,20 @@ home = ["HTML", "RSS"]
   weight = 3
 
   [[menu.main]]
-  name = "Preguntas Frecuentes"
-  URL = "faq"
+  name = "Kit Virtual"
+  URL = "kitvirtual"
   weight = 4
 
-  #[[menu.main]]
-  #name = "Kit Virtual"
-  #URL = "swag"
-  #weight = 5
+  [[menu.main]]
+  name = "Networking"
+  URL = "networking"
+  weight = 5
 
+  [[menu.main]]
+  name = "Preguntas Frecuentes"
+  URL = "faq"
+  weight = 6
 
-  #[[menu.main]]
-  #name = "Networking"
-  #URL = "networking"
-  #weight = 6
 
 
 #################### default parameters ################################
@@ -74,8 +74,8 @@ disclaimer = ""
 
 # Navigation button
 [params.navigation_button]
-label = "TICKETS"
-link = "/tickets"
+label = "LIVE"
+link = "/live"
 
 
 ############################# social icon ############################

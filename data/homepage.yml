@@ -12,9 +12,9 @@ banner:
     label : "Regístrate ya"
     link : "/datadays/tickets"
   button2:
-    enable : false
-    label : "Ver sesiones"
-    link : "/datadays/live"
+    enable : true
+    label : "Registrate ya"
+    link : "/tickets"
 
 
 ############################## Event ##############################

@@ -27,6 +27,7 @@ sponsor_group:
       link : "https://itam.mx"
     - logo : "images/sponsors/derevo.png"
       link : "https://www.derevo.com.mx/"
+
       
 - title : "silver"
   sponsor:
@@ -36,6 +37,10 @@ sponsor_group:
       link : "https://www.linkedin.com/company/sociedad-de-cient%C3%ADficos-de-datos-de-m%C3%A9xico-a-c-/"
     - logo : "images/sponsors/rstudio.png"
       link : "https://rstudio.com/"
+    - logo : "images/sponsors/Pack.png"
+      link : "https://www.packtpub.com/"
+    - logo : "images/sponsors/Manning.png"
+      link : "https://www.manning.com/"
       
 - title : "community"
   sponsor:
@@ -54,4 +59,8 @@ sponsor_group:
     - logo : "images/sponsors/Dama.png"
       link : "http://dama.gxpsites.com/"
     - logo : "images/sponsors/Saturdays.png"
-      link : "http://dama.gxpsites.com/"
+      link : "https://www.saturdays.ai/"
+    - logo : "images/sponsors/SocialTic.png"
+      link : "https://socialtic.org/"
+    - logo : "images/sponsors/sicyt.png"
+      link : "https://sicyt.jalisco.gob.mx/"
