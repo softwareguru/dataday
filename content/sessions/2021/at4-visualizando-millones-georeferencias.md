@@ -10,4 +10,4 @@ speakers:
 time_start: 2021-03-22T17:00:00-06:00
 slot: t4
 ---
-En esta charla Francisco y Carlos compartirán con nosotros un poco de su proyecto de georreferencias.
+En esta charla Francisco y Carlos compartirán con nosotros un poco de su proyecto de georeferencias.
