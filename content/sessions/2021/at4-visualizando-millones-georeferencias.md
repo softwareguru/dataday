@@ -6,7 +6,7 @@ id: at4
 title: "Fast Data: visualizando millones de georeferencias en sub-segundo"
 speakers:
   - Francisco Mekler
-  - Juan Carlos Sánchez
+  - Juan Carlos Sánchez Ruiz
 time_start: 2021-03-22T17:00:00-06:00
 slot: t4
 ---
