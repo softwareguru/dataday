@@ -3,7 +3,7 @@ title: "¡Danos tu opinión y participa por una Echo Dot 4Gen!"
 date: 2021-01-06T18:26:06-06:00
 image: /images/networking/evaluation.png
 button: Evaluación del evento
-link: 
+link: https://docs.google.com/forms/d/e/1FAIpQLScZnWTN-5UWnt_UffQIwAtBoeYxYXhh3CMpWkxvktRK_rkQ4g/viewform
 draft: false
 weight: 3
 ---
