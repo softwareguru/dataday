@@ -1,5 +1,5 @@
 ---
-time_end: 2021-03-22T19:15:00-06:00
+time_end: 2021-03-22T19:35:00-06:00
 track: workshop
 block: a
 id: aw2
@@ -7,7 +7,7 @@ title: "Taller: Entrenamiento, Tuning e Implementación de modelos de aprendizaj
   automático externos en SageMaker de AWS"
 speakers:
   - Juana Martinez
-time_start: 2021-03-22T17:45:00-06:00
+time_start: 2021-03-22T18:00:00-06:00
 slot: w2
 ---
 
