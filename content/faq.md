@@ -1,16 +1,37 @@
 ---
-title: Frequently Asked Questions
+title: Preguntas Frecuentes
 date: 2019-09-10T07:51:25.000+00:00
 url: /faq
 image: /images/uploads/informacion.png
 ---
 #### ¿Qué necesito para participar?
 
- Debes adquirir tu ticket y en el mail de confirmación de registro te enviaremos más información.
+Debes adquirir tu ticket en esta edición tendremos dos tipos de pases
+
+
+#### Pase Híbrido 
+
+ - Incluye 2 talleres 
+ - Comida + Networking
+ - Charlas presenciales
+
+#### Pase Virtual
+
+ - Incluye 2 talleres
+ - Charlas en línea
+
+ <br>
+
+**Estos estarán diponibles a la venta en el mes de enero 2022**
 
 #### ¿Cuál será el horario del evento?
 
-Consulta la [Agenda de sesiones](/datadays/agenda).
+El evento se realizará dos días:
+
+* 23 de Marzo - Talleres online de 9:00 am a 7:30 pm con respectivos breaks 
+* 24 de Marzo -  Sesiones híbridas en Ciudad de México (sede por confirmar). Se transmitirá en vivo para los asistentes virtuales.
+
+<br>
 
 #### ¿Cómo ingreso a un taller?
 

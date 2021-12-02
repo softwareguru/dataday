@@ -3,66 +3,28 @@ title: "Patrocinadores"
 subtitle: "Data Day es posible gracias al apoyo de"
 
 sponsor_group:
+- title : ""
+  sponsor:
+
+
+
+- title : ""
+  sponsor:
+
+
+      
+- title : ""
+  sponsor:
+
+
+
+      
 - title : "platinum"
-  sponsor:
-    - logo : "images/sponsors/microsoft.png"
-      link : "https://www.microsoft.com/es-mx"
-    - logo : "images/sponsors/denodo.png"
-      link : "https://www.denodo.com/es"
-    - logo : "images/sponsors/vinkos.png"
-      link : "https://vinkos.com/"
-    - logo : "images/sponsors/elastic.png"
-      link : "https://www.elastic.co/es/"
-    - logo : "images/sponsors/bufete.png"
-      link : "https://bsigeonet.com.mx"
-    - logo : "images/sponsors/googlecloud.png"
-      link : "https://cloud.google.com/"
-    - logo : "images/sponsors/beamcollege.png"
-      link : "https://beamcollege.dev"
-
-
-- title : "gold"
-  sponsor:
-    - logo : "images/sponsors/itam.png"
-      link : "https://itam.mx"
-    - logo : "images/sponsors/derevo.png"
-      link : "https://www.derevo.com.mx/"
-
-      
-- title : "silver"
-  sponsor:
-    - logo : "images/sponsors/up.png"
-      link : "https://www.up.edu.mx/es/mexico"
-    - logo : "images/sponsors/sociedat.png"
-      link : "https://www.linkedin.com/company/sociedad-de-cient%C3%ADficos-de-datos-de-m%C3%A9xico-a-c-/"
-    - logo : "images/sponsors/rstudio.png"
-      link : "https://rstudio.com/"
-    - logo : "images/sponsors/Pack.png"
-      link : "https://www.packtpub.com/"
-    - logo : "images/sponsors/Manning.png"
-      link : "https://www.manning.com/"
-      
-- title : "community"
   sponsor:
     - logo : "images/sponsors/datapub.png"
       link : "https://twitter.com/thedatapub"
-    - logo : "images/sponsors/prosoftware.png"
-      link : "https://prosoftware.mx/"
     - logo : "images/sponsors/wid.png"
       link : "https://www.linkedin.com/company/women-in-data-science-power-and-engineering/?originalSubdomain=do"
     - logo : "images/sponsors/dsmty.png"
       link : "https://www.facebook.com/groups/469523539899326"
-    - logo : "images/sponsors/Amiti.png"
-      link : "https://amiti.org.mx/"
-    - logo : "images/sponsors/Data-Lab.png"
-      link : "https://www.linkedin.com/company/datalab-community/?originalSubdomain=mx"
-    - logo : "images/sponsors/Dama.png"
-      link : "http://dama.gxpsites.com/"
-    - logo : "images/sponsors/Saturdays.png"
-      link : "https://www.saturdays.ai/"
-    - logo : "images/sponsors/SocialTic.png"
-      link : "https://socialtic.org/"
-    - logo : "images/sponsors/sicyt.png"
-      link : "https://sicyt.jalisco.gob.mx/"
-    - logo : "images/sponsors/Quarantine-HUB.png"
-      link : "https://twitter.com/HubQuarantine?s=09"
+

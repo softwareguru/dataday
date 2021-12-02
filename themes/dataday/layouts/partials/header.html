@@ -33,13 +33,13 @@
             {{ end }}
           {{ end }}
 
-          {{ with .Site.Params.navigation_button }}
-          <li class="cta">
-            <a href="{{ .link | relURL }}"
-            class="theme-btn btn-style-one text-white px-3">{{ .label }}</a>
-          </li>
-          {{ end }}
-        </ul>                
+     
+        
+        {{ if .Site.Params.navigation_button.enable }}
+        {{ "<!-- get start btn -->" | safeHTML }}
+        <a href="{{ .Site.Params.navigation_button.link | absURL }}"
+          class="theme-btn btn-style-one text-white px-3">{{ .Site.Params.navigation_button.label }}</a>
+        {{ end }}
       
 
       </div>

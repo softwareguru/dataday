@@ -40,15 +40,15 @@ home = ["HTML", "RSS"]
   URL = "speakers"
   weight = 3
 
-  [[menu.main]]
-  name = "Kit Virtual"
-  URL = "kitvirtual"
-  weight = 4
+  #[[menu.main]]
+  #name = "Kit Virtual"
+  #URL = "kitvirtual"
+  #weight = 4
 
-  [[menu.main]]
-  name = "Networking"
-  URL = "networking"
-  weight = 5
+  #[[menu.main]]
+  #name = "Networking"
+  #URL = "networking"
+  #weight = 5
 
   [[menu.main]]
   name = "Preguntas Frecuentes"
@@ -74,6 +74,7 @@ disclaimer = ""
 
 # Navigation button
 [params.navigation_button]
+enable = false
 label = "LIVE"
 link = "/live"
 
