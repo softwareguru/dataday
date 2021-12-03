@@ -2,7 +2,7 @@
 banner:
   enable : true
   greeting: Bienvenido a
-  title : "Data Day(s) Virtual 2022"
+  title : "Data Day(s) 2022"
   tagline: "Analizando los datos como los gurús"
   meta: "23 y 24 de marzo de 2022 | Evento híbrido"
   logo : "/images/logo.svg"
