@@ -13,13 +13,15 @@ sponsor_group:
 
 
       
-- title : ""
+- title : "silver"
   sponsor:
+    - logo : "images/sponsors/rstudio.png"
+      link : "https://www.rstudio.com/"
 
 
 
       
-- title : "platinum"
+- title : "community"
   sponsor:
     - logo : "images/sponsors/datapub.png"
       link : "https://twitter.com/thedatapub"
@@ -27,4 +29,6 @@ sponsor_group:
       link : "https://www.linkedin.com/company/women-in-data-science-power-and-engineering/?originalSubdomain=do"
     - logo : "images/sponsors/dsmty.png"
       link : "https://www.facebook.com/groups/469523539899326"
+    - logo : "images/sponsors/Sociedat.png"
+      link : "https://sociedat.org/"
 

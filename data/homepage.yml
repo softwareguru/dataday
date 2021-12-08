@@ -56,3 +56,10 @@ pricing:
 ####################### sponsors #############################
 sponsors:
   enable : true
+
+
+blog:
+  enable : true
+  title : "Noticias recientes"
+  content : "Accusantium provident suscipit dicta magni dolor deserunt nam obcaecati non veritatis optio."
+  # blog content comes from "content/blog" folder

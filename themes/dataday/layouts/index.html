@@ -14,6 +14,13 @@
 {{ end }}
 <!-- /event_info -->
 
+<!-- blog -->
+{{ if $data.homepage.blog.enable }}
+{{ partial "blog.html" . }}
+{{ end }}
+<!-- /blog -->
+
+
 <!-- cta_cfp  -->
 {{ if $data.homepage.cta.enable }}
 {{ partial "cta.html" . }}
@@ -60,11 +67,7 @@
 {{ end }}
 <!-- /sponsor -->
 
-<!-- blog -->
-{{ if $data.homepage.blog.enable }}
-{{ partial "blog.html" . }}
-{{ end }}
-<!-- /blog -->
+
 
 
 {{ end }}

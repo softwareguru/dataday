@@ -32,7 +32,7 @@ home = ["HTML", "RSS"]
 
   [[menu.main]]
   name = "Agenda"
-  URL = "agenda"
+  URL = "agenda-2022/"
   weight = 2
 
   [[menu.main]]
@@ -59,13 +59,13 @@ home = ["HTML", "RSS"]
 
 #################### default parameters ################################
 [params]
-logo = "images/ddvirtual-logo.png"
+logo = "images/datadayslogo2022.png"
 home = "Home"
 
 # Meta data
 description = "Data Day(s) es el congreso líder de ciencia e ingeniería de datos en México con tres tracks: data MBA, hard core machine learning, e ingeniería de datos."
-image = "images/datadays2022.jpg"
-images = ["images/card.jpg"]
+image = "images/card.png"
+images = ["images/card.png"]
 twitter_user = "@revistasg"
 email = "eventos@sg.com.mx"
 author = "Software Guru"
