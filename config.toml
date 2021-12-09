@@ -35,10 +35,10 @@ home = ["HTML", "RSS"]
   URL = "agenda-2022/"
   weight = 2
 
-  [[menu.main]]
-  name = "Conferencistas"
-  URL = "speakers"
-  weight = 3
+  #[[menu.main]]
+  #name = "Conferencistas"
+  #URL = "speakers"
+  #weight = 3
 
   #[[menu.main]]
   #name = "Kit Virtual"
