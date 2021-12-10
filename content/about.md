@@ -1,11 +1,11 @@
 ---
-title: Acerca de Data Day
+title: Acerca de DataDay(s)
 date: '2019-09-10T07:51:25.000+00:00'
 url: "/about-us"
 
 ---
 
-#### Data Days 2022 se distribuirá durante 2 días como conferencia híbrida:
+#### DataDay(s) 2022 se distribuirá durante 2 días como conferencia híbrida:
 
 <br>
 
@@ -18,4 +18,4 @@ El evento es dirigido a personas involucradas en el procesamiento y análisis de
 
 Los temas que se abordaran estan enfocados en diferentes áreas como estrategia y liderazgo de organizaciones de data science, hard core machine intelligence, data engineering y data for public policy. 
 
-Data Day se ha realizado exitosamente de forma presencial desde 2016, de forma virtual en 2020 y 2021, este 2022 un formato híbrido.
+DataDay(s) se ha realizado exitosamente de forma presencial desde 2016, de forma virtual en 2020 y 2021, este 2022 un formato híbrido.

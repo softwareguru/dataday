@@ -5,10 +5,10 @@ url: "/tickets"
 
 ---
 
-<div style="text-align: center;">
-<!-- Noscript content for added SEO -->
+<!--<div style="text-align: center;">
+
 <noscript><a href="https://datadays2021.eventbrite.com.mx" rel="noopener noreferrer" target="_blank"></noscript>
-<!-- You can customize this button any way you like -->
+
 <button id="eventbrite-widget-modal-trigger-137342490085" type="button" class="theme-btn btn-style-one">Adquirir boletos</button>
 <noscript></a>Adquiere tus boletos en Eventbrite</noscript>
 
@@ -27,7 +27,11 @@ url: "/tickets"
         onOrderComplete: exampleCallback
     });
 </script>
-</div>
+</div>-->
+<center>
+<h2><strong>Muy pronto podrás adquirir tu pase al evento</strong></h2>
+</center>
+<br>
 
 <h2>Descuentos</h2>
 <p>Estos descuentos <strong>solo aplican en el periodo de tarifa normal y no son acumulables entre sí</strong>:</p>

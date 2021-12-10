@@ -44,7 +44,7 @@ timer:
 ####################### CTA #############################
 cta:
   enable : true
-  message: "Data Day es el congreso para profesionistas de datos de habla hispana interesados en prácticas y herramientas de clase mundial."
+  message: "DataDay(s) es el congreso para profesionistas de datos de habla hispana interesados en prácticas y herramientas de clase mundial."
   label: No dejes pasar esta oportunidad
   link: https://sg.com.mx/datadays/tickets
   
