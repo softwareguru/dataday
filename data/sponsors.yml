@@ -8,18 +8,15 @@ sponsor_group:
 
 
 
-- title : ""
+- title : "platinum"
   sponsor:
+    - logo : "/images/sponsors/microsoft.png"
+      link : "https://www.microsoft.com/es-mx/"
 
-
-      
 - title : "silver"
   sponsor:
     - logo : "images/sponsors/rstudio.png"
       link : "https://www.rstudio.com/"
-
-
-
       
 - title : "community"
   sponsor:
