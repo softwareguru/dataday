@@ -29,10 +29,7 @@ url: "/tickets"
     });
 </script>
 </div>
-<center>
-<h2><strong>Muy pronto podrás adquirir tu pase al evento</strong></h2>
-</center>
-<br>
+
 
 <h2>Descuentos</h2>
 <p>Estos descuentos <strong>solo aplican en el periodo de tarifa normal y no son acumulables entre sí</strong>:</p>
