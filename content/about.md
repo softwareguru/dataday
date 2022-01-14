@@ -5,17 +5,12 @@ url: "/about-us"
 
 ---
 
-#### DataDay(s) 2022 se distribuirá durante 2 días como conferencia híbrida:
+#### Data Day(s) 2022 se realizará de manera virtual del 28 de marzo al 1ro de abril
 
 <br>
 
-* 23 de Marzo - Talleres online
-* 24 de Marzo -  Sesiones híbridas el evento se realizara en Ciudad de México, se transmitirá para los asistentes virtuales.
+El evento está dirigido a personas involucradas en el procesamiento y análisis de datos en contextos empresariales.
 
-<br>
+Los temas que se abordarán estan enfocados en diferentes áreas como estrategia y liderazgo de organizaciones de data science, hard core machine intelligence, data engineering y data for public policy. 
 
-El evento es dirigido a personas involucradas en el procesamiento y análisis de datos en contextos empresariales.
-
-Los temas que se abordaran estan enfocados en diferentes áreas como estrategia y liderazgo de organizaciones de data science, hard core machine intelligence, data engineering y data for public policy. 
-
-DataDay(s) se ha realizado exitosamente de forma presencial desde 2016, de forma virtual en 2020 y 2021, este 2022 un formato híbrido.
+Data Day se ha realizado exitosamente de forma presencial desde 2015 hasta 2019 y de forma virtual desde el 2020.

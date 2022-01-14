@@ -5,29 +5,30 @@ url: "/tickets"
 
 ---
 
-<!--<div style="text-align: center;">
+<div style="text-align: center;">
 
-<noscript><a href="https://datadays2021.eventbrite.com.mx" rel="noopener noreferrer" target="_blank"></noscript>
 
-<button id="eventbrite-widget-modal-trigger-137342490085" type="button" class="theme-btn btn-style-one">Adquirir boletos</button>
-<noscript></a>Adquiere tus boletos en Eventbrite</noscript>
+<div id="eventbrite-widget-container-246788991517"></div>
 
 <script src="https://www.eventbrite.com.mx/static/widgets/eb_widgets.js"></script>
 
 <script type="text/javascript">
     var exampleCallback = function() {
-        console.log('Order complete!');
+        console.log('Pedido completo');
     };
 
     window.EBWidgets.createWidget({
+        // Required
         widgetType: 'checkout',
-        eventId: '137342490085',
-        modal: true,
-        modalTriggerElementId: 'eventbrite-widget-modal-trigger-137342490085',
-        onOrderComplete: exampleCallback
+        eventId: '246788991517',
+        iframeContainerId: 'eventbrite-widget-container-246788991517',
+
+        // Optional
+        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
     });
 </script>
-</div>-->
+</div>
 <center>
 <h2><strong>Muy pronto podrás adquirir tu pase al evento</strong></h2>
 </center>
@@ -35,13 +36,12 @@ url: "/tickets"
 
 <h2>Descuentos</h2>
 <p>Estos descuentos <strong>solo aplican en el periodo de tarifa normal y no son acumulables entre sí</strong>:</p>
-<ul>
-<li>20% de descuento para mujeres. Regístrate con el código <strong>SG4WOMEN</strong></li>
-<li>20% de descuento a profesionistas que cubren ellos mismos el costo de su pase (factura a nombre de persona física). ¿Entras en esta categoría? Utiliza el código&nbsp;<strong>INDEPENDIENTE</strong>&nbsp;</li>
-<li>20% de descuento para estudiantes. Regístrate con el código <strong>ESTUDIANTE</strong>&nbsp;y posteriormente envíanos la imagen de tu credencial vigente a <a href="mailto:eventos@sg.com.mx">eventos@sg.com.mx</a>.</li>
-<li>20% de descuento para asociaciones y clusters de Tecnología, AMITI, PROSOFTWARE, si eres socio de alguna de ellas acércate a ellos para conocer el código correspondiente.</li>
-<li>25% de descuento para grupos mayores de 5 personas.</li>
-</ul>
+
+ * 15% de descuento para mujeres. Regístrate con el código SG4WOMEN
+ * 15% de descuento a profesionistas que cubren ellos mismos el costo de su pase (factura a nombre de persona física). ¿Entras en esta categoría? Utiliza el código INDEPENDIENTE 
+ * 15% de descuento para estudiantes. Regístrate con el código ESTUDIANTE y posteriormente envíanos la imagen de tu credencial vigente a eventos@sg.com.mx.
+ * 10% de descuento para asociaciones y clusters de Tecnología, AMITI, PROSOFTWARE, si eres socio de alguna de ellas acércate a ellos para conocer el código correspondiente.
+ * 25% de descuento para grupos mayores de 5 personas.
 
 <h2>Formas de pago</h2>
 <ul>

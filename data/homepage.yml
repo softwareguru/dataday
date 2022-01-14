@@ -4,7 +4,7 @@ banner:
   greeting: Bienvenido a
   title : "Data Day(s) 2022"
   tagline: "Analizando los datos como los gurús"
-  meta: "23 y 24 de marzo de 2022 | Evento híbrido"
+  meta: "Del 28 de marzo al 1ro de abril de 2022 | Evento online"
   logo : "/images/logo.svg"
   venue : ""
   button1:
@@ -13,7 +13,7 @@ banner:
     link : "/datadays/tickets"
   button2:
     enable : true
-    label : "Envia tu propuesta"
+    label : Envia tu propuesta de charla o taller
     link : "https://convoca.dev/data-days-2022/"
 
 
@@ -22,7 +22,7 @@ event_info:
   enable : true
   features: 
     - label : "¿Qué es Data Day(s)?"
-      text : "Data Day(s) virtual serán 2 días de conferencias y workshops en formato híbrido, dirigido a personas involucradas en el procesamiento y análisis de datos en contextos empresariales."
+      text : "Data Days serán 5 días de conferencias y workshops dirigido a personas involucradas en el procesamiento y análisis de datos en contextos empresariales."
       icon-class: "fa fa-info" 
       cta_text: "Conoce más"
       cta_link: "http://sg.com.mx/datadays/about-us/"

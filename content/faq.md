@@ -6,19 +6,14 @@ image: /images/uploads/informacion.png
 ---
 #### ¿Qué necesito para participar?
 
-Debes adquirir tu ticket en esta edición tendremos dos tipos de pases
+Debes adquirir tu ticket. 
 
 
-#### Pase Híbrido 
-
- - Incluye 2 talleres 
- - Comida + Networking
- - Charlas presenciales
 
 #### Pase Virtual
 
  - Incluye 2 talleres
- - Charlas en línea
+ - Conferencias en línea
 
  <br>
 
@@ -26,16 +21,13 @@ Debes adquirir tu ticket en esta edición tendremos dos tipos de pases
 
 #### ¿Cuál será el horario del evento?
 
-El evento se realizará dos días:
+El evento se realizara durante 5 días con charlas por la mañna y talleres por la tarde
 
-* 23 de Marzo - Talleres online de 9:00 am a 7:30 pm con respectivos breaks 
-* 24 de Marzo -  Sesiones híbridas en Ciudad de México (sede por confirmar). Se transmitirá en vivo para los asistentes virtuales.
-
-<br>
 
 #### ¿Cómo ingreso a un taller?
 
-Para los talleres usaremos Zoom. Para cada taller te compartiremos un link y código para que te puedas registrar.
+El pase al evento incluye 2 talleres. Cada taller estara limitados a 50 personas.
+Una vez publicada la agenda del evento compartiremos contigo el registro a los talleres.
 
 #### ¿Cómo reservo mi lugar para sesiones específicas?
 
