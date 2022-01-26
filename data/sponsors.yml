@@ -3,15 +3,17 @@ title: "Patrocinadores"
 subtitle: "DataDay(s) es posible gracias al apoyo de"
 
 sponsor_group:
-- title : ""
-  sponsor:
-
 
 
 - title : "platinum"
   sponsor:
     - logo : "/images/sponsors/microsoft.png"
       link : "https://www.microsoft.com/es-mx/"
+
+- title : "gold"
+  sponsor: 
+    - logo : "images/sponsors/NVLogo.png"
+      link : "https://www.nvidia.com/es-la/"
 
 - title : "silver"
   sponsor:
@@ -30,4 +32,3 @@ sponsor_group:
       link : "https://sociedat.org/"
     - logo : "images/sponsors/Logo_amiti.png"
       link : "https://amiti.org.mx/"
-
