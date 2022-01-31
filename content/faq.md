@@ -80,6 +80,10 @@ SG creemos en la difusión del conocimiento de los innovadores. Creemos que la i
 
 Consulta [esta guía con tips](/datadays/tips), incluyendo una carta justificando tu asistencia.
 
+#### Política de privacidad de datos
+
+Conoce nuestra [política de privacidad de datos](/datadays/politica-de-privacidad)
+
 #### Contáctanos
 
 Si no hemos logrado resolver tus preguntas, por favor contáctanos:  eventos@sg.com.mx y vía telefónica: +52 56 1368 5529
