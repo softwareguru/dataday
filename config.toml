@@ -38,7 +38,7 @@ home = ["HTML", "RSS"]
  
   [[menu.main]]
   name = "Tickets"
-  URL = "tickets"
+  URL = "tickets/"
   weight = 3
 
   #[[menu.main]]

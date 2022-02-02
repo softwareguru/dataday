@@ -1,9 +1,10 @@
 ---
 title: "Tickets"
 date: 2022-02-01T17:11:02-06:00
-url: "/tickets"
-
+description: "Data Day(s) es el congreso líder de ciencia e ingeniería de datos en México con tres tracks: data MBA, hard core machine learning, e ingeniería de datos."
+draft: false
 ---
+
 
 <div style="text-align: center;">
 
@@ -48,3 +49,4 @@ url: "/tickets"
 </ul>
 <h2>Política de reembolsos</h2>
 <p>Podrás cancelar tu asistencia 30 días antes del evento. De cualquier manera, tu pase es transferible y se lo puedes asignar a un colega.</p>
+
