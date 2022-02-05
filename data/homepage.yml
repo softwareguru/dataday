@@ -12,7 +12,7 @@ banner:
     label : "Envia tu propuesta"
     link : "/datadays/tickets"
   button2:
-    enable : true
+    enable : false
     label : Envia tu propuesta de charla o taller
     link : "https://convoca.dev/data-days-2022/"
 
