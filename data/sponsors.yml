@@ -14,6 +14,8 @@ sponsor_group:
   sponsor: 
     - logo : "images/sponsors/nvidia_DD.png"
       link : "https://www.nvidia.com/es-la/"
+    - logo : "images/sponsors/elastic.png"
+      link : "https://www.elastic.co/es/"
 
 - title : "silver"
   sponsor:
