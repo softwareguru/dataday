@@ -2,6 +2,14 @@
 title: "Angel Alvarado"
 image: /images/speakers/angel-alvarado.jpg
 date: 2021-03-01
+designation : "Coordinadora de uso datos en SocialTIC"
+country: ""
+facebook: ""
+instagram: "https://www.linkedin.com/in/frida-garcia-celis/"
+twitter: "https://twitter.com/angel_angelio"
+linkedin: "https://www.linkedin.com/in/angel-alvarado-robledo/"
+github: ""
+event-2022: true
 event-2018: true
 event-2021: true
 ---

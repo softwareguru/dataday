@@ -2,9 +2,19 @@
 title: "Omar Santa Cruz"
 image: /images/speakers/omar-santa-cruz.jpg
 date: 2021-02-25
+designation : "Especialista de datos - INFOTEC"
+country: ""
+facebook: ""
+instagram: 
+twitter: 
+linkedin: "https://www.linkedin.com/in/mcc-santa-cruz/"
+github: ""
+event-2022: true
 event-2021: true
 ---
 
-Soy un profesional del área de datos y cómputo aplicado, estudié ciencias computacionales y posteriormente una maestría en inteligencia artificial. Tengo 10 años de experiencia en diferentes roles relacionados con datos. En los últimos años me he involucrado en el sector financiero y de seguros. A partir de 2021 curso mi Doctorado en ciencias sobre la línea de ciencia de datos y bioinformática, misma línea de investigación en la que me he mantenido activo desde el 2016.
+Soy un profesional del área de datos y cómputo aplicado, estudié ciencias computacionales, una maestría en inteligencia artificial, actualmente curso un doctorado en ciencia de datos. Tengo 10 años de experiencia en diferentes roles relacionados con datos. 
 
-A lo largo de mi carrera he implementado diferentes casos de uso como son: sistema de recomendaciones, chatbots, voice bots, speech &amp; text analytics, seguridad y anti fraude. Además de procesos ETL y minería datos.
+En el presente soy líder de células de datos, mi rol es conectar y enfatizar con las necesidades del área de negocios y operacional para transmitirlas a la célula de datos y generar soluciones basadas en datos.  
+
+A lo largo de mi carrera he participado diferentes proyectos (end to end) que involucran temas de: minería, análisis de datos, sistema de recomendaciones, NLP, speech & text analytics, seguridad, anti fraude, visualización, modelos predictivos y modelos ontológicos.
