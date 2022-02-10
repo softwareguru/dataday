@@ -81,8 +81,8 @@ disclaimer = ""
 # Navigation button
 [params.navigation_button]
 enable = false
-label = "LIVE"
-link = "/live"
+label = "Tickets"
+link = "https://sg.com.mx/datadays/tickets/"
 
 
 ############################# social icon ############################
