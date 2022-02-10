@@ -2,6 +2,14 @@
 title: "Edmundo Molina Perez"
 image: /images/speakers/edmundo-molina.jpg
 date: 2021-02-25
+designation : "Profesor-Investigador"
+country: ""
+facebook: ""
+instagram: ""
+twitter: "https://twitter.com/EdmundoMolinaMx"
+linkedin: ""
+github: ""
+event-2022: true
 event-2021: true
 ---
 

@@ -9,4 +9,5 @@ instagram: ""
 twitter: ""
 linkedin: ""
 github: ""
+event-2022: true
 ---

@@ -32,7 +32,7 @@ home = ["HTML", "RSS"]
 
   [[menu.main]]
   name = "Agenda"
-  URL = "agenda-2022/"
+  URL = "agenda"
   weight = 2
 
  
