@@ -10,6 +10,9 @@ sponsor_group:
     - logo : "/images/sponsors/microsoft.png"
       link : "https://www.microsoft.com/es-mx/"
 
+    - logo : "/images/sponsors/Softtek.png"
+      link : "https://www.softtek.com/Jobs"
+
 - title : "gold"
   sponsor: 
     - logo : "images/sponsors/nvidia_DD.png"

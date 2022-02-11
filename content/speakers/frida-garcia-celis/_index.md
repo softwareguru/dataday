@@ -1,5 +1,5 @@
 ---
-title: "Frida Garcia Celos"
+title: "Frida Garcia Celis"
 date: 2022-02-10T15:37:59-06:00
 image : "/images/speakers/frida-garcia-celos.jpeg"
 designation : "Coordinadora de uso datos en SocialTIC"
