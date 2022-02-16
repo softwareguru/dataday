@@ -24,6 +24,8 @@ sponsor_group:
   sponsor:
     - logo : "images/sponsors/rstudio.png"
       link : "https://www.rstudio.com/"
+    - logo : "images/sponsors/Logos UP.png"
+      link : "https://posgradosupags.ags.up.mx/facultad-de-ingenieria/"
       
 - title : "community"
   sponsor:
