@@ -26,6 +26,10 @@ sponsor_group:
       link : "https://www.rstudio.com/"
     - logo : "images/sponsors/Logos UP.png"
       link : "https://posgradosupags.ags.up.mx/facultad-de-ingenieria/"
+    - logo : "images/sponsors/Pack.png"
+      link : "https://www.packtpub.com/"
+    - logo : "images/sponsors/Manning.png"
+      link : "https://www.manning.com/"
       
 - title : "community"
   sponsor:
