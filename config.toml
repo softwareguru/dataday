@@ -36,15 +36,15 @@ home = ["HTML", "RSS"]
   weight = 2
 
  
-  [[menu.main]]
-  name = "Tickets"
-  URL = "tickets/"
-  weight = 3
-
   #[[menu.main]]
-  #name = "Conferencistas"
-  #URL = "speakers"
+  #name = "Tickets"
+  #URL = "tickets/"
   #weight = 3
+
+  [[menu.main]]
+  name = "Conferencistas"
+  URL = "speakers"
+  weight = 3
 
   #[[menu.main]]
   #name = "Kit Virtual"
@@ -80,9 +80,9 @@ disclaimer = ""
 
 # Navigation button
 [params.navigation_button]
-enable = false
+enable = true
 label = "Tickets"
-link = "https://sg.com.mx/datadays/tickets/"
+link = "/datadays/tickets/"
 
 
 ############################# social icon ############################

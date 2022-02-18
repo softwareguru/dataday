@@ -9,12 +9,12 @@ banner:
   venue : ""
   button1:
     enable : false
-    label : "Envia tu propuesta"
+    label : "Adquiere tu pase"
     link : "/datadays/tickets"
   button2:
-    enable : false
-    label : Envia tu propuesta de charla o taller
-    link : "https://convoca.dev/data-days-2022/"
+    enable : true
+    label : "Adquiere tu pase"
+    link : "/datadays/tickets"
 
 
 ############################## Event ##############################
