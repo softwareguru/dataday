@@ -3,6 +3,7 @@ title: "Data Live 5: Destruyendo mitos: ¡R puede desplegarse en producción!"
 date: 2022-01-27T14:26:35-06:00
 image : "images/blog/DataLive-5.png"
 draft: false
+datalive: true
 ---
 
 <div class="container">

@@ -3,6 +3,7 @@ title: "Data Live 2: Cosas sencillas pero efectivas en Data Engineering: Una int
 date: 2021-11-18T17:10:23-06:00
 image : "images/blog/DataLive-2.png"
 draft: false
+datalive: true
 ---
 
 <div class="container">

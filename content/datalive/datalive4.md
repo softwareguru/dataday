@@ -3,6 +3,7 @@ title: "Data Live 4: De la Ciencia de Datos al MLOps"
 date: 2022-01-13T14:18:28-06:00
 image : "images/blog/DataLive-4.png"
 draft: false
+datalive: true
 ---
 
 <div class="container">

@@ -3,6 +3,7 @@ title: "Data Live 8: Técnicas para un mejor Computer Vision"
 date: 2022-03-10T14:29:48-06:00
 image : "images/blog/DataLive-8.png"
 draft: true
+datalive: true
 ---
 
 <div class="container">

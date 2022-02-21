@@ -3,6 +3,7 @@ title: "Data Live 1: Analizando solicitudes de información al INAI con Python y
 date: 2021-11-04T10:10:23-06:00
 image : "images/blog/DataLive-1.png"
 draft: false
+datalive: true
 ---
 
 <div class="container">

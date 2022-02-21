@@ -48,7 +48,7 @@ home = ["HTML", "RSS"]
 
   [[menu.main]]
   name = "Data Live"
-  URL = "blog"
+  URL = "datalive"
   weight = 4
 
   #[[menu.main]]

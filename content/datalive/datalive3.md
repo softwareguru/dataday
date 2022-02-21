@@ -3,6 +3,7 @@ title: "Data Live 3: AWS SageMaker - from Zero to Hero"
 date: 2021-12-02T17:11:01-06:00
 image : "images/blog/DataLive-3.png"
 draft: false
+datalive: true
 ---
 
 <div class="container">

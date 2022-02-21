@@ -3,6 +3,7 @@ title: "Data Live 6: El bias-variance tradeoff: lo más importante que debes sab
 date: 2022-02-10T14:29:48-06:00
 image : "images/blog/DataLive-6.png"
 draft: false
+datalive: true
 ---
 
 
