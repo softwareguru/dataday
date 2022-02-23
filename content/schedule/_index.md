@@ -37,9 +37,9 @@ Tracks:
   <div class="color-code-item" style="background-color: #d0f0d6;">Data Strategy</div>
   <div class="color-code-item" style="background-color: #d0d0d0;">Harcore Machine Intel</div>
   <div class="color-code-item" style="background-color: #f0f0b0;">Big Data Engineering</div>
-  <div class="color-code-item" style="background-color: #f7b8f7;">Data 4 Pubic Policy Day</div>
+  <div class="color-code-item" style="background-color: #f7b8f7;">Data 4 Public Policy</div>
   <div class="color-code-item" style="background-color: #d8a4a4;">Data Science everywhere</div>
-  <!--<div class="color-code-item" style="background-color: #80c9fa;">Taller</div>-->
+  <div class="color-code-item" style="background-color: #80c9fa;">Taller</div>
 </div>
 
 <p>Los horarios deben mostrarse en tu horario local.</p>
