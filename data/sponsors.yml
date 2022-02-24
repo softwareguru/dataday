@@ -32,6 +32,8 @@ sponsor_group:
       link : "https://www.manning.com/"
     - logo : "images/sponsors/Sociedat.png"
       link : "https://sociedat.org/"
+    - logo : "images/sponsors/vinkos.png"
+      link : "https://vinkos.com/"
       
 - title : "community"
   sponsor:
