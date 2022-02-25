@@ -20,25 +20,25 @@ sponsor_group:
     - logo : "images/sponsors/elastic.png"
       link : "https://www.elastic.co/es/"
 
+
 - title : "silver"
   sponsor:
     - logo : "images/sponsors/rstudio.png"
       link : "https://www.rstudio.com/"
     - logo : "images/sponsors/Logos UP.png"
       link : "https://posgradosupags.ags.up.mx/facultad-de-ingenieria/"
+    - logo : "images/sponsors/vinkos.png"
+      link : "https://vinkos.com/"
+    - logo : "images/sponsors/datapub.png"
+      link : "https://twitter.com/thedatapub"
     - logo : "images/sponsors/Pack.png"
       link : "https://www.packtpub.com/"
     - logo : "images/sponsors/Manning.png"
       link : "https://www.manning.com/"
-    - logo : "images/sponsors/Sociedat.png"
-      link : "https://sociedat.org/"
-    - logo : "images/sponsors/vinkos.png"
-      link : "https://vinkos.com/"
-      
+
+
 - title : "community"
   sponsor:
-    - logo : "images/sponsors/datapub.png"
-      link : "https://twitter.com/thedatapub"
     - logo : "images/sponsors/wid.png"
       link : "https://www.linkedin.com/company/women-in-data-science-power-and-engineering/?originalSubdomain=do"
     - logo : "images/sponsors/dsmty.png"
@@ -57,3 +57,5 @@ sponsor_group:
       link : "https://wbds.la/"
     - logo : "images/sponsors/Woman in Data Lima.png"
       link : "https://www.widslima.org/"
+    - logo : "images/sponsors/Sociedat.png"
+      link : "https://sociedat.org/"
