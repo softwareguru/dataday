@@ -14,7 +14,7 @@ banner:
   button2:
     enable : true
     label : "Adquiere tu pase"
-    link : "/datadays/tickets"
+    link : "/tickets"
 
 
 ############################## Event ##############################
