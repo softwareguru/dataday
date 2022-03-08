@@ -9,6 +9,7 @@ instagram: ""
 twitter: ""
 linkedin: "https://www.linkedin.com/in/amauri-garc%C3%ADa-287891129/"
 github: ""
+event-2022: true
 ---
 
 Ingeniero en Finanzas graduado del ITESO Guadalajara, 26 años. Actualmente desempeñando la position de Anslista de Operaciones Senior en Monterrey liderando el equipo de Data Analytics en la Planta de Manufactura. 

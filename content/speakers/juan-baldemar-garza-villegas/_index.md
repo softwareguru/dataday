@@ -3,6 +3,7 @@ title: "Juan Baldemar Garza Villegas"
 image: /images/speakers/2019/09/juan_baldemar.jpg
 date: 2019-09-25
 event-2019mty: true
+event-2022: true
 ---
 
 Ingeniero Mecánico Administrador con Maestría en Administración y Doctorado con línea de investigación en Analítica, Calidad, Mejora Continua e Innovación, por la Universidad Autónoma de Nuevo León.

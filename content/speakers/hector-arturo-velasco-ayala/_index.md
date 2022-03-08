@@ -10,6 +10,7 @@ twitter: ""
 linkedin: "https://www.linkedin.com/in/hector-arturo-velasco-ayala-19484a44/overlay/photo/"
 github: ""
 event-2021: true
+event-2022: true
 ---
 
 Actuario, Docente, Conferencista, Gamer y Friki.
