@@ -1,7 +1,7 @@
 ---
 title: "Samantha G Zeitlin"
 date: 2022-03-07T18:52:07-06:00
-image : "/images/speakers/speakerw.jpg"
+image : "/images/speakers/samantha-g-zeitlin.jpg"
 designation : "Principal Machine Learning Engineer at Elastic"
 country: ""
 facebook: ""
