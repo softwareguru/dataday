@@ -17,12 +17,12 @@ sponsor_group:
   sponsor: 
     - logo : "images/sponsors/nvidia_DD.png"
       link : "https://www.nvidia.com/es-la/"
-    - logo : "images/sponsors/elastic.png"
-      link : "https://www.elastic.co/es/"
-    #- logo : "images/sponsors/Escuela de Gobierno_Tecnológico de Monterrey.png"
-    #  link : "https://escueladegobierno.itesm.mx/"
+    - logo : "images/sponsors/Escuela de Gobierno_Tecnológico de Monterrey.png"
+      link : "https://escueladegobierno.itesm.mx/"
     - logo : "images/sponsors/DataDay_Oracle.png"
       link : "https://www.oracle.com/mx/cloud/"
+    - logo : "images/sponsors/elastic.png"
+      link : "https://www.elastic.co/es/"
 
 
 - title : "silver"
