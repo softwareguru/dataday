@@ -31,6 +31,16 @@ draft: false
 </script>
 </div>
 
+<h2>¿Qué incluye mi pase a Data Days Virtual 2022?</h2>
+ 
+ * Acceso inmediato a todas las grabaciones de las sesiones.
+ * Contacto directo con ponentes mediante el slack del evento.
+ * Acceso exclusivo e ilimitado a las presentaciones y grabaciones.
+ * Acceso a las grabaciones de talleres.
+ * Kit de participantes.
+ * Evento social en mundo virtual.
+ * Constancia de participación.
+
 
 <h2>Descuentos</h2>
 <p>Estos descuentos <strong>solo aplican en el periodo de tarifa normal y no son acumulables entre sí</strong>:</p>
