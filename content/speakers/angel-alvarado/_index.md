@@ -2,7 +2,7 @@
 title: "Angel Alvarado"
 image: /images/speakers/angel-alvarado.jpg
 date: 2021-03-01
-designation : "Coordinadora de uso datos en SocialTIC"
+designation : "Data Engineer & Senior Technical Leader"
 country: ""
 facebook: ""
 instagram: "https://www.linkedin.com/in/frida-garcia-celis/"
