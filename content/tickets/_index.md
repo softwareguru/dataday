@@ -31,7 +31,8 @@ draft: false
 </script>
 </div>
 
-<h2>¿Qué incluye mi pase a Data Days Virtual 2022?</h2>
+<h2>¿Qué incluye mi pase a Data Days Virtual 2022?
+</h2>
  
  * Acceso inmediato a todas las grabaciones de las sesiones.
  * Contacto directo con ponentes mediante el slack del evento.
