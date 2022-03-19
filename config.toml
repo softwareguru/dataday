@@ -48,7 +48,7 @@ home = ["HTML", "RSS"]
 
   [[menu.main]]
   name = "Data Live"
-  URL = "https://mailchi.mp/sg.com.mx/data-live"
+  URL = "datalive"
   weight = 4
 
   #[[menu.main]]
