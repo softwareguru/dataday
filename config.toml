@@ -49,12 +49,12 @@ home = ["HTML", "RSS"]
   [[menu.main]]
   name = "Data Live"
   URL = "datalive"
-  weight = 4
+  weight = 5
 
-  #[[menu.main]]
-  #name = "Networking"
-  #URL = "networking"
-  #weight = 5
+  [[menu.main]]
+  name = "Kit Virtual"
+  URL = "kitvirtual"
+  weight = 4
 
   [[menu.main]]
   name = "Preguntas Frecuentes"

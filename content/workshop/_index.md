@@ -13,6 +13,9 @@ Este lo puedes encontrar en el mail que te mandó Eventbrite al momento de adqui
 
 ### Lunes 28
 
+[Taller: Aplicaciones poderosas al alcance de todos](https://us02web.zoom.us/webinar/register/WN_hoH-O82cS8eGvlFGVcRxaA).
+
+
 [Taller: Dataiku como primera herramienta de Ciencia de Datos: Desde usuario novel a nivel experto](https://us02web.zoom.us/webinar/register/WN_6ufH6pT_Rh-5YOOqMcsbHQ).
 
 
