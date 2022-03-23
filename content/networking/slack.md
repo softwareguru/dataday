@@ -7,4 +7,4 @@ link: https://sg1.run/2021
 weight: 1
 ---
 
-Uniéndote al Slack del evento podrás tener contacto directo con los ponentes, intercambiar ideas con otros colegas y hasta participar en el rally de conocimientos para ganar giftcards de Amazon.
+Uniéndote al Slack del evento podrás tener contacto directo con los ponentes, intercambiar ideas con otros colegas.

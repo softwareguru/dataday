@@ -1,13 +1,15 @@
 ---
-title: "¡Danos tu opinión y participa por una Echo Dot 4Gen!"
+title: "¡Danos tu opinión y participa por una camara web!"
 date: 2021-01-06T18:26:06-06:00
 image: /images/networking/evaluation.png
 button: Evaluación del evento
-link: https://docs.google.com/forms/d/e/1FAIpQLScZnWTN-5UWnt_UffQIwAtBoeYxYXhh3CMpWkxvktRK_rkQ4g/viewform
+link: 
 draft: false
 weight: 3
 ---
 
 Tu opinión es muy importante para nosotros. ¿Hay algo en lo que podemos mejorar? ¿Qué salió bien?
-Estaremos rifando una Echo Dot 4Gen entre todas las personas que nos ayuden evaluando el evento.
-¡Gracias y mucha suerte!
+
+Estaremos rifando una camara web entre todas las personas que nos ayuden evaluando el evento.
+
+¡Mucha suerte!

@@ -5,7 +5,7 @@ image: /images/networking/trivia.png
 button: Unirme a slack
 link: https://sg1.run/2021
 weight: 3
-draft: false
+draft: true
 ---
 
 Demuestra tus conocimientos de data, cultura general, geek y otros temas. ¡Podrías ganar una giftcard de Amazon de hasta $100 USD
