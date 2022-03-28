@@ -57,7 +57,12 @@ home = ["HTML", "RSS"]
   weight = 4
 
   [[menu.main]]
-  name = "Preguntas Frecuentes"
+  name = "Networking"
+  URL = "networking"
+  weight = 4
+
+  [[menu.main]]
+  name = "FAQ"
   URL = "faq"
   weight = 6
 
@@ -81,8 +86,8 @@ disclaimer = ""
 # Navigation button
 [params.navigation_button]
 enable = true
-label = "Tickets"
-link = "/datadays/tickets/"
+label = "Live"
+link = "/datadays/live/"
 
 
 ############################# social icon ############################
