@@ -7,4 +7,4 @@ link: https://sg1.run/datadays-22
 weight: 1
 ---
 
-Uniéndote al Slack del evento podrás tener contacto directo con los ponentes, intercambiar ideas con otros colegas.
+Uniéndote al Slack del evento podrás tener contacto directo con los ponentes e intercambiar ideas con otros colegas.
