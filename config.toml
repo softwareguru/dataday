@@ -66,6 +66,11 @@ home = ["HTML", "RSS"]
   URL = "faq"
   weight = 6
 
+  [[menu.main]]
+  name = "Tickets"
+  URL = "tickets"
+  weight = 5
+
 
 
 #################### default parameters ################################
