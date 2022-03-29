@@ -7,7 +7,7 @@ country: ""
 facebook: ""
 instagram: ""
 twitter: "https://twitter.com/freakisimo"
-linkedin: "https://www.linkedin.com/in/jose-juan-g-2b695689/ "
+linkedin: "https://www.linkedin.com/in/jose-juan-g-2b695689/"
 github: ""
 event-2022: true
 ---
