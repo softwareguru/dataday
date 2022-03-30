@@ -3,7 +3,7 @@ title: "¡Danos tu opinión y participa por una cámara web!"
 date: 2021-01-06T18:26:06-06:00
 image: /images/networking/evaluation.png
 button: Evaluación del evento
-link: https://forms.gle/QXNGjwRg6Ys724ki6
+link: /datadays/evaluaciones/
 draft: false
 weight: 3
 ---
