@@ -41,35 +41,35 @@ home = ["HTML", "RSS"]
   #URL = "tickets/"
   #weight = 3
 
-  [[menu.main]]
-  name = "Conferencistas"
-  URL = "speakers"
-  weight = 3
+  #[[menu.main]]
+  #name = "Conferencistas"
+  #URL = "speakers"
+  #weight = 3
 
   [[menu.main]]
   name = "Data Live"
   URL = "datalive"
   weight = 5
 
-  [[menu.main]]
-  name = "Kit Virtual"
-  URL = "kitvirtual"
-  weight = 4
+  #[[menu.main]]
+  #name = "Kit Virtual"
+  #URL = "kitvirtual"
+  #weight = 4
 
-  [[menu.main]]
-  name = "Networking"
-  URL = "networking"
-  weight = 4
+  #[[menu.main]]
+  #name = "Networking"
+  #URL = "networking"
+  #weight = 4
 
   [[menu.main]]
   name = "FAQ"
   URL = "faq"
   weight = 6
 
-  [[menu.main]]
-  name = "Tickets"
-  URL = "tickets"
-  weight = 5
+  #[[menu.main]]
+  #name = "Tickets"
+  #URL = "tickets"
+  #weight = 5
 
 
 
@@ -90,7 +90,7 @@ disclaimer = ""
 
 # Navigation button
 [params.navigation_button]
-enable = true
+enable = false
 label = "Live"
 link = "/datadays/live/"
 

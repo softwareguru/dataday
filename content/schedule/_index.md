@@ -2,7 +2,7 @@
 title: Agenda de sesiones
 subtitle: "Dates & times should show in your local time zone."
 
-url: /agenda
+url:
 
 blocks: 
   - id: a-2022

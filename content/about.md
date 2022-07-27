@@ -5,12 +5,12 @@ url: "/about-us"
 
 ---
 
-#### Data Day(s) 2022 se realizará de manera virtual del 28 de marzo al 1ro de abril
+#### Data Day Monterrey se realizará en formato híbrido en Monterrey, México.
 
 <br>
 
 El evento está dirigido a personas involucradas en el procesamiento y análisis de datos en contextos empresariales.
 
-Los temas que se abordarán estan enfocados en diferentes áreas como estrategia y liderazgo de organizaciones de data science, hard core machine intelligence, data engineering y data for public policy. 
+Los temas que se abordarán están enfocados en diferentes áreas como estrategia y liderazgo de organizaciones de data science, hard core machine intelligence, data engineering y data for public policy.
 
-Data Day se ha realizado exitosamente de forma presencial desde 2015 hasta 2019 y de forma virtual desde el 2020.
+Data Day se ha realizado exitosamente de forma presencial desde 2015 hasta 2019, forma virtual desde el 2020 y este año regresamos a Monterrey.
