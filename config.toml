@@ -75,7 +75,7 @@ home = ["HTML", "RSS"]
 
 #################### default parameters ################################
 [params]
-logo = "images/datadayslogo2022.png"
+logo = "images/dataday2022.png"
 home = "Home"
 
 # Meta data
