@@ -2,9 +2,9 @@
 banner:
   enable : true
   greeting: Bienvenido a
-  title : "DATA DAY MONTERREY"
+  title : "DATA DAY"
   tagline: "Analizando los datos como los gurús"
-  meta: "Jueves 1ro de diciembre 2022, Camino Real Monterrey Méx. | Evento hibrido"
+  meta: "Jueves 1ro de diciembre 2022, Camino Real Monterrey Méx. | Evento presencial / on demand"
   logo : "/images/logo.svg"
   venue : ""
   button1:
@@ -22,7 +22,7 @@ event_info:
   enable : true
   features: 
     - label : "¿QUÉ ES DATA DAY MONTERREY?"
-      text : "El ya conocido evento para involucrados en el procesamiento y análisis de datos en contextos empresariales, en formato híbrido desde Monterrey, México.
+      text : "El ya conocido evento para involucrados en el procesamiento y análisis de datos en contextos empresariales, en formato presencial desde Monterrey, México.
 Conoce más"
       icon-class: "fa fa-info" 
       cta_text: "Conoce más"
@@ -45,7 +45,7 @@ timer:
 ####################### CTA #############################
 cta:
   enable : true
-  message: "Regresa en formato híbrido Data Day Monterrey el congreso para profesionistas de datos de habla hispana interesados en prácticas y herramientas de clase mundial."
+  message: "Regresa en formato presencial Data Day Monterrey el congreso para profesionistas de datos de habla hispana interesados en prácticas y herramientas de clase mundial."
   label: No dejes pasar esta oportunidad
   link: https://sg.com.mx/datadays/tickets
   

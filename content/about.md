@@ -5,7 +5,7 @@ url: "/about-us"
 
 ---
 
-#### Data Day Monterrey se realizará en formato híbrido en Monterrey, México.
+#### Data Day Monterrey se realizará en formato presencial en Monterrey, México.
 
 <br>
 

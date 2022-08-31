@@ -7,18 +7,19 @@ image: /images/uploads/informacion.png
 
 #### ¿Como participo en Data Day Monterrey 2022?
 
-Data Day Monterrey es un evento híbrido con opciones de asistencia en persona y en línea. El evento en persona tendrá lugar en el Hotel Camino Real Monterrey y los oradores presentarán sus charlas desde allí. Todas las sesiones (excepto los talleres) también se transmitirán en vivo de forma gratuita para nuestra audiencia en línea.
+Data Day Monterrey es un evento presencial y tendrá lugar en el Hotel Camino Real Monterrey, donde los oradores presentarán sus charlas. También tendremos talleres hands on y mesas temáticas.
+Si por alguna razón no puedes asistir, una semana después podrás ver las charlas en formato On-Demand.
 
 
 #### ¿Dónde adquiero mi pase?
 
-Muy pronto podras adquirir tu pase desde este mismo sitio web. Como comentamos previamente, Data Day Monterrey es un evento híbrido y las personas que participen tendrán una gran experiencia, ya sea en persona o en línea.
+Muy pronto podrás adquirir tu pase desde este mismo sitio web. Como comentamos previamente, Data Day Monterrey es un evento presencial diseñado específicamente para que las personas que asistan tengan una gran experiencia.
 
 Las siguientes actividades sólo estarán disponibles para las personas que asistan de forma presencial:
 
-- Workshop en vivo (para participantes en linea otorgaremos acceso a las grabaciones algunos días después de concluido el evento).
-
+- Workshop en vivo.
 - Networking con conferencistas, patrocinadores y asistentes en general.
+- Mesas temáticas de trabajo.
 
 
 
@@ -26,33 +27,27 @@ Las siguientes actividades sólo estarán disponibles para las personas que asis
 
 El evento se realizará el jueves 1ro de diciembre, 2022.
 
-Actualmente estamos trabajando en la agenda y en próximamente podrás conocerla.
+Actualmente estamos trabajando en la agenda y próximamente podrás conocerla.
 
 
 #### ¿Cómo reservo mi lugar para sesiones específicas?
 
-No es necesario reservar tu lugar para charlas. En formato online o de forma presencial podrás entrar a la que sea de tu interes.
+No es necesario reservar tu lugar para charlas.
 
-Para entrar al evento en formato online: 
-
-* Previo al evento, aparecerá en el sitio web el botón: LIVE.
-
-* Dar click al botón que dice “Ingresar / Join”. Saldrá un pop-up con el mensaje “Join event” solicitando tu dirección de email, deberas ingresar el correo con el que te registraste previamente en eventbrite.
-
-* Al introducir tu email, el sistema detectará que ya estás registrada(o). Dale click y recibirás un correo con un enlace para hacer login a Data Day Monterrey en Crowdcast (la plataforma que estamos utilizando para la transmisión).
+Para las charlas On-Demand, tampoco es necesario reservar lugar ya que con tu pase podrás disfrutar de todas.
 
 ***Si en el paso 3 el sistema no reconoce tu correo, te pedimos nos escribas a eventos@sg.com.mx***
 
 #### ¿Dónde puedo ver las grabaciones?
 
-Durante el día del evento, las grabaciones estarán disponibles desde la misma página de transmisión, y posterior al evento te compartiremos el acceso a las grabaciones disponibles.
+Las grabaciones estarán disponibles una semana después de concluir el evento. Las personas que asistan presencialmente tandrán acceso sin costo adicional. 
 
 
 #### ¿Cómo puedo contactar con otros participantes y ponentes?
 
-Para manejar esta comunicación estaremos utilizando slack.
+Para manejar esta comunicación, estaremos utilizando slack.
 
-Te invitamos a que te unas a nosotros en [https://sg1.run/2021](https://sg1.run/2021).
+Te invitamos a que te unas en [https://sg1.run/2021](https://sg1.run/2021).
 
 #### ¿Cómo puedo solicitar soporte?
 
@@ -61,11 +56,11 @@ Contáctanos via email a eventos@sg.com.mx, o bien en el canal #soporte localiza
 
 #### ¿Darán constancias de participación?
 
-Sí. A todas las personas registradas al evento les haremos llegar su constancia de participación. *Importante: la constancia se genera con el nombre completo con el que te registraste.
+Sí. A todas las personas registradas al evento les haremos llegar su constancia de participación. *Importante: la constancia se genera con el nombre completo con el que te registraste. Así que te recomendamos escribirlo completo, tal cual como quieres que aparezca.
 
 #### ¿Las grabaciones y slides de las sesiones se compartirán?
 
-Todas las sesiones serán grabadas y se compartirán con los asistentes del evento, así como las presentaciones (slides).
+Todas las sesiones serán grabadas y se compartirán con todas las personas que participen en el evento, así como las presentaciones (slides).
 
 #### ¿Cuál es la política con respecto a COVID-19 para los asistentes en persona?
 
@@ -81,13 +76,13 @@ En SG nos preocupamos por la seguridad e integridad de nuestros asistentes y qui
 
 #### Diversidad
 
-En SG creemos en la difusión del conocimiento de los innovadores. Creemos que la innovación se ve reforzada por una variedad de perspectivas, y nuestro objetivo es crear un ambiente de conferencia inclusiva, respetuosa, que invite a la participación de personas de todas las razas, etnias, géneros, edades, capacidades, las religiones, y la orientación sexual. Puedes revisar nuestra política de diversidad [aquí](https://sg.com.mx/datadays/diversidad).
+En SG creemos en la difusión del conocimiento de los innovadores. Creemos que la innovación se ve reforzada por una variedad de perspectivas, y nuestro objetivo es crear un ambiente de conferencia inclusiva, respetuosa, que invite a la participación de personas de todas las razas, etnias, géneros, edades, capacidades, religiones, y orientación sexual. Puedes revisar nuestra política de diversidad [aquí](https://sg.com.mx/datadays/diversidad).
 
 
 #### Política de privacidad de datos
 
-Conoce nuestra [política de privacidad de datos](/datadays/politica-de-privacidad)
+Conoce nuestra [política de privacidad de datos](/datadays/politica-de-privacidad).
 
 #### Contáctanos
 
-Si no hemos logrado resolver tus preguntas, por favor contáctanos: eventos@sg.com.mx
+Si no hemos logrado resolver tus preguntas, por favor escríbenos a eventos@sg.com.mx o por medio de [Slack](https://sg1.run/2021).
