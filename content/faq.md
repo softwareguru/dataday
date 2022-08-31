@@ -21,7 +21,7 @@ Las siguientes actividades sólo estarán disponibles para las personas que asis
 - Networking con conferencistas, patrocinadores y asistentes en general.
 - Mesas temáticas de trabajo.
 
-
+<br>
 
 #### ¿Cuál será el horario del evento?
 
@@ -36,7 +36,6 @@ No es necesario reservar tu lugar para charlas.
 
 Para las charlas On-Demand, tampoco es necesario reservar lugar ya que con tu pase podrás disfrutar de todas.
 
-***Si en el paso 3 el sistema no reconoce tu correo, te pedimos nos escribas a eventos@sg.com.mx***
 
 #### ¿Dónde puedo ver las grabaciones?
 
