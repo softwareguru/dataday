@@ -14,6 +14,18 @@
 {{ end }}
 <!-- /event_info -->
 
+<!-- cta_cfp  -->
+{{ if $data.homepage.cta.enable }}
+{{ partial "cta.html" . }}
+{{ end }}
+<!-- /cta_cfp -->
+
+<!-- sponsor -->
+{{ if $data.homepage.sponsors.enable }}
+{{ partial "sponsor.html" . }}
+{{ end }}
+<!-- /sponsor -->
+
 <!-- blog -->
 {{ if $data.homepage.datalive.enable }}
 {{ partial "datalive.html" . }}
@@ -21,11 +33,6 @@
 <!-- /blog -->
 
 
-<!-- cta_cfp  -->
-{{ if $data.homepage.cta.enable }}
-{{ partial "cta.html" . }}
-{{ end }}
-<!-- /cta_cfp -->
 
 
 <!-- schedule -->
@@ -61,11 +68,6 @@
 {{ end }}
 <!-- /speaker -->
 
-<!-- sponsor -->
-{{ if $data.homepage.sponsors.enable }}
-{{ partial "sponsor.html" . }}
-{{ end }}
-<!-- /sponsor -->
 
 
 

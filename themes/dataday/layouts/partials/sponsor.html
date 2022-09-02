@@ -9,7 +9,7 @@
     </div>
     {{ range .sponsor_group }}
     <div class="text-center">{{ humanize .title }}</div>
-    <div class="sponsor-strip {{ .title }} mb-4">
+    <div class="sponsor-strip {{ .title }} mb-4 py-2">
       {{ range .sponsor }}
       <div class="sponsor-item">
         {{ if and (ne .link "") (ne .link "#") }}

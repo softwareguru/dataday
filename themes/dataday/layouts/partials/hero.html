@@ -7,8 +7,8 @@
     <div class="hero-info">
       {{ with .greeting }}<h2>{{ . }}</h2>{{ end }}
       {{ with .title }}<h1>{{ . }}</h1>{{ end }}
-      {{ with .tagline }}<h3>{{ . }}</h3>{{ end }}
-      {{ with .meta }}<h3>{{ . }}</h3>{{ end }}
+      {{ with .tagline }}<h3 class="tagline">{{ . }}</h3>{{ end }}
+      {{ with .meta }}<h4>{{ . }}</h3>{{ end }}
     </div>
 
     {{ if .button1.enable }}

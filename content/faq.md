@@ -7,8 +7,9 @@ image: /images/uploads/informacion.png
 
 #### ¿Como participo en Data Day Monterrey 2022?
 
-Data Day Monterrey es un evento presencial y tendrá lugar en el Hotel Camino Real Monterrey, donde los oradores presentarán sus charlas. También tendremos talleres hands on y mesas temáticas.
-Si por alguna razón no puedes asistir, una semana después podrás ver las charlas en formato On-Demand.
+Data Day Monterrey es un evento presencial que se realizará en el Hotel Camino Real Monterrey. Tendremos charlas, talleres y mesas temáticas.
+
+Para quienes no pueden asistir en persona, una semana después del evento habilitaremos una experiencia virtual donde podrán ver grabaciones de las charlas y participar en talleres remotos en vivo.
 
 
 #### ¿Dónde adquiero mi pase?
@@ -17,7 +18,7 @@ Muy pronto podrás adquirir tu pase desde este mismo sitio web. Como comentamos 
 
 Las siguientes actividades sólo estarán disponibles para las personas que asistan de forma presencial:
 
-- Workshop en vivo.
+- Workshop presenciales.
 - Networking con conferencistas, patrocinadores y asistentes en general.
 - Mesas temáticas de trabajo.
 
@@ -25,62 +26,40 @@ Las siguientes actividades sólo estarán disponibles para las personas que asis
 
 #### ¿Cuál será el horario del evento?
 
-El evento se realizará el jueves 1ro de diciembre, 2022.
+El evento se realizará el jueves 1ro de diciembre de 2022 iniciando sesiones a las 8:30 am y terminando a las 6:30 pm, seguido de un convivio. 
 
-Actualmente estamos trabajando en la agenda y próximamente podrás conocerla.
-
-
-#### ¿Cómo reservo mi lugar para sesiones específicas?
-
-No es necesario reservar tu lugar para charlas.
-
-Para las charlas On-Demand, tampoco es necesario reservar lugar ya que con tu pase podrás disfrutar de todas.
+Actualmente estamos trabajando en la agenda y próximamente la publicaremos en este sitio.
 
 
 #### ¿Dónde puedo ver las grabaciones?
 
-Las grabaciones estarán disponibles una semana después de concluir el evento. Las personas que asistan presencialmente tandrán acceso sin costo adicional. 
-
-
-#### ¿Cómo puedo contactar con otros participantes y ponentes?
-
-Para manejar esta comunicación, estaremos utilizando slack.
-
-Te invitamos a que te unas en [https://sg1.run/2021](https://sg1.run/2021).
-
-#### ¿Cómo puedo solicitar soporte?
-
-Contáctanos via email a eventos@sg.com.mx, o bien en el canal #soporte localizado en el slack del evento.
+Las grabaciones estarán disponibles una semana después de concluir el evento para aquellas personas que hayan participado de forma presencial, así como para quienes tengan un ticket con acceso a la experiencia virtual. Recibirás un correo electrónico con instrucciones para acceder.
 
 
 #### ¿Darán constancias de participación?
 
 Sí. A todas las personas registradas al evento les haremos llegar su constancia de participación. *Importante: la constancia se genera con el nombre completo con el que te registraste. Así que te recomendamos escribirlo completo, tal cual como quieres que aparezca.
 
-#### ¿Las grabaciones y slides de las sesiones se compartirán?
-
-Todas las sesiones serán grabadas y se compartirán con todas las personas que participen en el evento, así como las presentaciones (slides).
-
 #### ¿Cuál es la política con respecto a COVID-19 para los asistentes en persona?
 
-Todas las personas que asistan presencialmente a Data Day deberán mostrar su esquema de vacunación completo contra el COVID-19 (tres dosis, según la vacuna) o proporcionar un resultado negativo de la prueba PCR de 72 horas.
+Todas las personas que asistan presencialmente a Data Day deberán mostrar su esquema de vacunación completo (según la vacuna) contra el COVID-19 o proporcionar un resultado negativo de la prueba PCR realizado en las 72 horas anteriores al evento.
 
-Se requerirá que los asistentes usen máscaras faciales en las salas de conferencias y actividades en interiores.
+Se requerirá que los asistentes usen máscaras faciales en las salas de conferencias y actividades en interiores. 
 
-Habrá estaciones de desinfectante alrededor del lugar del evento.
+Habrá estaciones de desinfectante alrededor del lugar del evento y mascarillas desechables para quienes hayan olvidado la suya.
 
 #### Código de conducta
 
-En SG nos preocupamos por la seguridad e integridad de nuestros asistentes y quienes se involucran en nuestros eventos, para lo cuál, te dejamos un código de conducta que seguimos. Si quieres leer más acerca de éste, puedes hacer [click aquí](https://sg.com.mx/datadays/coc).
+En SG nos preocupamos por la seguridad e integridad de nuestros asistentes y quienes se involucran en nuestros eventos, para lo cuál, te dejamos un código de conducta que seguimos. Si quieres leer más acerca de éste, puedes hacer [click aquí](https://sg.com.mx/dataday/coc).
 
 #### Diversidad
 
-En SG creemos en la difusión del conocimiento de los innovadores. Creemos que la innovación se ve reforzada por una variedad de perspectivas, y nuestro objetivo es crear un ambiente de conferencia inclusiva, respetuosa, que invite a la participación de personas de todas las razas, etnias, géneros, edades, capacidades, religiones, y orientación sexual. Puedes revisar nuestra política de diversidad [aquí](https://sg.com.mx/datadays/diversidad).
+En SG creemos en la difusión del conocimiento de los innovadores. Creemos que la innovación se ve reforzada por una variedad de perspectivas, y nuestro objetivo es crear un ambiente de conferencia inclusiva, respetuosa, que invite a la participación de personas de todas las razas, etnias, géneros, edades, capacidades, religiones, y orientación sexual. Puedes revisar nuestra política de diversidad [aquí](https://sg.com.mx/dataday/diversidad).
 
 
 #### Política de privacidad de datos
 
-Conoce nuestra [política de privacidad de datos](/datadays/politica-de-privacidad).
+Conoce nuestra [política de privacidad de datos](/dataday/politica-de-privacidad).
 
 #### Contáctanos
 

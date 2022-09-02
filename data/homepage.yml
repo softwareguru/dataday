@@ -2,9 +2,9 @@
 banner:
   enable : true
   greeting: Bienvenido a
-  title : "DATA DAY"
+  title : "Data Day"
   tagline: "Data Science desde el corazón industrial de MX"
-  meta: "Jueves 1ro de diciembre 2022, Camino Real Monterrey, México."
+  meta: "1ro de diciembre de 2022. Hotel Camino Real. Monterrey, México."
   logo : "/images/logo.svg"
   venue : ""
   button1:
@@ -21,22 +21,21 @@ banner:
 event_info:
   enable : true
   features: 
-    - label : "¿QUÉ ES DATA DAY MONTERREY?"
-      text : "El ya conocido evento para involucrados en el procesamiento y análisis de datos en contextos empresariales, en formato presencial desde Monterrey, México.
-Conoce más"
+    - label : "¿Qué es Data Day Monterrey?"
+      text : "Es el foro para formar sinergias entre empresarios, ingenieros y académicos con el fin de implementar iniciativas exitosas de ciencia de datos e IA en sus organizaciones."
       icon-class: "fa fa-info" 
       cta_text: "Conoce más"
-      cta_link: "http://sg.com.mx/datadays/about-us/"
+      cta_link: "about-us"
     - label : "¿Quiénes deben participar?"
-      text : "Todos los involucrados en el análisis, gestión y procesamiento de datos: data analysts, data scientists, data managers."
+      text : "Data Day está dirigido a los distintos roles involucrados en iniciativas de ciencia de datos e IA en contextos empresariales: líderes de datos, científicos de datos e ingenieros de datos."
       icon-class: "fa fa-group" 
       cta_text: "Quiero participar"
-      cta_link: "http://sg.com.mx/datadays/tickets/"
+      cta_link: "tickets"
     - label : "¿Cuál será el contenido?"
-      text : "Durante Data Day Monterrey trataremos temas como: modelado predictivo, machine learning, procesamiento de lenguaje natural, visualización y procesamiento de datos, entre otros temas."
+      text : "El contenido se alinea a los intereses de nuestros 3 segmentos de audiencia: casos de estudio para líderes de datos (CDOs); técnicas efectivas para machine learning e IA (data scientists); herramientas modernas para el procesamiento de datos a gran escala (data engineers)."
       icon-class: "fa fa-table" 
       cta_text: "Ver agenda de sesiones anteriores"
-      cta_link: "http://sg.com.mx/datadays/sessions/"
+      cta_link: "sessions"
 
 ####################### Timer #############################
 timer:
@@ -45,7 +44,7 @@ timer:
 ####################### CTA #############################
 cta:
   enable : true
-  message: "Regresa en formato presencial Data Day Monterrey el congreso para profesionistas de datos de habla hispana interesados en prácticas y herramientas de clase mundial."
+  message: "Desde 2015 Data Day es el congreso líder para inspirar, informar y vincular a los profesionistas de datos en México. En 2022 vuelve a Monterrey de forma presencial."
   label: No dejes pasar esta oportunidad
   link: https://sg.com.mx/datadays/tickets
   

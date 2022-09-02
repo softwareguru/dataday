@@ -1,16 +1,19 @@
 ---
-title: Acerca de DataDay(s)
+title: Acerca de DataDay
 date: '2019-09-10T07:51:25.000+00:00'
 url: "/about-us"
 
 ---
 
-#### Data Day Monterrey se realizará en formato presencial en Monterrey, México.
+
+<br>
+Data Day es el foro para formar sinergias entre empresarios, ingenieros y académicos con el fin de implementar iniciativas exitosas de ciencia de datos e IA en sus organizaciones.
+<br>
+
+* Somos la conferencia líder para profesionales de datos empresariales en América Latina desde 2015. 
+* Ponemos en la misma mesa a ingenieros de datos, científicos de datos, y tomadores de decisiones para que formen sinergias multiplicativas alrededor de iniciativas de datos en sus organizaciones.
+* Acercamos las principales tendencias y herramientas de mayor impacto para el análisis y procesamiento de datos.
 
 <br>
 
-El evento está dirigido a personas involucradas en el procesamiento y análisis de datos en contextos empresariales.
-
-Los temas que se abordarán están enfocados en diferentes áreas como estrategia y liderazgo de organizaciones de data science, hard core machine intelligence, data engineering y data for public policy.
-
-Data Day se ha realizado exitosamente de forma presencial desde 2015 hasta 2019, forma virtual desde el 2020 y este año regresamos a Monterrey.
+<h4 class="text-center">Data Day regresa a Monterrey de forma presencial. <br>Nos vemos el 1ro de diciembre de 2022 en el Hotel Camino Real Monterrey.</h4>
