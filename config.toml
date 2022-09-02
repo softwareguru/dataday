@@ -1,9 +1,11 @@
 
 ######################## default configuration ####################
 baseURL = "https://sg.com.mx/dataday/"
+publishDir = "public/dataday"
 title = "Data Day Monterrey 2022"
 enableRobotsTXT = true
 RemovePathAccents = true
+
 
 googleAnalytics = "UA-21077034-25"
 
