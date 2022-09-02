@@ -1,7 +1,7 @@
 
 ######################## default configuration ####################
-baseURL = "https://sg.com.mx/datadays/"
-title = "Data Day(s) 2022"
+baseURL = "https://sg.com.mx/dataday/"
+title = "Data Day Monterrey 2022"
 enableRobotsTXT = true
 RemovePathAccents = true
 
