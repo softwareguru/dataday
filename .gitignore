@@ -1,4 +1,5 @@
 .hugo_build.lock
+.DS_Store
 
 # Logs
 logs
@@ -74,5 +75,3 @@ public
 resources
 *Zone.Identifier
 tmp
-
-.DS_Studio
