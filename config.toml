@@ -33,25 +33,21 @@ home = ["HTML", "RSS"]
 
 
   [[menu.main]]
+  name = "Acerca de"
+  URL = "about-us"
+  weight = 1
+
+
+  [[menu.main]]
   name = "Agenda"
   URL = "agenda"
   weight = 2
 
- 
-  #[[menu.main]]
-  #name = "Tickets"
-  #URL = "tickets/"
-  #weight = 3
 
   #[[menu.main]]
-  #name = "Conferencistas"
-  #URL = "speakers"
-  #weight = 3
-
-  [[menu.main]]
-  name = "Data Live"
-  URL = "datalive"
-  weight = 5
+  #name = "Data Live"
+  #URL = "datalive"
+  #weight = 5
 
   #[[menu.main]]
   #name = "Kit Virtual"
@@ -68,10 +64,6 @@ home = ["HTML", "RSS"]
   URL = "faq"
   weight = 6
 
-  #[[menu.main]]
-  #name = "Tickets"
-  #URL = "tickets"
-  #weight = 5
 
 
 
@@ -92,9 +84,9 @@ disclaimer = ""
 
 # Navigation button
 [params.navigation_button]
-enable = false
-label = "Live"
-link = "/datadays/live/"
+enable = true
+label = "BOLETOS"
+link = "/dataday/tickets"
 
 
 ############################# social icon ############################

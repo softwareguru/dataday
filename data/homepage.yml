@@ -10,11 +10,11 @@ banner:
   button1:
     enable : false
     label : "Adquiere tu pase"
-    link : "/datadays/tickets"
-  button2:
-    enable : false
-    label : "Adquiere tu pase"
     link : "/tickets"
+  button2:
+    enable : true
+    label : "Convocatoria de ponencias"
+    link : "https://convoca.dev/dataday-mty-2022/cfp"
 
 
 ############################## Event ##############################
