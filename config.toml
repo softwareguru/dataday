@@ -73,14 +73,24 @@ logo = "images/dataday2022.png"
 home = "Home"
 
 # Meta data
-description = "Data Day(s) es el congreso líder de ciencia e ingeniería de datos en México con tres tracks: data MBA, hard core machine learning, e ingeniería de datos."
+description = "Data Day es el congreso líder de ciencia e ingeniería de datos. La próxima edición es el 1 de diciembre de 2022."
 image = "images/card-2022.jpg"
 images = ["images/card-2022.jpg"]
 twitter_user = "@revistasg"
 email = "eventos@sg.com.mx"
 author = "Software Guru"
-
 disclaimer = ""
+
+start_date = "2022-12-01T8:30-05:00"
+end_date = "2022-12-01T19:00-05:00"
+
+[params.venue]
+name = "Hotel Camino Real Monterrey"
+street = "Av. Diego Rivera 2492"
+city = "San Pedro Garza García"
+region = "NL"
+zipcode = "66200"
+country = "Mexico"
 
 # Navigation button
 [params.navigation_button]

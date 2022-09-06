@@ -46,10 +46,18 @@
       "startDate": {{ .Site.Params.start_date }},
       "endDate": {{ .Site.Params.end_date }},
       "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "location": {
-        "@type": "VirtualLocation",
-        "url": {{ .Site.BaseURL }}
+        "@type": "Place",
+        "name": "{{ with .Site.Params.venue.name }}{{ . }}{{ end }}",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "{{ with .Site.Params.venue.street }}{{ . }}{{ end }}",
+          "addressLocality": "{{ with .Site.Params.venue.city }}{{ . }}{{ end }}",
+          "postalCode": "{{ with .Site.Params.venue.zipcode }}{{ . }}{{ end }}",
+          "addressRegion": "{{ with .Site.Params.venue.region }}{{ . }}{{ end }}",
+          "addressCountry": "{{ with .Site.Params.venue.country }}{{ . }}{{ end }}"
+        }
       },
       "image": [
         {{ .Site.Params.image | absURL }}
@@ -58,10 +66,10 @@
       "offers": {
         "@type": "Offer",
         "url": {{ with .Site.Params.navigation_button.link }}{{ . | absURL }}{{ end }},
-        "price": "0",
-        "priceCurrency": "USD",
+        "price": "3400",
+        "priceCurrency": "MXN",
         "availability": "https://schema.org/InStock",
-        "validFrom": "2021-01-01T12:00"
+        "validFrom": "2022-09-01T12:00"
       },
       "performer": {
         "@type": "PerformingGroup",
@@ -70,7 +78,7 @@
       "organizer": {
         "@type": "Organization",
         "name": "Software Guru",
-        "url": "https://devrel.sg.com.mx"
+        "url": "https://sg.com.mx/dataday"
       }
     }
   </script>
