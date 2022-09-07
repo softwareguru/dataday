@@ -1,11 +1,13 @@
 ---
 title: "José Antonio Padrós"
-image: /images/speakers/2017/01/antonio-padros.jpg
+image: /images/speakers/antonio-padros.jpg
 date: 2017-01-30
-event-2017: true
-event-2018: true
-event-2019cdmx: true
-event-2021: true
+events:
+ - 2021
+ - 2019cdmx
+ - 2018
+ - 2017
+designation: "Analytical Services Director @ IPE"  
 ---
 
 Consultor de analítica de datos, colaborando en distintas industrias para la mejor gestión de campañas de marketing, perfiles de riesgo crediticio y desarrollo de estrategia. Sus áreas de especialidad incluyen la minería de datos y modelado predictivo, y tiene un interés especial en el estudio del funcionamiento de la mente humana.

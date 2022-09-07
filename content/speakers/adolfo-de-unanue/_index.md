@@ -1,6 +1,6 @@
 ---
 title: "Adolfo De Unánue"
-image: /images/speakers/2017/01/adolfo-unane.jpg
+image: /images/speakers/adolfo-unanue.jpg
 date: 2020-01-13
 designation : "Director Académico y de Investigación de la EGobiernoyTP"
 country: ""
@@ -9,10 +9,12 @@ instagram: ""
 twitter: "https://twitter.com/nano_unanue"
 linkedin: ""
 github: ""
-event-2018: true
-event-2020: true
-event-2021: true
-event-2022: true
+events: 
+  - 2022
+  - 2021
+  - 2020
+  - 2018
+
 ---
 
 Director Académico y de Investigación en la Escuela de Gobierno y Transformación Pública del Tecnológico de Monterrey, posición en la cual coordina los esfuerzos para integrar la Ciencia de Datos en temas de Política Pública.

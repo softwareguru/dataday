@@ -4,8 +4,6 @@ track: strategy
 block: c
 id: ct8
 title:  Evento Networking
-speakers:
-  - Gather Town
 time_start: 2021-03-24T19:15:00-06:00
 slot: t8
 ---

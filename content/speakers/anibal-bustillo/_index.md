@@ -9,7 +9,8 @@ instagram: ""
 twitter: ""
 linkedin: "https://www.linkedin.com/in/anibalbustillo/"
 github: ""
-event-2022: true
+events: 
+ - 2022
 ---
 
 Ingeniero en Comunicaciones y Electrónica ESIME IPN.

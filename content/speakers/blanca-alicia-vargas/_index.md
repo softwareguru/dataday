@@ -1,6 +1,6 @@
 ---
 title: "Blanca Alicia Vargas"
-image: /images/speakers/2019/01/blanca-vargas.jpg
+image: /images/speakers/blanca-vargas.jpg
 date: 2019-01-22
 event-2019cdmx: true
 event-2020: true

@@ -1,8 +1,11 @@
 ---
 title: "Alejandro Vergara"
-image: /images/speakers/2019/01/alejandro-vergara.jpg
+image: /images/speakers/alejandro-vergara.jpg
 date: 2019-01-24
-event-2019cdmx: true
+events: 
+ - 2019cdmx
+linkedin: https://www.linkedin.com/in/alejandro-vergara-torres/
+designation: Director de Procesos Tecnológicos @ INE
 ---
 
 Apasionado por la tecnología y la solución de problemas, desarrollador de aplicaciones, arquitecto de soluciones.

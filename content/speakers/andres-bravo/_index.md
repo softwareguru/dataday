@@ -9,7 +9,8 @@ instagram: ""
 twitter: "https://twitter.com/bitshoroscope"
 linkedin: "https://www.linkedin.com/in/abravo-m/"
 github: ""
-event-2022: true
+events:
+ - 2022
 ---
 
 Escribir software es mi pasión. Durante diez años, he ido mejorando mis habilidades. He tenido la suerte de encontrar mentores y guías de los que aprender, que me han enseñado una filosofía que he fomentado durante mi carrera profesional y que intento transmitir a los equipos y empresas donde he trabajado.

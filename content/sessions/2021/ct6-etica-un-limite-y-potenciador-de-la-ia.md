@@ -2,7 +2,7 @@
 id: ct6
 title: "Ética: un límite y potenciador de la IA"
 speakers:
- - Bárbara Gaspar
+ - Barbara Guadalupe Gaspar Gaona
 time_start: 2021-03-24T17:45:00-06:00
 time_end:   2021-03-24T18:30:00-06:00
 block: c

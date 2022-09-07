@@ -1,8 +1,10 @@
 ---
 title: "Amaury Gutiérrez"
-image: /images/speakers/2018/01/amaury-gutierrez.jpg
+image: /images/speakers/amaury-gutierrez.jpg
 date: 2018-01-23
-event-2018: true
+events:
+ - 2018
+designation: "Software Developer @ Amazon Music" 
 ---
 
 Amaury estudió la carrera conjunta de Matemáticas Aplicadas e Ingeniería Computación en el Instituto Tecnológico Autónomo de México (ITAM). Después de trabajar algunos años en la industria de software se integró a un equipo interdisciplinario en la Comisión Nacional para el Conocimiento y uso de la Biodiversidad (CONABIO), para colaborar en el análisis de fenómenos con amplias cantidades de datos. Con el objetivo de pulir el conjunto de herramientas a su disposición, cursó la Maestría en Ciencia de Datos en el ITAM.

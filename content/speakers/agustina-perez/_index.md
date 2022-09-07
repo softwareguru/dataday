@@ -9,5 +9,6 @@ instagram: ""
 twitter: ""
 linkedin: "https://www.linkedin.com/in/agustinaperezmirianco/"
 github: ""
-event-2022: true
+events: 
+ - 2022
 ---

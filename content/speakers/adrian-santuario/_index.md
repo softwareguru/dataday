@@ -1,8 +1,10 @@
 ---
 title: "Adrián Santuario"
-image: /images/speakers/2018/01/adrian-santuario.jpg
+image: /images/speakers/adrian-santuario.jpg
 date: 2018-01-23
-event-2018: true
+events: 
+ - 2018
+designation: Profesor investigador
 ---
 
 Adrian Santuario es un tecnólogo de contexto, continuamente buscando el mejor contexto y medio para los mensajes combinando la ciencia y el arte. Le apasiona estudiar y experimentar con nuevas tecnologías para encontrar aplicaciones provocativas fuera de su contexto tradicional.

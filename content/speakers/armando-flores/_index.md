@@ -1,8 +1,10 @@
 ---
 title: "Armando Flores"
-image: /images/speakers/2019/09/armando_flores.jpg
+image: /images/speakers/armando_flores.jpg
 date: 2019-09-23
-event-2019mty: true
+events:
+ - 2019mty
+designation: Investigador
 ---
 
 Armando Flores se formó en una Licenciatura en Física y Matemáticas en Escuela Superior de Física y Matemáticas del IPN. Cuenta además con una Maestría en Ciencias con especialidad en Probabilidad y Estadística en el Centro de Investigación de Matemáticas (CIMAT).

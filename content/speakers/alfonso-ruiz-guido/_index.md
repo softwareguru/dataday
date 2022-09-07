@@ -1,8 +1,10 @@
 ---
 title: "Alfonso Ruiz Guido"
-image: /images/speakers/2020/02/Alfonso.jpg
+image: /images/speakers/alfonso-ruiz.jpg
 date: 2020-02-07
-event-2020: true
+events:
+ - 2020
+designation: "Fundador y director de Colegio Bourbaki" 
 ---
 
 Estudioso y apasionado de las matemáticas, su especialidad es la Lógica Matemática y sus aplicaciones.

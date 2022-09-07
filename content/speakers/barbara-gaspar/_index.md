@@ -1,8 +1,0 @@
----
-title: "Bárbara Gaspar"
-image: /images/speakers/barbara-gaspar.jpg
-date: 2021-03-03
-event-2021: true
----
-
-Estudiante de la Facultad de Economía de la UNAM, con un diplomado en matemáticas y estadística (MIDE), en evaluación de políticas públicas (SHCP), investigadora de diagnóstico en científicas de datos, enlace estatal de género de la Red Internacional de Promotores ODS, autora del artículo “Desigualdad de género un fenómeno que trasciende fronteras” (ORBEM), del artículo “Migración femenina; puntos cardinales de la pobreza” (CESOP), del artículo “Las voces que nos recuperan” (CONSEPP), y “América Latina, y la Agenda 2030. Un debate que no termina” para RIEG DEL ARTÍCULO “Brecha digital un rostro de la desigualdad” Revista Ecuméne, y del artículo “Ingreso Básico Universal: una transferencia de calidad de vida” Divulgación Científica, comentarista del Informe de Comercio y Desarrollo 2019 UNCTAD, becaría de investigación del Programa Universitario de Estudios de Desarrollo, asistente de investigación en 2018 del proyecto PAPIIT sobre análisis de pensiones en la Facultad de Economía, en la Facultad de ciencias políticas y sociales de la Universidad Complutense de Madrid en 2019, y en 2020 en la Universidad de Alcalá, coautora de la guía de ciencia participativa en América Latina, ganadora del tercer lugar del concurso de Ensayo Universitario de Política Exterior Feminista (SRE) y de la presea Jóvenes con Valores del Estado de México actualmente consultora de apoyo en el Banco Interamericano de Desarrollo (BID).
