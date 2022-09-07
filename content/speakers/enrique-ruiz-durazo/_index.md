@@ -1,8 +1,11 @@
 ---
 title: "Enrique Ruiz"
-image: /images/speakers/2019/01/enrique-ruiz.jpeg
+image: /images/speakers/enrique-ruiz.jpg
 date: 2019-01-24
-event-2019cdmx: true
+events:
+ - 2019cdmx
+linkedin: https://www.linkedin.com/in/ruizdurazo/
+designation: Web developer @ Maklando 
 ---
 
 Soy arquitecto de formación por la UNAM, y posteriormente me introduje en la programación y el diseño digital. Intento entender problemas y contar historias con el uso de los datos, el diseño y la tecnología.

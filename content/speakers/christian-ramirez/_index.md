@@ -1,7 +1,9 @@
 ---
 title: "Christian Ramírez"
-image: /images/speakers/2020/02/Christian-Ramírez.jpg
+image: /images/speakers/christian-ramirez.jpg
 date: 2020-02-07
-event-2020: true
+events:
+ - 2020
+designation: Machine Learning Team Leader @ Mercado Libre
 ---
 

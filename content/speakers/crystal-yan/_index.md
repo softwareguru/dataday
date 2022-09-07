@@ -1,8 +1,10 @@
 ---
 title: "Crystal Yan"
-image: /images/speakers/2018/01/crystal-yan.jpg
+image: /images/speakers/crystal-yan.jpg
 date: 2018-01-23
-event-2018: true
+events:
+ - 2018
+designation: Product Manager @ Stripe 
 ---
 
 Crystal Yan is a design and product leader with international experience in emerging markets, committed to transforming companies to be more design driven and with experience using behavioral design and artificial intelligence to create meaningful user experiences.
