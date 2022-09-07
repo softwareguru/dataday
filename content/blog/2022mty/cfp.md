@@ -1,7 +1,7 @@
 ---
 title: "Participa como conferencista en Data Day Monterrey 2022"
 date: 2022-09-02T12:00:00-06:00
-image : "images/blog/2022mty-cfp.jpg"
+image : "images/blog/2022mty-cfp.webp"
 
 draft: false
 ---

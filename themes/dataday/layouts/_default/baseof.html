@@ -15,11 +15,13 @@
 	{{ range .Site.Params.plugins.js}}
 	<script src="{{ .link | relURL }}"></script>
 	{{ end }}
-  
-	{{ if .IsHome }}
-	{{ partial "netlifycms.html" . }}
+
+	{{ "<!-- JS page Plugins -->" | safeHTML }}
+	{{ range .Params.footerscripts}}
+	<script src="{{ . }}"></script>
 	{{ end }}
-	
+
+  	
 </body>
 
 </html>
