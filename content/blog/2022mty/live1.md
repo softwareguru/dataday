@@ -1,7 +1,7 @@
 ---
 title: "Data Live: Visión de contenidos para Data Day Monterrey 2022"
 date: 2022-09-05T10:10:23-06:00
-image: "images/blog/2022mty-live1.png"
+image: "images/blog/2022mty-live1.jpg"
 draft: false
 datalive: true
 ---
