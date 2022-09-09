@@ -21,7 +21,7 @@ banner:
 event_info:
   enable : true
   features: 
-    - label : "¿Qué es Data Day Monterrey?"
+    - label : "¿Qué es Data Day?"
       text : "Es el foro para formar sinergias entre empresarios, ingenieros y académicos con el fin de implementar iniciativas exitosas de ciencia de datos e IA en sus organizaciones."
       icon-class: "fa fa-info" 
       cta_text: "Conoce más"
@@ -44,7 +44,7 @@ timer:
 ####################### CTA #############################
 cta:
   enable : true
-  message: "Desde 2015 Data Day es el congreso líder para inspirar, informar y vincular a los profesionistas de datos en México. En 2022 vuelve a Monterrey de forma presencial."
+  message: "Desde 2015 Data Day es el congreso líder para inspirar, informar y vincular a los profesionistas de datos en Latam. En 2022 vuelve a Monterrey de forma presencial."
   label: No dejes pasar esta oportunidad
   link: https://sg.com.mx/datadays/tickets
   
