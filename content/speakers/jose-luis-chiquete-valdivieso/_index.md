@@ -9,7 +9,8 @@ instagram: ""
 twitter: ""
 linkedin: "https://www.linkedin.com/in/josech/"
 github: ""
-event-2022: true
+events:
+ - 2022
 ---
 
 Entusiasta del código abierto, GNU/Linux, de la programación y de los datos. Líder de las comunidades y propietario de las marcas Pythonista y Cloudevel.  CTO en Grupo Qualtop.

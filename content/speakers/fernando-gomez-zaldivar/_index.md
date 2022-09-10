@@ -9,7 +9,8 @@ instagram: ""
 twitter: "https://twitter.com/fgmzz"
 linkedin: ""
 github: ""
-event-2022: true
+events:
+ - 2022
 ---
 
 Fernando Gómez es investigador y consultor en la Escuela de Gobierno y Transformación Pública del Tecnológico de Monterrey. Es miembro del Sistema Nacional de Investigadores (SNI) del CONACYT en México. Su principal línea de investigación es complejidad económica y desarrollo regional.

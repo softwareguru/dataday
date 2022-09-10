@@ -9,7 +9,8 @@ instagram: ""
 twitter: "https://twitter.com/freakisimo"
 linkedin: "https://www.linkedin.com/in/jose-juan-g-2b695689/"
 github: ""
-event-2022: true
+events:
+ - 2022
 ---
 
 Soy un programador de formación con más de 10 años de experiencia, que comenzó su carrera en datos con Dat’s Why utilizando datos geográficos y con más de 5 años de experiencia trabajando con big data.

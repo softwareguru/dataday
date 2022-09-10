@@ -9,7 +9,8 @@ instagram: ""
 twitter: ""
 linkedin: "https://www.linkedin.com/in/juancarlosgonzalezaguilar/"
 github: ""
-event-2022: true
+events:
+ - 2022
 ---
 
 Egresado de la Licenciatura en Matemáticas Aplicadas y Computación de la FES Acatlán.

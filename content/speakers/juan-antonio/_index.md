@@ -9,7 +9,8 @@ instagram: ""
 twitter: ""
 linkedin: "https://www.linkedin.com/in/juanantonioms"
 github: ""
-event-2022: true
+events:
+ - 2022
 ---
 
 Estudiante de Economía con 2 años de experiencia en el campo laboral. Me he desarrollado como analista financiero junior, consultor de datos junior y asistente de investigación. Los temas de mi interés son quantum trading, análisis financieros, ciencia de datos, uso de información pública (INEGI, BID, Banco Mundial) y privada (Bloomberg, Infosel, OxfordEconomics), algoritmos de aprendizaje automático e inteligencia de negocios. 

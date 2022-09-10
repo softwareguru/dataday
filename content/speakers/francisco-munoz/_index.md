@@ -2,7 +2,9 @@
 title: "Francisco Muñoz"
 image: /images/speakers/francisco-munoz.jpg
 date: 2021-02-16
-event-2021: true
+events:
+ - 2021
+designation: Profesor-investigador @ ITESO 
 ---
 
 Juan Francisco Muñoz-Elguezabal (Francisco ME) is a professor in the Mathematics and Physics Department at the Western Institute of Technology and Higher Education (ITESO). His research interests include AI &amp; Machine Learning for Trading, Data Science for Financial Markets, Behavioral Finance, Urban economics, Business Model Innovation for Social Impact. Has experience in Startups of the FinTech industry and innovation of goverment programs for entrepreneurship.

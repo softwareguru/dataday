@@ -9,7 +9,8 @@ instagram: ""
 twitter: "https://twitter.com/hermilocg"
 linkedin: ""
 github: ""
-event-2022: true
+events:
+ - 2022
 ---
 
 Soy Hermilo. Estudié Economía en la UNAM. Interesado en el Computo de Alto Rendimiento y los Sistemas Distribuidos.

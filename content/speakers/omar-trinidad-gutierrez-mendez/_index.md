@@ -9,7 +9,8 @@ instagram: ""
 twitter: "https://twitter.com/trinogz"
 linkedin: ""
 github: ""
-event-2022: true
+events:
+ - 2022
 ---
 
 Aspiring data scientist, interested in machine learning, science fiction.

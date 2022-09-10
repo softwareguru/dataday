@@ -9,8 +9,10 @@ instagram: ""
 twitter: "https://twitter.com/rbarcenasc?lang=ar-x-fm"
 linkedin: "https://www.linkedin.com/in/rbarcenasc/?originalSubdomain=mx"
 github: ""
-event-2022: true
-event-2021: true
+events:
+ - 2022
+events:
+ - 2021
 ---
 Realizó sus estudios profesionales en la Facultad de Ciencias de la UNAM, concluyendo la licenciatura en Actuaría. Obtuvo los grados de Maestría (2014) y Doctorado (2020) en Ciencias con especialidad en Probabilidad y Estadística, ambos en el Centro de Investigación en Matemáticas, CIMAT, Guanajuato. Ha realizado estancias de investigación en la Universidad de los Andes, Colombia y en KAUST, Arabia Saudita. 
 

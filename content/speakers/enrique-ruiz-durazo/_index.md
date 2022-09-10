@@ -1,5 +1,5 @@
 ---
-title: "Enrique Ruiz"
+title: "Enrique Ruiz Durazo"
 image: /images/speakers/enrique-ruiz.jpg
 date: 2019-01-24
 events:

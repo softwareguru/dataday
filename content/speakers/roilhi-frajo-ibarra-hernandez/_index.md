@@ -9,7 +9,8 @@ instagram: ""
 twitter: ""
 linkedin: "https://www.linkedin.com/in/roilhi-frajo-ibarra-hern%C3%A1ndez-5015b366/"
 github: ""
-event-2022: true
+events:
+ - 2022
 ---
 
 Doctor of Science in Electronics and Telecommunications Engineering

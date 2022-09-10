@@ -9,7 +9,8 @@ instagram: ""
 twitter: ""
 linkedin: "https://www.linkedin.com/in/martin-manriquez-899877177/"
 github: "https://github.com/malvabombom"
-event-2022: true
+events:
+ - 2022
 ---
 
 Hi!!! I am Martin and I'm a Software Engineer passionate about art, astronomy and technology, I'm currently Co-Developer lead on Facebook Developer Circle: Mexico City.

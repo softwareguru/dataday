@@ -9,7 +9,8 @@ instagram: ""
 twitter: ""
 linkedin: "https://www.linkedin.com/in/gonzalo-mart%C3%ADn-1a125a33/?locale=es_ES"
 github: ""
-event-2022: true
+events:
+ - 2022
 ---
 
 Actuario, con especialidad en minería de datos, certificado global en logística y cadena de suministro, maestría en inteligencia analítica y maestría en administración y negocios (MBA).

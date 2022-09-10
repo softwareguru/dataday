@@ -9,7 +9,8 @@ instagram: ""
 twitter: ""
 linkedin: "https://www.linkedin.com/in/marco-antonio-andrade-barrera-736029141"
 github: ""
-event-2022: true
+events:
+ - 2022
 ---
 
 M. C. en Ciencias Matemáticas, Universidad Nacional Autónoma de México

@@ -9,7 +9,8 @@ instagram: ""
 twitter: ""
 linkedin: "https://www.linkedin.com/in/jessicadaubner/"
 github: ""
-event-2022: true
+events:
+ - 2022
 ---
 
 Jess is a Principal Machine Learning Engineer at Elastic where she focuses on automating and scaling model training and deployment processes in the security domain. With a background in Economics and Statistics, she also brings over ten years of experience in the data space including building and leading data science and platform teams. In her free time, Jess enjoys hiking, traveling, training her pug Gertie, and learning new languages.

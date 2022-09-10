@@ -9,7 +9,8 @@ instagram: ""
 twitter: ""
 linkedin: "https://www.linkedin.com/in/homembit/"
 github: ""
-event-2022: true
+events:
+ - 2022
 ---
 
 Jomar Silva es ingeniero electrónico, especialista en Open Source e Inteligencia Artificial. Es el gerente de relaciones con los desarrolladores de NVIDIA para América Latina.

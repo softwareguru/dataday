@@ -2,7 +2,8 @@
 title: "Moyocoyani Molina Espíritu"
 image: /images/speakers/2018/01/moyocoyani-molina.jpg
 date: 2018-01-23
-event-2018: true
+events:
+ - 2018
 event-2019cdmx: true
 ---
 

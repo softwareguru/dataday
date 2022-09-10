@@ -9,7 +9,8 @@ instagram: ""
 twitter: "https://twitter.com/ChekosWH"
 linkedin: "https://www.linkedin.com/in/chekos/"
 github: ""
-event-2022: true
+events:
+ - 2022
 ---
 
 

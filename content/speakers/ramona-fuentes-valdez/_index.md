@@ -9,7 +9,8 @@ instagram: ""
 twitter: ""
 linkedin: "https://www.linkedin.com/in/ramonafuentes/"
 github: ""
-event-2022: true
+events:
+ - 2022
 ---
 
 Ingeniera en Computación por la Universidad Autónoma de Baja California y Maestra en Ciencias Computacionales por el Tecnológico de Monterrey Campus Cuernavaca. Actualmente se desempeña como profesora de tiempo completo en las áreas de Computación, Matemáticas y Tecnologías de Información.

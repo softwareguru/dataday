@@ -9,7 +9,8 @@ instagram: ""
 twitter: "https://mobile.twitter.com/espejelomar"
 linkedin: 
 github: ""
-event-2022: true
+events:
+ - 2022
 ---
 
 Focused in democratizing deep learning in Latin America! Currently a ML Developer Advocate at Hugging Face 

@@ -9,7 +9,8 @@ instagram: ""
 twitter: "https://twitter.com/hilda_zam"
 linkedin: ""
 github: ""
-event-2022: true
+events:
+ - 2022
 ---
 
 Es Doctora en Ciencias de la Sostenibilidad por la UNAM; Maestra en Ciencias Biológicas (ciencias ambientales), especialista en Economía Ambiental y Ecológica y Bióloga por la misma institución.

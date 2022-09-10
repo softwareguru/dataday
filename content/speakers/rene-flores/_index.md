@@ -9,7 +9,8 @@ instagram: ""
 twitter: ""
 linkedin: "https://www.linkedin.com/in/rene-flores-7aa0691a3"
 github: ""
-event-2022: true
+events:
+ - 2022
 ---
 
 Licenciado en Actuaría, Facultad de Ciencias, UNAM. Estudios de maestría en Ciencias Matemáticas en IIMAS, UNAM. Actualmente Data scientist en Opi analytics.

@@ -9,7 +9,8 @@ instagram: ""
 twitter: ""
 linkedin: "https://www.linkedin.com/in/miguelalonsoarevalo/"
 github: ""
-event-2022: true
+events:
+ - 2022
 ---
 
 Investigador en el área de Procesamiento Digital de Señales e Imágenes en el Centro de Investigación Científica y de Educación Superior de Ensenada (CICESE).

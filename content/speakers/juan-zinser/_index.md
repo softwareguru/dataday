@@ -2,7 +2,8 @@
 title: "Juan Zinser"
 image: /images/speakers/2018/01/juan-zinser.jpg
 date: 2019-10-25
-event-2018: true
+events:
+ - 2018
 event-2019mty: true
 ---
 

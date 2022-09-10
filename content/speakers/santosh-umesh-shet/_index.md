@@ -2,7 +2,8 @@
 title: "Santosh Umesh Shet"
 image: /images/speakers/santosh-umesh.jpg
 date: 2021-02-16
-event-2021: true
+events:
+ - 2021
 ---
 
 I’m a IT Solutions Analyst at Applied Materials, working on developing innovative Dot Net applications for iOMS Team.

@@ -3,7 +3,7 @@ id:
 title: "Captación de agua pluvial en la CDMX"
 url: /session/captacion-agua-pluvial-cdmx/
 speakers:
- - enrique-luis-durazo
+ - Enrique Ruiz Durazo
 time_start: 2019-03-21T16:00:00-05:00
 time_end: 2019-03-21T16:40:00-05:00
 block: 

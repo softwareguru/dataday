@@ -9,7 +9,8 @@ instagram: ""
 twitter: ""
 linkedin: "https://www.linkedin.com/in/jonathan-alc%C3%A1ntar-fern%C3%A1ndez-phd?originalSubdomain=mx"
 github: ""
-event-2022: true
+events:
+ - 2022
 ---
 
 Ingeniero en biotecnología por el Instituto Politécnico Nacional con especialidad en bioingeniería y biología molecular y Dr. en Ciencias Biomédicas por la Universidad Nacional Autónoma de México con especialización en genética molecular y biología celular.

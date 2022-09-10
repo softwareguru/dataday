@@ -2,7 +2,8 @@
 title: "Iván López"
 image: /images/speakers/ivan-lopez.jpg
 date: 2021-02-23
-event-2021: true
+events:
+ - 2021
 ---
 
 Iván López tiene la misión de ayudar a las empresas a proporcionar servicios ágiles y de alto rendimiento de integración, abstracción y datos en tiempo real. 

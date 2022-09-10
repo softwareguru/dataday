@@ -9,7 +9,8 @@ instagram: ""
 twitter: ""
 linkedin: "https://www.linkedin.com/in/jaime-rodr%C3%ADguez-col%C3%B3n-64b93217/"
 github: ""
-event-2022: true
+events:
+ - 2022
 ---
 
 Jaime lleva 20 años incorporando soluciones tecnológicas para el sector público. Es Ingeniero en Sistemas Computacionales por el Politécnico Nacional, y Maestro en Tecnologías de la Información por el Instituto Tecnológico de Teléfonos de México. Ha liderado desarrollos tecnológicos para el Instituto Nacional Electoral, para la Secretaría de Telecomunicaciones y Transportes, y actualmente para la Secretaría del Trabajo y Previsión Social, donde dirige esfuerzos de mejora de procesos e innovación tecnológica.
