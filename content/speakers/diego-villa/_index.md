@@ -1,6 +1,7 @@
 ---
 title: "Diego Villa"
-image: /images/speakers/diego-villa.jpg
+images:
+ - images/speakers/diego-villa.jpg
 date: 2020-07-20
 events:
  - 2020

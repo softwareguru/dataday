@@ -1,7 +1,8 @@
 ---
 title: "Gonzalo Martin Vargas"
 date: 2022-03-07T18:58:41-06:00
-image : "/images/speakers/gonzalo-martin-vargas.jpeg"
+images:
+ - "images/speakers/gonzalo-martin-vargas.jpeg"
 designation : "Advanced Analytics Global Offer Manager"
 country: ""
 facebook: ""

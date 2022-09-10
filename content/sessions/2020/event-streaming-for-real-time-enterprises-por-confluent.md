@@ -3,7 +3,7 @@ id:
 title: "Event Streaming for Real Time enterprises, por Confluent"
 url: /session/event-streaming-for-real-time-enterprises-por-confluent/
 speakers:
- - joao-salcedo
+ - Joao Salcedo
 time_start: 2020-08-05T13:45:00-05:00
 time_end:   2020-08-05T14:30:00-05:00
 block: 

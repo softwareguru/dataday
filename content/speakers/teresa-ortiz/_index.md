@@ -1,6 +1,7 @@
 ---
 title: "Teresa Ortíz"
-image: /images/speakers/2020/02/tereom.jpg
+images:
+ - images/speakers/tereom.jpg
 date: 2020-02-11
 events:
  - 2020

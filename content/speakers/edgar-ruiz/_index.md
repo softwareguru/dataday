@@ -1,6 +1,7 @@
 ---
 title: "Edgar Ruíz"
-image: /images/speakers/edgar-ruiz.jpg
+images:
+ - images/speakers/edgar-ruiz.jpg
 date: 2017-02-28
 designation : "Ingeniero de Soluciones en RStudio"
 country: ""

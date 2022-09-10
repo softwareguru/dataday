@@ -1,7 +1,8 @@
 ---
 title: "Juan Carlos Sanchez Ruiz"
 date: 2021-03-22T16:23:40-06:00
-image : "/images/speakers/juan-carlos.jpg"
+images:
+ - "images/speakers/juan-carlos.jpg"
 events:
  - 2021
 ---

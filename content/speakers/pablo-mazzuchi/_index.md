@@ -1,6 +1,7 @@
 ---
 title: "Pablo Mazzuchi"
-image: /images/speakers/2019/10/pablo-mazzuchi.jpg
+images:
+ - images/speakers/pablo-mazzuchi.jpg
 date: 2019-10-31
 event-2019mty: true
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Thomas Grabowski"
-image: /images/speakers/2020/06/thomas-grabowski.jpg
+images:
+ - images/speakers/thomas-grabowski.jpg
 date: 2020-07-27
 events:
  - 2020

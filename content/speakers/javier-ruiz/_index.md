@@ -1,9 +1,11 @@
 ---
 title: "Javier Ruiz"
-image: /images/speakers/javier-ruiz.jpg
+images:
+ - images/speakers/javier-ruiz.jpg
 date: 2020-07-17
 events:
  - 2020
+designation: Sales Engineer @ Snowflake 
 ---
 
 Javier tiene más de dos décadas de experiencia en Inteligencia de Negocios, Data Warehousing, y desarrollo de Software. Es un tecnólogo experto en arquitectura, diseño, desarrollo, e implementación de soluciones de datos de alta calidad, alta visibilidad, y alto rendimiento. Está interesado en el enriquecimiento de datos con fuentes externas y arquitectura de punta en la nube para mejorar las capacidad de análisis de las organizaciones, manteniendo altos niveles de desempeño y escalabilidad. 

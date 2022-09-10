@@ -1,7 +1,8 @@
 ---
 title: "Dante Tellez"
 date: 2022-02-09T15:14:39-06:00
-image : "/images/speakers/dante-tellez.jpg"
+images:
+ - "images/speakers/dante-tellez.jpg"
 designation : "Director Data & Analytics Philip Morris Mexico"
 country: ""
 facebook: ""

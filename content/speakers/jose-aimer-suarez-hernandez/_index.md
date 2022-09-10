@@ -1,8 +1,10 @@
 ---
 title: "Jose Aimer Suárez Hernández"
-image: /images/speakers/speaker.jpg
+images:
+ - images/speakers/jose-aimer.jpg
 date: 2017-02-20
-event-: true
+event2:
+ - 2017
 ---
 
 Ingeniero Industrial y especialista en Gerencia Mercadeo Estratégico, con amplia experiencia en el sector de las telecomunicaciones, en el desarrollo de negocios digitales y Big Data, apoyando la transformación de las organizaciones que desean convertirse en “Data Driven” a través de la cultura basada en el dato y la generación de nuevas oportunidades de negocio a partir de este. Ha participado de proyectos que utilizan como insights los datos móviles, en los sectores de Transporte, Turismo, Retail, Media OOH y Banca.

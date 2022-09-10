@@ -1,7 +1,8 @@
 ---
 title: "Jhosse Paul Márquez Ruíz"
 date: 2022-02-10T15:35:47-06:00
-image : "/images/speakers/jhosse-paul-marquez-ruiz.jpg"
+images:
+ - "images/speakers/jhosse-paul-marquez-ruiz.jpg"
 designation : "Gerente de Gestión de Datos y Herramientas en Grupo Salinas"
 country: ""
 facebook: ""

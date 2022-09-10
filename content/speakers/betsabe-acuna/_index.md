@@ -1,6 +1,7 @@
 ---
 title: "Betsabé Acuña"
-image: /images/speakers/betsabe-acuna.png
+images:
+ - images/speakers/betsabe-acuna.png
 date: 2020-02-07
 events:
  - 2020

@@ -1,7 +1,8 @@
 ---
 title: "Edir Garcia Lazo"
 date: 2022-02-10T13:03:26-06:00
-image : "/images/speakers/edir-garcia-lazo.jpg"
+images:
+ - "images/speakers/edir-garcia-lazo.jpg"
 designation : "Data Scientist @ Microsoft"
 country: ""
 facebook: ""

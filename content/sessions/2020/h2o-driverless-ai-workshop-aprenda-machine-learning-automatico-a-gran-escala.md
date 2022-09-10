@@ -3,8 +3,8 @@ id:
 title: "Taller: H2O Driverless Ai workshop: Aprenda machine learning automático a gran escala"
 url: /session/h2o-driverless-ai-workshop-aprenda-machine-learning-automatico-a-gran-escala/
 speakers:
- - luis-martinez
- - rafael-coss
+ - Luis Martínez
+ - Rafael Coss
 time_start: 2020-08-05T17:30:00-05:00
 time_end:   2020-08-05T19:15:00-05:00
 block: 

@@ -1,6 +1,7 @@
 ---
 title: "Eduardo Jallath"
-image: /images/speakers/eduardo-jallath.png
+images:
+ - images/speakers/eduardo-jallath.png
 date: 2017-01-30
 events:
  - 2017

@@ -1,6 +1,7 @@
 ---
 title: "Selma Ortega"
-image: /images/speakers/selma-ortega.jpg
+images:
+ - images/speakers/selma-ortega.jpg
 date: 2021-02-16
 events:
  - 2021

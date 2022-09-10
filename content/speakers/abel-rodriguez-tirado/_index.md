@@ -1,6 +1,7 @@
 ---
 title: "Abel Rodríguez Tirado"
-images: images/speakers/abel-rodriguez.jpg
+images: 
+ - images/speakers/abel-rodriguez.jpg
 date: 2021-02-16
 events:
  - 2021

@@ -1,6 +1,7 @@
 ---
 title: "Carlos Piña García"
-image: /images/speakers/carlos-pina.jpg
+images:
+ - images/speakers/carlos-pina.jpg
 date: 2020-01-13
 events:
  - 2020

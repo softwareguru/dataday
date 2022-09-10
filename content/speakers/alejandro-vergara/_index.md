@@ -1,6 +1,7 @@
 ---
 title: "Alejandro Vergara"
-image: /images/speakers/alejandro-vergara.jpg
+images:
+ - images/speakers/alejandro-vergara.jpg
 date: 2019-01-24
 events: 
  - 2019cdmx

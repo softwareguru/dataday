@@ -1,6 +1,7 @@
 ---
 title: "Christian Ladrón de Guevara"
-image: /images/speakers/christian-ladron.jpg
+images:
+ - images/speakers/christian-ladron.jpg
 date: 2018-03-13
 events:
  - 2018

@@ -1,7 +1,8 @@
 ---
 title: "Mariana Esther Martinez Sanchez"
 date: 2022-02-10T11:53:40-06:00
-image : "/images/speakers/mariana-esther-martinez-sanchez.jpg"
+images:
+ - "images/speakers/mariana-esther-martinez-sanchez.jpg"
 designation : "Consultora para la Comisión Nacional de Búsqueda de Personas Desaparecidas"
 country: ""
 facebook: ""

@@ -1,7 +1,8 @@
 ---
 title: "Juan Carlos Gonzalez Aguilar"
 date: 2022-02-10T11:51:34-06:00
-image : "/images/speakers/juan-carlos-gonzalez-aguilar.jpeg"
+images:
+ - "images/speakers/juan-carlos-gonzalez-aguilar.jpeg"
 designation : "Científico de Datos @ BBVA"
 country: ""
 facebook: ""

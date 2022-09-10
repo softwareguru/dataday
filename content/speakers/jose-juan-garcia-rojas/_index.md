@@ -1,7 +1,8 @@
 ---
 title: "Jose Juan García Rojas"
 date: 2022-02-09T15:25:42-06:00
-image : "/images/speakers/jose-juan-garcia-rojas.jpg"
+images:
+ - "images/speakers/jose-juan-garcia-rojas.jpg"
 designation : "Líder técnico en el área de datos"
 country: ""
 facebook: ""

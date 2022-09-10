@@ -1,6 +1,7 @@
 ---
 title: "Francisco Muñoz"
-image: /images/speakers/francisco-munoz.jpg
+images:
+ - images/speakers/francisco-munoz.jpg
 date: 2021-02-16
 events:
  - 2021

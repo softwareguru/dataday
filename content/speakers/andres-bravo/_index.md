@@ -1,7 +1,8 @@
 ---
 title: "Andres Bravo"
 date: 2022-02-10T15:42:44-06:00
-image : "/images/speakers/andres-bravo.jpg"
+images: 
+ - images/speakers/andres-bravo.jpg
 designation : "Head of Data - propiedades.com"
 country: ""
 facebook: ""

@@ -1,7 +1,8 @@
 ---
 title: "Pedro Nájera García"
 date: 2022-02-09T15:19:48-06:00
-image : "/images/speakers/pedro-najera-garcia.png"
+images:
+ - "images/speakers/pedro-najera-garcia.png"
 designation : "Profesor de tiempo completo en Tecnológico de Monterrey"
 country: ""
 facebook: ""

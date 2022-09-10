@@ -1,10 +1,12 @@
 ---
 title: "Jorge Nájera"
-image: /images/speakers/2019/02/jorge-najera.jpeg
+images:
+ - images/speakers/jorge-najera.jpeg
 date: 2019-02-14
-event-2019cdmx: true
 events:
  - 2021
+ - 2019cdmx
+designation: Consultor independiente 
 ---
 
 Licenciado en Economía, y Maestro en Administración y Negocios. Me desempeño como Consultor Independiente en Ciencia de Datos y Análisis Cuantitativo Big Data. Experto en el manejo de Pronósticos Estratégicos y el análisis del negocio con métodos Econométricos. Certificado en Ciencia de Datos en R por la universidad de Harvard.

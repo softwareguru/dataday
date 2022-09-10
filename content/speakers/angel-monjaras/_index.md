@@ -1,6 +1,7 @@
 ---
 title: "Angel Monjarás"
-image: /images/speakers/angel-monjaras.jpg
+images:
+ - images/speakers/angel-monjaras.jpg
 date: 2018-01-23
 events: 
  - 2018

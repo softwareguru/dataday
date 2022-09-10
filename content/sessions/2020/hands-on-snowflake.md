@@ -3,7 +3,7 @@ id:
 title: "Taller: Hands-on lab con Snowflake"
 url: /session/hands-on-snowflake/
 speakers:
- - javier-ruiz
+ - Javier Ruiz
 time_start: 2020-08-04T12:00:00-05:00
 time_end:   2020-08-04T13:45:00-05:00
 block: 

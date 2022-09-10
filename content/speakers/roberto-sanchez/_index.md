@@ -1,8 +1,10 @@
 ---
 title: "Roberto Sánchez"
-image: /images/speakers/2019/10/roberto-sanchez.png
+images:
+ - images/speakers/roberto-sanchez.jpg
 date: 2019-10-21
-event-2019mty: true
+events: 
+ - 2019mty
 ---
 
 Roberto es un científico de datos con fuertes bases técnicas y matemáticas, complementadas con habilidades efectivas para la comunicación y colaboración. Su área de especialidad es el modelado matemático.

@@ -1,6 +1,7 @@
 ---
 title: "Luis Martínez"
-image: /images/speakers/2020/07/image1.jpg
+images:
+ - images/speakers/speaker.jpg
 date: 2020-07-16
 events:
  - 2020

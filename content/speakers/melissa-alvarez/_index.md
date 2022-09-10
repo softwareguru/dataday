@@ -1,6 +1,7 @@
 ---
 title: "Melissa Alvarez"
-image: /images/speakers/melissa-alvarez.jpg
+images:
+ - images/speakers/melissa-alvarez.jpg
 date: 2020-07-28
 events:
  - 2020

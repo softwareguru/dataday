@@ -1,7 +1,8 @@
 ---
 title: "Alina Sotolongo Aguiar"
 date: 2022-02-10T12:06:58-06:00
-image : "/images/speakers/alina-sotolongo-aguiar.jpeg"
+images : 
+ - images/speakers/alina-sotolongo-aguiar.jpeg
 designation : "Data Scientist & Training Officer @ Data-Pop Alliance"
 country: ""
 facebook: ""

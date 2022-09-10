@@ -1,6 +1,7 @@
 ---
-title: "Omar Peña"
-image: /images/speakers/2020/02/omar-olivares.jpg
+title: "Omar Alberto Peña Olivares"
+images:
+ - images/speakers/omar-olivares.jpg
 date: 2020-02-12
 events:
  - 2020

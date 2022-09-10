@@ -1,6 +1,7 @@
 ---
 title: "Raphaëlle Roffo"
-image: /images/speakers/2020/02/Raphaelle.jpg
+images:
+ - images/speakers/raphaelle.jpg
 date: 2020-02-07
 events:
  - 2020

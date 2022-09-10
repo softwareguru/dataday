@@ -3,7 +3,7 @@ id:
 title: "A family-level analysis on dynamics of risk factors and child maltreatment re-reports"
 url: /session/a-family-level-analysis-on-dynamics-of-risk-factors-and-child-maltreatment-re-reports/
 speakers:
- - eunhye-ahn
+ - Eunhye Ahn
 time_start: 2020-08-04T13:00:00-05:00
 time_end:   2020-08-04T13:45:00-05:00
 block: 

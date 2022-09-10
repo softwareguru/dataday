@@ -1,7 +1,8 @@
 ---
 title: "José Luis Chiquete Valdivieso"
 date: 2022-02-10T15:44:46-06:00
-image : "/images/speakers/jose-luis-chiquete-valdivieso.png"
+images:
+ - "images/speakers/jose-luis-chiquete-valdivieso.png"
 designation : "CTO en Grupo Qualtop - Líder de comunidad en Pythonista"
 country: ""
 facebook: ""

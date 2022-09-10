@@ -1,7 +1,8 @@
 ---
 title: "Carolina Acosta Tovany"
 date: 2022-02-10T15:31:38-06:00
-image : "/images/speakers/carolina-acosta-tovany.jpeg"
+images:
+ - "images/speakers/carolina-acosta-tovany.jpeg"
 designation : "Ingeniera de datos en OPI Analytics"
 country: ""
 facebook: ""

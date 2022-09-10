@@ -1,8 +1,9 @@
 ---
 title: "Jonathan Alcantar"
 date: 2022-03-24T13:42:56-06:00
-image : "/images/speakers/jonathan-alcantar.jpg"
-designation : "Investigador Principal – SALUD DIGNA A.C."
+images:
+ - "images/speakers/jonathan-alcantar.jpg"
+designation : "Investigador Principal @ Salud Digna"
 country: ""
 facebook: ""
 instagram: ""

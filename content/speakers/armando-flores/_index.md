@@ -1,6 +1,7 @@
 ---
 title: "Armando Flores"
-image: /images/speakers/armando_flores.jpg
+images:
+ - images/speakers/armando_flores.jpg
 date: 2019-09-23
 events:
  - 2019mty

@@ -1,6 +1,7 @@
 ---
 title: "Maru Lango"
-image: /images/speakers/2017/01/Maru_400x400.png
+images:
+ - images/speakers/maru-lango.png
 date: 2017-01-30
 event-: true
 ---

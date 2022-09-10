@@ -1,6 +1,7 @@
 ---
 title: "Virgilio Santiago Benitez"
-image: /images/speakers/virgilio-santiago.jpg
+images:
+ - images/speakers/virgilio-santiago.jpg
 date: 2021-02-25
 events:
  - 2021

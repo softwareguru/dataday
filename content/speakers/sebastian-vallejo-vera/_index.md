@@ -1,7 +1,8 @@
 ---
 title: "Sebastian Vallejo Vera"
 date: 2022-02-10T15:49:58-06:00
-image : "/images/speakers/sebastian-vallejo-vera.jpeg"
+images:
+ - "images/speakers/sebastian-vallejo-vera.jpeg"
 designation : "Profesor-investigador en el Tecnológico de Monterrey"
 country: ""
 facebook: ""

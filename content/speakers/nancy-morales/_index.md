@@ -1,7 +1,8 @@
 ---
 title: "Nancy Morales"
 date: 2022-02-10T15:53:03-06:00
-image : "/images/speakers/nancy-morales.png"
+images:
+ - "images/speakers/nancy-morales.png"
 designation : "Analytics Developer / Data Scientist"
 country: ""
 facebook: ""

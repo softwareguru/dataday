@@ -1,7 +1,8 @@
 ---
 title: "Hilda Zamora"
 date: 2022-03-17T12:44:03-06:00
-image : "/images/speakers/hilda-zamora.jpg"
+images:
+ - "images/speakers/hilda-zamora.jpg"
 designation : "Profesora de cátedra en el ITESM"
 country: ""
 facebook: ""

@@ -1,6 +1,7 @@
 ---
 title: "David Lampón"
-image: /images/speakers/david-lampon.jpg
+images:
+ - images/speakers/david-lampon.jpg
 date: 2017-01-30
 events:
  - 2017

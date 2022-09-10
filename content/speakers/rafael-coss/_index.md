@@ -1,6 +1,7 @@
 ---
 title: "Rafael Coss"
-image: /images/speakers/2019/03/rafael-coss.jpg
+images:
+ - images/speakers/rafael-coss.jpg
 date: 2020-07-15
 events:
  - 2021

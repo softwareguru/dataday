@@ -1,8 +1,12 @@
 ---
 title: "José Carlos Méndez de la Torre"
-image: /images/speakers/2017/01/Jose-Carlos-Mendez_BN.jpg.png
+images:
+ - images/speakers/jose-carlos-mendez.png
 date: 2017-01-30
-event-2019mty: true
+events:
+ - 2017
+ - 2019mty
+designation: Solution Advisor @ SAP 
 ---
 
 José Carlos es primeramente Zacatecano. Estudió matemáticas en la Universidad Autónoma de Zacatecas e Inteligencia y visión artificial en el CENIDET.

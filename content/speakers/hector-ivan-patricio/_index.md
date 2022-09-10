@@ -1,9 +1,12 @@
 ---
 title: "Héctor Iván Patricio"
-image: /images/speakers/2019/01/hectorip.jpg
+images:
+ - images/speakers/hectorip.jpg
 date: 2019-01-24
 events: 
  - 2019cdmx
+designation: Tech Leader @ Automata
+linkedin: https://www.linkedin.com/in/hectorip/ 
 ---
 
 Héctor es un desarrollador de software que cuenta con 7 años de experiencia profesional, principalmente en el sector de e-commerce.

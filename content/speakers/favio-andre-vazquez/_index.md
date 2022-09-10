@@ -1,6 +1,7 @@
 ---
 title: "Favio André Vázquez"
-image: /images/speakers/favio-vazquez.jpg
+images:
+ - images/speakers/favio-vazquez.jpg
 date: 2018-01-23
 events:
  - 2018

@@ -1,7 +1,8 @@
 ---
 title: "Apoorva Joshi"
 date: 2022-03-07T18:54:39-06:00
-image : "/images/speakers/apoorva-joshi.jpg"
+images:
+ - "images/speakers/apoorva-joshi.jpg"
 designation : "Senior Data Scientist at Elastic"
 country: ""
 facebook: ""

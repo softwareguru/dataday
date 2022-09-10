@@ -1,7 +1,8 @@
 ---
 title: "Rene Flores"
 date: 2022-02-10T15:13:10-06:00
-image : "/images/speakers/rene-flores.jpg"
+images:
+ - "images/speakers/rene-flores.jpg"
 designation : "Data scientist en Opi analytics"
 country: ""
 facebook: ""

@@ -1,7 +1,8 @@
 ---
 title: "Jaime Rodríguez Colón"
 date: 2022-02-09T14:47:22-06:00
-image : "/images/speakers/jaime-rodriguez-colon.jpg"
+images:
+ - "images/speakers/jaime-rodriguez-colon.jpg"
 designation : "Director de Gestión de Información @ Servicio Nacional de Empleo de la Secretaría del Trabajo"
 country: ""
 facebook: ""

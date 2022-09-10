@@ -3,7 +3,7 @@ id:
 title: "Aequitas: el framework para detectar prejuicios en modelos de Machine Learning"
 url: /session/aequitas-el-framework-para-detectar-prejuicios-en-modelos-de-machine-learning/
 speakers:
- - liliana-millan
+ - Liliana Millán
 time_start: 2020-08-06T17:00:00-05:00
 time_end:   2020-08-06T17:45:00-05:00
 block: 

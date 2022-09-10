@@ -1,6 +1,7 @@
 ---
 title: "Omar Santa Cruz"
-image: /images/speakers/omar-santa-cruz.jpg
+images:
+ - images/speakers/omar-santa-cruz.jpg
 date: 2021-02-25
 designation : "Especialista de datos - INFOTEC"
 country: ""

@@ -1,7 +1,8 @@
 ---
 title: "Amauri Garcia"
 date: 2022-02-09T15:10:53-06:00
-image : "/images/speakers/amauri-garcia.jpg"
+images: 
+ - images/speakers/amauri-garcia.jpg
 designation : "Senior Operations Analyst"
 country: ""
 facebook: ""

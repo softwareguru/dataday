@@ -1,7 +1,8 @@
 ---
 title: "Edgar Possani"
 date: 2022-02-10T12:01:25-06:00
-image : "/images/speakers/edgar-possani.jpg"
+images:
+ - "images/speakers/edgar-possani.jpg"
 designation : "Profesor de Tiempo Completo @ ITAM"
 country: ""
 facebook: ""

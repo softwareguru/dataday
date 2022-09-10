@@ -1,6 +1,7 @@
 ---
 title: "Roberto Ponce López"
-image: /images/speakers/roberto-ponce.jpg
+images:
+ - images/speakers/roberto-ponce.jpg
 date: 2021-02-16
 designation : "Profesor-Investigador en la Escuela de Gobierno y Transformación Pública del Tecnológico de Monterrey"
 country: ""
@@ -11,7 +12,6 @@ linkedin:
 github: ""
 events:
  - 2022
-events:
  - 2021
 ---
 

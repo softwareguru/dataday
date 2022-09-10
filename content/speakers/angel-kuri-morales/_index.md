@@ -1,7 +1,8 @@
 ---
 title: "Angel Kuri-Morales"
 date: 2022-02-10T13:05:21-06:00
-image : "/images/speakers/angel-kuri-morales.jpg"
+images: 
+ - images/speakers/angel-kuri-morales.jpg
 designation : "Investigador invitado en el ITAM, profesor en el Doctorado de la UNAM."
 country: ""
 facebook: ""

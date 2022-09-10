@@ -1,6 +1,7 @@
 ---
 title: "Arturo Cárdenas"
-image: /images/speakers/arturo-cardenas.jpg
+images:
+ - images/speakers/arturo-cardenas.jpg
 date: 2018-01-23
 events:
  - 2018

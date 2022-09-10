@@ -1,7 +1,8 @@
 ---
 title: "Sergio Sánchez Zavala"
 date: 2022-03-03T11:07:37-06:00
-image : "/images/speakers/sergio-sanchez-zavala.png"
+images:
+ - "images/speakers/sergio-sanchez-zavala.png"
 designation : "Ingeniero de datos en Alluma, creador de tacosdedatos"
 country: ""
 facebook: ""

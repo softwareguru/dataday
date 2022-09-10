@@ -1,7 +1,8 @@
 ---
 title: "Sergio Quintero"
 date: 2022-02-10T15:10:43-06:00
-image : "/images/speakers/sergio-quintero.jpg"
+images:
+ - "images/speakers/sergio-quintero.jpg"
 designation : "Data Scientist"
 country: ""
 facebook: ""

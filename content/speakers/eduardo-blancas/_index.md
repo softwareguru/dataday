@@ -1,6 +1,7 @@
 ---
 title: "Eduardo Blancas"
-image: /images/speakers/eduardo-blancas.jpg
+images:
+ - images/speakers/eduardo-blancas.jpg
 date: 2021-02-16
 events:
  - 2021

@@ -1,6 +1,7 @@
 ---
 title: "Victor González"
-image: /images/speakers/2019/01/victor-gonzalez.jpeg
+images:
+ - images/speakers/victor-gonzalez.jpg
 date: 2019-01-24
 event-2019cdmx: true
 ---

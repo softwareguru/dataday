@@ -1,6 +1,7 @@
 ---
 title: "Rodrigo Quezada"
-image: /images/speakers/2018/01/rodrigo-quezada.jpg
+images:
+ - images/speakers/rodrigo-quezada.jpg
 date: 2018-01-23
 events:
  - 2018

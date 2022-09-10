@@ -3,8 +3,8 @@ id:
 title: "Examinando y prediciendo las respuestas del INAI: Un safari por la transparencia"
 url: /session/examinando-y-prediciendo-las-respuestas-del-inai-un-safari-por-la-transparencia/
 speakers:
- - angel-rafael-ortega-ramirez
- - diego-villa
+ - Angel Rafael Ortega Ramírez
+ - Diego Villa
 time_start: 2020-08-07T13:00:00-05:00
 time_end:   2020-08-07T13:45:00-05:00
 block: 

@@ -3,7 +3,7 @@ id:
 title: "Storytelling en Ciencia de Datos: desde la hipótesis del problema, estructura, visualización y validación"
 url: /session/storytelling-en-ciencia-de-datos-desde-la-hipotesis-del-problema-estructura-visualizacion-y-validacion/
 speakers:
- - silvia-ariza
+ - Silvia Ariza
 time_start: 2020-08-03T17:00:00-05:00
 time_end:   2020-08-03T17:45:00-05:00
 block: 

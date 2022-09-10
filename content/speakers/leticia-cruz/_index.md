@@ -1,6 +1,7 @@
 ---
 title: "Leticia Cruz"
-image: /images/speakers/leticia-cruz.jpg
+images:
+ - images/speakers/leticia-cruz.jpg
 date: 2021-02-25
 events:
  - 2021

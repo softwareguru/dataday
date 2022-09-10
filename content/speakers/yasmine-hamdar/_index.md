@@ -1,7 +1,8 @@
 ---
 title: "Yasmine Hamdar"
 date: 2022-02-10T15:59:19-06:00
-image : "/images/speakers/yasmine-hamdar.jpeg"
+images:
+ - "images/speakers/yasmine-hamdar.jpeg"
 designation : "Computational Social Scientist at Data-Pop Alliance"
 country: ""
 facebook: ""

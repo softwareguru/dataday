@@ -1,9 +1,11 @@
 ---
 title: "Iván López"
-image: /images/speakers/ivan-lopez.jpg
+images:
+ - images/speakers/ivan-lopez.jpg
 date: 2021-02-23
 events:
  - 2021
+designation: Sales specialist @ Denodo 
 ---
 
 Iván López tiene la misión de ayudar a las empresas a proporcionar servicios ágiles y de alto rendimiento de integración, abstracción y datos en tiempo real. 

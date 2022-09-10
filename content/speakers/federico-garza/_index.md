@@ -1,7 +1,8 @@
 ---
 title: "Federico Garza"
 date: 2022-02-10T15:57:33-06:00
-image : "/images/speakers/federico-garza.jpg"
+images:
+ - "images/speakers/federico-garza.jpg"
 designation : "CTO Nixtla"
 country: ""
 facebook: ""

@@ -1,7 +1,8 @@
 ---
 title: "Anibal Bustillo"
 date: 2022-02-10T13:13:59-06:00
-image : "/images/speakers/anibal-bustillo.jpg"
+images:
+ - "images/speakers/anibal-bustillo.jpg"
 designation : "CTO & Founder Technomadic Interactive SC. Desarrollo de soluciones IoT y sistemas de ML embebidos en el borde (Tiny ML and Edge Processing)"
 country: ""
 facebook: ""

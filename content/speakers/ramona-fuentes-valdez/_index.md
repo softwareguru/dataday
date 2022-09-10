@@ -1,7 +1,8 @@
 ---
 title: "Ramona Fuentes Valdéz"
 date: 2022-02-09T15:22:57-06:00
-image : "/images/speakers/ramona-fuentes-valdez.jpg"
+images:
+ - "images/speakers/ramona-fuentes-valdez.jpg"
 designation : "Profesora de tiempo completo en Tecnológico de Monterrey"
 country: ""
 facebook: ""

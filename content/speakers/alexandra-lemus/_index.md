@@ -1,6 +1,7 @@
 ---
 title: "Alexandra Lemus"
-image: /images/speakers/alexandra-lemus.jpg
+images:
+ - images/speakers/alexandra-lemus.jpg
 date: 2017-03-15
 events: 
  - 2019cdmx

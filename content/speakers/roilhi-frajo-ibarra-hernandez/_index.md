@@ -1,7 +1,8 @@
 ---
 title: "Roilhi Frajo Ibarra Hernandez"
 date: 2022-02-10T12:16:48-06:00
-image : "/images/speakers/roilhi-frajo-ibarra-hernandez.jpg"
+images:
+ - "images/speakers/roilhi-frajo-ibarra-hernandez.jpg"
 designation : "Software Developer Universidad de Ensenada"
 country: ""
 facebook: ""

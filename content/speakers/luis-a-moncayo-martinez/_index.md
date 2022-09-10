@@ -1,7 +1,8 @@
 ---
 title: "Luis A Moncayo Martinez"
 date: 2022-02-10T11:57:12-06:00
-image : "/images/speakers/luis-a-moncayo-Martinez.png"
+images:
+ - "images/speakers/luis-a-moncayo-Martinez.png"
 designation : "Profesor Titular"
 country: ""
 facebook: ""

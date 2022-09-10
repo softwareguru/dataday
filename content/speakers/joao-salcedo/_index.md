@@ -1,6 +1,7 @@
 ---
 title: "Joao Salcedo"
-image: /images/speakers/2020/07/0-1.jpg
+images:
+ - images/speakers/joao-salcedo.jpg
 date: 2020-07-07
 events:
  - 2020

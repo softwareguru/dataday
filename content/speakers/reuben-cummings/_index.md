@@ -1,6 +1,7 @@
 ---
 title: "Reuben Cummings"
-image: /images/speakers/2018/01/reuben-cummings.jpg
+images:
+ - images/speakers/reuben-cummings.jpg
 date: 2018-01-22
 events:
  - 2018

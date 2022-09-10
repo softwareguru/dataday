@@ -1,6 +1,7 @@
 ---
 title: "Argenis León"
-image: /images/speakers/argenis-leon.jpg
+images:
+ - images/speakers/argenis-leon.jpg
 date: 2020-02-07
 events:
  - 2020

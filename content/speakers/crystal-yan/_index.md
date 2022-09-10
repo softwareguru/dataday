@@ -1,6 +1,7 @@
 ---
 title: "Crystal Yan"
-image: /images/speakers/crystal-yan.jpg
+images:
+ - images/speakers/crystal-yan.jpg
 date: 2018-01-23
 events:
  - 2018

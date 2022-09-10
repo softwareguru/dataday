@@ -1,6 +1,7 @@
 ---
 title: "Edmundo Molina Perez"
-image: /images/speakers/edmundo-molina.jpg
+images:
+ - images/speakers/edmundo-molina.jpg
 date: 2021-02-25
 designation : "Profesor-Investigador"
 country: ""

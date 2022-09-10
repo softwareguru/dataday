@@ -3,7 +3,7 @@ id:
 title: "Scrapping de Datos ni tan Abiertos, ni tan Públicos"
 url: /session/scrapping-de-datos-ni-tan-abiertos-ni-tan-publicos/
 speakers:
- - paco-mekler
+ - francisco-mekler
 time_start: 2017-03-28T12:20:00-05:00
 time_end: 2017-03-28T13:00:00-05:00
 block: 

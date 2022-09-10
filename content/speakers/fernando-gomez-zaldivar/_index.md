@@ -1,7 +1,8 @@
 ---
 title: "Fernando Gómez Zaldívar"
 date: 2022-02-10T12:24:30-06:00
-image : "/images/speakers/fernando-gomez-zaldivar.png"
+images:
+ - "images/speakers/fernando-gomez-zaldivar.png"
 designation : "Investigador en Tecnológico de Monterrey"
 country: ""
 facebook: ""

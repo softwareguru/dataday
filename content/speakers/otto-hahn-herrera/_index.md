@@ -1,7 +1,8 @@
 ---
 title: "Otto Hahn Herrera"
 date: 2022-03-22T11:23:45-06:00
-image : "/images/speakers/otto-hahn-herrera.jpg"
+images:
+ - "images/speakers/otto-hahn-herrera.jpg"
 designation : "Gerente en Grupo Salinas"
 country: ""
 facebook: ""

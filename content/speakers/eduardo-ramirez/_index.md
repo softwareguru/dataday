@@ -1,6 +1,7 @@
 ---
 title: "Eduardo Ramírez"
-image: /images/speakers/eduardo-ramirez.jpg
+images:
+ - images/speakers/eduardo-ramirez.jpg
 date: 2019-02-14
 events:
  - 2020

@@ -1,6 +1,7 @@
 ---
 title: "Angel Alvarado"
-image: /images/speakers/angel-alvarado.jpg
+images:
+ - images/speakers/angel-alvarado.jpg
 date: 2021-03-01
 designation : "Data Engineer & Senior Technical Leader"
 country: ""

@@ -1,7 +1,8 @@
 ---
 title: "Akira Kimura"
 date: 2022-02-10T12:04:28-06:00
-image : "/images/speakers/akira-kimura.jpg"
+images: 
+ - images/speakers/akira-kimura.jpg
 designation : "Founder @ Elion Health"
 country: ""
 facebook: ""

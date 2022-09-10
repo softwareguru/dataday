@@ -3,7 +3,7 @@ id:
 title: "Taller: Definiciones y técnicas para la detección de anomalías"
 url: /session/definiciones-y-tecnicas-para-la-deteccion-de-anomalias/
 speakers:
- - alfonso-ruiz-guido
+ - Alfonso Ruiz Guido
 time_start: 2020-08-06T12:00:00-05:00
 time_end:   2020-08-06T13:45:00-05:00
 block: 

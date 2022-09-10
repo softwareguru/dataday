@@ -1,6 +1,7 @@
 ---
 title: "Eunhye Ahn"
-image: /images/speakers/eunhye-ahn.png
+images:
+ - images/speakers/eunhye-ahn.png
 date: 2020-01-13
 events: 
  - 2020

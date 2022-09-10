@@ -1,6 +1,7 @@
 ---
 title: "Erika Rodriguez Bortolotti"
-image: /images/speakers/erika-rodriguez-bortolotti.jpg
+images:
+ - images/speakers/erika-rodriguez-bortolotti.jpg
 date: 2021-02-17
 events:
  - 2021

@@ -3,7 +3,7 @@ id:
 title: "Importancia de la selección de métricas de similitud de texto para modelos de Machine Learning"
 url: /session/importancia-de-la-seleccion-de-metricas-de-similitud-de-texto-para-modelos-de-machine-learning/
 speakers:
- - blanca-alicia-vargas
+ - Blanca Alicia Vargas
 time_start: 2020-08-03T17:45:00-05:00
 time_end:   2020-08-03T18:30:00-05:00
 block: 

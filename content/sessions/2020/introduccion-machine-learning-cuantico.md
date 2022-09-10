@@ -3,7 +3,7 @@ id:
 title: "Introducción al machine learning cuántico"
 url: /session/introduccion-machine-learning-cuantico/
 speakers:
- - salvador-e-venegas
+ - Salvador Venegas
 time_start: 2020-08-06T18:30:00-05:00
 time_end:   2020-08-06T19:15:00-05:00
 block: 

@@ -1,6 +1,7 @@
 ---
 title: "Adolfo De Unánue"
-image: /images/speakers/adolfo-unanue.jpg
+images:
+ - images/speakers/adolfo-unanue.jpg
 date: 2020-01-13
 designation : "Director Académico y de Investigación de la EGobiernoyTP"
 country: ""

@@ -3,7 +3,7 @@ id:
 title: "Taller: DataStax Developer Workshop: Machine Learning with Apache Spark & Cassandra"
 url: /session/datastax-developer-workshop-machine-learning-with-apache-spark-cassandra/
 speakers:
- - james-colvin
+ - James Colvin
 time_start: 2020-08-04T17:30:00-05:00
 time_end:   2020-08-04T19:15:00-05:00
 block: 

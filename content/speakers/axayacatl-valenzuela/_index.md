@@ -1,6 +1,7 @@
 ---
 title: "Axayacatl Valenzuela"
-image: "/images/speakers/axayacatl-valenzuela.jpg"
+images: 
+ - "images/speakers/axayacatl-valenzuela.jpg"
 date: 2021-02-16
 events:
  - 2021

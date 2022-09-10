@@ -3,8 +3,8 @@ id:
 title: "La nube es buena pero el multicloud es mejor, por Cloudera"
 url: /session/la-nube-es-buena-pero-el-multicloud-es-mejor/
 speakers:
- - hernan-galante
- - julio-cesar-perez
+ - Hernan Galante
+ - Julio Cesar Perez
 time_start: 2020-08-03T13:45:00-05:00
 time_end:   2020-08-03T14:30:00-05:00
 block: 

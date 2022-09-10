@@ -1,6 +1,7 @@
 ---
 title: "Pablo Campos"
-image: /images/speakers/2020/02/pablo-campos.jpg
+images:
+ - images/speakers/pablo-campos.jpg
 date: 2020-02-26
 events:
  - 2020

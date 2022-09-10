@@ -1,6 +1,7 @@
 ---
 title: "Santosh Umesh Shet"
-image: /images/speakers/santosh-umesh.jpg
+images:
+ - images/speakers/santosh-umesh.jpg
 date: 2021-02-16
 events:
  - 2021

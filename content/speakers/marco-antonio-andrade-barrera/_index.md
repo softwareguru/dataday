@@ -1,7 +1,8 @@
 ---
 title: "Marco Antonio Andrade Barrera"
 date: 2022-02-10T15:15:47-06:00
-image : "/images/speakers/marco-antonio-andrade-barrera.jpg"
+images:
+ - "images/speakers/marco-antonio-andrade-barrera.jpg"
 designation : "Científico de datos en OPI Analytics"
 country: ""
 facebook: ""

@@ -1,7 +1,8 @@
 ---
 title: "Fernanda Sobrino"
 date: 2022-02-10T11:40:34-06:00
-image : "/images/speakers/fernanda-sobrino.jpg"
+images:
+ - "images/speakers/fernanda-sobrino.jpg"
 designation : "Posdoctoral Researcher Harris School of Public Policy"
 country: ""
 facebook: ""

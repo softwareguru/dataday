@@ -1,7 +1,8 @@
 ---
 title: "Omar Espejel"
 date: 2022-02-10T15:18:07-06:00
-image : "/images/speakers/omar-espejel.jpeg"
+images:
+ - "images/speakers/omar-espejel.jpeg"
 designation : "Hugging Face - Machine Learning Developer Advocate"
 country: ""
 facebook: ""

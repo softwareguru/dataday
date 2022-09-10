@@ -1,7 +1,8 @@
 ---
 title: "Leon Martin"
 date: 2022-02-10T15:51:25-06:00
-image : "/images/speakers/leon-martin.jpeg"
+images:
+ - "images/speakers/leon-martin.jpeg"
 designation : "Web Developer - Globant | Mentor - CoderHouse"
 country: ""
 facebook: ""

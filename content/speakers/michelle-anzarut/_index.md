@@ -1,6 +1,7 @@
 ---
 title: "Michelle Anzarut"
-image: /images/speakers/2020/02/michelle-anzarut2.jpg
+images:
+ - images/speakers/michelle-anzarut.jpg
 date: 2020-02-11
 events:
  - 2020

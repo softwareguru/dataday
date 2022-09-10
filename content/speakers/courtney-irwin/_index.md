@@ -1,6 +1,7 @@
 ---
 title: "Courtney Irwin"
-image: /images/speakers/courtney-irwin.jpg
+images:
+ - images/speakers/courtney-irwin.jpg
 date: 2021-02-16
 events:
  - 2021

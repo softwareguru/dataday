@@ -1,7 +1,8 @@
 ---
 title: "Barbara Guadalupe Gaspar Gaona"
 date: 2022-02-10T15:55:47-06:00
-image : "/images/speakers/barbara-guadalupe-gaspar-gaona.jpg"
+images:
+ - "images/speakers/barbara-guadalupe-gaspar-gaona.jpg"
 designation : "Consultora en Banco de Desarrollo de América Latina (CAF)"
 country: ""
 facebook: ""

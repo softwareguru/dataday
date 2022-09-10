@@ -1,6 +1,7 @@
 ---
 title: "Victoriya Kalmanovich"
-image: /images/speakers/2019/01/victoriya.jpg
+images:
+ - images/speakers/victoriya.jpg
 date: 2019-01-24
 event-2019cdmx: true
 ---

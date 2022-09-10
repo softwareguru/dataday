@@ -1,6 +1,7 @@
 ---
 title: "Martha Villanueva"
-image: /images/speakers/martha-villanueva.jpg
+images:
+ - images/speakers/martha-villanueva.jpg
 date: 2021-02-17
 events:
  - 2021

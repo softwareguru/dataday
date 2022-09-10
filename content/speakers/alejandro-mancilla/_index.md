@@ -1,6 +1,7 @@
 ---
 title: "Alejandro Mancilla"
-image: /images/speakers/alejandro-mancilla.jpg
+images:
+ - images/speakers/alejandro-mancilla.jpg
 date: 2018-03-01
 events: 
  - 2019cdmx

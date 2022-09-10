@@ -1,9 +1,12 @@
 ---
 title: "Jorge Ramón Carranza"
-image: /images/speakers/jorge-carranza.jpg
+images:
+ - images/speakers/jorge-carranza.jpg
 date: 2021-03-03
 events:
  - 2021
+designation: Enterprise Architect @ Banorte
+linkedin: https://www.linkedin.com/in/jorge-ramon-carranza-velez-b7335b55/ 
 ---
 
 Subdirector de Arquitectura Empresarial en Banorte y profesor del ITESM. Licenciado en Sistemas Computacionales Administrativos con maestrías en

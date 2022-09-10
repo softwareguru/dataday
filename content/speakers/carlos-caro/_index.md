@@ -1,6 +1,7 @@
 ---
 title: "Carlos Caro"
-image: /images/speakers/carlos-caro.png
+images:
+ - images/speakers/carlos-caro.png
 date: 2020-02-07
 events:
  - 2020

@@ -1,6 +1,7 @@
 ---
 title: "Adrián Santuario"
-image: /images/speakers/adrian-santuario.jpg
+images:
+ - images/speakers/adrian-santuario.jpg
 date: 2018-01-23
 events: 
  - 2018

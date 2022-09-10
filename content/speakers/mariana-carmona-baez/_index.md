@@ -1,7 +1,8 @@
 ---
 title: "Mariana Carmona Baez"
 date: 2022-03-07T19:02:48-06:00
-image : "/images/speakers/mariana-carmona-baez.png"
+images:
+ - "images/speakers/mariana-carmona-baez.png"
 designation : "Senior Analytics Developer en Kantar"
 country: ""
 facebook: ""

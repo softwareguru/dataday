@@ -1,7 +1,8 @@
 ---
 title: "Rodolfo Ocampo"
 date: 2022-02-10T13:49:18-06:00
-image : "/images/speakers/rodolfo-ocampo.jpg"
+images:
+ - "images/speakers/rodolfo-ocampo.jpg"
 designation : "Estudiante de PhD en la Universidad de New South Wales, Sydney. Asistente de Investigación en CSIRO."
 country: ""
 facebook: ""

@@ -1,6 +1,7 @@
 ---
 title: "Aldo Valadez"
-image: /images/speakers/aldo_valadez.jpg
+images:
+ - images/speakers/aldo_valadez.jpg
 date: 2019-09-25
 events: 
  - 2021

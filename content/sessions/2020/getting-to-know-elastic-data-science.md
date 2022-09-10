@@ -3,8 +3,8 @@ id:
 title: "Getting to Know Elastic Data Science"
 url: /session/getting-to-know-elastic-data-science/
 speakers:
- - melissa-alvarez
- - thomas-grabowski
+ - Melissa Alvarez
+ - Thomas Grabowski
 time_start: 2020-08-04T13:45:00-05:00
 time_end:   2020-08-04T14:30:00-05:00
 block: 

@@ -1,6 +1,7 @@
 ---
 title: "Zinnya del Villar"
-image: /images/speakers/2018/01/zinnya.jpg
+images:
+ - images/speakers/zinnya.jpg
 date: 2018-01-23
 designation : "Research Director Data Science @ Data-Pop Alliance"
 country: ""

@@ -1,6 +1,7 @@
 ---
 title: "Roberto Bárcenas Curtis"
-image: /images/speakers/roberto-barcenas.jpg
+images:
+ - images/speakers/roberto-barcenas.jpg
 date: 2021-02-20
 designation : "Investigador posdoctoral en Facultad de Ciencias, UNAM y Consultor de Dirección Operativa en CONAMAT, México"
 country: ""

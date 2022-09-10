@@ -1,7 +1,8 @@
 ---
 title: "Jomar Dos Santos Silva"
 date: 2022-02-23T15:53:28-06:00
-image : "/images/speakers/jomar-dos-santos-silva.jpg"
+images:
+ - "images/speakers/jomar-dos-santos-silva.jpg"
 designation : "Developer Relations Manager - Latin America @ NVIDIA"
 country: ""
 facebook: ""

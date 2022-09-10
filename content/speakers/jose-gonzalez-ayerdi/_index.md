@@ -1,8 +1,11 @@
 ---
 title: "José González Ayerdi"
-image: /images/speakers/2019/09/josegzza.jpg
+images:
+ - images/speakers/josegzza.jpg
 date: 2019-09-26
-event-2019mty: true
+events:
+ - 2019mty
+designation: Analítica Avanzada @ Banregio 
 ---
 
 Forma parte del equipo de Analítica Avanzada en el área de Inteligencia Comercial de Banregio.

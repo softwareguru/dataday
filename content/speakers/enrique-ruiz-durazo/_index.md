@@ -1,6 +1,7 @@
 ---
 title: "Enrique Ruiz Durazo"
-image: /images/speakers/enrique-ruiz.jpg
+images:
+ - images/speakers/enrique-ruiz.jpg
 date: 2019-01-24
 events:
  - 2019cdmx

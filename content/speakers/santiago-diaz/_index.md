@@ -1,6 +1,7 @@
 ---
 title: "Santiago Díaz"
-image: /images/speakers/2020/07/0.jpg
+images:
+ - images/speakers/santiago-diaz.jpg
 date: 2020-07-07
 events:
  - 2020

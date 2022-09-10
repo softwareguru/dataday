@@ -1,7 +1,8 @@
 ---
 title: "Ana Thaís"
 date: 2022-02-10T15:29:05-06:00
-image : "/images/speakers/ana-thais.jpg"
+images: 
+ - images/speakers/ana-thais.jpg
 designation : "Product Manager en OPI Analytics"
 country: ""
 facebook: ""

@@ -1,6 +1,7 @@
 ---
 title: "Betzabé A Villarreal"
-image: "/images/speakers/betzabe-villarreal2.jpg"
+images: 
+ - "images/speakers/betzabe-villarreal2.jpg"
 date: 2021-03-01
 events:
  - 2021

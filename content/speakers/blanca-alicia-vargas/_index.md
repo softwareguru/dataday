@@ -1,6 +1,7 @@
 ---
 title: "Blanca Alicia Vargas"
-image: /images/speakers/blanca-vargas.jpg
+images:
+ - images/speakers/blanca-vargas.jpg
 date: 2019-01-22
 events:
  - 2020

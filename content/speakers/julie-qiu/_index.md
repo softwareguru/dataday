@@ -1,6 +1,7 @@
 ---
 title: "Julie Qiu"
-image: /images/speakers/2018/01/julie-qiu.png
+images:
+ - images/speakers/julie-qiu.png
 date: 2018-01-23
 events:
  - 2018

@@ -1,6 +1,7 @@
 ---
 title: "Fernando Cisneros"
-image: /images/speakers/fernando-cisneros.jpg
+images:
+ - images/speakers/fernando-cisneros.jpg
 date: 2017-01-30
 events:
  - 2017

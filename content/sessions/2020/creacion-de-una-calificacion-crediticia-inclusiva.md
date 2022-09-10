@@ -3,7 +3,7 @@ id:
 title: "Creación de una calificación crediticia inclusiva"
 url: /session/creacion-de-una-calificacion-crediticia-inclusiva/
 speakers:
- - christian-ramirez
+ - Christian Ramírez
 time_start: 2020-08-03T18:30:00-05:00
 time_end:   2020-08-03T19:15:00-05:00
 block: 

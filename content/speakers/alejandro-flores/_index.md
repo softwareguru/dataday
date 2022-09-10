@@ -1,6 +1,7 @@
 ---
 title: "Alejandro Flores"
-image: /images/speakers/alejandro-flores.png
+images:
+ - images/speakers/alejandro-flores.png
 date: 2017-03-08
 events: 
  - 2017

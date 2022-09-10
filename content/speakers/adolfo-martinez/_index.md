@@ -1,6 +1,7 @@
 ---
 title: "Adolfo Martínez"
-image: /images/speakers/adolfo-martinez.jpg
+images:
+ - images/speakers/adolfo-martinez.jpg
 date: 2017-01-30
 designation : "Data Scientist @ Globant, Technical Mentor @ CDAS ITAM"
 country: ""

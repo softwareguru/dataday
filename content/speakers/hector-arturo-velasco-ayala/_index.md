@@ -1,7 +1,8 @@
 ---
 title: "Hector Arturo Velasco Ayala"
 date: 2022-02-09T14:56:03-06:00
-image : "/images/speakers/hector-arturo-velasco-ayala.jpg"
+images:
+ - "images/speakers/hector-arturo-velasco-ayala.jpg"
 designation : "Gerente de Centro de Analitica e Inteligencia @ Salud Digna A.C."
 country: ""
 facebook: ""

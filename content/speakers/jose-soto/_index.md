@@ -1,6 +1,7 @@
 ---
 title: "José Soto Galindo"
-image: /images/speakers/speaker.jpg
+images:
+ - images/speakers/speaker.jpg
 date: 2018-03-13
 events:
  - 2018

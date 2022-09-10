@@ -1,7 +1,8 @@
 ---
 title: "Miguel A Alonso Arévalo"
 date: 2022-02-10T12:19:35-06:00
-image : "/images/speakers/miguel-a-alonso-arevalo.jpg"
+images:
+ - "images/speakers/miguel-a-alonso-arevalo.jpg"
 designation : "Investigador"
 country: ""
 facebook: ""

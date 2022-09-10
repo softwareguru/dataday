@@ -1,7 +1,10 @@
 ---
 title: "Javier Ramirez"
-image: /images/speakers/2017/03/javier1.png
+images:
+ - images/speakers/javier-ramirez.png
 date: 2017-03-16
-event-: true
+events:
+ - 2017
+
 ---
 

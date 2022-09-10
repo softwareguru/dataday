@@ -1,6 +1,7 @@
 ---
 title: "David Puente"
-image: /images/speakers/david-puente.jpg
+images:
+ - images/speakers/david-puente.jpg
 date: 2019-10-15
 events:
  - 2019

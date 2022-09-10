@@ -3,7 +3,7 @@ id:
 title: "Ingeniería de datos: El eslabón perdido en la ciencia de datos"
 url: /session/ingenieria-de-datos-el-eslabon-perdido-en-la-ciencia-de-datos/
 speakers:
- - guillermo-martinez-becerra
+ - Guillermo Martínez Becerra
 time_start: 2020-08-04T18:30:00-05:00
 time_end:   2020-08-04T19:15:00-05:00
 block: 

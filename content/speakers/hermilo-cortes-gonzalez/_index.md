@@ -1,7 +1,8 @@
 ---
 title: "Hermilo Cortés González"
 date: 2022-02-10T12:31:11-06:00
-image : "/images/speakers/hermilo-cortes-gonzalez.jpg"
+images:
+ - "images/speakers/hermilo-cortes-gonzalez.jpg"
 designation : "Escuela de Gobierno y Transformación Pública, ITESM"
 country: ""
 facebook: ""

@@ -1,6 +1,7 @@
 ---
 title: "José Antonio Padrós"
-image: /images/speakers/antonio-padros.jpg
+images:
+ - images/speakers/antonio-padros.jpg
 date: 2017-01-30
 events:
  - 2021

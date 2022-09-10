@@ -1,6 +1,7 @@
 ---
 title: "Paola Villarreal"
-image: /images/speakers/2019/02/paw.jpg
+images:
+ - images/speakers/paw.jpg
 date: 2019-02-14
 event-2019cdmx: true
 ---

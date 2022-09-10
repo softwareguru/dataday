@@ -1,6 +1,7 @@
 ---
 title: "Enrique Bonilla"
-image: /images/speakers/enrique-bonilla.jpg
+images:
+ - images/speakers/enrique-bonilla.jpg
 date: 2019-02-14
 designation : "Data Scientist and Product Manager @ Data-pop Alliance"
 country: ""

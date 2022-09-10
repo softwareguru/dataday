@@ -1,6 +1,7 @@
 ---
 title: "Silvia Ariza"
-image: /images/speakers/2020/07/silvia-ariza.jpg
+images:
+ - images/speakers/silvia-ariza.jpg
 date: 2020-07-17
 events:
  - 2020

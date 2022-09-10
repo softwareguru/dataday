@@ -1,7 +1,8 @@
 ---
 title: "Disha Dasgupta"
 date: 2022-03-07T18:44:49-06:00
-image : "/images/speakers/disha-dasgupta.jpg"
+images:
+ - "images/speakers/disha-dasgupta.jpg"
 designation : "Security Data Scientist"
 country: ""
 facebook: ""

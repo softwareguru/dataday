@@ -1,6 +1,7 @@
 ---
 title: "Roaa Al Feel"
-image: /images/speakers/roaa-al-feel.jpg
+images:
+ - images/speakers/roaa-al-feel.jpg
 date: 2021-02-16
 events:
  - 2021

@@ -1,6 +1,7 @@
 ---
 title: "Gabriel Balderas"
-image: /images/speakers/gabriel-balderas.jpg
+images:
+ - images/speakers/gabriel-balderas.jpg
 date: 2021-02-17
 events:
  - 2021

@@ -1,7 +1,8 @@
 ---
 title: "Diego Garcia De Alba"
 date: 2022-02-09T14:53:09-06:00
-image : "/images/speakers/diego-garcia-de-alba.jpg"
+images:
+ - "images/speakers/diego-garcia-de-alba.jpg"
 designation : "Partner @ OPI Anlytics"
 country: ""
 facebook: ""

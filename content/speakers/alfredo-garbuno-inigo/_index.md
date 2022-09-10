@@ -1,6 +1,7 @@
 ---
 title: "Alfredo Garbuno Íñigo"
-image: /images/speakers/alfredo-garbuno.jpg
+images:
+ - images/speakers/alfredo-garbuno.jpg
 date: 2021-02-26
 designation : "Director de la Maestria en Ciencia de Datos, Profesor de tiempo completo en Departamento de Estadistica @ ITAM"
 country: ""

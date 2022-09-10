@@ -1,6 +1,7 @@
 ---
 title: "Sergio Araiza"
-image: /images/speakers/2017/01/Sergioaraiza.jpg
+images:
+ - images/speakers/sergio-araiza.jpg
 date: 2017-01-30
 events:
  - 2018

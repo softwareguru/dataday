@@ -1,6 +1,7 @@
 ---
 title: "Fernando Esponda"
-image: /images/speakers/fernando-esponda.jpg
+images:
+ - images/speakers/fernando-esponda.jpg
 date: 2019-11-01
 events: 
  - 2019
