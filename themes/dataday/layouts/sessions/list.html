@@ -14,6 +14,7 @@
           <tr>
             <th data-field="title" data-sortable="true">Título</th>
             <th data-field="speaker">Speaker(s)</th>
+            <th data-field="recording">Recording</th>
           
           </tr>
         </thead>
@@ -22,7 +23,10 @@
     <tr>
         <td><a class="session-title" href="{{.Permalink}}">{{ .Params.title }}</a></td>
         <td>{{ with .Params.speakers }}{{ delimit . ", " " & " }}{{ end }}</td>
-        
+        <td class="text-center">{{ with .Params.video }}<a
+          href='{{ replace . "https://www.youtube.com/embed" "https://youtu.be" }}' target="_blank"><i
+              class="fab fa-youtube" aria-hidden="true" title="Watch"></i></a>{{ end }}</td>
+
     </tr>    
     {{ end }}
     </tbody>
