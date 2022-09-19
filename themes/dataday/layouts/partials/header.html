@@ -1,9 +1,9 @@
 <!-- Navigation Start -->
 <header>
-  <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-black">
+  <nav id="navbar" class="navbar navbar-expand-md navbar-dark fixed-top " style="background-color:transparent; margin-top: 8px;">
     <div class="container" style="align-items: flex-end;">
       <a class="navbar-brand" href='{{ "/" | relURL }}'>
-        <img src="{{ .Site.Params.logo | relURL }}" alt="{{ .Site.Title }}" class="img-fluid logo-b">
+        <img src="{{ .Site.Params.logo | relURL }}" alt="{{ .Site.Title }}"  class="img-fluid logo-b">
       </a>
 
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
@@ -46,4 +46,14 @@
     </div>
   </nav>
 </header>
+
+<script>
+   
+   window.addEventListener("DOMContentLoaded" , () => {
+        var element = document.getElementById("navbar");
+        document.addEventListener("scroll", () => {
+        element.setAttribute("style","background-color: black");
+        });
+    });
+</script>
 <!-- Navigation End -->
