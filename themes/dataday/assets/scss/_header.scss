@@ -17,10 +17,11 @@
     padding: 6px 15px!important;
     font-weight: 500;
     text-transform: uppercase;
-    color: rgba(248,248,248,0.9);
-
+    
+    font-weight: bold;
+    color: white !important;
     &:hover {
-      color: $gray;
+      color: rgba(248,248,248,0.9) !important; ;
     }
   }
 
