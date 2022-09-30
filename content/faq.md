@@ -31,6 +31,10 @@ El evento se realizará el jueves 1ro de diciembre de 2022 iniciando sesiones a 
 Actualmente estamos trabajando en la agenda y próximamente la publicaremos en este sitio.
 
 
+#### ¿Habrá alguna precaución sanitaria contra el Covid?
+
+La ciudad cede del evento, Monterrey, es considerada una ciudad de bajo riesgo Covid, por lo que el uso de mascarillas será opcional.
+
 #### ¿Dónde puedo ver las grabaciones?
 
 Las grabaciones estarán disponibles una semana después de concluir el evento para aquellas personas que hayan participado de forma presencial, así como para quienes tengan un ticket con acceso a la experiencia virtual. Recibirás un correo electrónico con instrucciones para acceder.
