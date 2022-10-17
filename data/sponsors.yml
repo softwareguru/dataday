@@ -10,6 +10,8 @@ sponsor_group:
       link : "https://neo4j.com"
     - logo : "/images/sponsors/microsoft.png"
       link : "https://www.microsoft.com/es-mx"
+    - logo : "/images/sponsors/Twilio.png"
+      link : "#"
 
 - title: "gold"
   sponsor:
