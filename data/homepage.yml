@@ -13,8 +13,8 @@ banner:
     link : "/tickets"
   button2:
     enable : true
-    label : "Convocatoria de ponencias"
-    link : "https://convoca.dev/dataday-mty-2022/cfp"
+    label : "Adquiere tu boleto"
+    link : "/tickets/"
 
 
 ############################## Event ##############################
