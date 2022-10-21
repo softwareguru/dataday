@@ -1,0 +1,9 @@
+---
+title: "Concurrencia, resiliencia y funcionalidad: Elixir para DataScience"
+url: "sessions/2022mty/concurrencia-resiliencia-y-funcionalidad-elixir-para-datascience"
+speakers:
+ - Héctor Iván Patricio Moreno
+draft: true
+---
+
+Elixir ha estado avanzando como lenguaje y sobre todo en su parte dirigida al análisis de datos. A parte de lo natural que es para crear pipelines de datos, recientemente ha estado trabajando el bibliotecas de análisis numérico (NX) y experimentación/visualización (el equivalente a Jupyter notebooks: Livebook). En este taller haremos un análisis básico con Elixir, usando NX y LiveBook y repasaremos las opciones que existen para crear aplicaciones de análisis de datos.

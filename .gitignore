@@ -1,6 +1,10 @@
 .hugo_build.lock
 .DS_Store
 
+.venv
+scripts/speakers
+scripts/sessions
+
 # Logs
 logs
 *.log

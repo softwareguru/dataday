@@ -2,17 +2,20 @@
 
 import csv
 import os
+from slugify import slugify
+
 with open('dataday-speakers.csv') as csvfile:
     reader = csv.DictReader(csvfile)
 
     for row in reader:
         title = row['title']
-        slug = row['slug']
-        url = row['url']
-        date = row['date']
         events = row['events'].split(", ")
-        image = row['image']
+        designation = row['designation']
         bio = row['bio']
+        twitter = row['twitter']
+        linkedin = row['linkedin']
+
+        slug = slugify(title)
 
         dirname = "speakers/"+slug
         try:
@@ -30,9 +33,9 @@ with open('dataday-speakers.csv') as csvfile:
 
             f.write("---\n")
             f.write("title: \""+title+"\"\n")
-            f.write("url: "+url+"\n")
-            f.write("image: "+image+"\n")
-            f.write("date: "+date+"\n")
+            f.write("designation: \""+designation+"\"\n")
+            f.write("twitter: \""+twitter+"\"\n")
+            f.write("linkedin: \""+linkedin+"\"\n")
             f.write("events:\n")
             for s in events:
                 f.write(" - "+s+"\n")
