@@ -3,7 +3,9 @@ title: "DASHA: Dashboard de Inteligencia Turística"
 url: "sessions/2022mty/dasha-dashboard-de-inteligencia-turistica"
 speakers:
  - Pedro Vallejo
-draft: true
+time_start: 2022-12-01T10:00:00-06:00
+time_end: 2022-12-28T10:40:00-06:00
+draft: false
 ---
 
 El día de hoy se escriben más bases de datos que nunca antes en la historia.

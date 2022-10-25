@@ -6,6 +6,7 @@ date: 2019-09-25
 events: 
  - 2021
  - 2019mty
+ - 2022mty
 designation: "Chief Analytics Officer @ Banregio"
 ---
 

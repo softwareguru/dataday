@@ -3,7 +3,9 @@ title: "Notebook a pipeline automatizado usando aws"
 url: "sessions/2022mty/notebook-a-pipeline-automatizado-usando-aws"
 speakers:
  - Sebastián Sandoval García
-draft: true
+time_start: 2022-12-01T10:00:00-06:00
+time_end: 2022-12-28T10:40:00-06:00
+draft: false
 ---
 
 El científico de datos en general es muy bueno generando notebooks robustos en los que realiza procesamiento de datos, optimización de hiperparámetros, entrenamiento de modelos y generación de predicciones de manera ordenada. Ejecutar estos notebooks de manera periódica cambiando un par de parámetros por celda es muy cómodo para quien lo desarrolla.

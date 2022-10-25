@@ -3,11 +3,12 @@ title: "Juana Martínez"
 images:
  - images/speakers/juana_martinez.jpg
 date: 2019-09-26
+#twitter: "@juanydeloslagos"
+linkedin: "https://www.linkedin.com/in/juanamtz/"
 events:
  - 2021
  - 2019mty
+ - 2022mty 
 ---
 
-Ingeniera en Sistemas Computacionales CoFundadora de Women in Data Science, Power and Engineering
-
-Apasionada por la tecnología y demostrar como esta nos ayuda a encontrar que siempre hay una manera más eficaz, mejor y sencilla de hacer las cosas, es una de mis grandes metas en la vida; tanto personal, como profesionalmente. Dejar en claro que el principal beneficio de ejercer lo que amas es ser tú mismo ya que esto te hace ser más creativo y entrar en un círculo de renovación continuo que no solo te hace feliz, aun mejor, beneficia a tus clientes. La parte del pago del esfuerzo debe ser la libertad de ayudar a otros a descubrirse y crecer.
+Ingeniera en sistemas computacionales, actualmente se desempeña como Ingeniera de datos y programadora,  emprendedora en el ramo de la educación en línea para el sector salud.  Co-Directora de Health Data Science Program y Co-Fundadora de Women in Data Science, Power and Engineering A.C

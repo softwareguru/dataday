@@ -2,8 +2,10 @@
 title: "Data for good"
 url: "sessions/2022mty/data-for-good"
 speakers:
- - Silvia Ariza Sentis
-draft: true
+ - Silvia Ariza
+time_start: 2022-12-01T10:00:00-06:00
+time_end: 2022-12-28T10:40:00-06:00
+draft: false
 ---
 
 How data can create a positive impact in society? Which things should be avoided?

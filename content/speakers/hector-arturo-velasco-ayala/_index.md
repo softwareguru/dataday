@@ -3,20 +3,20 @@ title: "Hector Arturo Velasco Ayala"
 date: 2022-02-09T14:56:03-06:00
 images:
  - "images/speakers/hector-arturo-velasco-ayala.jpg"
-designation : "Gerente de Centro de Analitica e Inteligencia @ Salud Digna A.C."
+designation: "Director de Centro de Analitica e Inteligencia en Salud Digna AC"
 country: ""
 facebook: ""
 instagram: ""
 twitter: ""
-linkedin: "https://www.linkedin.com/in/hector-arturo-velasco-ayala-19484a44/overlay/photo/"
+linkedin: "https://www.linkedin.com/in/hector-velasco/"
 github: ""
 events:
  - 2022
  - 2021
+ - 2022mty
 ---
 
-Actuario, Docente, Conferencista, Gamer y Friki.
+Actuario Facultad de Ciencias de la UNAM
+Docente, Conferencista, Gamer y Friki.
 
-+15 años llevando a las instituciones lideres en sus ramos (Salud, Cosmética, Banca, Logística, Ventas) a la optimización de sus recursos mediante el análisis de la información de todas sus fuentes de datos, identificando áreas de oportunidad a partir de información oculta en los sistemas, conjunto a herramientas estadísticas, y tecnológicas para llevar a la acción estrategias definidas.
-
-Aunque la ciencia de datos tiene muchas aristas, la definición de estrategias y el diseño de arquitecturas son ¡mi pasión!
+Especialista en llevar a instituciones a la optimización de recursos mediante analitica e inteligencia e negocio y equipos multidiciplinarios para lograr objetivos clave cuantificables.
