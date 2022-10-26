@@ -1,5 +1,5 @@
 ---
-title: "Joaquin Fonseca Vazquez"
+title: "Joaquín Fonseca Vazquez"
 designation: "Lead data manager"
 images: 
  - images/speakers/speaker.jpg

@@ -18,4 +18,4 @@ Llevar el notebook a pipelines tiene ventajas como la modularización del códig
 
 El objetivo del taller es mostrar que con poco código se puede pasar de un notebook en la computadora personal de un científico de datos a un flujo automatizado. En la primera mitad del taller se verá la teoría detrás de los trabajos de sagemaker y posteriormente se revisará un ejemplo de código paso por paso hasta llegar a la calendarización del flujo.
 
-Como científico de datos en banregio he dado una versión de este taller a diversas áreas, con una muy buena recepción y posterior adopción de la metodología. Este taller será una versión resumida para conocer la herramienta pero la considero suficiente para despertar el interés en los participantes y brindarles conocimiento de valor.
+Como científico de datos en Banregio he dado una versión de este taller a diversas áreas, con una muy buena recepción y posterior adopción de la metodología. Este taller será una versión resumida para conocer la herramienta pero la considero suficiente para despertar el interés en los participantes y brindarles conocimiento de valor.

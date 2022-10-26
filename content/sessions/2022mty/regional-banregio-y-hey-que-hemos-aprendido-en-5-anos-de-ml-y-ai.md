@@ -8,4 +8,4 @@ time_end: 2022-12-28T10:40:00-06:00
 draft: false
 ---
 
-Historia de estos últimos 5 años sobre el uso de ML y AI en Banregio y Hey sobre todo y como hemos construido y crecido, con nuestras vivencias y nuestros obstáculos y tips para evitarlos, nos gustaría tener tambien una sesion de preguntas y respuestas dentro de esos 40 minutos.
+Historia de estos últimos 5 años sobre el uso de ML y AI en Banregio y Hey sobre todo y como hemos construido y crecido, con nuestras vivencias y nuestros obstáculos y tips para evitarlos, nos gustaría tener también una sesión de preguntas y respuestas dentro de esos 40 minutos.

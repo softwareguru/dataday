@@ -1,6 +1,6 @@
 ---
 title: "Sebastián Sandoval García"
-designation: "Científico de datos Sr. en banregio"
+designation: "Científico de datos Sr. en Banregio"
 images:
  - images/speakers/speaker.jpg
 twitter: ""
