@@ -13,10 +13,14 @@ sponsor_group:
     - logo : "/images/sponsors/Twilio.png"
       link : "https://www.twilio.com/es-mx/"
 
+
 - title: "gold"
   sponsor:
-    - logo : "/images/sponsors/softtek.png"
+    - logo : "/images/sponsors/Softtek-logo.png"
       link : "https://www.softtek.com/es"
+    #- logo : "/images/sponsors/EGob.png"
+    #  link : "#"
+
 
 
 - title : "community"
