@@ -12,6 +12,8 @@ sponsor_group:
       link : "https://www.microsoft.com/es-mx"
     - logo : "/images/sponsors/Twilio.png"
       link : "https://www.twilio.com/es-mx/"
+    - logo : "/images/sponsors/DataStax.gif"
+      link : "https://www.datastax.com/"
 
 
 - title: "gold"
