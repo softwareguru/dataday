@@ -1,10 +1,18 @@
 ---
-title: "Notebook a pipeline automatizado usando aws"
-url: "sessions/2022mty/notebook-a-pipeline-automatizado-usando-aws"
+title: "Del notebook al pipeline sin dolor con AWS"
+url: "sessions/2022mty/del-notebook-al-pipeline-sin-dolor-con-AWS"
 speakers:
  - Sebastián Sandoval García
-time_start: 2022-12-01T10:00:00-06:00
-time_end: 2022-12-28T10:40:00-06:00
+time_start: 2022-12-01 12:30:00 -0600 CST
+time_end:   2022-12-01 13:55:00 -0600 CST
+day: a
+timeslot: 4
+room: 202
+timeorder: 0
+track: data
+live_url: 
+slides: 
+video: 
 draft: false
 ---
 

@@ -2,7 +2,7 @@
 title: "Carlos Enrique Gonzalez Moran"
 designation: "Industrial Engineer"
 images:
- - images/speakers/speaker.jpg
+ - images/speakers/carlos-enrique.jfif
 twitter: ""
 linkedin: "https://www.linkedin.com/in/carlos-enrique-gonzalez-b8105a19a"
 events:

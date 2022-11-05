@@ -1,10 +1,18 @@
 ---
-title: "Taller creación de flujo de datos para uso de modelos  pre-entrenados en Azure"
-url: "sessions/2022mty/taller-creacion-de-flujo-de-datos-para-uso-de-modelos-pre-entrenados-en-azure"
+title: "Pipelines ágiles: flujos de datos y modelos preentrenados en Azure"
+url: "sessions/2022mty/pipelines-agiles"
 speakers:
  - Juana Martínez
-time_start: 2022-12-01T10:00:00-06:00
-time_end: 2022-12-28T10:40:00-06:00
+time_start: 2022-12-01 17:40:00 -0600 CST
+time_end:   2022-12-01 18:20:00 -0600 CST
+day: a
+timeslot: 10
+room: 204
+timeorder: 1
+track: data 
+live_url: 
+slides: 
+video: 
 draft: false
 ---
 

@@ -3,8 +3,16 @@ title: "¿Cómo hacer un centro de datos en salud?"
 url: "sessions/2022mty/como-hacer-un-centro-de-datos-en-salud"
 speakers:
  - Joaquín Fonseca Vazquez
-time_start: 2022-12-01T10:00:00-06:00
-time_end: 2022-12-28T10:40:00-06:00
+time_start: 2022-12-01 18:20:00 -0600 CST
+time_end:   2022-12-01 19:00:00 -0600 CST
+day: a
+timeslot: 10
+room: 203
+timeorder: 2
+track: case-study 
+live_url: 
+slides: 
+video: 
 draft: false
 ---
 

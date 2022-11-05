@@ -1,11 +1,19 @@
 ---
-title: "Laboratorio Optico SD 100% Automatizado"
-url: "sessions/2022mty/laboratorio-optico-sd-100-automatizado"
+title: "Laboratorio Óptico 100% Automatizado"
+url: "sessions/2022mty/laboratorio-optico-100-automatizado"
 speakers:
  - Hector Arturo Velasco Ayala
  - Charvett Sánchez
-time_start: 2022-12-01T10:00:00-06:00
-time_end: 2022-12-28T10:40:00-06:00
+time_start: 2022-12-01 16:50:00 -0600 CST
+time_end:   2022-12-01 17:30:00 -0600 CST
+day: a
+timeslot: 8
+room: 202
+timeorder: 2 
+track: case-study
+live_url: 
+slides: 
+video: 
 draft: false
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: "Rodolfo Ferro"
-designation: "Developer Advocate en Ploomber"
+designation: "Developer Advocate @ Ploomber / CEO @ Ploomber"
 images:
- - images/speakers/speaker.jpg
+ - images/speakers/rodolfo-ferro.jpg
 #twitter: "@rodo_ferro & @edublancas"
 linkedin: "https://www.linkedin.com/in/rodolfoferro/"
 events:

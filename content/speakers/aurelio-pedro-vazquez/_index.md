@@ -1,8 +1,8 @@
 ---
 title: "Aurelio Pedro Vazquez"
-designation: "Director de Estrategia de Datos y Transformación digital en Suprema corte de Justicia de la Nación, Directora de Registro de Precedentes, SCJN"
+designation: "Director de Estrategia de Datos y Transformación Digital en la SCJN"
 images: 
- - images/speakers/speaker.jpg
+ - images/speakers/aurelio-pedro.jpg
 twitter: ""
 linkedin: "https://www.linkedin.com/in/aurpedrovs/"
 events:

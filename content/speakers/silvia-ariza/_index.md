@@ -3,7 +3,7 @@ title: "Silvia Ariza"
 images:
  - images/speakers/silvia-ariza.jpg
 date: 2020-07-17
-designation: "Data Science - Data Pub"
+designation: "Data Scientist for Poblic Policy @ DiDi"
 events:
  - 2020
  - 2022mty

@@ -3,6 +3,7 @@ title: "Juana Martínez"
 images:
  - images/speakers/juana_martinez.jpg
 date: 2019-09-26
+designation: "Data Engineer @ Ensitech"
 #twitter: "@juanydeloslagos"
 linkedin: "https://www.linkedin.com/in/juanamtz/"
 events:

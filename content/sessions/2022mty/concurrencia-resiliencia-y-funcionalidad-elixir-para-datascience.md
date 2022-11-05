@@ -3,8 +3,16 @@ title: "Concurrencia, resiliencia y funcionalidad: Elixir para DataScience"
 url: "sessions/2022mty/concurrencia-resiliencia-y-funcionalidad-elixir-para-datascience"
 speakers:
  - Héctor Iván Patricio
-time_start: 2022-12-01T10:00:00-06:00
-time_end: 2022-12-28T10:40:00-06:00
+time_start: 2022-12-01 18:20:00 -0600 CST
+time_end:   2022-12-01 19:00:00 -0600 CST
+day: a
+timeslot: 10
+room: 204
+timeorder: 2
+track: data 
+live_url: 
+slides: 
+video: 
 draft: false
 ---
 

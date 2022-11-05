@@ -2,7 +2,7 @@
 title: "Paloma González Martínez"
 designation: "Head of Data-Driven Insights - Digital @ FEMSA"
 images:
- - images/speakers/speaker.jpg
+ - images/speakers/paloma-gonzalez.jpg
 #twitter: "@Paloma_glz"
 linkedin: "https://www.linkedin.com/in/palomagonzalezmtz/"
 events:

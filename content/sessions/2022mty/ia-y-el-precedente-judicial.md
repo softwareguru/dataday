@@ -3,8 +3,16 @@ title: "IA y el Precedente Judicial"
 url: "sessions/2022mty/ia-y-el-precedente-judicial"
 speakers:
  - Aurelio Pedro Vazquez
-time_start: 2022-12-01T10:00:00-06:00
-time_end: 2022-12-28T10:40:00-06:00
+time_start: 2022-12-01 16:10:00 -0600 CST
+time_end:   2022-12-01 16:50:00 -0600 CST
+day: a
+timeslot: 8
+room: 203
+timeorder: 1
+track: case-study 
+live_url: 
+slides: 
+video: 
 draft: false
 ---
 
