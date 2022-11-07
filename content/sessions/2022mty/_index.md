@@ -7,6 +7,8 @@ headscripts:
 footerscripts:
  - https://unpkg.com/bootstrap-table@1.18.2/dist/bootstrap-table.min.js
 
+url: sessions/monterrey-2022 
+
 ---
 
 ## Machine Learning y ciencia de datos aplicada en el programa de Data Day Monterrey

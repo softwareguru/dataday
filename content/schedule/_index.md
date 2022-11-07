@@ -2,6 +2,7 @@
 title: "Agenda"
 date: 2021-06-04T09:37:06-05:00
 url: /agenda
+aliases: sessions/2022mty/
 
 days: 
   - id: a
