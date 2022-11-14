@@ -6,21 +6,22 @@ sponsor_group:
 
 - title: "platinum"
   sponsor:
-    - logo : "/images/sponsors/neo4j-color.png"
+    - logo : "images/sponsors/neo4j-color.png"
       link : "https://neo4j.com"
-    - logo : "/images/sponsors/microsoft.png"
+    - logo : "images/sponsors/microsoft.png"
       link : "https://www.microsoft.com/es-mx"
-    - logo : "/images/sponsors/Twilio.png"
+    - logo : "images/sponsors/Twilio.png"
       link : "https://www.twilio.com/es-mx/"
-    - logo : "/images/sponsors/DataStax.gif"
+    - logo : "images/sponsors/DataStax.gif"
       link : "https://www.datastax.com/"
-
+    - logo : "images/sponsors/vinkos.png"
+      link : "https://vinkos.com/"
 
 - title: "gold"
   sponsor:
-    - logo : "/images/sponsors/Softtek-logo.png"
+    - logo : "images/sponsors/Softtek-logo.png"
       link : "https://www.softtek.com/es"
-    #- logo : "/images/sponsors/EGob.png"
+    #- logo : "images/sponsors/EGob.png"
     #  link : "#"
 
 
