@@ -19,19 +19,16 @@ sponsor_group:
 
 - title: "gold"
   sponsor:
-    - logo : "images/sponsors/Softtek-logo.png"
+    - logo : "images/sponsors/Softtek-reducido.png"
       link : "https://www.softtek.com/es"
-    #- logo : "images/sponsors/EGob.png"
-    #  link : "#"
-
-
+    - logo : "images/sponsors/EGob.png"
+      link : "https://egobiernoytp.mx/"
 
 - title : "community"
   sponsor:
- 
+
     - logo : "images/sponsors/datapub.png"
       link : "https://twitter.com/thedatapub"
-
     - logo : "images/sponsors/dsmty.png"
       link : "https://www.facebook.com/groups/469523539899326"
 
