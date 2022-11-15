@@ -16,6 +16,8 @@ sponsor_group:
       link : "https://www.datastax.com/"
     - logo : "images/sponsors/vinkos.png"
       link : "https://vinkos.com/"
+    - logo : "images/sponsors/snowflake-logo.png"
+      link : "https://www.snowflake.com/?lang=es"
 
 - title: "gold"
   sponsor:
