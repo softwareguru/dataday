@@ -1,5 +1,5 @@
 ---
-title: "Ivan Ramirez"
+title: "Iván Rámirez"
 date: 2022-11-04T19:25:22-06:00
 images : 
  - "/images/speakers/speaker.jpg"
@@ -8,7 +8,7 @@ country: ""
 facebook: ""
 instagram: ""
 twitter: ""
-linkedin: "https://www.linkedin.com/in/cesarfervillarreal/"
+linkedin: ""
 github: ""
 events: 
  - 2022mty

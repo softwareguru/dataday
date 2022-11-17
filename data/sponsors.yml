@@ -18,6 +18,8 @@ sponsor_group:
       link : "https://vinkos.com/"
     - logo : "images/sponsors/snowflake-logo.png"
       link : "https://www.snowflake.com/?lang=es"
+    - logo : "images/sponsors/cloudera_logo.png"
+      link : "https://www.cloudera.com/"
 
 - title: "gold"
   sponsor:
