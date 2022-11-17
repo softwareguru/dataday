@@ -5,7 +5,7 @@ url: "sessions/2022mty/putting-explainable-ml-into-practice"
 time_start: 2022-12-01 13:15:00 -0600 CST
 time_end:   2022-12-01 13:55:00 -0600 CST
 speakers:
- - Dr Kasun Amarasinghe
+ - Kasun Amarasinghe
 day: a
 timeslot: 4
 room: 204

@@ -1,7 +1,7 @@
 ---
 id: a08
-title: "MLOps: Como adoptar mejores practicas de DevOps en el desarrollo de algoritmos de Machine Learning."
-url: "sessions/2022mty/MLOps-como-adoptar-mejores-practicas-de-DevOps-en-el-desarrollo-de-algoritmos-de-Machine-Learning"
+title: "MLOps: Como adoptar mejores practicas de DevOps en el desarrollo de algoritmos de machine learning."
+url: "sessions/2022mty/MLOps-como-adoptar-mejores-practicas-de-DevOps-en-ml"
 speakers:
  - Mauricio Valdovinos
 time_start: 2022-12-01 11:45:00 -0600 CST
@@ -17,5 +17,6 @@ video:
 draft: false
 ---
 
-Aplicar el enfoque DRY (Don’t Repeate Yourself) para agilizar el desarrollo de algoritmos, Tecnologías: Python, Docker, pytorch, kubernetes, aws, gitlab. Soluciones:  Model Registry, Model promotion and model Serving.
+En esta charla presentada por Softtek daremos una introducción a qué es MLOps y cómo nos permite agilizar la entrega continua de soluciones basadas en analítica de datos, cuáles son las principales herramientas y tecnologías involucradas, así como ejemplos de aplicaciones comunes.
+
 

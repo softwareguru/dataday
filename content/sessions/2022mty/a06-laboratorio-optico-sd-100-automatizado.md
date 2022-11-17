@@ -1,6 +1,6 @@
 ---
 id: a06
-title: "Laboratorio Óptico 100% Automatizado"
+title: "Modelos automatizados de supervisión: Laboratorio óptico 100% automatizado"
 url: "sessions/2022mty/laboratorio-optico-100-automatizado"
 speakers:
  - Hector Arturo Velasco Ayala
@@ -18,4 +18,4 @@ video:
 draft: false
 ---
 
-Salud Digna AC cuenta con el laboratorio optico para la producción de lentes mas moderno de LATAM y unos de los poco 100% automatizados del mundo. Cuenta con una capacidad deproducción inicial de 1500 lentes al dia con 0 interacción humana en la fabricación, con modelos automatizados de supervisión.
+Compartiremos el caso de estudio del laboratorio óptico para la producción de lentes de Salud Digna AC, el cual es el más moderno de Latinoamérica y unos de los pocos en el mundo que están 100% automatizados contando con una capacidad de producción de 1,500 lentes al dia con 0 interacción humana. Ahondaremos en cómo logramos esto mediante la utilización de modelos automatizados de supervisión.

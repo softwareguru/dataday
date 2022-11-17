@@ -2,8 +2,8 @@
 title: "Mauricio Valdovinos"
 date: 2022-11-17T11:42:32-06:00
 images : 
- - "/images/speakers/mauricio-valdovinos.jpg"
-designation : "DataOps Specialist"
+ - "images/speakers/mauricio-valdovinos.jpg"
+designation : "DataOps Specialist @ Softtek"
 country: ""
 facebook: ""
 instagram: ""

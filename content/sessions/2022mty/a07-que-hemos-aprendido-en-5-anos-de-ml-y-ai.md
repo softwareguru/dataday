@@ -1,6 +1,6 @@
 ---
 id: a07
-title: "¿Qué hemos aprendido en 5 años de ML y AI?"
+title: "¿Qué hemos aprendido en 5 años de ML y AI en Banregio/Hey?"
 url: "sessions/2022mty/que-hemos-aprendido-en-5-anos-de-ml-y-ai"
 speakers:
  - Aldo Valadez

@@ -22,8 +22,7 @@ Los problemas comienzan a surgir cuando la cantidad de datos crece y los modelos
 
 Este taller está enfocado a convertir un notebook de limpieza y entrenamiento en un flujo completamente automatizado. Para esto, se hará uso de los diferentes tipos de trabajos de sagemaker y se aprovechará el framework de pipelines dentro de sagemaker para orquestar la ejecución de los trabajos. 
 
-Llevar el notebook a pipelines tiene ventajas como la modularización del código, el uso de contenedores docker, optimización en el uso de recursos, paralelización automática
-, entre otros.
+Llevar el notebook a pipelines tiene ventajas como la modularización del código, el uso de contenedores docker, optimización en el uso de recursos, paralelización automática, entre otros.
 
 El objetivo del taller es mostrar que con poco código se puede pasar de un notebook en la computadora personal de un científico de datos a un flujo automatizado. En la primera mitad del taller se verá la teoría detrás de los trabajos de sagemaker y posteriormente se revisará un ejemplo de código paso por paso hasta llegar a la calendarización del flujo.
 
