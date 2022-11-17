@@ -1,4 +1,5 @@
 ---
+id: a10
 title: "DASHA: Dashboard de Inteligencia Turística"
 url: "sessions/2022mty/dasha-dashboard-de-inteligencia-turistica"
 speakers:

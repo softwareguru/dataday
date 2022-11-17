@@ -1,4 +1,5 @@
 ---
+id: a13
 title: "Taller patrocinado por Data Stax"
 url: "sessions/2022mty/datastax"
 speakers:

@@ -1,4 +1,5 @@
 ---
+id: a26
 title: "Pipelines ágiles: flujos de datos y modelos preentrenados en Azure"
 url: "sessions/2022mty/pipelines-agiles"
 speakers:

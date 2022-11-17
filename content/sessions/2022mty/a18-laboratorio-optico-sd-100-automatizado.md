@@ -1,4 +1,5 @@
 ---
+id: a18
 title: "Laboratorio Óptico 100% Automatizado"
 url: "sessions/2022mty/laboratorio-optico-100-automatizado"
 speakers:

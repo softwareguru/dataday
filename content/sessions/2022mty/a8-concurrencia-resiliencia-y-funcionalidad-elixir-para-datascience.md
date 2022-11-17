@@ -1,4 +1,5 @@
 ---
+id: a8
 title: "Concurrencia, resiliencia y funcionalidad: Elixir para DataScience"
 url: "sessions/2022mty/concurrencia-resiliencia-y-funcionalidad-elixir-para-datascience"
 speakers:

@@ -1,4 +1,5 @@
 ---
+id: a0
 title: "Registro"
 url: "sessions/2022mty/registro"
 time_start: 2022-12-01 07:30:00 -0600 CST

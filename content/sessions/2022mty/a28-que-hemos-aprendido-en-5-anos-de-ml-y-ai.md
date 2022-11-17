@@ -1,4 +1,5 @@
 ---
+id: a28
 title: "¿Qué hemos aprendido en 5 años de ML y AI?"
 url: "sessions/2022mty/que-hemos-aprendido-en-5-anos-de-ml-y-ai"
 speakers:

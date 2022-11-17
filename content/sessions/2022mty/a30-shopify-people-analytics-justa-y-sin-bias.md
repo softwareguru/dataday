@@ -1,4 +1,5 @@
 ---
+id: a30
 title: "Shopify: People Analytics Justa y Sin Bias"
 url: "sessions/2022mty/shopify-people-analytics-justa-y-sin-bias"
 speakers:

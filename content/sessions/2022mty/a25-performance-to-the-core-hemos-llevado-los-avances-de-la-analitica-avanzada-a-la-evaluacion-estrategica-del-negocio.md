@@ -1,4 +1,5 @@
 ---
+id: a25
 title: "Performance to the core: ¿hemos llevado los avances de la analítica avanzada a la evaluación estratégica del negocio?"
 url: "sessions/2022mty/performance-to-the-core-hemos-llevado-los-avances-de-la-analitica-avanzada-a-la-evaluacion-estrategica-del-negocio"
 speakers:

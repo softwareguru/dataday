@@ -1,4 +1,5 @@
 ---
+id: a2
 title: "Making Agile Work for Data Science"
 url: "sessions/2022mty/making-agile-work-for-data-science"
 time_start: 2022-12-01 08:15:00 -0600 CST

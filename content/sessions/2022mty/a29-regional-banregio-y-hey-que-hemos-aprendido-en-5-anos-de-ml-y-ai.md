@@ -1,4 +1,5 @@
 ---
+id: a29
 title: "Regional (Banregio y Hey) que hemos aprendido en 5 años de ML y AI"
 url: "sessions/2022mty/regional-banregio-y-hey-que-hemos-aprendido-en-5-anos-de-ml-y-ai"
 speakers:

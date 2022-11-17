@@ -49,14 +49,18 @@ days:
         type: break
         name: Cocktail
 
+
+tracks:
+  - slug: case-study
+    label: Casos de estudio de organizaciones dirigidas por datos
+  - slug: keynote
+    label: Keynotes
+  - slug: data
+    label: Data engineering & MLOps 
+  - slug: workshop
+    label: Taller
+
 ---
 
-Tracks:
-<div class="color-code-list mb-4">
-  <div class="color-code-item" style="background-color: #61a96f">Keynotes</div>
-  <div class="color-code-item" style="background-color: #ed2525c6;">Casos de estudio de organizaciones dirigidas por datos</div>
-  <div class="color-code-item" style="background-color: #80c0b4;">Data engineering & MLOps</div>
-  <div class="color-code-item" style="background-color: #e8cd08;">Taller</div>
-</div>
 
 <p>Los horarios deben mostrarse en tu horario local.</p>

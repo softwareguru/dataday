@@ -1,4 +1,5 @@
 ---
+id: a9
 title: "Consumiendo modelos pre-entrenados con AzureML"
 url: "sessions/2022mty/consumiendo-modelos-pre-entrenados-conazureml"
 speakers:

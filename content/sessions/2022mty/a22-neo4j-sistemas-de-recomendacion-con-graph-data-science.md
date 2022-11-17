@@ -1,4 +1,5 @@
 ---
+id: a22
 title: "Neo4j: Sistemas de recomendación con Graph Data Science"
 url: "sessions/2022mty/neo4j-sistemas-de-recomendacion-con-graph-data-science"
 speakers:

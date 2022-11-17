@@ -1,4 +1,5 @@
 ---
+id: a21
 title: "ML sin Ops: Experimentos escalables con Ploomber y AWS Batch"
 url: "sessions/2022mty/ml-sin-ops-experimentos-escalables-con-ploomber-y-aws-batch"
 speakers:

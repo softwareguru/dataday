@@ -1,4 +1,5 @@
 ---
+id: a31
 title: "Charla patrocinada por Softtek"
 url: "sessions/2022mty/Softtek"
 speakers:

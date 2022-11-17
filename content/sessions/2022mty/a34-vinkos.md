@@ -1,4 +1,5 @@
 ---
+id: a34
 title: "Taller por confirmar"
 url: "sessions/2022mty/confirmar-taller"
 speakers:

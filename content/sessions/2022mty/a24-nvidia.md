@@ -1,4 +1,5 @@
 ---
+id: a24
 title: "Sesion por confirmar"
 url: "sessions/2022mty/confirmar-charla"
 speakers:

@@ -1,4 +1,5 @@
 ---
+id: a19
 title: "Mejores prácticas para analítica a gran escala en Arca Continental"
 url: "sessions/2022mty/mejores-practicas-para-analitica-a-gran-escala-en-arca-continental"
 speakers:

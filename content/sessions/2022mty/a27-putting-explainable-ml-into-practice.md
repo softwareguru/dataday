@@ -1,4 +1,5 @@
 ---
+id: a27
 title: "Putting Explainable Machine Learning into Practice"
 url: "sessions/2022mty/putting-explainable-ml-into-practice"
 time_start: 2022-12-01 13:00:00 -0600 CST

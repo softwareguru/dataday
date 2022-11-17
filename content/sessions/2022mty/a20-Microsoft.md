@@ -1,4 +1,5 @@
 ---
+id: a20
 title: "Charla patrocinada por Microsoft"
 url: "sessions/2022mty/Microsoft"
 time_start: 2022-12-01 15:30:00 -0600 CST

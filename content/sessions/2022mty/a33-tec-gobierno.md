@@ -1,4 +1,5 @@
 ---
+id: a33
 title: "Charla patrocinada por Tec Gobierno"
 url: "sessions/2022mty/tec-gobierno"
 speakers:

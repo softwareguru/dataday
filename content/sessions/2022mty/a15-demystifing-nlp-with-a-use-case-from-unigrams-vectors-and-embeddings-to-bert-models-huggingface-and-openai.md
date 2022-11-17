@@ -1,4 +1,5 @@
 ---
+id: a15
 title: "Demystifing NLP with a use case: from unigrams, vectors and embeddings to BERT models, HuggingFace and OpenAI"
 url: "sessions/2022mty/demystifing-nlp-with-a-use-case-from-unigrams-vectors-and-embeddings-to-bert-models-huggingface-and-openai"
 speakers:

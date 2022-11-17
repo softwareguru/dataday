@@ -1,4 +1,5 @@
 ---
+id: a7
 title: "¿Cómo hacer un centro de datos en salud?"
 url: "sessions/2022mty/como-hacer-un-centro-de-datos-en-salud"
 speakers:

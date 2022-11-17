@@ -1,4 +1,5 @@
 ---
+id: a32
 title: "Suprema Corte de Justicia de la Nación: Generación de precedente judicial con ML"
 url: "sessions/2022mty/suprema-corte-de-justicia-de-la-nacion-generacion-de-precedente-judicial-con-ml"
 speakers:
