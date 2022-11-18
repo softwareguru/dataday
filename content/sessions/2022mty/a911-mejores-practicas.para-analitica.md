@@ -5,17 +5,17 @@ url: "sessions/2022mty/mejores-practicas-para-analitica-a-gran-escala-en-arca-co
 speakers:
  - César Fernando Villarreal González
  - Iván Ramírez
-time_start: 2022-12-01 18:20:00 -0600 CST
-time_end:   2022-12-01 19:00:00 -0600 CST
+time_start: 2022-12-01 17:40:00 -0600 CST
+time_end:   2022-12-01 18:20:00 -0600 CST
 day: a
-timeslot: 10
-room: 203
+timeslot: 9
+room: Camino Real 3
 timeorder: 1
 track: case-study 
 live_url: 
 slides: 
 video: 
-draft: false
+summary: Lecciones aprendidas para mantener y extender modelos predictivos hacia otros países o unidades de negocio.
 ---
 
 Conforme una organización incrementa su portafolio de casos de usos de Analítica Avanzada se puede llegar a descuidar el mantenimiento de los proyectos productivos actuales y complicar su expansión a otras unidades de negocio. Esta situación ocurrió al equipo de Arca Continental con el proyecto de Pedido Sugerido.

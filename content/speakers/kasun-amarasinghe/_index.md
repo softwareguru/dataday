@@ -3,7 +3,7 @@ title: "Dr. Kasun Amarasinghe"
 date: 2022-11-04T18:56:04-06:00
 images : 
  - "images/speakers/kasun-amarasinghe.jpg"
-designation : "Postdoctoral Researcher in Machine Learning and Public Policy at Carnegie Mellon University"
+designation : "Postdoctoral Researcher in Machine Learning and Public Policy @ Carnegie Mellon University"
 country: ""
 facebook: ""
 instagram: ""

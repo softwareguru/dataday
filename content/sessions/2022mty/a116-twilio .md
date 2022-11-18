@@ -1,5 +1,5 @@
 ---
-id: a05
+id: a116
 title: "Customer Data Platforms: Historias de éxito con Twilio Segment"
 url: "sessions/2022mty/twilio"
 time_start: 2022-12-01 10:00:00 -0600 CST
@@ -8,9 +8,9 @@ speakers:
  - Julian Cortes
 day: a
 timeslot: 1
-room: 204
+room: Camino Real 3
 timeorder: 6
-track: keynote
+track: case-study
 live_url: 
 slides: 
 video: 

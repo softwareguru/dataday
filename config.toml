@@ -43,6 +43,11 @@ home = ["HTML", "RSS"]
   URL = "agenda"
   weight = 2
 
+  [[menu.main]]
+  name = "Conferencistas"
+  URL = "speakers"
+  weight = 3
+
 
   #[[menu.main]]
   #name = "Data Live"

@@ -2,8 +2,8 @@
 title: "Cesar Fernando Villarreal Gonzalez"
 date: 2022-11-04T19:22:58-06:00
 images : 
- - "/images/speakers/cesar-fernando-villarreal-gonzalez.jpg"
-designation : "Jefe de Arquitectura de Datos"
+ - "images/speakers/cesar-fernando-villarreal-gonzalez.jpg"
+designation : "Jefe de Arquitectura de Datos @ Arca Continental"
 country: ""
 facebook: ""
 instagram: ""

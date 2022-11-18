@@ -8,13 +8,13 @@ speakers:
  - Erika Salomon
 day: a
 timeslot: 1
-room: 204
+room: Camino Real 3
 timeorder: 3
-track: keynote
+track: case-study
 live_url: 
 slides: 
 video: 
-
+summary: Data science initiativas can benefit from following Agile development practices. In this talk we will review how to successfully adopt agile development practices in data teams. 
 ---
 
 Agile processes are common in software engineering but controversial in data science. Agile can keep data scientists happy, focused, and delivering quality work but is often done poorly. 

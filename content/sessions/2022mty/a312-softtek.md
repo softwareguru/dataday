@@ -1,6 +1,6 @@
 ---
 id: a08
-title: "MLOps: Como adoptar mejores practicas de DevOps en el desarrollo de algoritmos de machine learning."
+title: "MLOps: Cómo adoptar mejores practicas de DevOps en el desarrollo de algoritmos de machine learning."
 url: "sessions/2022mty/MLOps-como-adoptar-mejores-practicas-de-DevOps-en-ml"
 speakers:
  - Mauricio Valdovinos
@@ -8,9 +8,9 @@ time_start: 2022-12-01 11:45:00 -0600 CST
 time_end:   2022-12-01 12:25:00 -0600 CST
 day: a
 timeslot: 3
-room: 204
+room: Camino Real 3
 timeorder: 2
-track: case-study
+track: mlops
 live_url: 
 slides: 
 video: 

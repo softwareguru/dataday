@@ -8,13 +8,14 @@ speakers:
  - Carlos Suarez
 day: a
 timeslot: 1
-room: 204
+room: Camino Real 3
 timeorder: 5
-track: keynote
+track: case-study
 live_url: 
 slides: 
 video: 
 draft: false
+summary: En esta charla presentada por Snowflake compartiremos el caso de estudio de cómo Cemex mejoró dramáticamente su agilidad y gobierno de datos por medio de Snowflake Datalake y posteriormente mostraremos un caso de uso end-to-end usando datos públicos del INEGI con ETL con Snowpark Python y visualización a través de Streamlit.
 ---
 
 En esta charla presentada por Snowflake estará dividida en dos partes:

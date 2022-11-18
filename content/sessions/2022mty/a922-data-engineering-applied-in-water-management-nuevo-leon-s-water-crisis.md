@@ -1,0 +1,20 @@
+---
+id: a922
+title: "Usemos datos para mitigar la crisis de agua en Nuevo León"
+url: "sessions/2022mty/data-engineering-applied-in-water-management-nuevo-leon-s-water-crisis"
+speakers:
+ - Carlos Enrique Gonzalez Moran
+time_start: 2022-12-01 18:20:00 -0600 CST
+time_end:   2022-12-01 19:00:00 -0600 CST
+day: a
+timeslot: 9
+room: Camino Real 2
+timeorder: 2
+track: data4good
+live_url: 
+slides: 
+video: 
+summary: Propuesta para un sistema de monitoreo y análisis del uso de agua.
+---
+
+Sin agua, no hay vida. Y en Nuevo León este recurso precioso escasea. En esta sesión planteo la oportunidad de aplicar ciencia de datos para mejorar el manejo del agua en nuestro estado por medio de un sistema que permita conocer y difundir la forma en que se utiliza el agua.

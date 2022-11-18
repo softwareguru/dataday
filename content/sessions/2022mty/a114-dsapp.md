@@ -8,13 +8,14 @@ speakers:
  - Kit Rodolfa
 day: a
 timeslot: 1
-room: 204
+room: Camino Real 3
 timeorder: 4
-track: keynote
+track: data4good
 live_url: 
 slides: 
 video: 
 draft: false
+summary: We will walk through success stories of data science applied to public policy, and extract lessons and suggestions for how this can be applied in Monterrey.
 ---
 
 The Data Science and Public Policy Lab at Carnegie Mellon University works to develop and further the use of data science in social good, and public policy research and practice. As part of our work we collaborate on ML/AI/data science projects with government, nonprofit and academic institutions.

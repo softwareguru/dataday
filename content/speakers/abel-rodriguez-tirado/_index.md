@@ -5,7 +5,6 @@ images:
 date: 2021-02-16
 events:
  - 2021
- - 2022mty
 designation: Economista @ Banco de México 
 ---
 

@@ -1,5 +1,5 @@
 ---
-id: a014
+id: a422
 title: "DASHA: Dashboard de Inteligencia Turística"
 url: "sessions/2022mty/dasha-dashboard-de-inteligencia-turistica"
 speakers:
@@ -8,13 +8,13 @@ time_start: 2022-12-01 13:15:00 -0600 CST
 time_end:   2022-12-01 13:55:00 -0600 CST
 day: a
 timeslot: 4
-room: 203
+room: Camino Real 2
 timeorder: 2
 track: case-study
 live_url: 
 slides: 
 video: 
-draft: false
+summary:  Compartiremos prácticas y recomendaciones para intervenir industrias abundantes en datos pero carentes de integración e interoperabilidad entre ellas.
 ---
 
 El día de hoy se escriben más bases de datos que nunca antes en la historia.

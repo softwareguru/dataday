@@ -1,9 +1,9 @@
 ---
-title: "Kit Rodolfa"
+title: "Dr. Kit Rodolfa"
 date: 2022-11-04T18:45:55-06:00
 images : 
  - "images/speakers/kit-rodolfa.jpg"
-designation : "Sr. Research Scientist at Carnegie Mellon University"
+designation : "Sr. Research Scientist @ Carnegie Mellon University"
 country: ""
 facebook: ""
 instagram: ""

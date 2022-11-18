@@ -132,11 +132,17 @@
 }
 
 .session-title a {
-	color: white;	
+	color: #404040;	
+//	color:rgba(0, 0, 0, 0.574);
+}
+.session-title a:hover {
+	color: #ffffff;
 }
 
-.session-title a:hover {
-	color: $secondary-color;	
+.session-speakers {
+	font-size: 0.9em;
+	font-style: italic;
+	color: #404040;
 }
 
 .session-info p {
@@ -147,22 +153,22 @@
 	background-color: #ababab;
 }
 .track-keynote {
-//	background-color: #b0b0f0;
-background-color: #61a96f;
+background-color: #b0b0f0;
 }
 
 .track-case-study {
-	background-color: #ed2525c6;
+	background-color: #80c9fa;
+//	background-color: #ed2525c6;
 }
 
 .track-deep-dive {
 	background-color: #e3a0ff;
 }
-.track-community {
+.track-data4good {
 	background-color: #e09090;
 }
 
-.track-data {
+.track-mlops {
 	background-color: #80c0b4;
 }
 
@@ -177,17 +183,10 @@ background-color: #61a96f;
 
 
 .hour{
-	color:rgba(0, 0, 0, 0.653);
-	font-weight: bold;
+//	color:rgba(0, 0, 0, 0.653);
+color: #404040;
+
 }
-
-
-.names {
-	color:rgba(0, 0, 0, 0.574);
-	font-weight: bold;
-}
-
-
 
 
 .networking .session-info, .community .session-info {
@@ -219,4 +218,15 @@ background-color: #61a96f;
 #day-buttons .btn:focus, #day-buttons.btn.focus {
 	background-color: #dc3545;
 	color: #ffffff;
+}
+
+.card-abstract {
+	font-size: 0.9em;
+	color: #404040;
+	font-style: italic;
+}
+
+.card-abstract a.read-more {
+	font-weight: 500;
+	color: white;
 }

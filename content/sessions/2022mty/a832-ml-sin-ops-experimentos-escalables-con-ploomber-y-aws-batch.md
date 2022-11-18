@@ -5,17 +5,17 @@ url: "sessions/2022mty/ml-sin-ops-experimentos-escalables-con-ploomber-y-aws-bat
 speakers:
  - Rodolfo Ferro
  - Eduardo Blancas
-time_start: 2022-12-01 16:50:00 -0600 CST
-time_end:   2022-12-01 17:30:00 -0600 CST
+time_start: 2022-12-01 17:00:00 -0600 CST
+time_end:   2022-12-01 17:40:00 -0600 CST
 day: a
 timeslot: 8
-room: 203
+room: Camino Real 1
 timeorder: 2 
-track: case-study
+track: mlops
 live_url: 
 slides: 
 video: 
-draft: false
+summary: Aprenderás a implementar fácilmente pipelines de ML a gran escala a través de Ploomber y AWS Batch.
 ---
 
 En esta charla, veremos cómo ejecutar fácilmente código a gran escala a través de Ploomber y AWS Batch. Los flujos de análisis de Ciencia de Datos y Aprendizaje Automático usualmente involucran el entrenamiento a gran escala para obtener el mejor rendimiento de un modelo y, en ocasiones, requiere el uso de GPUs para procesamientos pesados, lo que requiere trabajo de infraestructura, seguridad, permisos y operaciones. Veremos los pasos para implementar un sistema de entrenamiento escalable que require mantenimiento mínimo, lo que te permitirá, como científico(a) de datos, concentrarte en la tarea importante: ¡sacar el máximo provecho de los modelos!

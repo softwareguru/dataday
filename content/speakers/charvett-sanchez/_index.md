@@ -1,6 +1,6 @@
 ---
 title: "Charvett Sánchez"
-designation: "Gerente de operaciones CNR en Salud Digna"
+designation: "Gerente de operaciones CNR @ Salud Digna"
 twitter: ""
 linkedin: ""
 images: 

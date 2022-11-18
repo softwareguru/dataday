@@ -1,6 +1,6 @@
 ---
 title: "Gabriel Vicario Castrejón"
-designation: "Data Driven Insights Leader en Digital@Femsa"
+designation: "Data Driven Insights Leader - Digital @ FEMSA"
 images:
  - images/speakers/gabriel-vicario.jpg
 #twitter: "Gabx90"

@@ -1,8 +1,8 @@
 ---
 title: "Carlos Enrique Gonzalez Moran"
-designation: "Industrial Engineer"
+designation: "Ingeniero industrial enfocado en data science"
 images:
- - images/speakers/carlos-enrique.jfif
+ - images/speakers/carlos-enrique.jpg
 twitter: ""
 linkedin: "https://www.linkedin.com/in/carlos-enrique-gonzalez-b8105a19a"
 events:

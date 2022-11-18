@@ -6,7 +6,10 @@ date: 2019-01-24
 events: 
  - 2019cdmx
  - 2019mty
-designation: Consulting partner @ Data Sense
+ - 2022mty
+designation: Socio Consultor @ DATA Sense
+linkedin: https://linkedin.com/in/jidominguez/
+twitter: https://twitter.com/joseidom
 ---
 
-José Ignacio es un experto en Inteligencia de Mercados, Estrategia de Marketing y en conectar ambas. A lo largo de su carrera ha ocupado puestos directivos en empresas como Cervecería Cuauhtémoc Moctezuma y Grupo Financiero Banorte. También estableció su propia agencia de publicidad, Criterio y Creatividad Publicitaria, y ha sido asesor de empresas como British American Tobacco, Cadena Comercial OXXO, Cemex, Gonher, HEB, LTH, Vector Casa de Bolsa, Vitro y Whirlpool, entre otras. José Ignacio también es invitado con frecuencia a impartir cursos y seminarios por instituciones como la Egade Business School, la Universidad de Monterrey y el Centro Internacional de Capacitación Empresarial.
+José Ignacio Domínguez combina una amplia experiencia práctica con una sólida formación académica. Es experto en Planeación Estratégica, Inteligencia de Mercado y en conectar ambas para apoyar decisiones de Segmentación de Mercados, Diferenciación de Productos y Posicionamiento de Marcas. Es Socio Consultor en DATA Sense, agencia de Advanced Analytics que va más allá del Business Intelligence para ofrecer conocimientos e Insights a empresas que buscan modificar comportamiento para mejorar su relación con empleados y clientes. Es invitado con frecuencia a impartir cursos y seminarios por instituciones como la Egade Business School, la Universidad de Monterrey y el Centro Internacional de Capacitación Empresarial.

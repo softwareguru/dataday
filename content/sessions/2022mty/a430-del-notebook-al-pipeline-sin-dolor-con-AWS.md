@@ -1,5 +1,5 @@
 ---
-id: a015
+id: a430
 title: "Del notebook al pipeline sin dolor con AWS"
 url: "sessions/2022mty/del-notebook-al-pipeline-sin-dolor-con-AWS"
 speakers:
@@ -8,13 +8,13 @@ time_start: 2022-12-01 12:30:00 -0600 CST
 time_end:   2022-12-01 13:55:00 -0600 CST
 day: a
 timeslot: 4
-room: 202
+room: Camino Real 1
 timeorder: 0
-track: data
+track: workshop
 live_url: 
 slides: 
 video: 
-draft: false
+summary: Laboratorio práctico enfocado a convertir un notebook de limpieza y entrenamiento en un flujo completamente automatizado
 ---
 
 El científico de datos en general es muy bueno generando notebooks robustos en los que realiza procesamiento de datos, optimización de hiperparámetros, entrenamiento de modelos y generación de predicciones de manera ordenada. Ejecutar estos notebooks de manera periódica cambiando un par de parámetros por celda es muy cómodo para quien lo desarrolla.
