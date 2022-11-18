@@ -9,7 +9,7 @@ time_end:   2022-12-01 12:25:00 -0600 CST
 day: a
 timeslot: 3
 room: Camino Real 3
-timeorder: 1
+timeorder: 2
 track: case-study
 live_url: 
 slides: 
