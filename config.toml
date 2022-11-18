@@ -79,8 +79,8 @@ home = "Home"
 
 # Meta data
 description = "Data Day es el congreso líder de ciencia e ingeniería de datos. La próxima edición es el 1 de diciembre de 2022."
-image = "images/card-2022.jpg"
-images = ["images/card-2022.jpg"]
+image = "images/card-2022mty.webp"
+images = ["images/card-2022mty.webp"]
 twitter_user = "@revistasg"
 email = "eventos@sg.com.mx"
 author = "Software Guru"
