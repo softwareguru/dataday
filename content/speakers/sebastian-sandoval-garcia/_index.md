@@ -4,7 +4,7 @@ designation: "Advanced Analytics Specialist @ Banregio"
 images:
  - images/speakers/sebastian-sandoval.jpg
 twitter: ""
-linkedin: ""
+linkedin: https://www.linkedin.com/in/sebasti%C3%A1n-sandoval-garc%C3%ADa-547936175/
 events:
  - 2022mty
 ---
