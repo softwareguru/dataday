@@ -4,8 +4,8 @@ title: "Modelo de Localización de Puntos de Venta"
 url: "sessions/2022mty/modelo-de-localizacion-de-puntos-de-venta"
 speakers:
  - Jose Ignacio Dominguez
-time_start: 2022-12-01 16:20:00 -0600 CST
-time_end:   2022-12-01 17:00:00 -0600 CST
+time_start: 2022-12-01 16:15:00 -0600 CST
+time_end:   2022-12-01 16:55:00 -0600 CST
 day: a
 timeslot: 8
 room: Camino Real 3

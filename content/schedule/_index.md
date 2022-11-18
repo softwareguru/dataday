@@ -35,13 +35,13 @@ days:
         type: break
         name: Break
       - id: 8
-        time_start: 2022-12-01 16:20:00 -0600 CST
+        time_start: 2022-12-01 16:15:00 -0600 CST
         type: concurrent
       - id: 9
-        time_start: 2022-12-01 17:40:00 -0600 CST
+        time_start: 2022-12-01 17:45:00 -0600 CST
         type: concurrent
       - id: 10
-        time_start: 2022-12-01 19:00:00 -0600 CST
+        time_start: 2022-12-01 19:15:00 -0600 CST
         type: break
         name: Cocktail
 

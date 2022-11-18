@@ -4,8 +4,8 @@ title: "Demystifing NLP with a use case: from unigrams, vectors and embeddings t
 url: "sessions/2022mty/demystifing-nlp-with-a-use-case-from-unigrams-vectors-and-embeddings-to-bert-models-huggingface-and-openai"
 speakers:
  - Ángel Alvarado
-time_start: 2022-12-01 16:20:00 -0600 CST
-time_end:   2022-12-01 17:00:00 -0600 CST
+time_start: 2022-12-01 16:15:00 -0600 CST
+time_end:   2022-12-01 16:55:00 -0600 CST
 day: a
 timeslot: 8
 room: Camino Real 1

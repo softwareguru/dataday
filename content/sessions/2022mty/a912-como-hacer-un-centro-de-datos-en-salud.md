@@ -4,8 +4,8 @@ title: "¿Cómo Hacer un Centro de Inteligencia en Salud?"
 url: "sessions/2022mty/como-hacer-un-centro-de-datos-en-salud"
 speakers:
  - Joaquín Fonseca Vazquez
-time_start: 2022-12-01 18:20:00 -0600 CST
-time_end:   2022-12-01 19:00:00 -0600 CST
+time_start: 2022-12-01 18:30:00 -0600 CST
+time_end:   2022-12-01 19:10:00 -0600 CST
 day: a
 timeslot: 9
 room: Camino Real 3

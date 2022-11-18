@@ -4,7 +4,7 @@ title: "Panel: Formulando políticas públicas con evidencia"
 url: "sessions/2022mty/panel-formuland-politicas-publicas-con-evidencia"
 speakers:
  - Jesús Ramos
-time_start: 2022-12-01 16:20:00 -0600 CST
+time_start: 2022-12-01 16:15:00 -0600 CST
 time_end:   2022-12-01 17:40:00 -0600 CST
 day: a
 timeslot: 8
