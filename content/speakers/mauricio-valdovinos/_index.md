@@ -12,6 +12,7 @@ linkedin: ""
 github: ""
 events: 
  - 2022mty
+draft: true
 ---
 
 Con amplia experiencia en datos y desarrollo de algoritmos de Machine Learning, Mauricio se ha especializado en automatizar y optimizar actividades que se presentan en el ciclo de desarrollo de datos y algoritmos de Machine Learning. Las herramientas en las que se especializa son Snowflake, Airflow, Azure Data landscape, AWS Data Landscape. DBT, Python (pandas, pytorch, etc ), Kubernetes, etc. 

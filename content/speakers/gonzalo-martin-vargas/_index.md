@@ -1,5 +1,5 @@
 ---
-title: "Gonzalo Martin Vargas"
+title: "Gonzalo Martín Vargas"
 date: 2022-03-07T18:58:41-06:00
 images:
  - "images/speakers/gonzalo-martin-vargas.jpeg"
@@ -12,6 +12,8 @@ linkedin: "https://www.linkedin.com/in/gonzalo-mart%C3%ADn-1a125a33/?locale=es_E
 github: ""
 events:
  - 2022
+ - 2022mty
+draft: false
 ---
 
 Actuario, con especialidad en minería de datos, certificado global en logística y cadena de suministro, maestría en inteligencia analítica y maestría en administración y negocios (MBA).

@@ -1,9 +1,9 @@
 ---
 id: a08
-title: "MLOps: Cómo adoptar mejores practicas de DevOps en el desarrollo de algoritmos de machine learning."
-url: "sessions/2022mty/MLOps-como-adoptar-mejores-practicas-de-DevOps-en-ml"
+title: "Abandono / Attrition / Churn. Revoluciona tu estrategia de crecimiento de clientes"
+url: "sessions/2022mty/abandono-attrition-churn"
 speakers:
- - Mauricio Valdovinos
+ - Gonzalo Martín Vargas
 time_start: 2022-12-01 11:00:00 -0600 CST
 time_end:   2022-12-01 11:40:00 -0600 CST
 day: a
@@ -17,6 +17,8 @@ video:
 draft: false
 ---
 
-En esta charla presentada por Softtek daremos una introducción a qué es MLOps y cómo nos permite agilizar la entrega continua de soluciones basadas en analítica de datos, cuáles son las principales herramientas y tecnologías involucradas, así como ejemplos de aplicaciones comunes.
+Hablaremos de los temas principales del abandono de clientes. Se tocarán temas como terminología para el abandono, justificación económica, cómo medirlo, principales causas, estrategias para encontrar las principales causas, diferencias entre estrategias proactivas y reactivas, casos de uso analíticos relevantes, así como un ejemplo real que hemos implementado en el mercado.
+
+El objetivo principal, es el de dar a conocer la importancia de complementar las estrategias de negocio con iniciativas que ataquen el abandono de clientes, así como compartir algunas ideas interesantes, estadísticas, frameworks y estrategias que les ayuden a conseguir un crecimiento eficiente de la base de clientes.
 
 
