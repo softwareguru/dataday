@@ -27,6 +27,8 @@ sponsor_group:
       link : "https://www.softtek.com/es"
     - logo : "images/sponsors/EGob.png"
       link : "https://egobiernoytp.mx/"
+    - logo : "images/sponsors/ensitech.png"
+      link : "https://ensitech.com/"
 
 - title : "community"
   sponsor:
@@ -35,4 +37,5 @@ sponsor_group:
       link : "https://twitter.com/thedatapub"
     - logo : "images/sponsors/dsmty.png"
       link : "https://www.facebook.com/groups/469523539899326"
-
+    - logo : "images/sponsors/Manning.png"
+      link : "https://www.manning.com/"
