@@ -59,10 +59,10 @@ home = ["HTML", "RSS"]
   #URL = "kitvirtual"
   #weight = 4
 
-  #[[menu.main]]
-  #name = "Networking"
-  #URL = "networking"
-  #weight = 4
+  [[menu.main]]
+  name = "Networking"
+  URL = "networking"
+  weight = 4
 
   [[menu.main]]
   name = "FAQ"
