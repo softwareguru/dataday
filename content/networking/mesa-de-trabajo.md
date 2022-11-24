@@ -2,8 +2,8 @@
 title: "Mesa de trabajo"
 date: 2021-01-06T18:26:06-06:00
 image: /images/networking/mesa-de-trabajo.png
-button: 
-link: 
+#button: Conocer más
+link: /dataday/mesa-trabajo/
 weight: 5
 draft: false
 ---

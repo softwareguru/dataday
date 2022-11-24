@@ -1,0 +1,48 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+<!-- News Section -->
+<section class="news-section">
+    <div class="anim-icons">
+    </div>
+
+    <div class="container">
+     <br>
+            <div class="row row-cols-1 row-cols-md-3">
+                {{ range .Data.Pages.ByWeight }}
+                <div class="col mb-4">
+                  <div class="card h-100 shadow p-3 mb-6 border-card">
+                    {{ with .Params.Link }}
+                    <a href="{{ . }}" target="blank">
+                      {{ end }}
+                      <img src="{{ .Params.Image | relURL }}" class="card-img-top" alt="...">
+                    </a>
+                    <div class="card-body">
+                      <h5 class="card-title">{{ .Title }}</h5>
+                      <p class="card-text">{{ .Params.speaker }}</p>
+                      <p class="card-text">{{ .Params.enterprise }}</p>
+                      <p class="card-text"><strong>Especial para:</strong> {{ .Params.designation }}</p>
+
+                      
+                    </div>
+                    <center>
+                      
+                        <a href="{{ .Params.Link }}" target="_blank">
+                          {{ with .Params.Button }}
+                          <button type="button" style="align-items: center;" class="btn btn-style-one text-white col-md-10 px-3">{{ .}}</button>
+                          {{ end }}
+                       </a>
+                    </center>
+                  <br>
+                  </div>
+                </div>
+                {{ end }}
+              </div>
+    </div>
+</section>
+
+
+<!--End News Section -->
+
+{{ end }}
