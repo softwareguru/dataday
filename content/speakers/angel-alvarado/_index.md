@@ -1,5 +1,5 @@
 ---
-title: "Angel Alvarado"
+title: "Ángel Alvarado"
 images:
  - images/speakers/angel-alvarado.jpg
 date: 2021-03-01
@@ -11,6 +11,7 @@ twitter: "https://twitter.com/angel_angelio"
 linkedin: "https://www.linkedin.com/in/angel-alvarado-robledo/"
 github: ""
 events:
+ - 2022mty
  - 2022
  - 2021
  - 2018

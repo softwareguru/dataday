@@ -6,6 +6,7 @@ date: 2018-01-23
 events:
  - 2018
  - 2017
+ - 2022mty
 designation: Head of Analytics Emerging Markets @ Adevinta 
 ---
 
