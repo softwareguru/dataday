@@ -3,7 +3,7 @@ id: a330
 title: "Hands-on lab: Datos y aplicaciones en tiempo real con DataStax"
 url: "sessions/2022mty/getting-started-with-astra-DB"
 speakers:
- - Edgar Barba
+ - Ricardo Valdes
 time_start: 2022-12-01 11:00:00 -0600 CST
 time_end:   2022-12-01 12:25:00 -0600 CST
 day: a

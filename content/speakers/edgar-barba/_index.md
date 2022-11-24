@@ -7,6 +7,7 @@ events:
  - 2022mty
 designation: "Solution Architect @ DataStax"
 linkedin: https://www.linkedin.com/in/edgar-barba
+draft: true
 ---
 
 
