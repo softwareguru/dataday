@@ -58,14 +58,13 @@
 
 .sponsor-strip.silver {
 	display: flex;
-	flex-direction: row;
 	flex-wrap: wrap;
 	justify-content: center;
 	align-items: center;
 
 
     .sponsor-item {
-	    width: 26%;
+	    width: 24%;
     	padding: 0 .1em;
 
  	    @include tablet {

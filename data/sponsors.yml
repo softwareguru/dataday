@@ -30,6 +30,11 @@ sponsor_group:
     - logo : "images/sponsors/ensitech.png"
       link : "https://ensitech.com/"
 
+- title: "silver"
+  sponsor:
+    - logo : "images/sponsors/logo-ultra.png"
+      link : ""
+
 - title : "community"
   sponsor:
 

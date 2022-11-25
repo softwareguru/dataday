@@ -3,7 +3,7 @@ title: "Brenda Aidé Peña Cantú"
 date: 2022-11-17T13:31:58-06:00
 images : 
  - "images/speakers/brenda-pena.jpg"
-designation : "Cloud Solution Architect @ Microsoft"
+designation : "Engineering en Microsoft Mexico."
 country: ""
 facebook: ""
 instagram: ""
@@ -14,4 +14,4 @@ events:
  - 2022mty
 ---
 
-Brenda actualmente se desempeña como arquitecta de soluciones en Microsoft, enfocada en el diseño de soluciones de analícita predictiva y machine learning utilizando la plataforma Azure. Brenda cuenta con una Maestría en Ingeniería de Sistemas por la Universidad Autónoma de Nuevo León, y antes de ingresar a Microsoft se desempeñó como consultora y desarrolladora de software en empresas como Infosys, Cognizant y Accenture. 
+Brenda Aidé Peña Cantú es Ingeniera mecánica Administradora egresada de la UANL. Tiene 8 años de experiencia, enfocándose principalmente en las áreas de Data & Analytics en la nube de Azure.. Ella es Azure Data Scientist, Azure AI Engineer y Microsoft Certified Trainer. Actualmente, Brenda se desempeña como Cloud Solution Architect.
