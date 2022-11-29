@@ -32,8 +32,8 @@ sponsor_group:
 
 - title: "silver"
   sponsor:
-    - logo : "images/sponsors/logo-ultra.png"
-      link : ""
+    - logo : "images/sponsors/ultrasist.png"
+      link : "https://www.ultrasist.mx/ultrasite/"
 
 - title : "community"
   sponsor:
