@@ -5,7 +5,7 @@ image: /images/networking/brindis.png
 button: 
 link: 
 draft: false
-weight: 3
+weight: 7
 ---
 
 ¡Acompáñanos en nuestro brindis al finalizar el evento (7:15 pm) en el foayer para interactuar con la comunidad de Datos!
