@@ -1,6 +1,6 @@
 ---
 id: a330
-title: "Hands-on lab: Datos y aplicaciones en tiempo real con DataStax"
+title: "Real Time Desicioning"
 url: "sessions/2022mty/getting-started-with-astra-DB"
 speakers:
  - Ricardo Valdes
