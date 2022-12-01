@@ -1,7 +1,7 @@
 ---
 title: "Brindis"
 date: 2021-01-06T18:26:06-06:00
-image: /images/networking/brindis.png
+image: images/networking/brindis.png
 button: 
 link: 
 draft: false

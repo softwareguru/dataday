@@ -1,7 +1,7 @@
 ---
 title: "Comida Networking"
 date: 2021-01-06T18:26:06-06:00
-image: /images/networking/lunch.png
+image: images/networking/lunch.png
 button: 
 link:
 weight: 5

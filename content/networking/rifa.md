@@ -1,7 +1,7 @@
 ---
 title: "Rifa de libros"
 date: 2021-01-06T18:26:06-06:00
-image: /images/networking/rifa.png
+image: images/networking/rifa.png
 button: 
 link: 
 weight: 6
