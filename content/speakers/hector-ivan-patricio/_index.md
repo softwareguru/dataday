@@ -5,7 +5,6 @@ images:
 date: 2019-01-24
 events: 
  - 2019cdmx
- - 2022mty
 designation: Tech Lead @ Automata | explicador en @ TheDojoMX
 linkedin: https://www.linkedin.com/in/hectorip/ 
 ---

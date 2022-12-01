@@ -15,7 +15,7 @@ live_url:
 slides: 
 video: 
 summary: En este taller haremos un análisis básico con Elixir, usando NX y LiveBook y repasaremos las opciones que existen para crear aplicaciones de análisis de datos.
-
+draft: true
 ---
 
 Elixir ha estado avanzando como lenguaje y sobre todo en su parte dirigida al análisis de datos. A parte de lo natural que es para crear pipelines de datos, recientemente ha estado trabajando en bibliotecas de análisis numérico (NX) y experimentación/visualización (el equivalente a Jupyter notebooks: Livebook). En este taller haremos un análisis básico con Elixir, usando NX y LiveBook y repasaremos las opciones que existen para crear aplicaciones de análisis de datos.
