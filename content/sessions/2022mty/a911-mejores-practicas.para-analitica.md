@@ -5,11 +5,12 @@ url: "sessions/2022mty/mejores-practicas-para-analitica-a-gran-escala-en-arca-co
 speakers:
  - César Fernando Villarreal González
  - Iván Ramírez
-time_start: 2022-12-01 17:45:00 -0600 CST
-time_end:   2022-12-01 18:25:00 -0600 CST
-day: a
-timeslot: 9
-room: Camino Real 3
+time_start: 2022-12-08 9:30:00 -0600 CST
+time_end:   2022-12-08 10:00:00 -0600 CST
+room: Crowdcast
+format: recorded
+day: c
+timeslot: 1
 timeorder: 1
 track: case-study 
 live_url: 

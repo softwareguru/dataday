@@ -5,11 +5,12 @@ url: "sessions/2022mty/ia-y-el-precedente-judicial"
 speakers:
  - Aurelio Pedro Vazquez
  - Ireri Elizabeth Garcia
-time_start: 2022-12-01 11:00:00 -0600 CST
-time_end:   2022-12-01 11:40:00 -0600 CST
-day: a
-timeslot: 3
-room: Camino Real 2
+time_start: 2022-12-08 9:30:00 -0600 CST
+time_end:   2022-12-08 10:00:00 -0600 CST
+room: Crowdcast
+format: recorded
+day: c
+timeslot: 1
 timeorder: 1
 track: case-study 
 live_url: 

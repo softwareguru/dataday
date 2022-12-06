@@ -4,12 +4,13 @@ title: "Del notebook al pipeline sin dolor con AWS"
 url: "sessions/2022mty/del-notebook-al-pipeline-sin-dolor-con-AWS"
 speakers:
  - Sebastián Sandoval García
-time_start: 2022-12-01 12:30:00 -0600 CST
-time_end:   2022-12-01 13:55:00 -0600 CST
-day: a
+time_start: 2022-12-09 10:00:00 -0600 CST
+time_end:   2022-12-09 11:30:00 -0600 CST
+room: Crowdcast
+format: live
+day: b
 timeslot: 4
-room: Camino Real 1
-timeorder: 0
+timeorder: 3
 track: workshop
 live_url: 
 slides: 

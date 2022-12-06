@@ -2,13 +2,14 @@
 id: a03
 title: "Data Science and Public Policy: Case studies and what can Monterrey do?"
 url: "sessions/2022mty/what-can-monterrey-city-do-with-data-science"
-time_start: 2022-12-01 09:00:00 -0600 CST
-time_end:   2022-12-01 09:30:00 -0600 CST
+time_start: 2022-12-08 9:30:00 -0600 CST
+time_end:   2022-12-08 10:00:00 -0600 CST
+room: Crowdcast
+format: recorded
 speakers:
  - Kit Rodolfa
-day: a
+day: c
 timeslot: 1
-room: Camino Real 3
 timeorder: 4
 track: data4good
 live_url: 

@@ -5,11 +5,12 @@ url: "sessions/2022mty/laboratorio-optico-100-automatizado"
 speakers:
  - Hector Arturo Velasco Ayala
  - Charvett Sánchez
-time_start: 2022-12-01 17:00:00 -0600 CST
-time_end:   2022-12-01 17:40:00 -0600 CST
-day: a
-timeslot: 8
-room: Camino Real 3
+time_start: 2022-12-08 9:30:00 -0600 CST
+time_end:   2022-12-08 10:00:00 -0600 CST
+room: Crowdcast
+format: recorded
+day: c
+timeslot: 1
 timeorder: 2
 track: case-study
 live_url: 

@@ -7,43 +7,30 @@ aliases: sessions/2022mty/
 days: 
   - id: a
     title_short: Jueves
-    title_full: Jueves 1ro de diciembre, 2022
-    rooms: [ "Camino Real 3", "Camino Real 2", "Camino Real 1"]
+    title_full: "En vivo: Jueves 8 de diciembre"
+    rooms: [ "Crowdcast", "Zoom"]
     timeslots: 
       - id: 1
-        time_start: 2022-12-01 8:15:00 -0600 CST
+        time_start: 2022-12-08 9:00:00 -0600 CST
         type: keynote
-      - id: 2
-        time_start: 2022-12-01 10:30:00 -0600 CST
-        type: break
-        name: Break
-      - id: 3
-        time_start: 2022-12-01 11:00:00 -0600 CST
-        type: concurrent
-      - id: 4
-        time_start: 2022-12-01 12:30:00 -0600 CST
-        type: concurrent
-      - id: 5
-        time_start: 2022-12-01 14:00:00 -0600 CST
-        type: break
-        name: Comida
-      - id: 6
-        time_start: 2022-12-01 15:00:00 -0600 CST
+
+  - id: b
+    title_short: Viernes
+    title_full: "En vivo: Viernes 9 de diciembre"
+    rooms: [ "Crowdcast", "Zoom"]
+    timeslots: 
+      - id: 1
+        time_start: 2022-12-08 9:00:00 -0600 CST
         type: keynote
-      - id: 7
-        time_start: 2022-12-01 16:00:00 -0600 CST
-        type: break
-        name: Break
-      - id: 8
-        time_start: 2022-12-01 16:15:00 -0600 CST
-        type: concurrent
-      - id: 9
-        time_start: 2022-12-01 17:45:00 -0600 CST
-        type: concurrent
-      - id: 10
-        time_start: 2022-12-01 19:15:00 -0600 CST
-        type: break
-        name: Cocktail
+
+  - id: c
+    title_short: Jueves online
+    title_full: "Pregrabadas: (a partir del Jueves 8 de diciembre)"
+    rooms: [ "Crowdcast"]
+    timeslots: 
+      - id: 1
+        time_start: 2022-12-08 9:30:00 -0600 CST
+        type: keynote
 
 
 tracks:
@@ -58,5 +45,4 @@ tracks:
 
 ---
 
-
-<p>Horario local de Monterrey, NL (GMT-6).</p>
+<p>Los horarios se muestran en base a horario Central de México (GMT-6).</p>

@@ -2,13 +2,14 @@
 id: a02
 title: "Making Agile Work for Data Science"
 url: "sessions/2022mty/making-agile-work-for-data-science"
-time_start: 2022-12-01 08:30:00 -0600 CST
-time_end:   2022-12-01 09:00:00 -0600 CST
+time_start: 2022-12-08 9:30:00 -0600 CST
+time_end:   2022-12-08 10:00:00 -0600 CST
+room: Crowdcast
+format: recorded
 speakers:
  - Erika Salomon
-day: a
+day: c
 timeslot: 1
-room: Camino Real 3
 timeorder: 3
 track: case-study
 live_url: 

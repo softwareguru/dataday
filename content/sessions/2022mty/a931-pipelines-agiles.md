@@ -4,11 +4,12 @@ title: "Pipelines ágiles: flujos de datos y modelos preentrenados en Azure"
 url: "sessions/2022mty/pipelines-agiles"
 speakers:
  - Juana Martínez
-time_start: 2022-12-01 17:45:00 -0600 CST
-time_end:   2022-12-01 18:25:00 -0600 CST
+time_start: 2022-12-08 14:00:00 -0600 CST
+time_end:   2022-12-08 15:00:00 -0600 CST
+room: Crowdcast
+format: live
 day: a
-timeslot: 9
-room: Camino Real 1
+timeslot: 1
 timeorder: 1
 track: mlops
 live_url: 

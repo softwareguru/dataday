@@ -4,11 +4,12 @@ title: "En búsqueda del unicornio de los datos"
 url: "sessions/2022mty/en-busqueda-del-unicornio-de-los-datos"
 speakers:
  - Gabriel Vicario Castrejón
-time_start: 2022-12-01 11:45:00 -0600 CST
-time_end:   2022-12-01 12:25:00 -0600 CST
-day: a
-timeslot: 3
-room: Camino Real 2
+time_start: 2022-12-08 9:30:00 -0600 CST
+time_end:   2022-12-08 10:00:00 -0600 CST
+room: Crowdcast
+format: recorded
+day: c
+timeslot: 1
 timeorder: 2
 track: case-study
 live_url: 

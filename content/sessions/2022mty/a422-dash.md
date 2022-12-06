@@ -4,11 +4,12 @@ title: "DASHA: Dashboard de Inteligencia Turística"
 url: "sessions/2022mty/dasha-dashboard-de-inteligencia-turistica"
 speakers:
  - Pedro Vallejo
-time_start: 2022-12-01 13:15:00 -0600 CST
-time_end:   2022-12-01 13:55:00 -0600 CST
-day: a
-timeslot: 4
-room: Camino Real 2
+time_start: 2022-12-08 9:30:00 -0600 CST
+time_end:   2022-12-08 10:00:00 -0600 CST
+room: Crowdcast
+format: recorded
+day: c
+timeslot: 1
 timeorder: 2
 track: case-study
 live_url: 

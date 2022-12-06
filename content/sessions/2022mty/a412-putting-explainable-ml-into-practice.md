@@ -2,13 +2,14 @@
 id: a013
 title: "Putting Explainable Machine Learning into Practice"
 url: "sessions/2022mty/putting-explainable-ml-into-practice"
-time_start: 2022-12-01 13:15:00 -0600 CST
-time_end:   2022-12-01 13:55:00 -0600 CST
+time_start: 2022-12-08 9:30:00 -0600 CST
+time_end:   2022-12-08 10:00:00 -0600 CST
+room: Crowdcast
+format: recorded
 speakers:
  - Kasun Amarasinghe
-day: a
-timeslot: 4
-room: Camino Real 3
+day: c
+timeslot: 1
 timeorder: 2
 track: case-study
 live_url: 

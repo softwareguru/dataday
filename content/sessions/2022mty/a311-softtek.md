@@ -4,12 +4,13 @@ title: "Abandono / Attrition / Churn. Revoluciona tu estrategia de crecimiento d
 url: "sessions/2022mty/abandono-attrition-churn"
 speakers:
  - Gonzalo Martín Vargas
-time_start: 2022-12-01 11:00:00 -0600 CST
-time_end:   2022-12-01 11:40:00 -0600 CST
-day: a
-timeslot: 3
-room: Camino Real 3
-timeorder: 1
+time_start: 2022-12-08 9:30:00 -0600 CST
+time_end:   2022-12-08 10:00:00 -0600 CST
+room: Crowdcast
+format: recorded
+day: c
+timeslot: 1
+timeorder: 7
 track: mlops
 live_url: 
 slides: 

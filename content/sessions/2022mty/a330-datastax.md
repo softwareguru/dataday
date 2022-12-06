@@ -1,20 +1,20 @@
 ---
 id: a330
-title: "Real Time Desicioning"
+title: "Real Time Decisioning with Datastax"
 url: "sessions/2022mty/getting-started-with-astra-DB"
 speakers:
  - Ricardo Valdes
-time_start: 2022-12-01 11:00:00 -0600 CST
-time_end:   2022-12-01 12:25:00 -0600 CST
+time_start: 2022-12-08 10:00:00 -0600 CST
+time_end:   2022-12-08 11:30:00 -0600 CST
+room: Zoom
+format: live
 day: a
-timeslot: 3
-room: Camino Real 1
-timeorder: 0
+timeslot: 1
+timeorder: 2
 track: workshop
 live_url: 
 slides: 
 video: 
-draft: false
 summary: Laboratorio práctico para familiarizarse con DataStax Astra. una base de datos serverless basada en Apache Cassandra.
 ---
 

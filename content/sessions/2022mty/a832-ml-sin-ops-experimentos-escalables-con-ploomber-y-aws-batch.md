@@ -5,11 +5,12 @@ url: "sessions/2022mty/ml-sin-ops-experimentos-escalables-con-ploomber-y-aws-bat
 speakers:
  - Rodolfo Ferro
  - Eduardo Blancas
-time_start: 2022-12-01 17:00:00 -0600 CST
-time_end:   2022-12-01 17:40:00 -0600 CST
+time_start: 2022-12-08 15:00:00 -0600 CST
+time_end:   2022-12-08 16:00:00 -0600 CST
+room: Crowdcast
+format: live
 day: a
-timeslot: 8
-room: Camino Real 1
+timeslot: 1
 timeorder: 2 
 track: mlops
 live_url: 
