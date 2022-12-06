@@ -3,8 +3,8 @@ banner:
   enable : true
   greeting: Bienvenido a
   title : "Data Day"
-  tagline: "Data Science desde el corazón industrial de MX"
-  meta: "1ro de diciembre de 2022. Hotel Camino Real. Monterrey, México."
+  tagline: "Revive las sesiones de Data Day Monterrey"
+  meta: "8 de diciembre de 2022. Online."
   logo : "/images/logo.svg"
   venue : ""
   button1:
