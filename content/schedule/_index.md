@@ -11,7 +11,7 @@ days:
     rooms: [ "Crowdcast", "Zoom"]
     timeslots: 
       - id: 1
-        time_start: 2022-12-08 9:00:00 -0600 CST
+        time_start: 2022-12-08 8:45:00 -0600 CST
         type: keynote
 
   - id: b
@@ -20,7 +20,7 @@ days:
     rooms: [ "Crowdcast", "Zoom"]
     timeslots: 
       - id: 1
-        time_start: 2022-12-08 9:00:00 -0600 CST
+        time_start: 2022-12-09 9:00:00 -0600 CST
         type: keynote
 
   - id: c

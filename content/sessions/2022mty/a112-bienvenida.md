@@ -2,8 +2,8 @@
 id: a01
 title: "Bienvenida"
 url: "sessions/2022mty/bienvenida"
-time_start: 2022-12-08 09:00:00 -0600 CST
-time_end:   2022-12-08 09:15:00 -0600 CST
+time_start: 2022-12-08 08:45:00 -0600 CST
+time_end:   2022-12-08 09:00:00 -0600 CST
 room: Crowdcast
 format: live
 type: keynote

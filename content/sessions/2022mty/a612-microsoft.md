@@ -2,15 +2,16 @@
 id: a612
 title: "Acelera el desarrollo y entrega de modelos predictivos con Azure Machine Learning"
 url: "sessions/2022mty/lanzando-modelos-a-produccion-con-azure"
-time_start: 2022-12-08 13:00:00 -0600 CST
-time_end:   2022-12-08 14:00:00 -0600 CST
+time_start: 2022-12-08 09:00:00 -0600 CST
+time_end:   2022-12-08 09:45:00 -0600 CST
 room: Crowdcast
+format: live
 speakers:
 - Brenda Peña
 day: a
-timeslot: 6
+timeslot: 1
 timeorder: 2
-track: keynote
+track: case-study
 live_url: 
 slides: 
 video: 
