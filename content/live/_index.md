@@ -1,6 +1,6 @@
 ---
 title: "Live"
-description: "Watch IstioCon 2021 talks live. February 22-26, 2021."
+description: "Revive las sesiones de Data Day Monterrey"
 date: 2021-01-06T18:26:06-06:00
 draft: false
 ---
