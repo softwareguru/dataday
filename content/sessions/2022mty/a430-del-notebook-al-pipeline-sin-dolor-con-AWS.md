@@ -16,7 +16,7 @@ live_url:
 slides: 
 video: 
 summary: Laboratorio práctico enfocado a convertir un notebook de limpieza y entrenamiento en un flujo completamente automatizado
-draft: true
+draft: false
 ---
 
 El científico de datos en general es muy bueno generando notebooks robustos en los que realiza procesamiento de datos, optimización de hiperparámetros, entrenamiento de modelos y generación de predicciones de manera ordenada. Ejecutar estos notebooks de manera periódica cambiando un par de parámetros por celda es muy cómodo para quien lo desarrolla.
