@@ -1,6 +1,6 @@
 ---
 id: a611
-title: "Building Recommender Systems with Neo4j and Graph Data Science"
+title: "Resolviendo desafíos de datos con grafos y motores de recomendación por Neo4j"
 url: "sessions/2022mty/Neo4js"
 time_start: 2022-12-09 09:00:00 -0600 CST
 time_end:   2022-12-09 10:00:00 -0600 CST
