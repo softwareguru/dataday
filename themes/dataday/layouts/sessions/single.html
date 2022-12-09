@@ -38,6 +38,10 @@
               <a class="speaker-inline-item" href="{{ .Permalink }}">{{ .Title }}</a>
               {{ end }}  
             </div>
+            {{ with .Params.slides }}
+            <br>
+            <div class="mb-3"><a href='{{ if hasPrefix . "http" }}{{ . }}{{ else }}{{ $.Site.BaseURL}}slides/{{ . }}{{ end }}' target="_blanck" download><i class="fa fa-download" aria-hidden="true"></i>&nbsp; Download slides</a></div>
+            {{ end }}
 
             <div class="content mt-4">{{ .Content }}</div>
           </div>

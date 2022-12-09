@@ -13,8 +13,8 @@ timeslot: 1
 timeorder: 2
 track: case-study
 live_url: 
-slides: 
-video: 
+slides: DDMty2022-DataUnicorn-Gabriel.pdf
+video: https://www.crowdcast.io/e/ddmty2022-online/15
 draft: false
 summary: Platicaremos sobre los diversos perfiles que se encuentran hoy en los equipos de datos, abordando las fortalezas y necesidades de cada uno para prosperar en su rol y en tu organización.
 ---

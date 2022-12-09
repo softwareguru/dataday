@@ -14,7 +14,7 @@ timeorder: 6
 track: case-study
 live_url: 
 slides: 
-video: 
+video: https://www.crowdcast.io/e/ddmty2022-online/10
 draft: false
 ---
 
