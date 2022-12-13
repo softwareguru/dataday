@@ -11,13 +11,11 @@ url: sessions/monterrey-2022
 
 ---
 
-## Machine Learning y ciencia de datos aplicada en el programa de Data Day Monterrey
+## Revive las sesiones de Data Day Monterrey 2022
 
-Data Day Monterrey 2022 se realizará el 1ero de diciembre de 2022. Tenemos contemplado un día completo de charlas, talleres y actividades de networking.
+Data Day Monterrey 2022 se realizó el 1 de diciembre de 2022 en persona, y el 8-9 de diciembre en línea. 
 
-Aunque todavía no tenemos la agenda detallada de sesiones, contemplamos la siguiente estructura:
-
-Las charlas iniciarán a las 8:30 de la mañana.
-Contaremos con conferencias magistrales, y sesiones simultáneas organizadas en 3 tracks.
-Tendremos una hora para comida, durante la cual tendremos mesas con temáticas facilitadas.
-Las charlas y talleres terminarán alrededor de las 6:30 pm, y posteriormente tendremos un cocktail de convivio.
+Para acceder a las sesiones requieres estar inscrito en el evento en Crowdcast. 
+* Si adquiriste un pase para Data Day Monterrey 2022 ya sea en persona o experiencia virtual, tu correo ya debe estar registrado en Crowdcast. Simplemente haz login y te debería permitir ver las sesiones.
+* Si en su momento no adquiriste un pase, pero te interesa hacerlo ahora, puedes pagar directamente en Crowdcast ($560 MXN) con tarjeta de crédito. Si requieres otra forma de pago, contáctanos en <a href="mailto:dataday@sg.com.mx">dataday@sg.com.mx</a>.
+* Si tenías derecho a un pase de cortesía y no lo utilizaste, contáctanos en <a href="mailto:dataday@sg.com.mx">dataday@sg.com.mx</a> para proveerte instrucciones de acceso.

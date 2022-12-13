@@ -4,17 +4,17 @@ banner:
   greeting: Bienvenido a
   title : "Data Day"
   tagline: "Revive las sesiones de Data Day Monterrey"
-  meta: "8-9 de diciembre de 2022. Online."
+  meta: "Cuando quieras, donde quieras."
   logo : "/images/logo.svg"
   venue : ""
   button1:
     enable : false
-    label : "Adquiere tu pase"
-    link : "/tickets"
-  button2:
-    enable : true
     label : "Adquiere tu boleto"
     link : "/tickets/"
+  button2:
+    enable : true
+    label : "Ve las grabaciones"
+    link : "https://sg.com.mx/dataday/sessions/monterrey-2022/"
 
 
 ############################## Event ##############################

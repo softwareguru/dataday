@@ -15,7 +15,9 @@
             <th data-field="title" data-sortable="true">Título</th>
             <th data-field="speaker">Speaker(s)</th>
             {{ if not $is_2022 }}
-            <th data-field="recording">Recording</th>
+            <th data-field="recording">Grabación</th>
+            <th data-field="slides">Slides</th>
+
             {{ end }}
           </tr>
         </thead>
@@ -25,11 +27,14 @@
         <td><a class="session-title" href="{{.Permalink}}">{{ .Params.title }}</a></td>
         <td>{{ with .Params.speakers }}{{ delimit . ", " " & " }}{{ end }}</td>
 
-        {{ if not $is_2022 }}
         <td class="text-center">{{ with .Params.video }}<a
           href='{{ replace . "https://www.youtube.com/embed" "https://youtu.be" }}' target="_blank"><i
               class="fab fa-youtube" aria-hidden="true" title="Watch"></i></a>{{ end }}</td>
-        {{ end }}   
+        <td class="text-center">{{ with .Params.slides }}<a
+          href='{{ if hasPrefix . "http" }}{{ . }}{{ else }}{{$.Site.BaseURL}}slides/{{ . }}{{ end }}'
+              target="_blank" download><i class="fa fa-download" aria-hidden="true"
+                title="Slides"></i></a>{{ end }}</td>
+
     </tr>    
     {{ end }}
     </tbody>
