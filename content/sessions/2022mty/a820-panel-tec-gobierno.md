@@ -18,7 +18,7 @@ timeorder: 0
 track: data4good
 live_url: 
 slides: 
-video: 
+video: https://www.crowdcast.io/e/ddmty2022-online/27
 summary: En este panel discutiremos sobre la aplicación de ciencia de datos para la formulación de política pública.
 ---
 

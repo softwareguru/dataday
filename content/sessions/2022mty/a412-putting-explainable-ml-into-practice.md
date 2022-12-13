@@ -13,8 +13,8 @@ timeslot: 1
 timeorder: 2
 track: case-study
 live_url: 
-slides: 
-video: 
+slides: DDMty2022-ExplainableML-Kasun.pdf
+video: https://www.crowdcast.io/e/ddmty2022-online/22
 summary: Overview of the different “explainability” needs that exist in human-ML decision making systems.
 ---
 

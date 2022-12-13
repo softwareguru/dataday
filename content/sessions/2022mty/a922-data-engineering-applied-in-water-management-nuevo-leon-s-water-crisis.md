@@ -14,7 +14,7 @@ timeorder: 2
 track: data4good
 live_url: 
 slides: 
-video: 
+video: https://www.crowdcast.io/e/ddmty2022-online/24
 summary: Propuesta para un sistema de monitoreo y análisis del uso de agua.
 ---
 

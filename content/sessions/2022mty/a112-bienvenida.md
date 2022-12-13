@@ -17,7 +17,7 @@ draft: false
 speakers:
  - Jesús Ramos
  - Pedro Galván
-
+draft: true
 ---
 
 Bienvenida, explicación de la estructura de agenda y cómo acceder a las distintas sesiones.
