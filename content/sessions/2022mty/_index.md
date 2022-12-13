@@ -1,5 +1,5 @@
 ---
-title: "Monterrey 2022"
+title: "Data Day Monterrey 2022: Sesiones"
 date: 2022-10-01T10:57:04-06:00
 draft: false
 headscripts:
