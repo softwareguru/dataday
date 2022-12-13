@@ -13,7 +13,7 @@ timeslot: 1
 timeorder: 3
 track: workshop
 live_url: 
-slides: 
+slides: DDMty2022-ElixirDataScience-Hector.pdf
 video: https://www.crowdcast.io/e/ddmty2022-online/8
 summary: En este taller haremos un análisis básico con Elixir, usando NX y LiveBook y repasaremos las opciones que existen para crear aplicaciones de análisis de datos.
 draft: false

@@ -14,7 +14,7 @@ timeslot: 1
 timeorder: 2 
 track: mlops
 live_url: 
-slides: 
+slides: http://bit.ly/ploomber-dataday22
 video: https://www.crowdcast.io/e/ddmty2022-online/5
 summary: Aprenderás a implementar fácilmente pipelines de ML a gran escala a través de Ploomber y AWS Batch.
 draft: false
