@@ -39,8 +39,8 @@ home = ["HTML", "RSS"]
 
 
   [[menu.main]]
-  name = "Agenda"
-  URL = "agenda"
+  name = "On Demand"
+  URL = "https://sg.com.mx/dataday/sessions/monterrey-2022/"
   weight = 2
 
   [[menu.main]]
@@ -48,21 +48,6 @@ home = ["HTML", "RSS"]
   URL = "speakers"
   weight = 3
 
-
-  #[[menu.main]]
-  #name = "Data Live"
-  #URL = "datalive"
-  #weight = 5
-
-  #[[menu.main]]
-  #name = "Kit Virtual"
-  #URL = "kitvirtual"
-  #weight = 4
-
-  [[menu.main]]
-  name = "Networking"
-  URL = "networking"
-  weight = 4
 
   [[menu.main]]
   name = "FAQ"
@@ -99,7 +84,7 @@ country = "Mexico"
 
 # Navigation button
 [params.navigation_button]
-enable = true
+enable = false
 label = "BOLETOS"
 link = "/dataday/tickets"
 
