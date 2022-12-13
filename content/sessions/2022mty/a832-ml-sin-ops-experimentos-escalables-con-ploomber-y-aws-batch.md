@@ -15,7 +15,7 @@ timeorder: 2
 track: mlops
 live_url: 
 slides: 
-video: 
+video: https://www.crowdcast.io/e/ddmty2022-online/5
 summary: Aprenderás a implementar fácilmente pipelines de ML a gran escala a través de Ploomber y AWS Batch.
 draft: false
 ---

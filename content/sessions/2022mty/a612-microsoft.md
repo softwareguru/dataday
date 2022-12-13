@@ -14,8 +14,8 @@ timeorder: 2
 track: case-study
 live_url: 
 slides: 
-video: 
-draft: 
+video: https://www.crowdcast.io/e/ddmty2022-online/1
+
 ---
 
 En esta charla presentada por Microsoft se abordará un caso de estudio de cómo compañías de múltiples industrias se ven beneficiadas con los servicios y capacidades de la nube de Azure. Descubriremos cuál ha sido el impacto de implementar Azure Machine Learning y Azure AI en sus soluciones.

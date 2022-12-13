@@ -14,8 +14,8 @@ timeslot: 1
 timeorder: 1
 track: case-study 
 live_url: 
-slides: 
-video: 
+slides: DDMty2022-MLCorte-SCJN.pdf
+video: https://www.crowdcast.io/e/ddmty2022-online/18
 draft: false
 summary: Caso de estudio sobre aplicación de machine learning sobre documentos de la Suprema Corte de Justicia de la Nación.
 ---

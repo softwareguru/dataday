@@ -13,8 +13,8 @@ timeslot: 1
 timeorder: 1
 track: case-study
 live_url: 
-slides: 
-video: 
+slides: DDMty2022-ModeloLocalizacionTiendas-Ignacio.pdf
+video: https://www.crowdcast.io/e/ddmty2022-online/19
 summary: Modelos predictivos para determinar mejor ubicación de nuevas cadenas de retail.
 ---
 

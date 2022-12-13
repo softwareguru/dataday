@@ -15,7 +15,7 @@ timeorder: 1
 track: case-study 
 live_url: 
 slides: 
-video: 
+video: https://www.crowdcast.io/e/ddmty2022-online/17
 summary: Lecciones aprendidas para mantener y extender modelos predictivos hacia otros países o unidades de negocio.
 ---
 

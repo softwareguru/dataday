@@ -14,7 +14,7 @@ timeorder: 3
 track: mlops
 live_url: 
 slides: 
-video: 
+video: https://www.crowdcast.io/e/ddmty2022-online/3
 summary: Daremos un vistazo a cómo se implementa una solución de Procesamiento de Lenguaje Natural.
 ---
 
