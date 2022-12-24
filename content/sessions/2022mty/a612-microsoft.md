@@ -13,7 +13,7 @@ timeslot: 1
 timeorder: 2
 track: case-study
 live_url: 
-slides: 
+slides: DDMty2022-Microsoft.pdf
 video: https://www.crowdcast.io/e/ddmty2022-online/1
 
 ---

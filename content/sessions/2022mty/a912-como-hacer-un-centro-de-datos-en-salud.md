@@ -13,7 +13,7 @@ timeslot: 1
 timeorder: 2
 track: case-study 
 live_url: 
-slides: 
+slides: DDMty2022-CIS-Joaquin.pdf
 video: https://www.crowdcast.io/e/ddmty2022-online/25
 summary: El Centro de Inteligencia en Salud (CIS) Michoacán permite tener acceso a la información generada en tiempo real de todas las unidades médicas del estado de Michoacán.
 ---
