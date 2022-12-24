@@ -13,7 +13,7 @@ timeslot: 1
 timeorder: 2
 track: case-study
 live_url: 
-slides: 
+slides: DDMty2022-Dasha.pdf
 video: https://www.crowdcast.io/e/ddmty2022-online/11
 summary:  Compartiremos prácticas y recomendaciones para intervenir industrias abundantes en datos pero carentes de integración e interoperabilidad entre ellas.
 ---
