@@ -13,7 +13,7 @@ timeslot: 1
 timeorder: 2
 track: data4good
 live_url: 
-slides: 
+slides: DDMty2022-Agua-Carlos.pdf
 video: https://www.crowdcast.io/e/ddmty2022-online/24
 summary: Propuesta para un sistema de monitoreo y análisis del uso de agua.
 ---
