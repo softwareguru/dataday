@@ -3,8 +3,8 @@ banner:
   enable : true
   greeting: Bienvenido a
   title : "Data Day"
-  tagline: "Revive las sesiones de Data Day Monterrey"
-  meta: "Cuando quieras, donde quieras."
+  tagline: "Vive la experiencia de Data Day CDMX"
+  meta: "26 de abril de 2023 | Ciudad de México"
   logo : "/images/logo.svg"
   venue : ""
   button1:
@@ -13,8 +13,8 @@ banner:
     link : "/tickets/"
   button2:
     enable : true
-    label : "Ve las grabaciones"
-    link : "https://sg.com.mx/dataday/sessions/monterrey-2022/"
+    label : "Ve las grabaciones Monterrey 2022"
+    link : "/sessions/monterrey-2022/"
 
 
 ############################## Event ##############################
