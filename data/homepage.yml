@@ -9,11 +9,11 @@ banner:
   venue : ""
   button1:
     enable : false
-    label : "Adquiere tu boleto"
-    link : "/tickets/"
+    label : "Envía una propuesta"
+    link : ""
   button2:
     enable : true
-    label : "Ve las grabaciones Monterrey 2022"
+    label : "Grabaciones Monterrey 2022"
     link : "/sessions/monterrey-2022/"
 
 
