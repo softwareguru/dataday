@@ -8,9 +8,9 @@ banner:
   logo : "/images/logo.svg"
   venue : ""
   button1:
-    enable : false
-    label : "Envía una propuesta"
-    link : ""
+    enable : true
+    label : "Quiero ser conferencista"
+    link : "https://convoca.dev/datadaymx-2023/cfp"
   button2:
     enable : true
     label : "Grabaciones Monterrey 2022"
@@ -29,7 +29,7 @@ event_info:
     - label : "¿Quiénes deben participar?"
       text : "Data Day está dirigido a los distintos roles involucrados en iniciativas de ciencia de datos e IA en contextos empresariales: líderes de datos, científicos de datos e ingenieros de datos."
       icon-class: "fa fa-group" 
-      cta_text: "Quiero participar"
+      cta_text: ""
       cta_link: "tickets"
     - label : "¿Cuál será el contenido?"
       text : "El contenido se alinea a los intereses de nuestros 3 segmentos de audiencia: casos de estudio para líderes de datos (CDOs); técnicas efectivas para machine learning e IA (data scientists); herramientas modernas para el procesamiento de datos a gran escala (data engineers)."
