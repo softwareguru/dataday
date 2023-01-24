@@ -14,18 +14,23 @@
       {{ range first 3 (where .Site.RegularPages "Type" "blog" )}}
        
       <div class="card">
-
-     
-    
+   
         <img src="{{ .Params.Image | absURL }}" class="img-fluid" alt="{{ .Title | markdownify }}">
         <div class="card-body">
           <h5 class="card-title"><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h5>
-
-                   
+     
         </div>
-       
+
+
+        {{ if .Params.link }}
+
+        <a class="btn btn-primary boton-blog" href="{{ .Params.link }}" target="_blank" role="button"><strong style="color: white;">Ver más</strong></a>
+
+        {{ else }}
 
         <a class="btn btn-primary boton-blog" href="{{ .Permalink }}" role="button"><strong style="color: white;">Ver más</strong></a>
+
+        {{ end }}
 
         <br>
         <div class="card-footer">
