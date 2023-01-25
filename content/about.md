@@ -14,6 +14,5 @@ Data Day es el foro para formar sinergias entre empresarios, ingenieros y acadé
 * Ponemos en la misma mesa a ingenieros de datos, científicos de datos, y tomadores de decisiones para que formen sinergias multiplicativas alrededor de iniciativas de datos en sus organizaciones.
 * Acercamos las principales tendencias y herramientas de mayor impacto para el análisis y procesamiento de datos.
 
-<br>
 
-<h4 class="text-center">Data Day regresa a Monterrey de forma presencial. <br>Nos vemos el 1ro de diciembre de 2022 en el Hotel Camino Real Monterrey.</h4>
+
