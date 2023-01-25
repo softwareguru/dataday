@@ -12,7 +12,7 @@ banner:
     label : "Quiero ser conferencista"
     link : "https://convoca.dev/datadaymx-2023/cfp"
   button2:
-    enable : true
+    enable : false
     label : "Grabaciones Monterrey 2022"
     link : "/sessions/monterrey-2022/"
 
