@@ -214,9 +214,9 @@ article.swag {
 
 .call-to-action{
 	position: relative;
-	background: rgb(45,144,181);
-    background: linear-gradient(90deg, rgba(45,144,181,1) 2%, rgba(167,9,15,1) 47%, rgba(140,159,0,1) 100%);
-	//background-image: url(../images/dataday_back_mty.png);
+	//background: rgb(45,144,181);
+    //background: linear-gradient(90deg, rgba(45,144,181,1) 2%, rgba(167,9,15,1) 47%, rgba(140,159,0,1) 100%);
+	background-image: url(../images/ddmx23-background.webp);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -229,8 +229,8 @@ article.swag {
 	top: 0;
 	height: 100%;
 	width: 100%;
-	//background-color: #000000;
-	//opacity: .50;
+	background-color: #000000;
+	opacity: .30;
 	content: "";
 }
 
