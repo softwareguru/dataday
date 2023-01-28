@@ -5,4 +5,4 @@ draft: false
 layout: past
 ---
 
-Conoce a los conferencistas que han participado en ediciones anteriores de Data Day.
+### Conoce a los conferencistas que han participado en ediciones anteriores de Data Day.

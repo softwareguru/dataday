@@ -1,5 +1,5 @@
 ---
-title: "Dr. Edmundo Molina"
+title: "Edmundo Molina Pérez"
 images:
  - images/speakers/edmundo-molina.jpg
 date: 2021-02-25

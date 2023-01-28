@@ -1,5 +1,5 @@
 ---
-title: Dr. Erika Salomon
+title: Erika Salomon
 date: 2022-11-04T13:42:10-06:00
 images : 
  - "images/speakers/erika-salomon.jpg"

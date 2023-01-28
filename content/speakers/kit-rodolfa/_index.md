@@ -1,5 +1,5 @@
 ---
-title: "Dr. Kit Rodolfa"
+title: "Kit Rodolfa"
 date: 2022-11-04T18:45:55-06:00
 images : 
  - "images/speakers/kit-rodolfa.jpg"

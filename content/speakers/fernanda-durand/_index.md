@@ -2,7 +2,7 @@
 title: "Fernanda Durand"
 date: 2022-11-24T16:39:34-06:00
 images : 
- - "/images/speakers/speakerw.jpg"
+ - "images/speakers/speakerw.jpg"
 designation : "Directora del Centro de Ciencia de Datos de la Escuela de Gobierno"
 country: ""
 facebook: ""

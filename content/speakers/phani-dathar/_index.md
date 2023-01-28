@@ -1,5 +1,5 @@
 ---
-title: "Dr Phani Dathar"
+title: "Phani Dathar"
 date: 2022-11-17T11:52:55-06:00
 images : 
  - "images/speakers/phani-dathar.jpg"

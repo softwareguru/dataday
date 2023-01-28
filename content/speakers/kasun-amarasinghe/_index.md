@@ -1,5 +1,5 @@
 ---
-title: "Dr. Kasun Amarasinghe"
+title: "Kasun Amarasinghe"
 date: 2022-11-04T18:56:04-06:00
 images : 
  - "images/speakers/kasun-amarasinghe.jpg"

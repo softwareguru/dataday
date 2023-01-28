@@ -2,7 +2,7 @@
 title: "Ricardo Valdes"
 date: 2022-11-23T19:30:18-06:00
 images : 
- - "/images/speakers/ricardo-valdes.png"
+ - "images/speakers/ricardo-valdes.png"
 designation : ""
 country: ""
 facebook: ""

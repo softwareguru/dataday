@@ -1,5 +1,5 @@
 ---
-title: "Dr. Fernando Gómez Zaldívar"
+title: "Fernando Gómez Zaldívar"
 date: 2022-02-10T12:24:30-06:00
 images:
  - "images/speakers/fernando-gomez-zaldivar.png"

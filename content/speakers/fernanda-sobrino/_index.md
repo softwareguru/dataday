@@ -1,5 +1,5 @@
 ---
-title: "Dr. Fernanda Sobrino"
+title: "Fernanda Sobrino"
 date: 2022-02-10T11:40:34-06:00
 images:
  - "images/speakers/fernanda-sobrino.jpg"
