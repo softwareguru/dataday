@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Machine learning usando Weka, en un entorno de cómputo distribuido"
-url: /session/machine-learning-weka/
 speakers:
  - alexandra-lemus
 time_start: 2018-03-15T13:00:00-05:00

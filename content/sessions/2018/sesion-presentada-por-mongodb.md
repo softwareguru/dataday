@@ -1,7 +1,6 @@
 ---
 id: 
 title: "MongoDB en la transformación digital"
-url: /session/sesion-presentada-por-mongodb/
 speakers:
  - omar-camacho
 time_start: 2018-03-15T12:20:00-05:00

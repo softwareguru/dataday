@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Airbnb, ¿amenaza o bondad?: Un análisis para sector turismo"
-url: /session/airbnb-amenaza-o-bondad-un-analisis-para-sector-turismo/
 speakers:
  - Pedro Vallejo
 time_start: 2019-11-13T16:00:00-05:00

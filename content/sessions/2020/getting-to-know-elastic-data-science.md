@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Getting to Know Elastic Data Science"
-url: /session/getting-to-know-elastic-data-science/
 speakers:
  - Melissa Alvarez
  - Thomas Grabowski

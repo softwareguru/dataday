@@ -1,7 +1,6 @@
 ---
 id: 
 title: "La importancia estratégica de considerar mezclas de distribuciones"
-url: /session/la-importancia-estrategica-de-considerar-mezclas-de-distribuciones/
 speakers:
  - moyocoyani-molina-espiritu
 time_start: 2018-03-15T17:50:00-05:00

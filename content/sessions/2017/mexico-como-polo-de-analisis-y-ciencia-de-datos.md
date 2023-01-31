@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Enterprise Architecture y Data Science: un camino en 2 sentidos"
-url: /session/mexico-como-polo-de-analisis-y-ciencia-de-datos/
 speakers:
  - adolfo-de-unanue
 time_start: 2017-03-28T09:40:00-05:00

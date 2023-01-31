@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Una nueva ciencia de datos para México"
-url: /session/una-nueva-ciencia-de-datos-para-mexico/
 speakers:
  - Adolfo de Unánue
 time_start: 2020-08-03T13:00:00-05:00

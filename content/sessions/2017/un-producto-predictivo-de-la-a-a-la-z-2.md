@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Un Producto Predictivo de la A a la Z"
-url: /session/un-producto-predictivo-de-la-a-a-la-z-2/
 speakers:
  - miguel-escalante
 time_start: 2017-03-28T13:00:00-05:00

@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Machine learning transparente como ventaja competitiva de negocio"
-url: /session/machine-learning-transparente-como-ventaja-competitiva/
 speakers:
  - jesus-ramos
 time_start: 2019-11-13T11:30:00-05:00

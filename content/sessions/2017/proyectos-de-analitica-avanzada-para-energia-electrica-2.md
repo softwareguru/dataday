@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Conservando empleos analíticos en México"
-url: /session/proyectos-de-analitica-avanzada-para-energia-electrica-2/
 speakers:
  - antonio-padros
 time_start: 2017-03-28T17:50:00-05:00

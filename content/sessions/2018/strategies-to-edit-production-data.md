@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Strategies to edit production data"
-url: /session/strategies-to-edit-production-data/
 speakers:
  - julie-qiu
 time_start: 2018-03-15T16:00:00-05:00

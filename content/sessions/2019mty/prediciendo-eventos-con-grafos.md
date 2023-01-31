@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Graph-Hunter: Prediciendo eventos con grafos"
-url: /session/prediciendo-eventos-con-grafos/
 speakers:
  - roberto-sanchez
 time_start: 2019-11-13T12:50:00-05:00

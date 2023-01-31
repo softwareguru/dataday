@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Taller: Limpieza y preparación de datos con Optimus y Spark"
-url: /session/taller-limpieza-y-preparacion-de-datos-con-optimus-y-spark/
 speakers:
  - favio-andre-vazquez
 time_start: 2018-03-15T17:50:00-05:00

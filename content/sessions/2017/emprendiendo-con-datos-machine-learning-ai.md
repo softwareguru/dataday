@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Emprendiendo con Data Science, Machine Learning y AI"
-url: /session/emprendiendo-con-datos-machine-learning-ai/
 speakers:
  - Jesús Ramos
 time_start: 2017-03-28T10:20:00-05:00

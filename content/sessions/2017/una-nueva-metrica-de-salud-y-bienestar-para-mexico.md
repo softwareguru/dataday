@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Aplicación de estadística espacial en salud pública"
-url: /session/una-nueva-metrica-de-salud-y-bienestar-para-mexico/
 speakers:
  - david-lampon
 time_start: 2017-03-28T11:40:00-05:00

@@ -1,7 +1,6 @@
 ---
 id: 
 title: "El camino hacia la empresa inteligente"
-url: /session/el-camino-hacia-la-empresa-inteligente/
 speakers:
  - Arturo Cárdenas
 time_start: 2018-03-15T13:40:00-05:00

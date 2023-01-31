@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Arquitectura Empresarial como prerrequisito para Ciencia de Datos"
-url: /session/arquitectura-empresarial-como-prerrequisito-para-ciencia-de-datos-el-caso-inegi/
 speakers:
  - eduardo-jallath
 time_start: 2017-03-28T11:40:00-05:00

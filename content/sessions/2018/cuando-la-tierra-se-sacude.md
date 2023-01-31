@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Cuando la tierra se sacude"
-url: /session/cuando-la-tierra-se-sacude/
 speakers:
  - amaury-gutierrez
 time_start: 2018-03-15T13:40:00-05:00

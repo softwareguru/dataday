@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Lessons learned in working with real-life data in resource constrained settings with limited domain knowledge"
-url: /session/lessons-learned-in-working-with-real-life-data-in-resource-constrained-settings-with-limited-domain-knowledge/
 speakers:
  - Raphaëlle Roffo
 time_start: 2020-08-05T13:00:00-05:00

@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Taller: Datos en tiempo real con GraphQL"
-url: /session/taller-datos-en-tiempo-real-con-graphql/
 speakers:
  - rodrigo-quezada
 time_start: 2018-03-15T16:00:00-05:00

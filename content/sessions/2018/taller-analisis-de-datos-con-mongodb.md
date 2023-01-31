@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Taller: Análisis de datos con MongoDB"
-url: /session/taller-analisis-de-datos-con-mongodb/
 speakers:
  - alejandro-mancilla
 time_start: 2018-03-15T13:00:00-05:00

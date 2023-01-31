@@ -1,5 +1,5 @@
 ---
-title: "2019 Mty"
+title: "Data Day 2019 Monterrey"
 date: 2019-11-11T15:57:04-06:00
 draft: false
 headscripts:
@@ -7,5 +7,6 @@ headscripts:
 footerscripts:
  - https://unpkg.com/bootstrap-table@1.18.2/dist/bootstrap-table.min.js
 
+playlist: PLnLzwYW6HOC6MHUPo7X8wc7rXNWiZrfWv
 ---
 

@@ -1,7 +1,6 @@
 ---
 id: 
 title: "El proyecto fue un éxito, ¿y ahora?"
-url: /session/el-proyecto-fue-un-exito-y-ahora/
 speakers:
  - angel-monjaras
 time_start: 2018-03-15T16:00:00-05:00

@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Big Data Fortaleciendo Decisiones Empresariales"
-url: /session/big-data-fortaleciendo-decisiones-empresariales/
 speakers:
  - jose-aimer-suarez-hernandez
 time_start: 2017-03-28T12:20:00-05:00

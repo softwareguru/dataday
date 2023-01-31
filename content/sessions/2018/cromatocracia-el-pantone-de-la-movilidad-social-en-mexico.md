@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Cromatocracia: El Pantone de la movilidad social en México"
-url: /session/cromatocracia-el-pantone-de-la-movilidad-social-en-mexico/
 speakers:
  - adrian-santuario
 time_start: 2018-03-15T17:50:00-05:00

@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Optimización del sistema de transporte por medio de aprendizaje por refuerzo"
-url: /session/optimizacion-del-sistema-de-transporte-por-medio-de-aprendizaje-reforzado/
 speakers:
  - adolfo-martinez
 time_start: 2018-03-15T12:20:00-05:00

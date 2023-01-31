@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Visualización de Gatos con Processing/ p5.js"
-url: /session/visualizacion-de-gatos-con-processing-p5-js/
 speakers:
  - maru-lango
 time_start: 2017-03-28T16:40:00-05:00

@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Un modelo efectivo para el seguimiento de COVID19 en México"
-url: /session/un-modelo-efectivo-para-el-seguimiento-de-covid19-en-mexico/
 speakers:
  - Teresa Ortíz
  - Michelle Anzarut

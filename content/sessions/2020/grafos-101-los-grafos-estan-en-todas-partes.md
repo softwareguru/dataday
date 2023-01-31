@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Taller Grafos 101:  Los grafos están en todas partes"
-url: /session/grafos-101-los-grafos-estan-en-todas-partes/
 speakers:
  - Luis Almazan
 time_start: 2020-08-05T12:00:00-05:00

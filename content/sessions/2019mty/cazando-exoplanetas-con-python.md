@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Cazando exoplanetas con Python"
-url: /session/cazando-exoplanetas-con-python/
 speakers:
  - miriam-rojas-luis
 time_start: 2019-11-13T16:00:00-05:00

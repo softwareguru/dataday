@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Taller de ciencia de datos para CEOs: planeación, presupuesto, reclutamiento y operación"
-url: /session/ciencia-de-datos-para-ceos-planeacion-alcance-reclutamiento-y-operacion/
 speakers:
  - Jesús Ramos
 time_start: 2020-08-03T17:30:00-05:00

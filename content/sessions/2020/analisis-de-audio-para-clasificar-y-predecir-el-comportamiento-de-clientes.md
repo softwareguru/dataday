@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Análisis de audio para clasificar y predecir el comportamiento de clientes"
-url: /session/analisis-de-audio-para-clasificar-y-predecir-el-comportamiento-de-clientes/
 speakers:
  - omar-olivares
 time_start: 2020-08-05T17:45:00-05:00

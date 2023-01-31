@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Estrategias de posicionamiento de marcas"
-url: /session/visualizacion-de-posicionamiento-de-marcas/
 speakers:
  - jose-ignacio-dominguez
 time_start: 2019-11-13T12:50:00-05:00

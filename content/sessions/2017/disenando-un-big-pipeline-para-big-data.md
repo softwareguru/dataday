@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Workshop - Diseñando un Big Pipeline para Big Data"
-url: /session/disenando-un-big-pipeline-para-big-data/
 speakers:
  - fernando-cisneros
 time_start: 2017-03-28T13:00:00-05:00

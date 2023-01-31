@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Experimentación ágil de machine learning con DVC"
-url: /session/experimentacion-ml-dvc/
 speakers:
  - ramon-valles
 time_start: 2019-11-13T15:20:00-05:00

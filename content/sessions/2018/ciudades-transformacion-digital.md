@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Preparando nuestras ciudades para la transformación digital"
-url: /session/ciudades-transformacion-digital/
 speakers:
  - zinnya-del-villar
 time_start: 2018-03-15T9:40:00-05:00

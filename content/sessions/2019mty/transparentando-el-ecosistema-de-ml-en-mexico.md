@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Transparentando el ecosistema de ML en México"
-url: /session/transparentando-el-ecosistema-de-ml-en-mexico/
 speakers:
  - fernando-esponda
 time_start: 2019-11-13T9:40:00-05:00

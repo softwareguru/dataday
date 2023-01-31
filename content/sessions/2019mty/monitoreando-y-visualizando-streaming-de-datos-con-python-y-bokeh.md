@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Hands-on lab: Monitoreando y visualizando streaming de datos con Bokeh"
-url: /session/monitoreando-y-visualizando-streaming-de-datos-con-python-y-bokeh/
 speakers:
  - juana-martinez
 time_start: 2019-11-13T17:00:00-05:00

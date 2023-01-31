@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Behind the AI Curtain: Designing for trust in machine learning products"
-url: /session/behind-the-ai-curtain-designing-for-trust-in-machine-learning-products/
 speakers:
  - crystal-yan
 time_start: 2018-03-15T9:00:00-05:00

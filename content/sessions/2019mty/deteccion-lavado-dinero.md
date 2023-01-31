@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Detección de lavado de dinero y financiamiento de terrorismo usando machine learning"
-url: /session/deteccion-lavado-dinero/
 speakers:
  - jose-de-jesus-rocha
 time_start: 2019-11-13T14:40:00-05:00

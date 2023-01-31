@@ -1,5 +1,5 @@
 ---
-title: "Data Day Monterrey 2022: Sesiones"
+title: "Data Day Monterrey 2022"
 date: 2022-10-01T10:57:04-06:00
 draft: false
 headscripts:
@@ -7,8 +7,7 @@ headscripts:
 footerscripts:
  - https://unpkg.com/bootstrap-table@1.18.2/dist/bootstrap-table.min.js
 
-url: sessions/monterrey-2022 
-
+playlist: 
 ---
 
 ## Revive las sesiones de Data Day Monterrey 2022

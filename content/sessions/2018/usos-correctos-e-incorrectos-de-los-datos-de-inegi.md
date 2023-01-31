@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Usos correctos (e incorrectos) de los datos de INEGI"
-url: /session/usos-correctos-e-incorrectos-de-los-datos-de-inegi/
 speakers:
  - andrea-fernandez-conde
 time_start: 2018-03-15T16:40:00-05:00

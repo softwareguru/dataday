@@ -1,7 +1,6 @@
 ---
 id: 
 title: "RKHS, teoría y aplicaciones con machine learning"
-url: /session/rkhs-teoria-y-aplicaciones-con-machine-learning/
 speakers:
  - alonso-baranda
 time_start: 2018-03-15T18:30:00-05:00

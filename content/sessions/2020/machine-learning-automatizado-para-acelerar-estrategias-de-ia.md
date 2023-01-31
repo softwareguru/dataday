@@ -1,7 +1,6 @@
 ---
 id: 
 title: "El futuro de la inteligencia artificial y la próxima frontera de apps de IA presentado por H2O.Ai"
-url: /session/machine-learning-automatizado-para-acelerar-estrategias-de-ia/
 speakers:
  - Rafael Coss
 time_start: 2020-08-04T17:00:00-05:00

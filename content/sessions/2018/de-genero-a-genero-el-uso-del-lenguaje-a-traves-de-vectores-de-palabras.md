@@ -1,7 +1,6 @@
 ---
 id: 
 title: "De Género a Género: El uso del lenguaje a través de vectores de palabras"
-url: /session/de-genero-a-genero-el-uso-del-lenguaje-a-traves-de-vectores-de-palabras/
 speakers:
  - irving-simonin-wilmer
 time_start: 2018-03-15T15:20:00-05:00

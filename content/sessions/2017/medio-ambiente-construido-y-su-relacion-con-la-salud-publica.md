@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Medio ambiente construido y su relación con la salud pública"
-url: /session/medio-ambiente-construido-y-su-relacion-con-la-salud-publica/
 speakers:
  - gabriela-otero
 time_start: 2017-03-28T16:00:00-05:00

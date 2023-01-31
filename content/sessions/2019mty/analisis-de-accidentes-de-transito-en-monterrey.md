@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Análisis de accidentes de tránsito en Monterrey"
-url: /session/analisis-de-accidentes-de-transito-en-monterrey/
 speakers:
  - jose-gonzalez-ayerdi
 time_start: 2019-11-13T18:20:00-05:00

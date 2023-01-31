@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Grandes poderes, grandes responsabilidades"
-url: /session/grandes-poderes-grandes-responsabilidades/
 speakers:
  - antonio-padros
 time_start: 2018-03-15T15:20:00-05:00

@@ -1,7 +1,6 @@
 ---
 id: 
 title: "¿Por qué tus iniciativas de data analytics toman tanto tiempo?"
-url: /session/por-que-esta-tomando-tanto-tiempo-generar-data-analytics/
 speakers:
  - aldo-valadez
 time_start: 2019-11-13T17:40:00-05:00

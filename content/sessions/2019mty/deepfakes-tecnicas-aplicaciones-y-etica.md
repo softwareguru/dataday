@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Deepfakes: Técnicas, aplicaciones y ética"
-url: /session/deepfakes-tecnicas-aplicaciones-y-etica/
 speakers:
  - mariana-franklin
 time_start: 2019-11-13T18:20:00-05:00

@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Ward Clustering para Demand Planning en Retail Minorista"
-url: /session/ward-clustering-para-demand-planning-en-retail-minorista/
 speakers:
  - sergio-nieto
  - juan-zinser

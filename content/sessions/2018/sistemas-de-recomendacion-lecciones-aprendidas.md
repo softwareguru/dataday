@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Sistemas de recomendación: lecciones aprendidas y mejores prácticas"
-url: /session/sistemas-de-recomendacion-lecciones-aprendidas/
 speakers:
  - 
 time_start: 2018-03-15T16:40:00-05:00

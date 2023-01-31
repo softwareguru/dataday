@@ -1,7 +1,6 @@
 ---
 id: 
 title: "¿Cómo los datos nos ayudan a revolucionar una industria de 12,000 años?"
-url: /session/como-los-datos-nos-ayudan-a-revolucionar-una-industria-de-12000-anos/
 speakers:
  - octavio-sanchez
 time_start: 2019-11-13T12:10:00-05:00

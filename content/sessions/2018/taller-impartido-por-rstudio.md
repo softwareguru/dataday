@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Taller: Dplyr + R + Spark = Sparklyr"
-url: /session/taller-impartido-por-rstudio/
 speakers:
  - edgar-ruiz
 time_start: 2018-03-15T11:40:00-05:00

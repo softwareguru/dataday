@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Estadística Bayesiana y Programación Probabilística"
-url: /?post_type=session&p=4297
 speakers:
  - adolfo-martinez
 time_start: 2017-03-28T16:40:00-05:00

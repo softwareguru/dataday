@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Rapidminer: La clave para la innovación en la ciencia de los datos presentada por Nasoft"
-url: /session/sesion-presentada-por-nasoft/
 speakers:
  - javier-ramirez
 time_start: 2017-03-28T17:50:00-05:00

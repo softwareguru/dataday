@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Ciencia de datos en el conteo rápido para elecciones"
-url: /session/ciencia-de-datos-en-el-conteo-rapido-prep-para-elecciones/
 speakers:
  - Teresa Ortíz
  - Michelle Anzarut

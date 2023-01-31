@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Taller: Procesamiento de datos acelerado con GPUs usando Bumblebee"
-url: /session/procesamiento-de-datos-acelerado-con-gpus-usando-bumblebee/
 speakers:
  - Argenis León
 time_start: 2020-08-06T17:30:00-05:00

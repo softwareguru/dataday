@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Pentaho Data Integration: El ataque del Data Science Pack presentada por Vinkos"
-url: /session/sesion-presentada-por-vinkos/
 speakers:
  - alexandra-lemus
 time_start: 2017-03-28T13:40:00-05:00

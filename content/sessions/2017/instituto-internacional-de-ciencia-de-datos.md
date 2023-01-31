@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Construyendo una Oficina de Datos de Alto Desempeño"
-url: /session/instituto-internacional-de-ciencia-de-datos/
 speakers:
  - victor-barrera
 time_start: 2017-03-28T13:00:00-05:00

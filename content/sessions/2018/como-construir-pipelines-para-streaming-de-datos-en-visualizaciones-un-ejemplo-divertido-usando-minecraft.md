@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Cómo construir pipelines para streaming de datos en visualizaciones: Un ejemplo divertido usando Minecraft"
-url: /session/como-construir-pipelines-para-streaming-de-datos-en-visualizaciones-un-ejemplo-divertido-usando-minecraft/
 speakers:
  - angel-alvarado
 time_start: 2018-03-15T15:20:00-05:00

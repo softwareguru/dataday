@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Workshop - Infoactivismo + Mates + Software = Cambio social verdadero"
-url: /session/infoactivismo-mates-software-cambio-social-verdadero/
 speakers:
  - sergio-araiza
 time_start: 2017-03-28T17:50:00-05:00

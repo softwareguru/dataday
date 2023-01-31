@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Clasificación de acciones sociales usando computer vision"
-url: /session/clasificacion-de-acciones-sociales-usando-computer-vision/
 speakers:
  - ludim-sanchez
 time_start: 2019-11-13T17:00:00-05:00

@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Análisis de patrones de crimen en Ciudad de México"
-url: /session/analisis-de-patrones-de-crimen-en-ciudad-de-mexico/
 speakers:
  - carlos-pina-garcia
 time_start: 2020-08-05T18:30:00-05:00

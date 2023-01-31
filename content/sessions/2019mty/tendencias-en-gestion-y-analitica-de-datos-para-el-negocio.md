@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Tendencias en gestión y analítica de datos para el negocio"
-url: /session/tendencias-en-gestion-y-analitica-de-datos-para-el-negocio/
 speakers:
  - 
 time_start: 2019-11-13T10:20:00-05:00

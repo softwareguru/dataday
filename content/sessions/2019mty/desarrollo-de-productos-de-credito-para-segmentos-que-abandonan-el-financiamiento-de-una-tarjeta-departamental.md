@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Desarrollo de productos de crédito para segmentos que abandonan el financiamiento de una tarjeta departamental"
-url: /session/desarrollo-de-productos-de-credito-para-segmentos-que-abandonan-el-financiamiento-de-una-tarjeta-departamental/
 speakers:
  - armando-flores
 time_start: 2019-11-13T11:30:00-05:00

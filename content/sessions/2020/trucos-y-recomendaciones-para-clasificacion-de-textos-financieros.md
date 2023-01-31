@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Trucos y recomendaciones para clasificación de textos financieros"
-url: /session/trucos-y-recomendaciones-para-clasificacion-de-textos-financieros/
 speakers:
  - Pablo Campos
 time_start: 2020-08-06T13:00:00-05:00

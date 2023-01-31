@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Machine Learning en Digital Media: Etiquetando Contenido Editorial"
-url: /session/machine-learning-en-digital-media-etiquetando-contenido-editorial/
 speakers:
  - liliana-millan
 time_start: 2017-03-28T12:20:00-05:00

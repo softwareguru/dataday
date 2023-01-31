@@ -1,7 +1,6 @@
 ---
 id: 
 title: "DataOps: La evolución en la gestión de datos"
-url: /session/el-futuro-en-la-gestion-de-bases-de-datos/
 speakers:
  - Santiago Diaz
 time_start: 2020-08-06T13:45:00-05:00

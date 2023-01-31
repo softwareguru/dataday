@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Ciencia de datos en tu empresa: ¿primero estrategia o primero herramienta?"
-url: /session/ciencia-de-datos-en-tu-empresa-primero-estrategia-o-primero-herramienta/
 speakers:
  - jose-carlos-mendez-de-la-torre
 time_start: 2019-11-13T17:00:00-05:00

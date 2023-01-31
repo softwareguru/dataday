@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Inteligencia de Negocios -más que una herramienta de visualización"
-url: /session/inteligencia-de-negocios-mas-que-una-herramienta-de-visualizacion-2/
 speakers:
  - miguel-flores
 time_start: 2017-03-28T15:20:00-05:00

@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Data Quality: El abismo cultural de tu proyecto de machine learning"
-url: /session/data-quality-el-abismo-cultural-de-tu-proyecto-de-machine-learning
 speakers:
  - Jesús Ramos
 time_start: 2018-03-15T11:40:00-05:00

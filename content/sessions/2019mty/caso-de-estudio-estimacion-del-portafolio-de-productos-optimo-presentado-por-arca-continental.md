@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Caso de estudio: Estimación del portafolio de productos óptimo, presentado por Arca Continental"
-url: /session/caso-de-estudio-estimacion-del-portafolio-de-productos-optimo-presentado-por-arca-continental/
 speakers:
  - raul-castro
  - david-puente

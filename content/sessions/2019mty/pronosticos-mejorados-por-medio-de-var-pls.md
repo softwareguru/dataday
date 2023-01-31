@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Pronósticos mejorados por medio de VAR-PLS"
-url: /session/pronosticos-mejorados-por-medio-de-var-pls/
 speakers:
  - jose-antonio-garcia-ramirez
 time_start: 2019-11-13T15:20:00-05:00

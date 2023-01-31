@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Lo que las Telcos saben de nosotros y a quíen se lo dan"
-url: /session/telcos-saben-nosotros/
 speakers:
  - christian-ladron-de-guevara
  - jose-soto

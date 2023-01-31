@@ -1,7 +1,6 @@
 ---
 id: 
 title: "You might not need Pandas"
-url: /session/you-might-not-need-pandas/
 speakers:
  - reuben-cummings
 time_start: 2018-03-15T13:00:00-05:00

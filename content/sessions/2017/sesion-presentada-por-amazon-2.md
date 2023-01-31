@@ -1,7 +1,6 @@
 ---
 id: 
 title: "AnalyticZ ... De la A a la Z con Amazon Web Services"
-url: /session/sesion-presentada-por-amazon-2/
 speakers:
  - alejandro-flores
 time_start: 2017-03-28T11:40:00-05:00

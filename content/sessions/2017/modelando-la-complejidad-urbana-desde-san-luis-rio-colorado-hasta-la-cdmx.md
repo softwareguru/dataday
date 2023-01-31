@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Modelando La Complejidad Urbana: Desde San Luis Río Colorado hasta la CDMX"
-url: /session/modelando-la-complejidad-urbana-desde-san-luis-rio-colorado-hasta-la-cdmx/
 speakers:
  - irving-morales-agiss
 time_start: 2017-03-28T13:00:00-05:00

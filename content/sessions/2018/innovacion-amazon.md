@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Innovación @Amazon"
-url: /session/innovacion-amazon/
 speakers:
  - alejandro-flores
 time_start: 2018-03-15T11:40:00-05:00

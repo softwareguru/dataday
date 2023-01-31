@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Sanitización de datos y privacidad"
-url: /session/sanitizacion-de-datos-y-privacidad/
 speakers:
  - juan-zinser
 time_start: 2018-03-15T16:40:00-05:00

@@ -1,7 +1,6 @@
 ---
 id: 
 title: "¿Innovación en el gobierno?"
-url: /session/sesion-presentada-por-presidencia/
 speakers:
  - jorge-diaz
 time_start: 2017-03-28T18:30:00-05:00

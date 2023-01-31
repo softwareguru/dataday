@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Lo que Piensan los Ahorradores Mexicanos"
-url: /session/lo-que-piensan-los-ahorradores-mexicanos/
 speakers:
  - jose-carlos-mendez-de-la-torre
 time_start: 2017-03-28T13:40:00-05:00

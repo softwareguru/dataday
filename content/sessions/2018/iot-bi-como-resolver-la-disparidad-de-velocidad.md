@@ -1,7 +1,6 @@
 ---
 id: 
 title: "IoT + BI: Cómo resolver la disparidad de velocidad"
-url: /session/iot-bi-como-resolver-la-disparidad-de-velocidad/
 speakers:
  - miguel-flores
 time_start: 2018-03-15T10:20:00-05:00

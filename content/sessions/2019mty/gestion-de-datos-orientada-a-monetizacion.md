@@ -1,7 +1,6 @@
 ---
 id: 
 title: "Gestión de datos orientada a monetización"
-url: /session/gestion-de-datos-orientada-a-monetizacion/
 speakers:
  - marilu-lopez
 time_start: 2019-11-13T14:40:00-05:00
