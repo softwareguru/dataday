@@ -1,3 +1,109 @@
+// new seccion
+
+.about-section{
+	background-image: url(/dataday/images/acerca-de-dataday.jpg); 
+    width: 90%; 
+    background-size: cover;
+    background-position: center; 
+    border-radius: 0px 190px 0px 0px;
+
+	@media (max-width: 1625px) {
+        width: 100%;
+		border-radius: 0px 0px 0px 0px;
+      }
+      @media (max-width: 1000px) {
+        width: 100%;
+    }
+
+}
+
+.about-dataday{
+   background-color: $red;
+   width: 65%;
+   border-radius: 0px 490px 490px 0px;
+   padding: 80px 195px 110px 160px;
+   color: white;
+   @media (max-width: 1625px) {
+	width: 85%;
+	padding: 80px 155px 120px 80px;
+   }
+   @media (max-width: 1000px) {
+	width: 90%;
+	padding: 80px 55px 80px 80px;
+	border-radius: 0px 200px 200px 0px;
+ }
+
+ @media (max-width: 700px) {
+	border-radius: 20px 20px 20px 20px;
+	padding: 60px 20px 60px 40px;
+
+	width: 100%;
+ }
+}
+
+.what-is-dataday h1{
+	font-size: 4.1em;
+}
+
+.about-dataday h1{
+	font-size: 4.1em;
+}
+
+.line-title-white{
+	height: 2px; 
+	width: 50%; 
+	background-color: white;
+}
+
+
+
+
+// What is 
+
+.what-is-section{
+	background-image: url(/dataday/images/que-es-dataday.jpg); 
+    width: 90%; 
+    background-size: cover;
+    background-position: center; 
+    border-radius: 0px 0px 190px 0px;
+	padding: 70px 0px 150px 0px;
+	@media (max-width: 1625px) {
+        width: 100%;
+		border-radius: 0px 0px 0px 0px;
+      }
+      @media (max-width: 1000px) {
+        width: 100%;
+		padding: 0px 0px 0px 0px;
+    }
+}
+
+
+.what-is-dataday{
+	background-color: $red;
+	width: 55%;
+	border-radius: 0px 490px 490px 0px;
+	padding: 80px 195px 110px 160px;
+	color: white;
+	@media (max-width: 1625px) {
+	 width: 85%;
+	 padding: 80px 155px 120px 80px;
+	}
+	@media (max-width: 1000px) {
+	 width: 90%;
+	 padding: 80px 55px 80px 80px;
+	 border-radius: 0px 200px 200px 0px;
+  }
+ 
+  @media (max-width: 700px) {
+	 border-radius: 20px 20px 20px 20px;
+	 padding: 60px 20px 60px 40px;
+ 
+	 width: 100%;
+  }
+}
+
+
+// new seccion
 .about-img {
 	box-shadow: 0 15px 38px 0 rgba(0, 0, 0, 0.1);
 

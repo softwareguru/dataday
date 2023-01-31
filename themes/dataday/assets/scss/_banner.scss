@@ -5,9 +5,10 @@
   background-image: url(/dataday/images/ddmx23-background.webp);
   background-size: cover;
   background-position: center;
+  background-attachment: fixed;
   margin-top: 0px;
-  height: 75vh;
-  padding-top: 20vh;
+  height: 100vh;
+  padding-top: 28vh;
   text-align: center;
   color: white;
   text-shadow: #202020 2px 2px 2px;
@@ -56,6 +57,7 @@
     color: $white;
     font-weight: 600;
     letter-spacing: .1em;
+    border-radius: 15px 15px 15px 15px;
 
     &:hover {
       background-color: #ff4060;

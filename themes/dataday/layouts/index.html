@@ -8,17 +8,105 @@
 {{ end }}
 <!-- /hero -->
 
-<!-- event_info  -->
-{{ if $data.homepage.event_info.enable }}
-{{ partial "event_info.html" . }}
-{{ end }}
-<!-- /event_info -->
+
+<!-- What is Data Day  -->
+
+{{ partial "what_is.html" . }}
+
+ <!--/What is Data Day -->
+
+
+<!-- Why participate -->
+
+{{ partial "why_participate.html" . }}
+
+<!-- /Why participate -->
+
 
 <!-- cta_cfp  -->
 {{ if $data.homepage.cta.enable }}
 {{ partial "cta.html" . }}
 {{ end }}
 <!-- /cta_cfp -->
+
+<br>
+
+<!-- Tracks -->
+
+{{ partial "tracks.html" . }}
+
+<!-- /Tracks -->
+
+<br>
+
+<!-- Testimonial 
+
+<style>
+
+  .testimonial-title{
+    color: #ed1b35;
+    padding: 80px 20px 20px 180px;
+  }
+
+  .testimonial{
+    color: white;
+    padding: 20px;
+  }
+</style>
+
+<div class="row row-cols-1 row-cols-md-2">
+
+<div>
+  <h1 class="testimonial-title">Lo que los "dateros" opinan de Data Day</h1>
+</div>
+
+<div>
+  <div class="card mb-3" style="
+    max-width: 840px; 
+    border-radius: 15px 15px 15px 15px;
+    background-color: #32c5f0;">
+    <div class="row no-gutters">
+      <div class="col-md-4" style="padding: 20px;">
+        <img src="/dataday/images/speakers/speakerw.jpg" class="card-img rounded-circle" alt="...">
+      </div>
+      <div class="col-md-8">
+        <div class="card-body">
+          <p class="card-text testimonial">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+          <h3 class="card-name testimonial">Testimonial name</h3>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card mb-3" style="
+    max-width: 840px; 
+    border-radius: 15px 15px 15px 15px;
+    background-color: #ed1b35;">
+    <div class="row no-gutters">
+      <div class="col-md-4" style="padding: 20px;">
+        <img src="/dataday/images/speakers/speaker.jpg" class="card-img rounded-circle" alt="...">
+      </div>
+      <div class="col-md-8">
+        <div class="card-body">
+          <p class="card-text testimonial">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+          <h3 class="card-name testimonial">Testimonial name</h3>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</div>
+<br>
+
+/Testimonial -->
+
+<!-- event_info  -->
+{{ if $data.homepage.event_info.disable }}
+{{ partial "event_info.html" . }}
+{{ end }}
+<!-- /event_info -->
+
 
 <!-- sponsor -->
 {{ if $data.homepage.sponsors.disable }}
@@ -27,13 +115,10 @@
 <!-- /sponsor -->
 
 <!-- blog -->
-{{ if $data.homepage.datalive.enable }}
+{{ if $data.homepage.datalive.disable }}
 {{ partial "noticias.html" . }}
 {{ end }}
 <!-- /blog -->
-
-
-
 
 <!-- schedule -->
 {{ if $data.homepage.schedule.enable }}

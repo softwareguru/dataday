@@ -2,9 +2,9 @@
 title: Acerca de DataDay
 date: '2019-09-10T07:51:25.000+00:00'
 url: "/about-us"
+templates: "_default/about-us"
 
 ---
-
 
 <br>
 Data Day es el foro para formar sinergias entre empresarios, ingenieros y académicos con el fin de implementar iniciativas exitosas de ciencia de datos e IA en sus organizaciones.
