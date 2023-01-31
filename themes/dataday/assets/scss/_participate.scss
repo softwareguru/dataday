@@ -18,6 +18,9 @@
 
 .participate-about h1{
     font-size: 4.1em;
+    @media (max-width: 775px) {
+        font-size: 2.4em;
+    }
 }
 
 .img-participate{
