@@ -1,6 +1,6 @@
 ---
 title: "Data Day Monterrey 2022"
-date: 2022-10-01T10:57:04-06:00
+date: 2022-12-01T10:57:04-06:00
 draft: false
 headscripts:
  - https://unpkg.com/bootstrap-table@1.18.2/dist/bootstrap-table.min.css

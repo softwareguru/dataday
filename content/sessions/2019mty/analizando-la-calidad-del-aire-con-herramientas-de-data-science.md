@@ -2,7 +2,7 @@
 id: 
 title: "Hands-on lab: Analizando la calidad del aire con herramientas de data science"
 speakers:
- - eduardo-ramirez
+ - Eduardo Ramírez
 time_start: 2019-11-13T14:40:00-05:00
 time_end:   2019-11-13T16:40:00-05:00
 block: 

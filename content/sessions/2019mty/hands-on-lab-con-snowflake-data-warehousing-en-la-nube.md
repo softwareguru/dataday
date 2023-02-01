@@ -2,7 +2,7 @@
 id: 
 title: "Hands-on lab: El Datawarehouse diseñado para la nube presentado por Snowflake"
 speakers:
- - hugo-arredondo
+ - Hugo Arredondo
 time_start: 2019-11-13T11:30:00-05:00
 time_end:   2019-11-13T13:30:00-05:00
 block: 

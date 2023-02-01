@@ -2,11 +2,12 @@
 id: 
 title: "Desarrollo de productos de crédito para segmentos que abandonan el financiamiento de una tarjeta departamental"
 speakers:
- - armando-flores
+ - Armando Flores
 time_start: 2019-11-13T11:30:00-05:00
 time_end:   2019-11-13T12:10:00-05:00
 block: 
 slot: 
+video: https://youtu.be/JGf6MmHtaE4
 ---
 
 Las tarjetas departamentales son la puerta de entrada al ecosistema financiero en México, pero ¿cuáles son los factores que impulsan el uso de estas tarjetas?¿Cuáles son las barreras que se presentan a los clientes para dejar de usarlas habitualmente? ¿Cómo construir una propuesta de crédito ideal?

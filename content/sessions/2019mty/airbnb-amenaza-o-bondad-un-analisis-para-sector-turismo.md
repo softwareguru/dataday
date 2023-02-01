@@ -7,6 +7,7 @@ time_start: 2019-11-13T16:00:00-05:00
 time_end:   2019-11-13T16:40:00-05:00
 block: 
 slot: 
+video: https://youtu.be/Uw_unrPCG2U
 ---
 
 Las empresas del sector turismo (mayormente hoteles tradicionales) consideran a Airbnb una de sus mayores amenazas y es momento de dejar de hablar con el instinto para dimensionar la situación. Nos dimos la tarea de analizar este caso para CDMX y poder compartirles algunas recomendaciones al sector.

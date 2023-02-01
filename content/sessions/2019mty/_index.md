@@ -1,5 +1,5 @@
 ---
-title: "Data Day 2019 Monterrey"
+title: "Data Day Monterrey 2019"
 date: 2019-11-11T15:57:04-06:00
 draft: false
 headscripts:

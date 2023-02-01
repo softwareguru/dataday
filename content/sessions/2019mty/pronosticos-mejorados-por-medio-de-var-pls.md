@@ -2,11 +2,12 @@
 id: 
 title: "Pronósticos mejorados por medio de VAR-PLS"
 speakers:
- - jose-antonio-garcia-ramirez
+ - José Antonio García Ramírez
 time_start: 2019-11-13T15:20:00-05:00
 time_end:   2019-11-13T16:00:00-05:00
 block: 
 slot: 
+video: https://youtu.be/XwqrBVcMK0U
 ---
 
 Los pronósticos son de gran utilidad en la planeación financiera al igual que en políticas públicas. Es relativamente común utilizar redes neuronales (NN) para este tipo de pronósticos, sin embargo su complejidad computacional es alta. En esta charla hablaremos sobre una nueva técnica que combina los modelos VAR y la reducción de dimensionalidad.

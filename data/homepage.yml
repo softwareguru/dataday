@@ -3,7 +3,7 @@ banner:
   enable : true
   greeting: Bienvenido a
   title : "Data Day"
-  tagline: "Vive la experiencia de Data Day CDMX."
+  tagline: "Aprendizaje, inspiración y vinculación para profesionales de datos"
   meta: "25 de abril de 2023 | Ciudad de México"
   logo : "/images/logo.svg"
   venue : ""
@@ -12,9 +12,9 @@ banner:
     label : "Quiero ser conferencista"
     link : "https://convoca.dev/datadaymx-2023/cfp"
   button2:
-    enable : false
-    label : "Grabaciones Monterrey 2022"
-    link : "/sessions/monterrey-2022/"
+    enable : true
+    label : "Boletos"
+    link : "/dataday/tickets"
 
 
 ############################## Event ##############################

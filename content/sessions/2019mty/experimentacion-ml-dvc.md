@@ -2,11 +2,12 @@
 id: 
 title: "Experimentación ágil de machine learning con DVC"
 speakers:
- - ramon-valles
+ - Ramón Valles
 time_start: 2019-11-13T15:20:00-05:00
 time_end:   2019-11-13T16:00:00-05:00
 block: 
 slot: 
+video: https://youtu.be/tAxG-n20Di4
 ---
 
 Conforme aumenta el uso de modelos de machine learning en las empresas, y se requiere continuamente estarlos enriqueciendo y generando experimentos para estimar el impacto de los cambios, requerimos de herramientas que nos apoyen para facilitar, automatizar y gestionar estas tareas.

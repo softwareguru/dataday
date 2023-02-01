@@ -6,13 +6,15 @@ templates: "_default/about-us"
 
 ---
 
-<br>
-Data Day es el foro para formar sinergias entre empresarios, ingenieros y académicos con el fin de implementar iniciativas exitosas de ciencia de datos e IA en sus organizaciones.
-<br>
+Data Day México es la conferencia líder para profesionales de datos empresariales en América Latina desde 2015. Su misión es  inspirar, informar y vincular a profesionales de datos de habla hispana. 
 
-* Somos la conferencia líder para profesionales de datos empresariales en América Latina desde 2015. 
-* Ponemos en la misma mesa a ingenieros de datos, científicos de datos, y tomadores de decisiones para que formen sinergias multiplicativas alrededor de iniciativas de datos en sus organizaciones.
-* Acercamos las principales tendencias y herramientas de mayor impacto para el análisis y procesamiento de datos.
+### ¿Cómo lo hacemos?
+* Compartiendo contenido de vanguardia desde un punto de vista objetivo y neutral para que los participantes puedan obtener planes de acción valiosos para sus organizaciones.
+* Buscando información actualizada y de fuentes de primera mano para mantenerles a la vanguardia.
+* Procurando la calidad y nivel técnico del evento, dando a conocer ejemplos reales y concretos de ciencia de datos, el impacto que han tenido, así como conocer sus ventajas y costos.
+
+A lo largo de estas líneas, la edición 2023 en Ciudad de México presenta tres grandes líneas temáticas: Finanzas/fintech, política pública y analítica deportiva. Con esto, Data Day México se presenta como el PRIMER evento de ciencia de datos en México que te trae la intersección entre deportes y data.
+
 
 
 

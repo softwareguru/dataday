@@ -2,11 +2,12 @@
 id: 
 title: "Graph-Hunter: Prediciendo eventos con grafos"
 speakers:
- - roberto-sanchez
+ - Roberto Sánchez
 time_start: 2019-11-13T12:50:00-05:00
 time_end:   2019-11-13T13:30:00-05:00
 block: 
 slot: 
+video: https://youtu.be/gMDKALAOD8g
 ---
 
 Los delitos son un problema que afecta a la sociedad. El predecir dónde y cuándo ocurrirá algún siniestro ha sido tarea de analistas y científicos de datos, para responder preguntas como:¿Podemos detectar patrones de comportamiento en este tipo de eventos? ¿Podemos tomar medidas antes de la ocurrencia de estos eventos?

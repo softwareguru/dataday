@@ -1,14 +1,12 @@
 ---
 title: "Tickets"
-date: 2022-09-02T17:11:02-06:00
-description: "Data Day es el congreso líder de ciencia e ingeniería de datos en México. Nos vemos el 1ro de diciembre en Monterrey, NL."
+date: 2023-01-30T17:11:02-06:00
+description: "Adquiere tus boletos para Data Day, el congreso líder para profesionistas de datos."
 draft: false
 ---
 
 
-<div style="text-align: center;">
-
-<div id="eventbrite-widget-container-482489457957"></div>
+<div id="eventbrite-widget-container-529898519737"></div>
 
 <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
 
@@ -20,25 +18,31 @@ draft: false
     window.EBWidgets.createWidget({
         // Required
         widgetType: 'checkout',
-        eventId: '482489457957',
-        iframeContainerId: 'eventbrite-widget-container-482489457957',
+        eventId: '529898519737',
+        iframeContainerId: 'eventbrite-widget-container-529898519737',
 
+        // Optional
+        iframeContainerHeight: 540,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
     });
 </script>
-</div>
 
-<h2>¿Qué incluye mi boleto a Data Day Monterrey 2022?
-</h2>
+### ¿Qué incluye tu boleto?
 
-El boleto de experiencia virtual incluye: 
- * Acceso a las grabaciones de las sesiones.
- * Participación en talleres online en vivo.
- * Constancia de participación.
+El boleto a Data Day incluye:
+ * Acceso a todas las conferencias y talleres en persona.
+ * Comida a medio día, servicio de café durante breaks, y coctél al cierre del evento.
+ * Acceso al evento en línea (11 de mayo) con grabaciones de las charlas así como talleres en línea en vivo.
+ * Constancia de participación (digital).
 
 
-<h2>Formas de pago</h2>
-<ul>
-<li>Directamente en Eventbrite puedes pagar con tu cuenta de PayPal o tarjeta de crédito.</li>
-<li>Si deseas pagar por medio de transferencia bancaria, al adquirir tus pases en Eventbrite selecciona la opción “Mostrar otras opciones de pago” y da click en “Pago sin conexión”, al completar tu registro el sistema te mostrará los datos bancarios para realizar la operación.</li>
-<li>Cotizaciones: SI requieres una cotización, por favor escríbenos a&nbsp;<a href="mailto:eventos@sg.com.mx"><b>eventos@sg.com.mx</b></a>&nbsp;indicando cuantas personas van y con qué tipo de pases, para que te generemos tu cotización y/o factura.</li>
-</ul>
+### Formas de pago
+ * Directamente en Eventbrite puedes pagar con tu cuenta de PayPal o tarjeta de crédito.
+ * Si deseas pagar por medio de transferencia bancaria, al adquirir tus pases en Eventbrite selecciona la opción “Mostrar otras opciones de pago” y da click en “Pago sin conexión”, al completar tu registro el sistema te mostrará los datos bancarios para realizar la operación.
+ * Cotizaciones: Si previo a tu registro requieres una cotización o factura, por favor escríbenos a <a href="mailto:administracion@sg.com.mx"><b>administracion@sg.com.mx</b></a>e indica los detalles para que enviemos tu cotización y/o factura.
+
+### Cancelaciones, reembolsos y transferencias de boletos
+ * Si el evento es cancelado o pospuesto por cualquier razón fuera del alcance de los participantes, sus boletos serán reembolsados íntegramente.
+ * Un participante que ha adquirido un boleto puede cancelarlo hasta 30 días antes del evento y obtener su reembolso completo directamente via Eventbrite.
+ * Si faltan menos de 30 días para el evento, no es posible cancelarlo pero sí transferirlo. Simplemente notifícanos para que actualicemos los datos del boleto.
+

@@ -40,27 +40,27 @@
   }
 
 
-  .btn-banner1 {
-    background-color: $gray-light;
-    color: $yellow2;
-    font-weight: 600;
-    letter-spacing: .1em;
-
-    &:hover {
-      color: $yellow2;
-      background-color: #e0e0e0;
-    }
-  }
-
   .btn-banner2 {
-    background-color: #ff2040;
+    background-color: #f02040;
     color: $white;
     font-weight: 600;
     letter-spacing: .1em;
     border-radius: 15px 15px 15px 15px;
 
     &:hover {
-      background-color: #ff4060;
+      background-color: #ff6060;
+    }
+  }
+
+  .btn-banner1 {
+    background-color: #01a860;
+    color: $white;
+    font-weight: 600;
+    letter-spacing: .1em;
+    border-radius: 15px 15px 15px 15px;
+
+    &:hover {
+      background-color: #00a530;
       color: $white;
     }
   }

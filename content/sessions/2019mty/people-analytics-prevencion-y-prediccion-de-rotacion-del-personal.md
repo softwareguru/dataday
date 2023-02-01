@@ -2,7 +2,7 @@
 id: 
 title: "People Analytics: Prevención y predicción de rotación del personal"
 speakers:
- - juan-baldemar-garza-villegas
+ - Juan Baldemar Garza Villegas
 time_start: 2019-11-13T12:10:00-05:00
 time_end:   2019-11-13T12:50:00-05:00
 block: 

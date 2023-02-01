@@ -2,7 +2,7 @@
 id: 
 title: "Gestión de datos orientada a monetización"
 speakers:
- - marilu-lopez
+ - Marilu López
 time_start: 2019-11-13T14:40:00-05:00
 time_end:   2019-11-13T15:20:00-05:00
 block: 
