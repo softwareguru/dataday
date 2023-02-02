@@ -7,6 +7,8 @@ time_start: 2018-03-15T17:50:00-05:00
 time_end: 2018-03-15T18:30:00-05:00
 block: 
 slot: 
+slides: https://sg.com.mx/buzz/ponencias/data-day-2018/cromatocracia-el-pantone-de-la-movilidad-social-en-mexico
+video: https://youtu.be/_5wSpGMRNM0
 ---
 
 ¿Existe una formula matemática para lograr la movilidad social en México? La respuesta es afirmativa: Debes tener tez clara, tener estudios de posgrado (de preferencia por el ITESM o IPADE) y hablar inglés.

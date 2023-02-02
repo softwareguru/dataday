@@ -7,6 +7,8 @@ time_start: 2018-03-15T16:00:00-05:00
 time_end: 2018-03-15T17:20:00-05:00
 block: 
 slot: 
+video: 
+slides: https://sg.com.mx/buzz/ponencias/data-day-2018/taller-datos-en-tiempo-real-con-graphql
 ---
 
 GraphQL se está posicionando como una alternativa sólida para ofrecer datos para aplicaciones de tiempo real.

@@ -6,7 +6,8 @@ speakers:
 time_start: 2018-03-15T15:20:00-05:00
 time_end: 2018-03-15T16:00:00-05:00
 block: 
-slot: 
+slot:
+slides: https://sg.com.mx/buzz/ponencias/data-day-2018/grandes-poderes-grandes-responsabilidades 
 ---
 
 La analítica de datos se ha convertido en la nueva forma de convencer a las personas y empresas, y por lo tanto la nueva forma en que discutimos. Esto lleva a personas con formación técnica a desempeñarse en ámbitos que no le son familiares, ya que tradicionalmente pertenecen a los abogados, reporteros e investigadores.

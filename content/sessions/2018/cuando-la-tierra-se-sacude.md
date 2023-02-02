@@ -7,6 +7,8 @@ time_start: 2018-03-15T13:40:00-05:00
 time_end: 2018-03-15T14:20:00-05:00
 block: 
 slot: 
+video: https://youtu.be/FVpkastd4OU
+slides: https://sg.com.mx/buzz/ponencias/data-day-2018/cuando-la-tierra-se-sacude
 ---
 
 La colaboración masiva demostró ser un recurso fundamental para afrontar las secuelas que provocó el sismo del 19 de septiembre de 2017 en la Ciudad de México. El uso de las redes sociales permitió la comunicación entre las labores de rescate, logística y la sociedad civil. Se aprendieron lecciones sobre los alcances y las limitaciones de esta asociación. Sin embargo, ¿qué pasa cuando no existen las condiciones ni la infraestructura tecnológica propias de las grandes urbes?

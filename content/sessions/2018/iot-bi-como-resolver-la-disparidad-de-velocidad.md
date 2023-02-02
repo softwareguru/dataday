@@ -7,6 +7,8 @@ time_start: 2018-03-15T10:20:00-05:00
 time_end: 2018-03-15T11:00:00-05:00
 block: 
 slot: 
+video: https://youtu.be/dQ_l2al-LTI
+slides: https://sg.com.mx/buzz/ponencias/data-day-2018/iot-bi-como-resolver-la-disparidad-de-velocidad
 ---
 
 El Internet de las cosas (IoT) se está convirtiendo en la “navaja suiza de la industria minorista”, con cientos de posibles casos de uso diferentes. De acuerdo con Gene Wojciechowskiantiguo CIO de Walmart.com, "La tecnología IoT no solo permitirá una mejor visibilidad, sino que también puede ayudar en la prevención de pérdidas y medir el impacto de los factores ambientales, como el calor, en los bienes en movimiento. a través de la cadena de suministro". El elemento común en todos los casos de uso para IoT son los datos, que se generan a gran volumen y con gran velocidad.

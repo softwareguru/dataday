@@ -7,6 +7,7 @@ time_start: 2018-03-15T16:00:00-05:00
 time_end: 2018-03-15T16:40:00-05:00
 block: 
 slot: 
+slides: https://sg.com.mx/buzz/ponencias/data-day-2018/el-proyecto-fue-un-exito-y-ahora
 ---
 
 Has construido una solución de analítica de datos para tu empresa y ha sido un éxito, los ejecutivos ahora no pueden vivir sin ella. El siguiente paso es transicionar la solución de ser un "extra" a convertirse en una parte integral de la operación del negocio. Esta plática se enfoca en cómo hacer esta transición.

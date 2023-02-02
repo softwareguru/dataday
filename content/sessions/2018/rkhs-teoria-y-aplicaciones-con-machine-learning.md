@@ -7,6 +7,8 @@ time_start: 2018-03-15T18:30:00-05:00
 time_end: 2018-03-15T19:10:00-05:00
 block: 
 slot: 
+video: https://youtu.be/Y4eQ7a8Ljqo
+slides: https://sg.com.mx/buzz/ponencias/data-day-2018/rkhs-teoria-y-aplicaciones-con-machine-learning
 ---
 
 La idea de la plática es hacer un recorrido sobre los RKHS, (Reproducing Kernel Hilbert Spaces) que son el corazón de las máquinas de soporte vectorial, los cuales están unidas por el “Kernel Trick”, el truco favorito de los Científicos de Datos.

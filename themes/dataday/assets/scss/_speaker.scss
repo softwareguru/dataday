@@ -11,6 +11,32 @@
 	cursor: pointer;
 }
 
+
+.img-border{
+    border: 10px solid #00a662; 
+    padding: 8px;
+}
+
+
+//Dinamic colors 
+
+  .dinamic-colors:nth-child(3n) {
+	border: 10px solid $color1;
+	padding: 8px;
+  }
+  .dinamic-colors:nth-child(3n+1) {
+	border: 10px solid $color2;
+	padding: 8px;
+  }
+  .dinamic-colors:nth-child(3n+2) {
+	border: 10px solid $color3;
+	padding: 8px;
+  }
+  .dinamic-colors:nth-child(3n+3) {
+	border: 10px solid $color4;
+	padding: 8px;
+  }
+
 .speaker-strip {
 	display: grid;
 	grid-template-columns: repeat(4, 1fr);

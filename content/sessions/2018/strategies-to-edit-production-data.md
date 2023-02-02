@@ -7,6 +7,8 @@ time_start: 2018-03-15T16:00:00-05:00
 time_end: 2018-03-15T16:40:00-05:00
 block: 
 slot: 
+video: https://youtu.be/I1-72RtWZsM
+slides: https://sg.com.mx/buzz/ponencias/data-day-2018/strategies-edit-production-data
 ---
 
 At some point, we all find ourselves at a SQL prompt making edits to the production database. We know it’s a bad practice, and we always intend to put in place safer infrastructure before we need to do it again, but what does a better system actually look like?

@@ -7,6 +7,8 @@ time_start: 2018-03-15T17:50:00-05:00
 time_end: 2018-03-15T18:30:00-05:00
 block: 
 slot: 
+video: https://youtu.be/YMr3imgBzWY
+slides: https://sg.com.mx/buzz/ponencias/data-day-2018/la-importancia-estrategica-de-considerar-mezclas-de-distribuciones
 ---
 
 El mixture model (o modelo de mezcla de distribuciones) es un modelo probabilístico que considera la existencia de subpoblaciones dentro de una población general. En varias ocasiones se tiene un sistema complejo que se caracteriza por irregularidades en su distribución, o su comportamiento es atípico y se requiere conjeturar la existencia de más de un conjunto de individuos o poblaciones. Ese tipo de distribuciones es más común de lo que se piensa, y encontramos ejemplos en campos diversos, desde las ciencias naturales, hasta en business analytics.

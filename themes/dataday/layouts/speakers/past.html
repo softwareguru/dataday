@@ -9,7 +9,9 @@
       {{ range where (where .Site.Pages.ByTitle "Type" "speakers") "Kind" "term" }}
       <div class="speaker-item text-center"> 
         <div class="headshot mb-2">
-          <img src="{{ with .Params.images }}{{ index . 0 | relURL}}{{else}}{{$.Site.BaseURL}}images/speakers/speaker.jpg{{ end }}" alt="" class="img-fluid rounded-circle">          
+
+          <img src="{{ with .Params.images }}{{ index . 0 | relURL}}{{else}}{{$.Site.BaseURL}}images/speakers/speaker.jpg{{ end }}" alt="" class="img-fluid rounded-circle shadow bg-white">
+
           <a href="{{ .Permalink }}">
             <div class="overlay"></div>
           </a>
