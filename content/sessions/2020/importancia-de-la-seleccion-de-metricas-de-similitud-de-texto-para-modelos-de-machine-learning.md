@@ -7,6 +7,8 @@ time_start: 2020-08-03T17:45:00-05:00
 time_end:   2020-08-03T18:30:00-05:00
 block: 
 slot: 
+video: https://youtu.be/_eDAI9ahIhE
+slides: https://sg.com.mx/buzz/ponencias/data-days-virtual-2020/importancia-de-la-seleccion-de-metricas-de-similitud-de-texto
 ---
 
 Elegir una métrica de similitud de texto que nos ayude a obtener un buen modelo es crucial. Existen numerosas métricas y la elección puede ser confusa. En esta plática veremos ejemplos y sugerencias para su adecuada elección.

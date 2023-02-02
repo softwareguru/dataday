@@ -8,6 +8,8 @@ time_start: 2020-08-05T17:30:00-05:00
 time_end:   2020-08-05T19:15:00-05:00
 block: 
 slot: 
+video: https://youtu.be/wXM6-Nr6JO4
+slides: https://sg.com.mx/buzz/ponencias/data-days-virtual-2020/h2o-driverless-ai-workshop-aprenda-machine-learning
 ---
 
 ¿Cómo puede llevar el aprendizaje automático a las masas? ¿Cómo puede tener varios equipos en su organización para crear modelos de ML precisos sin ser expertos en ciencia de datos o aprendizaje automático?

@@ -8,6 +8,8 @@ time_start: 2020-08-03T13:45:00-05:00
 time_end:   2020-08-03T14:30:00-05:00
 block: 
 slot: 
+video: https://youtu.be/qHYJJu5Qu8w
+slides: https://sg.com.mx/buzz/ponencias/data-days-virtual-2020/la-nube-es-buena-pero-el-multicloud-es-mejor-por-cloudera
 ---
 
 En la era en que las nubes son el nuevo hardware, su utilización debe ser: abierta, multi-nube, gobernada, segura y con la posibilidad de cambiar de proveedor, con tan solo un click.

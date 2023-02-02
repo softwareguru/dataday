@@ -7,6 +7,8 @@ time_start: 2020-08-04T17:30:00-05:00
 time_end:   2020-08-04T19:15:00-05:00
 block: 
 slot: 
+video: https://youtu.be/2gKXGDVS3eQ
+slides: https://sg.com.mx/buzz/ponencias/data-days-virtual-2020/datastax-developer-workshop-machine-learning-apache-spark
 ---
 
 Machine learning is the secret behind the neural networks that Netflix and Spotify use to surface recommendations, and the underlying technology behind Siri’s voice recognition. It’s changing the world at a rate none of us could have expected. It’s not just a buzzword, but it’s a powerful technology that developers and IT leaders need to begin to understand now to be better prepared for the future.

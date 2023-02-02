@@ -7,6 +7,8 @@ time_start: 2020-08-05T18:30:00-05:00
 time_end:   2020-08-05T19:15:00-05:00
 block: 
 slot: 
+video: https://youtu.be/rrvqCxUMqa0
+slides: https://sg.com.mx/buzz/ponencias/data-days-virtual-2020/analisis-de-patrones-de-crimen-en-ciudad-de-mexico
 ---
 
 Una de las principales preocupaciones de la población urbana es evadir zonas específicas de la ciudad con un alto índice de crímenes.

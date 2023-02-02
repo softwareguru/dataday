@@ -7,6 +7,7 @@ time_start: 2019-03-21T16:40:00-05:00
 time_end: 2019-03-21T17:20:00-05:00
 block: 
 slot: 
+slides: https://sg.com.mx/buzz/ponencias/data-day-2019/machine-learning-aplicado-al-riesgo-de-credito
 ---
 
 Veremos como se usa machine learning en el domino de créditos para modelos de cobranza, predecir la probabilidad de pago o sugerir ofertas. Estos problemas serán abordados desde una perspectiva práctica compartiendo las experiencias de una startup de crédito méxicana.

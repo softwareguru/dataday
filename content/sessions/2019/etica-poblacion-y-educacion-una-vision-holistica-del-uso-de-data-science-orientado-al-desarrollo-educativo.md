@@ -7,6 +7,8 @@ time_start: 2019-03-21T12:50:00-05:00
 time_end: 2019-03-21T13:30:00-05:00
 block: 
 slot: 
+slides: https://sg.com.mx/buzz/ponencias/data-day-2019/etica-poblacion-y-educacion
+video: https://youtu.be/n5bpBt6nn20
 ---
 
 <h3>Una visión holística del uso de Data Science orientado al desarrollo educativo</h3>

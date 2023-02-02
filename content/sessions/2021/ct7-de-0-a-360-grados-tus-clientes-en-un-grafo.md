@@ -8,6 +8,8 @@ speakers:
   - Luis Almazán
 time_start: 2021-03-24T18:30:00-06:00
 slot: t7
+video: https://youtu.be/YHO_FMsXQ6A
+slides: https://sg.com.mx/buzz/ponencias/data-days-virtual-2021/de-0-360-grados-tus-clientes-en-un-grafo-por-vinkos
 ---
 
 Entender al cliente, conocer sus demandas, necesidades, perfiles y comportamientos resulta clave para poder generar mejores estrategias que ayuden a alcanzar una alta calidad de servicio. Esta típica problemática en cualquier negocio se puede abordar desde un moderno enfoque: mediante un esquema de grafos, obtener la vista 360 del cliente.

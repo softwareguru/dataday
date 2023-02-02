@@ -7,6 +7,7 @@ time_start: 2019-03-21T11:30:00-05:00
 time_end: 2019-03-21T12:10:00-05:00
 block: 
 slot: 
+slides: https://sg.com.mx/buzz/ponencias/data-day-2019/quien-decide
 ---
 
 <h2>Situación</h2>

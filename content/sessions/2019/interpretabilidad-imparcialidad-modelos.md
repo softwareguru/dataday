@@ -7,6 +7,8 @@ time_start: 2019-03-21T11:30:00-05:00
 time_end: 2019-03-21T12:10:00-05:00
 block: 
 slot: 
+slides: https://sg.com.mx/buzz/ponencias/data-day-2019/como-obtener-la-confianza-del-cliente-mediante-modelos-interpretables
+video: https://youtu.be/lLDkmcQGiN0
 ---
 
 Mientras que las redes neuronales han sido muy exitosas en problemas como visión computacional o NLP, con todo y que tienen el problema de ser cajas negras sin posibilidad de interpretación sobre cómo llegaron a tal o cual conclusión, existen otros donde no podemos darnos el lujo de esta opacidad; por ejemplo, aquellos que inciden directamente en los bolsillos de la gente.

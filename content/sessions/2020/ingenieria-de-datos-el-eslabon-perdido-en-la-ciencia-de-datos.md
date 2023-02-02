@@ -7,6 +7,8 @@ time_start: 2020-08-04T18:30:00-05:00
 time_end:   2020-08-04T19:15:00-05:00
 block: 
 slot: 
+video: https://youtu.be/AO-3oyZxtaA
+slides: https://sg.com.mx/buzz/ponencias/data-days-virtual-2020/ingenieria-de-datos-el-eslabon-perdido-en-la-ciencia-de-datos
 ---
 
 Aunque se ha mencionado por años, la realidad de muchas empresas es la misma: El 80% del esfuerzo de las iniciativas de ciencia de datos se invierte en tener acceso a datos limpios.

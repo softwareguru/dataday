@@ -8,6 +8,8 @@ time_end:   2021-03-23T19:15:00-06:00
 block: b
 slot: t7
 track: data-engineering
+video: https://youtu.be/CaYmKcTy4n8
+slides: https://sg.com.mx/buzz/ponencias/data-days-virtual-2021/development-production-snap-ploomber
 ---
 
 Interactive development tools such as Jupyter are prevalent among data scientists because they provide an environment to perform data transformations and get immediate visual feedback. However, when deploying a project, it must be refactored using a production-friendly environment like Airflow or Argo; this causes data scientists to move code back and forth between their notebooks and these production tools. Furthermore, data scientists have to spend time learning an unfamiliar framework and writing pipeline code, which severely delays the deployment process.

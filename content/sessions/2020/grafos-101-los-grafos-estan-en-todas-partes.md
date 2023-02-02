@@ -7,6 +7,8 @@ time_start: 2020-08-05T12:00:00-05:00
 time_end:   2020-08-05T13:45:00-05:00
 block: 
 slot: 
+slides: https://sg.com.mx/buzz/ponencias/data-days-virtual-2020/taller-grafos-101-los-grafos-estan-en-todas-partes-por-vinkos
+video: https://youtu.be/mZ682hLro-g
 ---
 
 El mundo está compuesto por infinidad de redes interconectadas, piensa un momento la red que forman tus amigos y los amigos de tus amigos, cómo funciona una red celular, la forma en la que operan las tiendas e-commerce, etc. En este taller te enseñaremos a ver el mundo a través de un grafo y cómo usar estas estructuras para generar conocimiento de una forma natural. Aprenderás a utilizar la plataforma de neo4j, subir archivos, ejecutar queries en CYPHER, y modelar los datos como un grafo. También te mostraremos las dos principales ventajas neo4j sobre bases de datos tradicionales: Graphstorage y Graphprocessing.

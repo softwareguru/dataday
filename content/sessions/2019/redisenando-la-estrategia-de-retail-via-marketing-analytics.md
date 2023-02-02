@@ -7,6 +7,7 @@ time_start: 2019-03-21T19:00:00-05:00
 time_end: 2019-03-21T19:40:00-05:00
 block: 
 slot: 
+slides: https://sg.com.mx/buzz/ponencias/data-day-2019/redisenando-la-estrategia-de-retail-marketing-analytics
 ---
 
 Esta sesión está enfocada en aplicación de analítica en el sector de comercio minorista (retail).

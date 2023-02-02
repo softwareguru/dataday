@@ -7,6 +7,8 @@ time_start: 2019-03-21T13:30:00-05:00
 time_end: 2019-03-21T14:10:00-05:00
 block: 
 slot: 
+slides: https://sg.com.mx/buzz/ponencias/data-day-2019/predictive-maintenance
+video: https://youtu.be/bEbbE_oWFjk
 ---
 
 Predictive maintenance revolutionizes the future of machines. It tracks each of the machines' unique life cycle and doesn't generalize. It allows us to know if they need to be attended to in advance. This maintenance method provides information on upcoming, unknown or unpredicted critical failures. It creates an effective and innovative environment.

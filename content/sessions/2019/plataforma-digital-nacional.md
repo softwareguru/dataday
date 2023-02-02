@@ -7,6 +7,8 @@ time_start: 2019-03-21T12:10:00-05:00
 time_end: 2019-03-21T12:50:00-05:00
 block: 
 slot: 
+slides: https://sg.com.mx/buzz/ponencias/data-day-2019/plataforma-digital-nacional
+video: https://youtu.be/C8-1IVwR_gU
 ---
 
 La Plataforma Digital Nacional es una fuente de inteligencia para construir integridad y combatir la corrupción, que creará valor para el gobierno y la sociedad, a partir de grandes cantidades de datos.

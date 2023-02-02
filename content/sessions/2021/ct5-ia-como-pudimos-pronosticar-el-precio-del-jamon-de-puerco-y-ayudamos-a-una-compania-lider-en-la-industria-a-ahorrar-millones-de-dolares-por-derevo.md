@@ -10,6 +10,8 @@ speakers:
   - Jorge Figueroa
 time_start: 2021-03-24T17:00:00-06:00
 slot: t5
+video: https://youtu.be/IxEzhindXwk
+slides: https://sg.com.mx/buzz/ponencias/data-days-virtual-2021/como-pudimos-pronosticar-el-precio-de-la-carne-de-res-por
 ---
 (No todo es carne de res, esta historia aplica también en tu industria…)
 

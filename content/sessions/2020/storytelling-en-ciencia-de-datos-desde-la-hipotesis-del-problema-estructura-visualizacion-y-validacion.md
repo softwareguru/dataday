@@ -7,6 +7,8 @@ time_start: 2020-08-03T17:00:00-05:00
 time_end:   2020-08-03T17:45:00-05:00
 block: 
 slot: 
+video: https://youtu.be/xzcLXPpD-F8
+slides: https://sg.com.mx/buzz/ponencias/data-days-virtual-2020/storytelling-en-ciencia-de-datos-desde-la-hipotesis-del
 ---
 
 En un presente en que todo implica datos, algunos almacenados, pocos analizados y menos todavía interpretados, es de especial relevancia hacernos las preguntas correctas. La estructura de storytelling no es más que un procedimiento lógico, comprensible para todas las áreas del negocio, que nos acompañarás desde una hipótesis o detección de problema de la industria, a cuestionarnos y elaborar una narrativa de cómo ir de lo general (situación) a lo particular (causa), visualizar este procedimiento e identificar los principales hallazgos, los cuales tienen que ser accionables y eventualmente convertirse en estrategia.

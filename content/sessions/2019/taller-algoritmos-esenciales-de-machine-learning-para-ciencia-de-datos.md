@@ -7,6 +7,7 @@ time_start: 2019-03-21T17:40:00-05:00
 time_end: 2019-03-21T19:00:00-05:00
 block: 
 slot: 
+slides: https://sg.com.mx/buzz/ponencias/data-day-2019/laboratorio-practico-algoritmos-esenciales-de-ml-para-ciencia-de-datos
 ---
 
 En este taller, el participante aprenderá a aplicar los algoritmos más comunes dentro de la ciencia de datos para resolver problemas de negocio tales como clasificación, segmentación y/o asociación a través de la metodología CRISP-DM. Se utilizará la herramienta IBM SPSS Modeler y también se verá un ejemplo de integración con R.

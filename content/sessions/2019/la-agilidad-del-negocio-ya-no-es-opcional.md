@@ -7,6 +7,8 @@ time_start: 2019-03-21T10:20:00-05:00
 time_end:   2019-03-21T11:00:00-05:00
 block: 
 slot: 
+slides: https://sg.com.mx/buzz/ponencias/data-day-2019/data-service
+video: https://youtu.be/NW4Jo6A1eHs
 ---
 
 En un contexto de negocios en cambio constante, las organizaciones más exitosas son aquellas que están equipadas para responder en tiempo real a oportunidades y amenazas. En cambio, aquellas que no logren adaptarse a este ritmo de cambio se quedan atrás y pronto dejarán de existir. En otras palabras, la agilidad empresarial ya no es opcional, es una imperativa para la supervivencia.

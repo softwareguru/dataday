@@ -7,6 +7,7 @@ time_start: 2019-03-21T11:30:00-05:00
 time_end: 2019-03-21T12:10:00-05:00
 block: 
 slot: 
+slides: https://sg.com.mx/buzz/ponencias/data-day-2019/laboratorio-practico-la-sazon-del-cientifico-de-datos
 ---
 
 El platillo no siempre sale bien aún cuando sigas la receta... pero con aderezo y sazón matemático, saldremos bien librados en la batalla de presentar un modelo digno de estrellas michelin.

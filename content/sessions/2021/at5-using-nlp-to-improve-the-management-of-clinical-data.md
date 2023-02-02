@@ -9,6 +9,8 @@ speakers:
 time_start: 2021-03-22T13:15:00-06:00
 slot: t5
 language: Inglés
+video: https://youtu.be/iZCBCTi90gQ
+slides: https://sg.com.mx/buzz/ponencias/data-days-virtual-2021/using-nlp-improve-management-clinical-data
 ---
 
 Courtney Irwin (MetadataWorks) will present two recent case studies utilising natural language processing methods to improve the utility and interoperability of clinical data for the National Health Service in the UK.

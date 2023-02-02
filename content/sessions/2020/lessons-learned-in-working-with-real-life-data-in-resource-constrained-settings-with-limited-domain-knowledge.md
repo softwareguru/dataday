@@ -7,6 +7,8 @@ time_start: 2020-08-05T13:00:00-05:00
 time_end:   2020-08-05T13:45:00-05:00
 block: 
 slot: 
+slides: https://sg.com.mx/buzz/ponencias/data-days-virtual-2020/lessons-learned-working-real-life-data-resource-constrained
+video: https://youtu.be/UduySECADNY
 ---
 
 Each day, 1.8 billion individuals drink water contaminated with faeces. Improved faecal matter detection methods are crucial in identifying causes of water contamination, communicating risks to users more efficiently, and developing adequate solutions, especially in the domain of sanitation infrastructure.

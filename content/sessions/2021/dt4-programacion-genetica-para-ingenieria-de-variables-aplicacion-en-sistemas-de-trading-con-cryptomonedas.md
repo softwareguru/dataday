@@ -8,6 +8,8 @@ time_end:   2021-03-25T14:00:00-06:00
 block: d
 slot: t4
 track: machine-learning
+video: https://youtu.be/SgHhzEYKLWA
+slides: https://sg.com.mx/buzz/ponencias/data-days-virtual-2021/programacion-genetica-para-ingenieria-de-variables-aplicacion
 ---
 
 Antes de pensar en modelos predictivos, hay que pensar en formar las variables que se usarán como entrada en tales modelos, y no cuidar esto tiene sus implicaciones, ¿Conoces la frase "Garbage in, garbage out"?. Por otro lado, el boom del machine learning te expone al uso de modelos complejos de explicar/calibrar/mantener, y todo esto, para el caso de series de tiempo financieras que es todo un reto. 

@@ -7,6 +7,8 @@ time_start: 2020-08-05T17:45:00-05:00
 time_end:   2020-08-05T18:30:00-05:00
 block: 
 slot: 
+slides: https://sg.com.mx/buzz/ponencias/data-days-virtual-2020/analisis-de-audio-para-clasificar-y-predecir-el
+video: https://youtu.be/bY9lp3CZSkk
 ---
 
 ¿Será que la manera en que hablamos durante una llamada de cobranza dice algo sobre nuestro comportamiento de pago? Más en específico, ¿habrá características físicas del sonido de nuestra voz que puedan correlacionarse con nuestro comportamiento de pago?

@@ -7,6 +7,7 @@ time_start: 2019-03-21T16:00:00-05:00
 time_end: 2019-03-21T17:20:00-05:00
 block: 
 slot: 
+slides: https://sg.com.mx/buzz/ponencias/data-day-2019/laboratorio-practico-data-warehouse-en-la-nube
 ---
 
 En este laboratorio práctico mostraremos cómo habilitar un datawarehouse en la nube utilizando la plataforma de Snowflake Computing. Los participantes aprenderán como cargar datos, integrar herramientas y rápidamente obtener insights para impactar al negocio.

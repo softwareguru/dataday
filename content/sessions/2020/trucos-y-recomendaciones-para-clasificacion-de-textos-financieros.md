@@ -7,6 +7,8 @@ time_start: 2020-08-06T13:00:00-05:00
 time_end:   2020-08-06T13:45:00-05:00
 block: 
 slot: 
+slides: https://sg.com.mx/buzz/ponencias/data-days-virtual-2020/trucos-y-recomendaciones-para-clasificacion-de-textos
+video: https://youtu.be/IbErkKUBejk
 ---
 
 Las <em>Word embeddings</em> son técnicas utilizadas en el procesamiento de lenguaje natural donde las palabras o frases son mapeadas a vectores de números reales, de tal manera que los vectores generados pueden ser explotados por algoritmos de machine learning.

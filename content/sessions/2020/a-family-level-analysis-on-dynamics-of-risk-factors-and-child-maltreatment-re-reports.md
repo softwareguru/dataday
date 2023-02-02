@@ -6,7 +6,9 @@ speakers:
 time_start: 2020-08-04T13:00:00-05:00
 time_end:   2020-08-04T13:45:00-05:00
 block: 
-slot: 
+slot:
+video: https://youtu.be/qO6gWidFvxQ
+slides: https://sg.com.mx/buzz/ponencias/data-days-virtual-2020/family-level-analysis-dynamics-risk-factors-and-child
 ---
 
 In 2017, 30% of US children referred to child protective services (CPS) had a prior history of CPS involvement. Despite the effort of child protective services (CPS) to coordinate services that will prevent future concerns of child maltreatment, recidivism is still common.

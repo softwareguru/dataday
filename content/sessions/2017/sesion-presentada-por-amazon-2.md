@@ -7,7 +7,8 @@ time_start: 2017-03-28T11:40:00-05:00
 time_end: 2017-03-28T12:20:00-05:00
 block: 
 slot: 
-video: https://sg.com.mx/buzz/ponencias/data-day-2017/analyticde-la-ala-z-con-amazon-web-services
+video: 
+slides: https://sg.com.mx/buzz/ponencias/data-day-2017/analyticde-la-ala-z-con-amazon-web-services
 ---
 
 Construir una aplicación de Big Data frecuentemente requiere integrar un conjunto de tecnologías para almacenar, procesar y analizar la creciente variedad, velocidad y volumen de datos dentro de las organizaciones. En esta sesión, se mostrará cómo se puede construir una aplicación de Big Data a lo largo de todo el pipeline utilizando los servicios que Amazon Web Services ofrece como parte de su portafolio.

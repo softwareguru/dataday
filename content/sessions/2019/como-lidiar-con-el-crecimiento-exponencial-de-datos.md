@@ -7,6 +7,7 @@ time_start: 2019-03-21T12:50:00-05:00
 time_end: 2019-03-21T13:30:00-05:00
 block: 
 slot: 
+slides: https://sg.com.mx/buzz/ponencias/data-day-2019/como-lidiar-con-el-crecimiento-exponencial-de-los-datos
 ---
 
 En esta sesión presentaremos el caso de un cómo un startup fintech está cambiando su stack tecnológico y estrategia de data governance para poder enfrentar el crecimiento exponencial de datos (5x anualmente).

@@ -8,6 +8,8 @@ speakers:
   - Zinnya del Villar
 time_start: 2021-03-25T11:00:00-06:00
 slot: t1
+video: https://youtu.be/1yQur_SffjE
+slides: https://sg.com.mx/buzz/ponencias/data-days-virtual-2021/la-necesidad-de-una-recopilacion-de-datos-de-calidad-en
 ---
 
 La necesidad de una mejor recopilación de datos relacionados con la violencia de género ha sido reconocida a nivel internacional por las Naciones Unidas en su compromiso de erradicar la violencia contra las mujeres, en donde LATAM muestra las peores cifras y México es uno de los países más peligros para las mujeres.

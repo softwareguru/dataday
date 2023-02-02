@@ -7,6 +7,8 @@ time_start: 2019-03-21T16:00:00-05:00
 time_end: 2019-03-21T16:40:00-05:00
 block: 
 slot: 
+slides: https://sg.com.mx/buzz/ponencias/data-day-2019/captacion-de-agua-pluvial-en-la-cdmx
+video: https://youtu.be/2OCuo6Ts6wA
 ---
 
 Mientras la CDMX enfrenta una crisis de escasez de agua, también tiene el potencial de aprovechar un recurso subutilizado: la lluvia. En esta plática se muestra el uso análisis geoespacial para visualizar dónde viven las familias con escasez de agua y cuál sería el impacto de captar la lluvia.

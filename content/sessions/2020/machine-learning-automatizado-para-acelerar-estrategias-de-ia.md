@@ -7,6 +7,8 @@ time_start: 2020-08-04T17:00:00-05:00
 time_end:   2020-08-04T17:45:00-05:00
 block: 
 slot: 
+video: https://youtu.be/wXM6-Nr6JO4
+slides: https://sg.com.mx/buzz/ponencias/data-days-virtual-2020/h2o-driverless-ai-workshop-aprenda-machine-learning
 ---
 
 Todas las organizaciones se están dando cuenta del gran potencial de la inteligencia artificial para mejorar la experiencia de los clientes y obtener más negocio. Cualquier empresa necesitará de cien a miles de modelos de IA para automatizar y mejorar procesos de negocio y productos digitales. El problema es que los sistemas de machine learning son intensivos en talento humano y se requieren meses para construir y desplegar un solo modelo. Y ese modelo no tiene valor hasta que está integrado a un app de IA.

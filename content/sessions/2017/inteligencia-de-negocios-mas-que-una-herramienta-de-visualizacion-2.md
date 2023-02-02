@@ -7,7 +7,8 @@ time_start: 2017-03-28T15:20:00-05:00
 time_end: 2017-03-28T16:00:00-05:00
 block: 
 slot: 
-video: https://sg.com.mx/buzz/ponencias/data-day-2017/inteligencia-de-negocios-mas-que-una-herramienta-de-visualizacion
+video: 
+slides: https://sg.com.mx/buzz/ponencias/data-day-2017/inteligencia-de-negocios-mas-que-una-herramienta-de-visualizacion
 ---
 
 Hoy las compañías se encuentran en un entorno de competitividad dirigido por la exigencia de ser mejores en todos los sentidos, no solo se trata de aumentar los ingresos, sino de aumentar los beneficios hacia los clientes, de forma que no podríamos dejar de lado ninguna de las áreas que conforman nuestra cadena de valor.

@@ -7,6 +7,8 @@ time_start: 2020-08-04T12:00:00-05:00
 time_end:   2020-08-04T13:45:00-05:00
 block: 
 slot: 
+video: https://youtu.be/P2u2hMJ-0pM
+slides: https://sg.com.mx/buzz/ponencias/data-days-virtual-2020/hands-lab-con-snowflake
 ---
 
 En este laboratorio práctico mostraremos cómo habilitar un datawarehouse en la nube para datos estructurados y semi-estructurados utilizando la plataforma de Snowflake. Los <wbr />participantes aprenderán los conceptos básicos de una plataforma de datos para la nube y de la arquitectura de Snowflake.

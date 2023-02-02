@@ -8,6 +8,8 @@ time_end:   2021-03-25T18:30:00-06:00
 block: d
 slot: t6
 track: data-4-good
+video: https://youtu.be/r9QPI3FVywM
+slides: https://sg.com.mx/buzz/ponencias/data-days-virtual-2021/desarrollo-de-aplicaciones-hospitalarias
 ---
 
 Experiencias acerca del desarrollo de aplicaciones medicas y hospitalarias, en este entorno de pandemia, asi como las problematicas presupuestales en México, como lidiar con las nuevas estructuras monoliticas de la secretaria de salud (SINBA) y lo que podemos hacer con nuevos desarrollos en el sector salud en México.

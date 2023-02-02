@@ -8,6 +8,8 @@ time_end:   2021-03-25T12:30:00-06:00
 block: d
 slot: t2
 track: strategy
+video: https://youtu.be/lv5nT_8MyLI
+slides: https://sg.com.mx/buzz/ponencias/data-days-virtual-2021/mythbusters-las-herramientas-de-bi-sustituyen-la
 ---
 
 Puede estar pensando: si puedo tener consultas de múltiples fuentes y definir un modelo lógico en mi herramienta de reporteo, ¿por qué necesitaría un software de virtualización de datos?

@@ -7,6 +7,7 @@ speakers:
 time_start: 2021-03-24T23:45:00.000Z
 time_end: 2021-03-25T01:15:00.000Z
 summary: ""
+draft: true
 ---
 ¿Cómo se puede acelerar el desarrollo y el éxito de casos de uso con automatización, aprendizaje automático y plataforms de IA modernas? ¿Cómo puede tener varios equipos en su organización para crear modelos de ML precisos sin ser expertos en ciencia de datos o aprendizaje automático?
 

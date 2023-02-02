@@ -2,7 +2,7 @@
 title: Acerca de DataDay
 date: '2019-09-10T07:51:25.000+00:00'
 url: "/about-us"
-templates: "_default/about-us"
+#layout: about-us
 
 ---
 

@@ -8,6 +8,8 @@ time_end:   2021-03-26T13:15:00-06:00
 block: e
 slot: t3
 track: strategy
+video: https://youtu.be/m4eMy6CUDBs
+slides: https://sg.com.mx/buzz/ponencias/data-days-virtual-2021/utilizar-conocimientos-de-dispositivos-moviles-para-el
 ---
 
 La presente investigación parte de un análisis general sobre estrategias basadas en la ubicación, donde el usuario se posicione como el centro de interés principal. Las expectativas de los clientes continúan cambiando constantemente, por lo que se requiere una respuesta sofisticada si realmente se busca impactar su experiencia a través de su comportamiento en web, tienda física o dispositivo móvil. Actualmente los sistemas de gestión de datos en los últimos años se han acelerado con un enfoque de servicios basados en ubicación (LBS). El tema resume las formas actuales de recolección, almacenamiento y tratamiento de datos espaciales dentro de los servicios, esto, representado a modo de ejemplo con una extracción muestral desde una fuente de datos alternativa pública, utilizando un modelo predictivo para estimar el histórico de visitantes de un lugar turístico.

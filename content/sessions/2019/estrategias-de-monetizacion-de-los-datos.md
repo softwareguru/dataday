@@ -7,6 +7,7 @@ time_start: 2019-03-21T16:00:00-05:00
 time_end: 2019-03-21T16:40:00-05:00
 block: 
 slot: 
+slides: https://sg.com.mx/buzz/ponencias/data-day-2019/estrategias-de-monetizacion-de-los-datos-convierte-datos-en-acciones
 ---
 
 Convertirse en una empresa data-driven no es un juego. En esta charla platicaremos de frameworks para identificar y aterrizar oportunidades de monetización de los datos con un enfoque en las acciones y el soporte oportuno a la toma de decisiones.

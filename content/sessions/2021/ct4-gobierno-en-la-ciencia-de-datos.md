@@ -8,6 +8,8 @@ time_end:   2021-03-24T14:00:00-06:00
 block: c
 slot: t4
 track: strategy
+video: https://youtu.be/dL4AXg6qVys
+slides: https://sg.com.mx/buzz/ponencias/data-days-virtual-2021/governance-en-la-ciencia-de-datos
 ---
 
 En esta plática exploro sobre el como empezar a meter gobierno (governance) en la ciencia de datos revisando los siguientes puntos

@@ -7,6 +7,8 @@ time_start: 2019-03-21T12:50:00-05:00
 time_end: 2019-03-21T13:30:00-05:00
 block: 
 slot: 
+slides: https://sg.com.mx/buzz/ponencias/data-day-2019/modeling-beauty
+video: https://youtu.be/SBioSo2d9-Y
 ---
 
 Machine learning may be a hot topic in the tech industry currently, but what exactly does it represent and what can it be used for? This talk will explain ML in an approachable, easy to grasp way applied to an interesting concept: Can we determine abstract concepts like beauty using machine learning? What is the appeal of being able to do so? Does it make a machine more human? Or does it expose the human experience as a list of 1s and 0s?

@@ -7,6 +7,8 @@ time_start: 2019-03-21T16:00:00-05:00
 time_end: 2019-03-21T16:40:00-05:00
 block: 
 slot: 
+slides: https://sg.com.mx/buzz/ponencias/data-day-2019/come-duerme-analiza-segmenta-y-repite
+video: https://youtu.be/c_cYIRzFlpo
 ---
 
 <h3>Ejemplo de segmentación de clientes y profiling a través de la ciencia de datos.</h3>
