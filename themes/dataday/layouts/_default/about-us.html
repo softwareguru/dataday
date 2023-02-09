@@ -1,11 +1,13 @@
 {{ define "main" }}
+<br>
 {{ partial "page-title.html" . }}
 
 <!-- About Data Day -->
+
+
 <div class="about-section">
-  <div class="about-dataday">
+  <div class="about-dataday"> 
     <h1>Acerca de <br> Data Day</h1>
-    <div class="line-title-white"></div>
     <br>
     <h4>Data Day es la conferencia líder para profesionales de datos en América Latina que destaca por integrar en un mismo espacio a líderes de organizaciones dirigidas por datos, científicos de datos e ingenieros de datos, proveyendo a cada uno contenido de vanguardia desde un punto de vista objetivo y neutral.
     </h4>
@@ -18,6 +20,41 @@
   </div>
   <br><br>
 </div>
+
+<br>
+
+<div class="container tracks">
+
+  <h2>¿Cómo lo hacemos?</h2>
+  <br>
+  <div class="row row-cols-1 row-cols-md-3">
+    <div class="col mb-4">
+      <div class="card-tracks h-100" style="background-color: #32c5f0;">
+        <div class="card-body">
+          <p class="card-text-tracks">Compartiendo contenido de vanguardia desde un punto de vista objetivo y neutral para que los participantes puedan obtener planes de acción valiosos para sus organizaciones</p>
+        </div>
+      </div>
+    </div>
+    <div class="col mb-4">
+      <div class="card-tracks h-100" style="background-color: #ed1b35;">
+        <div class="card-body">
+          <p class="card-text-tracks">Buscando información actualizada y de fuentes de primera mano para mantenerles a la vanguardia.</p>
+        </div>
+      </div>
+    </div>
+    <div class="col mb-4">
+      <div class="card-tracks h-100" style="background-color: #00a662;">
+        <div class="card-body" >
+          <p class="card-text-tracks">Procurando la calidad y nivel técnico del evento, dando a conocer ejemplos reales y concretos de ciencia de datos, el impacto que han tenido, así como conocer sus ventajas y costos.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+
+
 <!-- /About Data Day -->
 
 {{ end }}

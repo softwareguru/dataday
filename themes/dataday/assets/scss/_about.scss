@@ -1,11 +1,11 @@
 // new seccion
 
-.about-section{
+.about-section{ 
 	background-image: url(/dataday/images/acerca-de-dataday.jpg); 
-    width: 90%; 
+    width: 95%; 
     background-size: cover;
     background-position: center; 
-    border-radius: 0px 190px 0px 0px;
+    border-radius: 0px 0px 190px 0px;
 
 	@media (max-width: 1625px) {
         width: 100%;
