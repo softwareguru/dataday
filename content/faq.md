@@ -21,10 +21,10 @@ El evento se realizará el martes 25 de abril iniciando sesiones a las 8:30 am y
 Sí. A todas las personas registradas al evento les haremos llegar su constancia de participación. *Importante: la constancia se genera con el nombre completo con el que te registraste. Así que te recomendamos escribirlo completo, tal cual como quieres que aparezca.
 
 #### ¿Cuál es la política con respecto a COVID-19 para los asistentes en persona?
-* Todas las personas que asistan presencialmente a Data Day deberán mostrar su esquema de vacunación completo (según la vacuna) contra el COVID-19 o proporcionar un resultado negativo de la prueba PCR realizado en las 72 horas anteriores al evento.
+
 * Se recomendará (de forma no obligatoria) que los asistentes usen máscaras faciales en las salas de conferencias y actividades en interiores. 
 * Dispondremos de máscaras desechables para quienes no traigan y quieran usar una.
-* Habrá estaciones de desinfectante alrededor del lugar del evento y mascarillas desechables para quienes hayan olvidado la suya.
+También contaremos con estaciones de desinfectante alrededor del lugar del evento.
 
 <br>
 
