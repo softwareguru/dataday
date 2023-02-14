@@ -1,78 +1,40 @@
 ---
-title: "Mejores prácticas, herramientas y mucho más de ciencia de datos"
+title: "Rayid Ghani, el primer fichaje estrella de Data Day para el tema de Data for Public Policy."
 date: 2022-02-21T15:20:05-06:00
-image : "images/blog/press-release.png"
+image : "images/blog/card.png"
 draft: false
 ---
 
-#### Hardcore machine intelligence, data engineering, data for public policy, estrategia, mejores prácticas, herramientas y mucho más de ciencia de datos y analítica predictiva a gran escala. Todo esto en la conferencia más honesta y transparente sobre la ciencia de datos.
-
-Si tú eres una persona persona involucrada en el procesamiento y análisis de datos en contextos empresariales, no puedes perderte este evento.
-
-Data Days es  la conferencia líder para profesionales de datos empresariales en América Latina. Se ha realizado exitosamente de forma presencial desde 2015.
-
-Para este año, se llevará a cabo en formato online del 28 de marzo al 01 de abril de 2022. Trae consigo más de 30 conferencias y  talleres dirigidos a:
-
-
-* Ejecutivos de negocio: Interesados en construir o mejorar productos y servicios basados en analítica de datos.
-
-* Profesionales de Datos: Interesados en aprender prácticas y técnicas avanzadas para el desarrollo e implementación de modelos predictivos basados en datos.
-
-* Profesionales de TI: Interesados en aprender a usar herramientas y técnicas para la gestión de datos a gran escala.
-
-
-### Una agenda con impacto
-
-
-Aunque está abierta a participantes de todo el mundo, los [contenidos](/datadays/agenda) y [conferencistas](/datadays/speakers) tienen un fuerte sabor latinoamericano.
-
-Este año, Data Days tendrá un track específico cada día. 5 días, 5 temas diferentes:
-
-
-* 🧠 Lunes - Data strategy & leadership
-* 🚨 Martes - Data for public policy
-* 📊 Miércoles - Hard core machine intelligence
-* ⚙️ Jueves - Big Data engineering
-* 🌐 Viernes - Data Science Everywhere
-
-
-Data Days se caracteriza por enfocarse en las posibilidades, costos y riesgos que esta disciplina trae a toda la gama del quehacer humano, desde empresas transnacionales hasta PYMEs familiares, pasando por el sector público y social.
-
 <center>
-
-<br>
-
-##### *“Data Days es la única conferencia que pone en la misma mesa a ingenieros de datos, científicos de datos, y expertos en negocio para que formen sinergias multiplicativas alrededor de iniciativas de datos en sus organizaciones.“*
-<br>
+<img src="/dataday/images/blog/rayid-ghani.png" alt="" class="img-fluid">
 </center>
 
-En Data Days no sólo podrás ver ejemplos ver ejemplos concretos y con impacto de las posibilidades que tiene Machine Learning y Ciencia de Datos, también podrás acceder a contenidos claros con los riesgos y cuestiones éticas de automatizar, no solo procesos, sino decisiones que afectan la vida de las personas.
+<br>
 
-En otras palabras, después de Data Days los asistentes se llevarán planes y acciones para sus organizaciones, no solo un marketing pitch.
+Si no conoces a Rayid Ghani, seguramente mucho lo que has escuchado o incluso implementado en cuanto a modelos de machine learning éticos, sin sesgo y equitativos, viene de su trabajo.
 
+Las [herramientas que ha creado](https://github.com/dssg) para esto y el fellowship de verano que creó ha formado a muchos policy makers alrededor del mundo, incluyendo México.
 
-### Apoyando a estudiantes, mujeres y otras comunidades
+### Algunos datos destacados de Rayid
 
-Aunque es un evento con costo, Data Days se preocupa por la comunidad. Por ello ponen a disposición apoyos para:
-
-
-* 👩‍💻Personas que se identifican como mujeres
-* 📚 Estudiantes
-* 💼 Profesionistas independientes que cubren ellos mismos el costo de su pase (factura a nombre de persona física).
-* 🤝 Miembros de clústers. Si eres socio (AMITI, PROSOFTWARE, etc) acércate a ellos para conocer el código correspondiente.
-
-Si tienes un **grupo** o quieres organizarte y formar uno de por lo menos 5 personas, podrás aprovechar un 25% de descuento.
+<br>
 
 
-**Tuitea:**
 
-Si quieres aprender o actualizarte en:
-* 🧠 Estrategia y liderazgo
-* 🚨 Data for public policy
-* 📊 Hard core machine intelligence
-* ⚙️ Big Data engineering
-* 🌐 Data Science
+* Rayid fue pionero en usar datos demográficos de forma ética para campañas políticas. Algo como el anti-Cambridge Analytica. Básicamente, fue el arma secreta en la campaña de reelección de Obama.*
 
-¡Entonces debes estar en #DataDays 2022!
+* Fundó el primer laboratorio para política pública basada en evidencia en la Harris Policy de la Universidad de Chicago, donde desarrolló herramientas para que modelos de Machine Learning en el sector público fueran desarrollados sin sesgos.*
 
-Apúntate 👉 [aquí](/datadays/tickets)
+* Fundó el fellowship de verano "Data Science for Social Good" (@datascifellows)*,  para dar acceso a estas herramientas a policy makers de todo el mundo. +20 mexicanos que hoy están en el Instituo Nacional de Estadística y Geografía (INEGI), la Secretaría de Gobernación (SEGOB) y otras agencias públicas tuvieron su formación ahí.
+
+
+La ciencia de datos para políticas públicas es de especial interés para dependencias de gobierno (INEGI, IMSS, Secretaría del Bienestar, etcétera) y ONGs, pero lo es también para cualquiera que esté iniciando en ciencia de datos (ya que hay muchos datos públicos que se pueden utilizar) y para aquellos que quieren profundizar sus conocimientos en un campo donde las decisiones nos afectan a todos.
+
+Así que si quieres conocer cómo puedes usar estas herramientas en tus modelos, o hasta cómo comenzar a asistir decisiones de interés público con data science, no puedes faltar a Data Day el próximo 25 de abril, en el Hotel Bel Air Unique, WTC, Ciudad de México. Los boletos están disponibles en https://sg.com.mx/dataday/tickets
+
+
+Fuentes:
+
+* https://www.dawn.com/news/780327/obamas-secret-weapon-in-re-election-pakistani-scientist-rayid-ghani
+* https://github.com/dssg
+* https://dssgfellowship.org/people/
