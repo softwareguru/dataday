@@ -3,7 +3,7 @@ title: "Rayid Ghani, el primer fichaje estrella de Data Day para el tema de Data
 date: 2023-02-14T12:20:05-06:00
 image : "images/blog/card.png"
 draft: false
-url: blog/rayid-ghani-el-primer-fichaje-estrella-de-data-day-para-el-tema-de-data-for-public policy
+url: blog/rayid-ghani-el-primer-fichaje-estrella-de-data-day-para-el-tema-de-data-for-public-policy
 ---
 
 <center>
