@@ -12,6 +12,7 @@ linkedin: "https://www.linkedin.com/in/rene-rosado-gonzalez/"
 github: ""
 events:
  - 2022
+ - 2023mx
 ---
 
 Soy un científico de datos sociales en búsqueda de desarrollar una cultura de datos más democrática. Tengo más de 5 años de experiencia en la aplicación de aprendizaje automático interpretable para procesos de toma de decisiones, planificación estratégica y desarrollo de política pública.

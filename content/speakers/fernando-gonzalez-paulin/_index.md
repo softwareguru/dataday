@@ -1,8 +1,8 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "Fernando González Paulin"
+date: 2023-02-17T13:41:45-06:00
 images : 
- - "images/speakers/{{ .Name }}.jpg"
+ - "images/speakers/speaker.jpg"
 designation : ""
 country: ""
 facebook: ""

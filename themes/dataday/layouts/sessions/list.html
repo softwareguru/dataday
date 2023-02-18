@@ -6,7 +6,7 @@
     <p class="text-center">
         {{ .Content }}
     </p>
-    {{ $is_2022 := eq .RelPermalink "/dataday/sessions/2022mty/" }}
+    {{ $is_2022 := eq .RelPermalink "/dataday/sessions/2023/" }}
     <table data-toggle="table" data-sortable="true" data-search="true" data-search-align="left">
         <thead>
           <tr>
@@ -24,7 +24,7 @@
     <tr>
         <td><a class="session-title" href="{{.Permalink}}">{{ .Params.title }}</a></td>
         <td>{{ with .Params.speakers }}{{ delimit . ", " " & " }}{{ end }}</td>
-
+        {{ if not $is_2022 }}
         <td class="text-center">{{ with .Params.video }}<a
           href='{{ replace . "https://www.youtube.com/embed" "https://youtu.be" }}' target="_blank"><i
               class="fab fa-youtube" aria-hidden="true" title="Watch"></i></a>{{ end }}</td>
@@ -32,7 +32,7 @@
           href='{{ if hasPrefix . "http" }}{{ . }}{{ else }}{{$.Site.BaseURL}}slides/{{ . }}{{ end }}'
               target="_blank" download><i class="fa fa-download" aria-hidden="true"
                 title="Slides"></i></a>{{ end }}</td>
-
+                {{ end }}
     </tr>    
     {{ end }}
     </tbody>

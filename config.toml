@@ -37,6 +37,10 @@ home = ["HTML", "RSS"]
   URL = "about-us"
   weight = 1
 
+  #[[menu.main]]
+  #name = "Sesiones confirmadas"
+  #URL = "sessions/2023"
+  #weight = 2
 
   [[menu.main]]
   name = "Sesiones anteriores"
@@ -44,10 +48,15 @@ home = ["HTML", "RSS"]
   weight = 2
 
   [[menu.main]]
-  name = "Conferencistas Anteriores"
-  URL = "speakers/archive"
+  name = "Conferencistas"
+  URL = "speakers"
   weight = 3
 
+
+  #[[menu.main]]
+  #name = "Conferencistas Anteriores"
+  #URL = "speakers/archive"
+  #weight = 3
 
   [[menu.main]]
   name = "FAQ"
