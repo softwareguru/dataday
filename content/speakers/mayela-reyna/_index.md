@@ -3,7 +3,7 @@ title: "Mayela Reyna"
 date: 2023-02-17T12:16:31-06:00
 images : 
  - "images/speakers/mayela-reyna.jpg"
-designation : ""
+designation : "Customer success analyst at Statsbomb"
 country: ""
 facebook: ""
 instagram: ""

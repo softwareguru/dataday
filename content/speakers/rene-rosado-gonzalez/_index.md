@@ -3,7 +3,7 @@ title: "Rene Rosado Gonzalez"
 date: 2022-02-09T15:03:01-06:00
 images:
  - "images/speakers/rene-rosado-gonzalez.jpg"
-designation : "Director de Programa de la Licenciatura en Gobierno y Transformación Pública @ Tecnológico de Monterrey, Región Ciudad de México"
+designation : "Director de Programa de la Licenciatura en Gobierno y Transformación Pública at Tecnológico de Monterrey"
 country: ""
 facebook: ""
 instagram: ""

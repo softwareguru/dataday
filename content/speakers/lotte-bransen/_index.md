@@ -3,7 +3,7 @@ title: "Lotte Bransen"
 date: 2023-02-17T12:08:38-06:00
 images: 
  - images/speakers/lotte-bransen.jpeg
-designation : ""
+designation : "PhD student in Machine Learning at KU Leuven"
 country: ""
 facebook: ""
 instagram: ""

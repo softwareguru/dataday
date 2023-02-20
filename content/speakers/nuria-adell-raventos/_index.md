@@ -3,7 +3,7 @@ title: "Núria Adell Raventós"
 date: 2023-02-17T12:21:31-06:00
 images : 
  - "images/speakers/nuria-adell-raventos.png"
-designation : ""
+designation : "Graduate Student in Data Science and Public Policy at the University of Chicago"
 country: ""
 facebook: ""
 instagram: ""

@@ -3,7 +3,7 @@ title: "David Vallett"
 date: 2023-02-17T12:20:23-06:00
 images : 
  - "images/speakers/david-vallett.jpg"
-designation : ""
+designation : "Senior Manager of Sports Intelligence"
 country: ""
 facebook: ""
 instagram: ""

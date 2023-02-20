@@ -3,7 +3,7 @@ title: "Rayid Ghani"
 date: 2023-02-17T12:28:11-06:00
 images : 
  - "images/speakers/rayid-ghani.jpg"
-designation : ""
+designation : "Distinguished professor in Machine Learning Department at Carnegie Mellon University"
 country: ""
 facebook: ""
 instagram: ""
