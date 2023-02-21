@@ -3,7 +3,7 @@ title: "Jordan Gardner"
 date: 2023-02-17T12:14:52-06:00
 images : 
  - "images/speakers/jordan-gardner.jpg"
-designation : "Consultant, Twenty First Group"
+designation : "Consultant @ Twenty First Group"
 country: ""
 facebook: ""
 instagram: ""

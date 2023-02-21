@@ -3,12 +3,12 @@ title: "Jorge Arturo Hernandez Almazan"
 date: 2023-02-17T12:26:42-06:00
 images : 
  - "images/speakers/jorge-arturo-hernandez-almazan.png"
-designation : "Investigador en la Universidad Politécnica de Victoria. Miembro del Sistema Nacional de Investigadores."
+designation : "Investigador @ Universidad Politécnica de Victoria"
 country: ""
 facebook: ""
 instagram: ""
 twitter: ""
-linkedin: "www.linkedin.com/in/jorge-arturo-hernandez-almazan"
+linkedin: "https://www.linkedin.com/in/jorge-arturo-hernandez-almazan"
 github: ""
 events: 
  - 2023mx

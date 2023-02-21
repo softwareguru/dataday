@@ -3,7 +3,7 @@ title: "Juana Martínez"
 images:
  - images/speakers/juana_martinez.jpg
 date: 2019-09-26
-designation: "Ingeniera de datos en Ensitech / CoDirectora Health Data Science Program"
+designation: "Ingeniera de datos @ Ensitech | CoDirectora @ Health Data Science Program"
 #twitter: "@juanydeloslagos"
 linkedin: "https://www.linkedin.com/in/juanamtz/"
 events:

@@ -3,7 +3,7 @@ title: "Rodrigo Picchioni"
 date: 2023-02-17T11:59:28-06:00
 images: 
  - "images/speakers/rodrigo-picchioni.jpg"
-designation : "Head of Football Analytics"
+designation : "Head of Football Analytics @ Atletico Mineiro"
 country: ""
 facebook: ""
 instagram: ""

@@ -1,9 +1,9 @@
 ---
-title: "Andres Tello"
+title: "Andrés Tello"
 date: 2023-02-17T13:42:32-06:00
 images : 
  - "images/speakers/andres-tello.jpg"
-designation : "Sr. Partner at Grupo Aullox"
+designation : "Sr. Partner @ Grupo Aullox"
 country: ""
 facebook: ""
 instagram: ""

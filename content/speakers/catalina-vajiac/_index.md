@@ -3,12 +3,12 @@ title: "Catalina Vajiac"
 date: 2023-02-20T23:59:35-06:00
 images : 
  - "images/speakers/catalina-vajiac.jpg"
-designation : "PhD Student at Carnegie Mellon University"
+designation : "PhD Student @ Carnegie Mellon University"
 country: ""
 facebook: ""
 instagram: ""
 twitter: "https://twitter.com/catvajiac"
-linkedin: ""
+linkedin: "https://www.linkedin.com/in/catvajiac/"
 github: ""
 events: 
  - 2023mx

@@ -3,7 +3,7 @@ title: "Hector Cuesta"
 date: 2023-02-17T12:38:33-06:00
 images : 
  - "images/speakers/hector-cuesta.jpeg"
-designation : "Principal Solutions Architect at PALO IT"
+designation : "Principal Solutions Architect @ PALO IT"
 country: ""
 facebook: ""
 instagram: ""

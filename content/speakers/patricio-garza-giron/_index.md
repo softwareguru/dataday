@@ -3,7 +3,7 @@ title: "Patricio Garza Girón"
 date: 2023-02-17T12:25:14-06:00
 images : 
  - "images/speakers/patricio-garza-giron.jpeg"
-designation : "Gerente de Proyectos en Fundación Konrad Adenauer (KAS) México"
+designation : "Gerente de Proyectos @ Fundación Konrad Adenauer (KAS) México"
 country: ""
 facebook: ""
 instagram: ""

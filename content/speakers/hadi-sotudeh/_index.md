@@ -3,7 +3,7 @@ title: "Hadi Sotudeh"
 date: 2023-02-17T12:03:46-06:00
 images : 
  - "images/speakers/hadi-sotudeh.png"
-designation : "Soccer Analytics Doctoral Student at ETH Zurich (Switzerland)"
+designation : "PhD Student @ ETH Zurich"
 country: ""
 facebook: ""
 instagram: ""

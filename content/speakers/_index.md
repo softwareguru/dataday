@@ -4,4 +4,4 @@ date: 2021-01-06T14:03:13-06:00
 draft: false
 ---
 
-Data Day te brinda conferencistas expertos en la gestión y análisis de datos a gran escala, interesados en compartir experiencias y conocimiento con colegas. 
+Data Day reúne a expertos nacionales e internacionales que operan en la vanguardia de la ciencia de datos en distintos campos. Conoce a nuestros conferencistas confirmados hasta el momento. 

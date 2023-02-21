@@ -3,7 +3,7 @@ title: "Carl W Handlin Espino"
 date: 2023-02-17T13:39:23-06:00
 images : 
  - "images/speakers/carl-w-handlin-espino.jpg"
-designation : "Co-Founder at Trully"
+designation : "Co-Founder & CTO @ Trully"
 country: ""
 facebook: ""
 instagram: ""
