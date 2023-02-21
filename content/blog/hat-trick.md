@@ -1,8 +1,7 @@
 ---
 title: "El “hat-trick” que logramos para el track de sports analytics en Data Day México 2023"
 date: 2023-02-21T13:26:07-06:00
-images: 
- - "images/blog/card.png" 
+image: "images/blog/card.png" 
 draft: false
 url: blog/el-hat-trick-que-logramos-para-el-track-de-sports-analytics-en-data-day-mexico-2023
 ---
