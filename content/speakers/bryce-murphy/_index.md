@@ -3,7 +3,7 @@ title: "Bryce Murphy"
 date: 2023-02-17T11:49:34-06:00
 images : 
  - "images/speakers/bryce-murphy.jpg"
-designation : ""
+designation : Head of Data Management and Analytics @ IMG Academy
 country: ""
 facebook: ""
 instagram: ""

@@ -1,7 +1,6 @@
 ---
-id: building-your-data-department
 title: Building Your Data Department
-url: sessions/2023mx/building-your-data-department
+slug: building-your-data-department
 speakers:
  - Bryce Murphy
  - Rodrigo Picchioni

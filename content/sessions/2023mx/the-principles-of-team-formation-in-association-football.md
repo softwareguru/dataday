@@ -1,7 +1,6 @@
 ---
-id: the-principles-of-team-formation-in-association-football
 title: The Principles of Team Formation in Association Football (Soccer)
-url: sessions/2023mx/the-principles-of-team-formation-in-association-football-soccer
+slug: the-principles-of-team-formation-in-association-football-soccer
 speakers:
  - Hadi Sotudeh
 time_start: 2023-04-25T09:40:00-06:00

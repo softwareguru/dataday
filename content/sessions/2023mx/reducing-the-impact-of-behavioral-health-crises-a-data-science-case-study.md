@@ -1,7 +1,6 @@
 ---
-id: reducing-the-impact-of-behavioral-health-crises-a-data-science-case-study
 title: "Reducing the Impact of Behavioral Health Crises: a Data Science Case Study"
-url: sessions/2023mx/reducing-the-impact-of-behavioral-health-crises-a-data-science-case-study
+slug: reducing-the-impact-of-behavioral-health-crises-a-data-science-case-study
 speakers:
  - Núria Adell Raventós
 time_start: 2023-04-25T09:40:00-06:00

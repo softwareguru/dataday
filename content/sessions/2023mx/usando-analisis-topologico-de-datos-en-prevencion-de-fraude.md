@@ -1,7 +1,6 @@
 ---
-id: usando-analisis-topologico-de-datos-en-prevencion-de-fraude
 title: "Usando Análisis Topológico De Datos en Prevención De Fraude"
-url: sessions/2023mx/usando-analisis-topologico-de-datos-en-prevencion-de-fraude
+slug: sessions/2023mx/usando-analisis-topologico-de-datos-en-prevencion-de-fraude
 speakers:
  - Christian Ramirez
 time_start: 2023-04-25T09:40:00-06:00

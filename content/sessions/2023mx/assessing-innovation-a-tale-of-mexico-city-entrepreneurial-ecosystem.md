@@ -1,7 +1,6 @@
 ---
-id: assessing-innovation-a-tale-of-mexico-city-entrepreneurial-ecosystem
 title: "Assessing Innovation: A tale of Mexico City Entrepreneurial Ecosystem"
-url: sessions/2023mx/assessing-innovation-a-tale-of-mexico-city-entrepreneurial-ecosystem
+slug: assessing-innovation-mexico-city-entrepreneurial-ecosystem
 speakers:
  - René Rosado González
 time_start: 2023-04-25T09:40:00-06:00

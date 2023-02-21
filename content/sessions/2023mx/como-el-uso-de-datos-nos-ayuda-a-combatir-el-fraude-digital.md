@@ -1,7 +1,6 @@
 ---
-id: como-el-uso-de-datos-nos-ayuda-a-combatir-el-fraude-digital
 title: "Cómo El Uso De Datos Nos Ayuda a Combatir El Fraude Digital"
-url: sessions/2023mx/como-el-uso-de-datos-nos-ayuda-a-combatir-el-fraude-digital
+slug: como-el-uso-de-datos-nos-ayuda-a-combatir-el-fraude-digital
 speakers:
  - Carl W Handlin Espino
  - Fernando González Paulin

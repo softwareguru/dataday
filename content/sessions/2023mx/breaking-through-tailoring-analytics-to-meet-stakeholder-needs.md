@@ -1,7 +1,6 @@
 ---
-id: breaking-through-tailoring-analytics-to-meet-stakeholder-needs
 title: "Breaking Through: Tailoring Analytics to Meet Stakeholder Needs"
-url: sessions/2023mx/breaking-through-tailoring-analytics-to-meet-stakeholder-needs
+slug: breaking-through-tailoring-analytics-to-meet-stakeholder-needs
 speakers:
  - David Vallett
 time_start: 2023-04-25T09:40:00-06:00

@@ -1,7 +1,6 @@
 ---
-id: analisis-de-riesgo-en-finanzas-descentralizadas-defi
 title: "Análisis De Riesgo en Finanzas Descentralizadas (DeFi)"
-url: sessions/2023mx/analisis-de-riesgo-en-finanzas-descentralizadas-defi
+slug: analisis-de-riesgo-en-finanzas-descentralizadas-defi
 speakers:
  - Hector Cuesta
 time_start: 2023-04-25T09:40:00-06:00
