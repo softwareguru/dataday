@@ -4,6 +4,7 @@ date: 2023-02-21T13:26:07-06:00
 images: 
  - "images/blog/card.png" 
 draft: false
+url: blog/el-hat-trick-que-logramos-para-el-track-de-sports-analytics-en-data-day-mexico-2023
 ---
 
 Como se había anticipado, Data Day trae por primera vez a México la analítica deportiva, donde aprenderemos cómo los datos están transformando la industria del deporte, desde cómo usar esta datos para el reclutamiento de jugadores hasta inversiones o ventas en los clubes.
