@@ -3,7 +3,7 @@ title: "Rodrigo Picchioni"
 date: 2023-02-17T11:59:28-06:00
 images: 
  - "images/speakers/rodrigo-picchioni.jpg"
-designation : ""
+designation : "Head of Football Analytics"
 country: ""
 facebook: ""
 instagram: ""
@@ -14,4 +14,4 @@ events:
  - 2023mx
 ---
 
-Bryce is currently utilizing his skills at IMG Academy. He was formerly the Applied Sports Scientist at the Orlando Magic (NBA) and a Data Analyst with the USOPC prior to that. His embedded roles within sport have helped him optimize data dissemination.
+Rodrigo Picchioni is currently Head of Football Analytics at Atletico Mineiro (Brazil), where participated in the campaing of winning the double (League and Cup) in 2021. Prior to that worked at Red Bull Bragantino as Assistant Director of Football and Vaasan Pallouseura (Finland) as Set Piece Coach and Oppositioin Analyst. 

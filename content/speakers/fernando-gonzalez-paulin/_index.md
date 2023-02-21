@@ -2,13 +2,13 @@
 title: "Fernando González Paulin"
 date: 2023-02-17T13:41:45-06:00
 images : 
- - "images/speakers/speaker.jpg"
-designation : ""
+ - "images/speakers/fernando-gonzalez.jfif"
+designation : "Co-Founder & CEO"
 country: ""
 facebook: ""
 instagram: ""
 twitter: ""
-linkedin: ""
+linkedin: "https://www.linkedin.com/in/gpaulinf/?originalSubdomain=mx"
 github: ""
 events: 
  - 2023mx
