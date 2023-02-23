@@ -9,7 +9,7 @@ url: blog/las-mujeres-que-lideran-la-analitica-deportiva
 Nos llena de orgullo tener en Data Day México a grandes mujeres. El girl power se hace presente y qué mejor que engalanando el nuevo track del evento: sports analytics.
 
 Este “tridente” será una de nuestras puntas de lanza para lograr esa intersección entre deportes y data, en el primer evento de ciencia de datos en traerla a México.
-
+<br><br><br>
 <img src="/dataday/images/blog/speakers/mayela-reyna.png" class="img-fluid mx-auto d-block" >
 <br>
 
@@ -20,7 +20,7 @@ Este “tridente” será una de nuestras puntas de lanza para lograr esa inters
 Originaria de CDMX, analista de Customer Success en StatsBomb, la empresa líder en proporcionar datos deportivos dedicados a facilitar la toma de decisiones. Trabajó con City Football Group de Southampton en UK en un proyecto de investigación para su tesis de maestría.
 
 Y precisamente, Mayela nos compartirá en Data Day México un survey de los problemas observados desde los datos recabados por StatsBomb en los clubes de LATAM, como el reclutamiento, análisis de partidos y análisis de equipos, y cómo con esos mismos datos llevados a la toma de decisión a través de análisis, podemos comenzar a mitigarlos. ¡Analítica deportiva pura!
-
+<br><br><br>
 <img src="/dataday/images/blog/speakers/lotte-bransen.png" class="img-fluid mx-auto d-block" >
 <br>
 
@@ -31,7 +31,7 @@ Y precisamente, Mayela nos compartirá en Data Day México un survey de los prob
 Especialista en la analítica deportiva en el fútbol soccer femenil en SciSports y doctora en Machine Learning por la KU Leuven. Su trabajo académico gira en torno al desarrollo de métodos que capturan mejor los factores que afectan el rendimiento de las jugadoras de fútbol, mientras que su experiencia técnica se encuentra en las áreas de aprendizaje automático y en la traducción de desafíos del mundo real en problemas de investigación.
 
 Y justo porque el fútbol femenino está en auge (lo que ha traído una mayor disponibilidad de datos recopilados de partidos de mujeres profesionales), Data Day México trae a Lotte a México para compartir más sobre las aristas  técnica, táctica y mental en las que los datos pueden proporcionar información que puede ayudar en la creación de equipos y la toma de decisiones en el juego femenil.
-
+<br><br><br>
 <img src="/dataday/images/blog/speakers/juana-martinez.png" class="img-fluid mx-auto d-block">
 <br>
 
