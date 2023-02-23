@@ -17,7 +17,7 @@ Presentamos a los speakers clave que formarán parte del track de Fintech en Dat
 
 <br>
 
-<img src="/dataday/images/blog/speakers/leon-palafox.png" class="img-fluid mx-auto d-block" >
+<img src="/dataday/images/blog/speakers/hector-cuesta.png" class="img-fluid mx-auto d-block" >
 <br>
 
 <h3 class="text-center">Héctor Cuesta</h3>
@@ -30,7 +30,7 @@ Reconocido Data Scientist y Product Manager entre la comunidad datera. Actualmen
 En Data Day México 2023 hablará de finanzas descentralizadas (DeFi), las cuales se han popularizado con el boom del crypto, pero existe una preocupación creciente por la evaluación adecuada de los riesgos, principalmente en originación de créditos. Héctor nos compartirá las mejores prácticas y técnicas de análisis de datos para la evaluación de riesgos en DeFi.
 
 <br>
-<img src="/dataday/images/blog/speakers/hector-cuesta.png" class="img-fluid mx-auto d-block" >
+<img src="/dataday/images/blog/speakers/leon-palafox.png" class="img-fluid mx-auto d-block" >
 <br>
 
 <h3 class="text-center">León Palafox</h3>
