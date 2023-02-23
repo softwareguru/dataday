@@ -10,12 +10,11 @@ Como se había anticipado, Data Day trae por primera vez a México la analítica
 
 Para esto, Data Day ha fichado a tres ponentes clave, quienes compartirán toda su experiencia en el campo de sports analytics.
 
-<center>
-<img src="/dataday/images/gustavo-jimenez-cerda.webp" class="img-fluid" alt="Gustavo Jiménez Cerda">
+
+<img src="/dataday/images/blog/speakers/gustavo-jimenez-cerda.webp" class="img-fluid mx-auto d-block" alt="Gustavo Jiménez Cerda">
 <br>
 
-### Gustavo Jiménez Cerda
-</center>
+<h3 class="text-center">Gustavo Jiménez Cerda</h3>
 
 
 <br>
@@ -27,12 +26,15 @@ Es el CFO de Grupo Omnilife-Chivas, uno de los conglomerados empresariales más 
 
 Gustavo nos llevará de la mano en cómo de la mano de la tecnología y las ciencias se puede cerrar la brecha entre las decisiones tomadas con la intuición y la pasión del deporte, y el rigor estadístico de la ciencia de datos, y cómo en Chivas FC están construyendo este puente.
 
-<center>
-<img src="/dataday/images/jordan-gardner.jpg" class="img-fluid" alt="Jordan Gardner">
+
+<img src="/dataday/images/blog/speakers/jordan-gardner.jpg" class="img-fluid mx-auto d-block" alt="Jordan Gardner">
 <br>
 
-### Jordan Gardner
-</center>
+
+<h3 class="text-center">Jordan Gardner</h3>
+
+
+
 <br><br>
 
 Es un ejecutivo deportivo estadounidense y mejor finalista ejecutivo en el World Football Summit con una amplia experiencia en el fútbol europeo. El trabajo de Jordan incluye experiencia en la obtención de capital para invertir, la evaluación de oportunidades de inversión, la inversión exitosa en varios clubes, la transformación de las operaciones deportivas de un club, la obtención de promociones y, en última instancia, la venta de un club a nuevos compradores. En su experiencia cuenta con la transformación con datos del Helsingør FC de Dinamarca, y del Swansea FC del Reino Unido.
@@ -42,13 +44,14 @@ Es un ejecutivo deportivo estadounidense y mejor finalista ejecutivo en el World
 
 Los análisis de datos y deportes han transformado el fútbol mundial en los últimos años. El enfoque generalmente tiende hacia el reclutamiento y la identificación de talentos, pero la capacidad de usar datos para tomar decisiones más sofisticadas se extiende a todo, desde el rendimiento de los jugadores hasta el crecimiento comercial. Jordan mostrará en Data Day cómo los inversores utilizan los datos para tomar decisiones mejores y más eficientes al asignar recursos financieros al deporte del fútbol.
 
-<center>
-<img src="/dataday/images/rodrigo-piccioni.png" class="img-fluid" alt="Rodrigo Picchioni">
+
+<img src="/dataday/images/blog/speakers/rodrigo-piccioni.png" class="img-fluid mx-auto d-block" alt="Rodrigo Picchioni">
 
 <br>
 
-### Rodrigo Picchioni
-</center>
+<h3 class="text-center">Rodrigo Picchioni</h3>
+
+
 <br><br>
 
 Actualmente es el líder del departamento de analytics en el Atlético Mineiro el cual actualmente es esencial para las áreas encargadas de tomar decisiones tanto en la contratación de jugadores como en el análisis de rivales. En su experiencia cuenta con colaboraciones con el Red Bull Bragantino y el Esporte Clube Bahia, ambos de Brasil, y la selección nacional de Portugal.
