@@ -43,15 +43,15 @@
 	align-items: center;
 
     .sponsor-item {
-	    width: 26%;
-    	padding: 0 .8em;
+	    width: 40%;
+    	padding: 0 0.8em;
 
  	    @include tablet {
-		    width: 32%;
+		    width: 72%;
     	}
 
 	    @include mobile {
-		    width: 49%;
+		    width: 90%;
     	}
     }
 }

@@ -4,47 +4,20 @@ subtitle: "DataDay(s) es posible gracias al apoyo de"
 
 sponsor_group:
 
-- title: "platinum"
+- title: ""
   sponsor:
-    - logo : "images/sponsors/neo4j-color.png"
-      link : "https://neo4j.com"
-    - logo : "images/sponsors/microsoft.png"
-      link : "https://www.microsoft.com/es-mx"
-    - logo : "images/sponsors/Twilio.png"
-      link : "https://www.twilio.com/es-mx/"
-    - logo : "images/sponsors/DataStax.gif"
-      link : "https://www.datastax.com/"
-    - logo : "images/sponsors/vinkos.png"
-      link : "https://vinkos.com/"
-    - logo : "images/sponsors/snowflake-logo.png"
-      link : "https://www.snowflake.com/?lang=es"
-    - logo : "images/sponsors/cloudera_logo.png"
-      link : "https://www.cloudera.com/"
+
 
 - title: "gold"
   sponsor:
     - logo : "images/sponsors/Softtek-reducido.png"
-      link : "https://www.softtek.com/es"
-    - logo : "images/sponsors/EGob.png"
-      link : "https://egobiernoytp.mx/"
-    - logo : "images/sponsors/ensitech.png"
-      link : "https://ensitech.com/"
+      link : "http://softtek.com/jobs"
 
-- title: "silver"
-  sponsor:
-    - logo : "images/sponsors/ultrasist.png"
-      link : "https://www.ultrasist.mx/ultrasite/"
 
-- title : "community"
+- title: ""
   sponsor:
 
-    - logo : "images/sponsors/datapub.png"
-      link : "https://twitter.com/thedatapub"
-    - logo : "images/sponsors/dsmty.png"
-      link : "https://www.facebook.com/groups/469523539899326"
-    - logo : "images/sponsors/Manning.png"
-      link : "https://www.manning.com/"
-    - logo : "images/sponsors/platzi.jpg"
-      link : "https://platzi.com/escuela/escuela-datos"
-    - logo : "images/sponsors/del.png"
-      link : "https://beacons.ai/dataengineeringlatam"
+
+- title : ""
+  sponsor:
+
