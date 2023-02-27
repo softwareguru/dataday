@@ -1,14 +1,19 @@
 ---
+id: 26-understanding-womens-soccer-using-machine-learning-techniques
 title: Understanding Women's Soccer using Machine Learning techniques
 slug: understanding-women's-soccer-using-machine-learning-techniques
 speakers:
  - Lotte Bransen
-time_start: 2023-04-25T09:40:00-06:00
-time_end:   2023-04-25T10:20:00-06:00
-block: e-2022
-slot: e
-format: d
+time_start: 2023-04-25T16:30:00-06:00
+time_end:   2023-04-25T17:05:00-06:00
+day: mx-23
+timeslot: 7
+timeorder: 1
+room: Sala 2 (México 3-5)
 language: 
+live_url: 
+slides: 
+video: 
 track: sports-analytics
 tags:
 ---

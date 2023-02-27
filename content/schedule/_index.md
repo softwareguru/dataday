@@ -1,45 +1,66 @@
 ---
 title: "Agenda"
-date: 2021-06-04T09:37:06-05:00
-url: /agenda
-aliases: sessions/2022mty/
+date: 2023-02-04T09:37:06-05:00
+url: /agenda-previa-dataday
+layout: list-onsite
 
 days: 
-  - id: a
-    title_short: Jueves
-    title_full: "En vivo: Jueves 8 de diciembre"
-    rooms: [ "Crowdcast", "Zoom"]
+  - id: mx-23
+    title_short: Martes
+    title_full: Martes 25 Abril, 2023
+    rooms: ["Sala 1 (México 1-2)", "Sala 2 (México 3-5)", "Crowne"]
     timeslots: 
       - id: 1
-        time_start: 2022-12-08 8:45:00 -0600 CST
+        time_start: 2023-04-25 8:00:00 -0600 CDT
         type: keynote
+      - id: 2
+        time_start: 2023-04-25 11:10:00 -0600 CDT
+        type: break
+        name: Break
+      - id: 3
+        time_start: 2022-07-18 11:35:00 -0600 CDT
+        type: concurrent
+      - id: 3-1
+        time_start: 2022-07-18 12:55:00 -0600 CDT
+        type: concurrent
+      - id: 3-2
+        time_start: 2022-07-18 13:35:00 -0600 CDT
+        type: concurrent
+      - id: 4
+        time_start: 2022-07-18 14:10:00 -0600 CDT
+        type: break
+        name: Lunch Break
+      - id: 5
+        time_start: 2022-07-18 15:00:00 -0600 CDT
+        type: concurrent
+      - id: 6
+        time_start: 2022-07-18 16:15:00 -0600 CDT
+        type: break
+        name: Break
+      - id: 7
+        time_start: 2022-07-18 16:30:00 -0600 CDT
+        type: concurrent
+      - id: 7-1
+        time_start: 2022-07-18 17:10:00 -0600 CDT
+        type: concurrent
+      - id: 7-2
+        time_start: 2022-07-18 17:50:00 -0600 CDT
+        type: concurrent
+      - id: 8
+        time_start: 2022-07-18 17:45:00 -0600 CDT
+        type: break
+        name: Closing Message & Cocktail
 
-  - id: b
-    title_short: Viernes
-    title_full: "En vivo: Viernes 9 de diciembre"
-    rooms: [ "Crowdcast", "Zoom"]
-    timeslots: 
-      - id: 1
-        time_start: 2022-12-09 9:00:00 -0600 CST
-        type: keynote
 
-  - id: c
-    title_short: Jueves online
-    title_full: "Pregrabadas: (a partir del Jueves 8 de diciembre)"
-    rooms: [ "Crowdcast"]
-    timeslots: 
-      - id: 1
-        time_start: 2022-12-08 9:30:00 -0600 CST
-        type: keynote
 
 
 tracks:
-  - slug: case-study
-    label: Estrategia
-  - slug: mlops
-    label: Data engineering & MLOps 
-  - slug: data4good
-    label: Data 4 good  
+  - slug: sports-analytics
+    label: Sports analytics
+  - slug: public-policy
+    label: Public policy 
+  - slug: fintech
+    label: Fintech 
   - slug: workshop
     label: Taller
 

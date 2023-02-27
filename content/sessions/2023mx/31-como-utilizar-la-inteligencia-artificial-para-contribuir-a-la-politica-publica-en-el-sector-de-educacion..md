@@ -1,16 +1,22 @@
 ---
+id: 31-como-utilizar-la-inteligencia-artificial-para-contribuir-a-la-politica-publica-en-el-sector-de-educacion.
 title: "Cómo Utilizar La Inteligencia Artificial Para Contribuir a La Política Pública en El Sector De Educación"
 slug: utilizar-ia-para-contribuir-politica-publica-educacion
 speakers:
  - Jorge Arturo Hernandez Almazan
-time_start: 2023-04-25T09:40:00-06:00
-time_end:   2023-04-25T10:20:00-06:00
-block: e-2022
-slot: o
-format: m
+time_start: 2023-04-25T17:10:00-06:00
+time_end:   2023-04-25T18:25:00-06:00
+day: mx-23
+timeslot: 7-2
+timeorder: 1
+room: Crowne
 language: 
-track: sports-analytics
+live_url: 
 tags:
+slides: 
+video: 
+track: sports-analytics
+
 ---
 
 

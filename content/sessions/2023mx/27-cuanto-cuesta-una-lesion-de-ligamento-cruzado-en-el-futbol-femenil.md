@@ -1,14 +1,19 @@
 ---
+id: 27-cuanto-cuesta-una-lesion-de-ligamento-cruzado-en-el-futbol-femenil
 title: "¿Cuánto Cuesta Una Lesión De Ligamento Cruzado en El Futbol Femenil"
 slug: cuanto-cuesta-una-lesion-de-ligamento-cruzado-en-el-futbol-femenil
 speakers:
  - Juana Martínez
-time_start: 2023-04-25T09:40:00-06:00
-time_end:   2023-04-25T10:20:00-06:00
-block: e-2022
-slot: u
-format: a
+time_start: 2023-04-25T17:10:00-06:00
+time_end:   2023-04-25T17:45:00-06:00
+day: mx-23
+timeslot: 7-1
+timeorder: 1
+room: Sala 2 (México 3-5)
 language: 
+live_url: 
+slides: 
+video: 
 track: sports-analytics
 tags:
 ---

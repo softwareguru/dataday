@@ -1,16 +1,22 @@
 ---
+id: 24-usando-analisis-topologico-de-datos-en-prevencion-de-fraude
 title: "Usando Análisis Topológico De Datos en Prevención De Fraude"
 slug: sessions/2023mx/usando-analisis-topologico-de-datos-en-prevencion-de-fraude
 speakers:
  - Christian Ramirez
-time_start: 2023-04-25T09:40:00-06:00
-time_end:   2023-04-25T10:20:00-06:00
-block: e-2022
-slot: s
-format: a
+time_start: 2023-04-25T17:10:00-06:00
+time_end:   2023-04-25T17:45:00-06:00
+day: mx-23
+timeslot: 7-1
+timeorder: 1
+room: Sala 1 (México 1-2)
 language: 
-track: fintech
+live_url: 
 tags:
+slides: 
+video: 
+track: fintech
+
 ---
 
 El análisis topológico de datos (TDA) es un enfoque matemático emergente para el análisis de datos que se basa en la topología. La topología es una rama de las matemáticas que se centra en el estudio de la forma y la estructura de objetos matemáticos, sin prestar atención a las medidas de longitud, área o volumen. En el contexto del análisis de datos, el TDA utiliza técnicas topológicas para detectar patrones y relaciones en los datos, lo que permite analizar conjuntos de datos que tienen formas complejas o que se encuentran en espacios de alta dimensionalidad.

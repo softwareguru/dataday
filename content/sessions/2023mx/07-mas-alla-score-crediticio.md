@@ -1,11 +1,21 @@
 ---
+id: 07-mas-alla-score-crediticio
 title: ¿Es el score crediticio la única propuesta de valor que tiene la ciencia de datos?
 slug: mas-alla-score-crediticio
 speakers:
  - León Palafox
-time_start: 2023-04-25T09:40:00-06:00
-time_end:   2023-04-25T10:20:00-06:00
+time_start: 2023-04-25T11:35:00-06:00
+time_end:   2023-04-25T12:10:00-06:00 
 tags:
+day: mx-23
+timeslot: 3
+timeorder: 1
+room: Sala 1 (México 1-2)
+language: 
+track: fintech
+live_url: 
+slides: 
+video: 
 ---
 
 En esta charla exploraremos el diverso rango de aplicaciones donde la ciencia de datos puede agregar valor en el sector Fintech más allá del score crediticio. 
