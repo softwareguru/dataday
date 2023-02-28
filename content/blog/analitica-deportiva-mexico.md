@@ -1,7 +1,7 @@
 ---
 title: "Data Day México traerá la analítica deportiva a México. Ya hay fecha."
 date: 2023-02-23T11:22:25-06:00
-image: "images/blog/card.png" 
+image: "images/blog/sports_data_analytics.jpg"
 draft: false
 url: blog/data-day-mexico-traera-la-analitica-deportiva-a-mexico
 ---
@@ -41,4 +41,4 @@ Con 5 unicornios fintech en México al día de hoy, Data Day se vuelve el lugar 
 
 Si tu rol es data scientist, data engineer o líder de datos, Data Day es el evento donde podrás informarte y actualizarte con contenido de vanguardia desde un punto de vista objetivo y neutral.
 
-Se llevará a cabo el próximo **25 de abril, en el Hotel Bel Air Unique, WTC, Ciudad de México.** El registro ya está abierto en la página web del evento.
+Se llevará a cabo el próximo **25 de abril, en el Hotel Bel Air Unique, WTC, Ciudad de México.** [Ya puedes adquirir tu boleto desde la página web del evento.](https://sg.com.mx/dataday/tickets)

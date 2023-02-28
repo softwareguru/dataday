@@ -1,7 +1,7 @@
 ---
 title: "Cómo aprovechar todo el potencial de la ciencia de datos en las Fintech: lecciones aprendidas y casos de éxito"
 date: 2023-02-23T10:35:41-06:00
-image: "images/blog/card.png" 
+image: "images/blog/mx2023/speakers-fintech.png"
 draft: false
 url: blog/como-aprovechar-todo-el-potencial-de-la-ciencia-de-datos-en-las-fintech
 ---
