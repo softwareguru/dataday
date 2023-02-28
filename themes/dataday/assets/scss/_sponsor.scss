@@ -77,22 +77,22 @@
     }
 }
 
-.sponsor-strip.community {
+.sponsor-strip.community { 
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
 	align-items: center;
 
     .sponsor-item {
-	    width: 18%;
-    	padding: 0 .2em;
+	    width: 28%;
+    	padding: 0 1.4em;
 
  	    @include tablet {
-		    width: 20%;
+		    width: 65%;
     	}
 
 	    @include mobile {
-		    width: 25%;
+		    width: 65%;
     	}
     }
 }

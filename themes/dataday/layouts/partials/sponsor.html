@@ -8,8 +8,8 @@
       <p>{{ .subtitle }}</p>
     </div>
     {{ range .sponsor_group }}
-    <div class="text-center">{{ humanize .title }}</div>
-    <div class="sponsor-strip {{ .title }} mb-4 py-2">
+    <div class="text-center"><h3>{{ humanize .title }}</h3></div>
+    <div class="sponsor-strip {{ .slug }} mb-4 py-2">
       {{ range .sponsor }}
       <div class="sponsor-item">
         {{ if and (ne .link "") (ne .link "#") }}
