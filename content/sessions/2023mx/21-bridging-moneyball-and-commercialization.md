@@ -1,6 +1,6 @@
 ---
 id: 21-bridging-moneyball-and-commercialization
-title: "21 Bridging Moneyball and Commercialization"
+title: "Bridging Moneyball and Commercialization"
 slug: 21-bridging-moneyball-and-commercialization
 speakers:
  - Marino

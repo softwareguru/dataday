@@ -52,8 +52,6 @@ days:
         name: Closing Message & Cocktail
 
 
-
-
 tracks:
   - slug: sports-analytics
     label: Sports analytics
@@ -62,7 +60,7 @@ tracks:
   - slug: fintech
     label: Fintech 
   - slug: workshop
-    label: Taller
+    label: Talleres
 
 ---
 
