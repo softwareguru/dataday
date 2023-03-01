@@ -1,7 +1,7 @@
 ---
 id: 06-sponsored-keynote-3
-title: "Sponsored Keynote 3"
-slug: sponsored-keynote-3
+title: "Sesión por confirmar"
+slug: sesion-por-confirmar-k-3
 speakers:
 time_start: 2023-04-25T10:40:00-06:00
 time_end:   2023-04-25T11:35:00-06:00

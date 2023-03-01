@@ -1,7 +1,7 @@
 ---
 title: "Agenda"
 date: 2023-02-04T09:37:06-05:00
-url: /agenda-previa-dataday
+url: /agenda
 layout: list-onsite
 
 days: 
