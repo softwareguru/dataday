@@ -3,7 +3,7 @@ title: "Participa como conferencista en Data Day Monterrey 2022"
 date: 2022-09-02T12:00:00-06:00
 image : "images/blog/2022mty-cfp.webp"
 
-draft: false
+draft: true
 ---
 
 Convocamos a profesionistas y organizaciones locales a que compartan sus experiencias y aprendizajes al implementar iniciativas de ciencia de datos e inteligencia artificial en Data Day, el congreso líder para inspirar, informar y vincular a los profesionistas de datos en México.

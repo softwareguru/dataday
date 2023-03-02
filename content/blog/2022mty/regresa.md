@@ -3,7 +3,7 @@ title: "Data Day regresa a Monterrey en diciembre 2022!"
 date: 2022-09-01T18:00:00-06:00
 image : "images/blog/monterrey-header.jpg"
 
-draft: false
+draft: true
 ---
 
 

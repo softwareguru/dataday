@@ -9,13 +9,17 @@ sponsor_group:
 
 
 - title: "gold"
+  slug: gold
   sponsor:
     - logo : "images/sponsors/Softtek-reducido.png"
       link : "http://softtek.com/jobs"
 
 
-- title: ""
-  sponsor:
+- title: "Organismo de apoyo"
+  slug: community
+  sponsor: 
+    - logo : "images/sponsors/prosoftware.png"
+      link : "https://www.prosoftware.store/"
 
 
 - title : ""

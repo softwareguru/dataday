@@ -1,7 +1,7 @@
 ---
 title: "¿Quién dijo que las mujeres no saben de deportes? Las mujeres que lideran la analítica deportiva"
 date: 2023-02-23T11:22:25-06:00
-image: "images/blog/card.png" 
+image: "images/blog/mx2023/data-analytics-female-soccer.png"
 draft: false
 url: blog/las-mujeres-que-lideran-la-analitica-deportiva
 ---
