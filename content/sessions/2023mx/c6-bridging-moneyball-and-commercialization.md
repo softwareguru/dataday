@@ -1,6 +1,6 @@
 ---
 id: c6
-title: "Bridging Moneyball and Commercialization"
+title: "Integrando Moneyball y Comercialización"
 slug: 21-bridging-moneyball-and-commercialization
 speakers:
  - Marino Arnaiz
