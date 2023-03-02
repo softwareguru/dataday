@@ -37,15 +37,15 @@ home = ["HTML", "RSS"]
   URL = "about-us"
   weight = 1
 
-  #[[menu.main]]
-  #name = "Sesiones confirmadas"
-  #URL = "sessions/2023"
-  #weight = 2
-
   [[menu.main]]
-  name = "Sesiones anteriores"
-  URL = "sessions"
+  name = "Agenda"
+  URL = "agenda"
   weight = 2
+
+  #[[menu.main]]
+  #name = "Sesiones anteriores"
+  #URL = "sessions"
+  #weight = 2
 
   [[menu.main]]
   name = "Conferencistas"
