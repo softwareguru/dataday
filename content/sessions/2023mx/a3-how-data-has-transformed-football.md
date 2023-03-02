@@ -1,5 +1,5 @@
 ---
-id: 04-how-data-has-transformed-football
+id: a3
 title: How Data has Transformed Football
 slug: how-data-has-transformed-football
 speakers:

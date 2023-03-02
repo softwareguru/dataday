@@ -1,5 +1,5 @@
 ---
-id: 24-usando-analisis-topologico-de-datos-en-prevencion-de-fraude
+id: b8
 title: "Usando Análisis Topológico De Datos en Prevención De Fraude"
 slug: sessions/2023mx/usando-analisis-topologico-de-datos-en-prevencion-de-fraude
 speakers:

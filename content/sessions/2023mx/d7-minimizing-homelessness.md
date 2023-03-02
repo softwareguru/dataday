@@ -1,7 +1,7 @@
 ---
-id: 29-minimizing-entry-into-homelessness-following-eviction-through-better-allocation-of-rental-assistance-in-allegheny-county
-title: "Minimizing Entry Into Homelessness Following Eviction Through Better Allocation of Rental Assistance in Allegheny County"
-slug: minimizing-entry-into-homelessness-following-eviction-through-better-allocation-of-rental-assistance-in-allegheny-county
+id: d7
+title: "Minimizing Entry Into Homelessness Following Eviction"
+slug: minimizing-entry-into-homelessness
 speakers:
  - Catalina Vajiac
 time_start: 2023-04-25T16:30:00-06:00

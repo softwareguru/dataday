@@ -11,7 +11,7 @@ days:
     rooms: ["Sala 1 (México 1-2)", "Sala 2 (México 3-5)", "Crowne"]
     timeslots: 
       - id: 1
-        time_start: 2023-04-25 8:00:00 -0600 CDT
+        time_start: 2023-04-25 8:30:00 -0600 CDT
         type: keynote
       - id: 2
         time_start: 2023-04-25 11:10:00 -0600 CDT
@@ -47,9 +47,9 @@ days:
         time_start: 2022-07-18 17:50:00 -0600 CDT
         type: concurrent
       - id: 8
-        time_start: 2022-07-18 17:45:00 -0600 CDT
+        time_start: 2022-07-18 18:30:00 -0600 CDT
         type: break
-        name: Closing Message & Cocktail
+        name: Cocktail & networking
 
 
 tracks:

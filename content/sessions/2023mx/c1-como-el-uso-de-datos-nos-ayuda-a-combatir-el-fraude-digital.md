@@ -5,8 +5,8 @@ slug: como-el-uso-de-datos-nos-ayuda-a-combatir-el-fraude-digital
 speakers:
  - Carl W Handlin Espino
  - Fernando González Paulin
-time_start: 2023-04-25T12:15:00-06:00
-time_end:   2023-04-25T12:50:00-06:00
+time_start: 2023-04-25T11:35:00-06:00
+time_end:   2023-04-25T12:10:00-06:00
 tags:
 day: mx-23
 timeslot: 3

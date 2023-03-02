@@ -12,7 +12,7 @@ timeorder: 1
 room: Sala 1 (México 1-2)
 language: 
 live_url: 
-track: 
+track: sports-analytics
 tags:
 slides: 
 video: 

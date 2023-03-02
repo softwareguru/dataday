@@ -1,5 +1,5 @@
 ---
-id: 14-sponsored-talk-5
+id: b4
 title: "Sesión por confirmar"
 slug: sesion-por-confirmar-5
 speakers: 
@@ -8,10 +8,10 @@ time_end:   2023-04-25T14:10:00-06:00
 day: mx-23
 timeslot: 3-2
 timeorder: 0
-room: Sala 2 (México 3-5)
+room: Sala 1 (México 1-2)
 language: 
 live_url: 
-track: 
+track: sports-analytics
 tags:
 slides: 
 video: 

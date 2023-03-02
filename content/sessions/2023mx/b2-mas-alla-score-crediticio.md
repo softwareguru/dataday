@@ -4,8 +4,8 @@ title: ¿Es el score Crediticio la Única Propuesta de Valor que Qiene la Cienci
 slug: mas-alla-score-crediticio
 speakers:
  - León Palafox
-time_start: 2023-04-25T11:35:00-06:00
-time_end:   2023-04-25T12:10:00-06:00 
+time_start: 2023-04-25T12:15:00-06:00
+time_end:   2023-04-25T12:50:00-06:00 
 tags:
 day: mx-23
 timeslot: 3
