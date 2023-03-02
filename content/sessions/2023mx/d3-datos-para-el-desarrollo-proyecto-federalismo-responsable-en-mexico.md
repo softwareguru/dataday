@@ -1,6 +1,6 @@
 ---
 id: d3
-title: "Datos Para El Desarrollo: Proyecto Federalismo Responsable en México"
+title: "Datos para el Desarrollo: Proyecto Federalismo Responsable en México"
 slug: datos-para-el-desarrollo-proyecto-federalismo-responsable-en-mexico
 speakers:
  - Patricio Garza Girón

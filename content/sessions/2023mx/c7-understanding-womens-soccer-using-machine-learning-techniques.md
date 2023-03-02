@@ -1,6 +1,6 @@
 ---
-id: 26-understanding-womens-soccer-using-machine-learning-techniques
-title: Understanding Women's Soccer using Machine Learning techniques
+id: c7
+title: Understanding Women's Soccer using Machine Learning Techniques
 slug: understanding-women's-soccer-using-machine-learning-techniques
 speakers:
  - Lotte Bransen

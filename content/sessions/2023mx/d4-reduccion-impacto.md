@@ -1,6 +1,6 @@
 ---
 id: d4
-title: "Reducción del impacto de las crisis de salud mental y de comportamiento: Un caso de estudio de ciencia de datos"
+title: "Reducción del Impacto de las Crisis de Salud Mental y de Comportamiento: Un caso de estudio de ciencia de datos"
 slug: reducing-the-impact-of-behavioral-health-crises-a-data-science-case-study
 speakers:
  - Núria Adell Raventós

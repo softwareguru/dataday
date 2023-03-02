@@ -1,5 +1,5 @@
 ---
-id: 21-bridging-moneyball-and-commercialization
+id: c6
 title: "Bridging Moneyball and Commercialization"
 slug: 21-bridging-moneyball-and-commercialization
 speakers:

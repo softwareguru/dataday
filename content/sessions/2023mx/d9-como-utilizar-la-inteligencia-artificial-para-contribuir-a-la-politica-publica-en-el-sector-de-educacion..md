@@ -1,6 +1,6 @@
 ---
 id: d9
-title: "Cómo Utilizar La Inteligencia Artificial Para Contribuir a La Política Pública en El Sector De Educación"
+title: "Cómo Utilizar la Inteligencia Artificial Para Contribuir a la Política Pública en el Sector de Educación"
 slug: utilizar-ia-para-contribuir-politica-publica-educacion
 speakers:
  - Jorge Arturo Hernandez Almazan
