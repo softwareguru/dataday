@@ -1,5 +1,5 @@
 ---
-title: "Maria Lanza"
+title: "María Francys Lanza"
 date: 2023-03-01T22:57:46-06:00
 images : 
  - "images/speakers/maria-lanza.jpg"
