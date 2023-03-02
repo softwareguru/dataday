@@ -1,6 +1,6 @@
 ---
-id: 07-mas-alla-score-crediticio
-title: ¿Es el score crediticio la única propuesta de valor que tiene la ciencia de datos?
+id: b2
+title: ¿Es el score Crediticio la Única Propuesta de Valor que Qiene la Ciencia de Datos?
 slug: mas-alla-score-crediticio
 speakers:
  - León Palafox
@@ -9,7 +9,7 @@ time_end:   2023-04-25T12:10:00-06:00
 tags:
 day: mx-23
 timeslot: 3
-timeorder: 1
+timeorder: 2
 room: Sala 1 (México 1-2)
 language: 
 track: fintech

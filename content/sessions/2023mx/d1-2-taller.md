@@ -1,6 +1,6 @@
 ---
-id: 15-taller
-title: "Taller"
+id: d1-2
+title: "Taller por confirmar"
 slug: taller-01
 speakers:
 time_start: 2023-04-25T11:35:00-06:00

@@ -1,6 +1,6 @@
 ---
 id: 04-how-data-has-transformed-football
-title: How Data Has Transformed Football
+title: How Data has Transformed Football
 slug: how-data-has-transformed-football
 speakers:
  - Jordan Gardner

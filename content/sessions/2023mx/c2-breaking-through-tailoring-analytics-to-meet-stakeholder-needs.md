@@ -1,6 +1,6 @@
 ---
-id: 12-breaking-through-tailoring-analytics-to-meet-stakeholder-needs
-title: "Breaking Through: Tailoring Analytics to Meet Stakeholder Needs"
+id: c2
+title: "Breaking Through: Tailoring analytics to meet stakeholder needs"
 slug: breaking-through-tailoring-analytics-to-meet-stakeholder-needs
 speakers:
  - David Vallett

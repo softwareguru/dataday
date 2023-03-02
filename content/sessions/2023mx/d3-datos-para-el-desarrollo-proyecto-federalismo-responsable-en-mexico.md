@@ -4,10 +4,10 @@ title: "Datos Para El Desarrollo: Proyecto Federalismo Responsable en México"
 slug: datos-para-el-desarrollo-proyecto-federalismo-responsable-en-mexico
 speakers:
  - Patricio Garza Girón
-time_start: 2023-04-25T13:35:00-06:00
-time_end:   2023-04-25T14:10:00-06:00
+time_start: 2023-04-25T12:55:00-06:00
+time_end:   2023-04-25T13:30:00-06:00
 day: mx-23
-timeslot: 3-2
+timeslot: 3-1
 timeorder: 1
 room: Crowne
 language: 

@@ -1,5 +1,5 @@
 ---
-id: 08-como-el-uso-de-datos-nos-ayuda-a-combatir-el-fraude-digital
+id: c1
 title: "Cómo El Uso De Datos Nos Ayuda a Combatir El Fraude Digital"
 slug: como-el-uso-de-datos-nos-ayuda-a-combatir-el-fraude-digital
 speakers:
@@ -10,8 +10,8 @@ time_end:   2023-04-25T12:50:00-06:00
 tags:
 day: mx-23
 timeslot: 3
-timeorder: 2
-room: Sala 1 (México 1-2)
+timeorder: 1
+room: Sala 2 (México 3-5)
 language: 
 track: fintech
 live_url: 

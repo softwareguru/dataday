@@ -3,7 +3,7 @@ title: "Núria Adell Raventós"
 date: 2023-02-17T12:21:31-06:00
 images : 
  - "images/speakers/nuria-adell-raventos.png"
-designation : "Graduate Student in Data Science and Public Policy at the University of Chicago"
+designation : "Data Scientist | DSaPP @ the University of Chicago"
 country: ""
 facebook: ""
 instagram: ""
@@ -14,4 +14,4 @@ events:
  - 2023mx
 ---
 
-Interested in applying data science for a positive social impact, currently completing the MS in Computational Analysis and Public Policy at the University of Chicago. She has been involved in data science projects related to reducing behavioral health crises, identifying radioactive exposure from fracking activity, developing reemployment equity indicators, and improving social workers’ conditions through Data Science for Social Good at CMU, Data Science Institute at UChicago, and DataForGoodBCN. Previously, she worked as a Data Scientist for Accenture’s Applied Intelligence team, and holds a Master’s in Big Data Management, Technologies and Analytics from Polytechnic University of Catalonia.
+Científica de datos interesada en el impacto social, actualmente terminando la Maestría en Análisis Computacional y Política Pública en la Universidad de Chicago. He participado en distintas iniciativas de ciencia de datos para el bienestar social tales como reducir el impacto de las crisis de comportamiento, identificar exposición radioactiva por fracking, desarrollo de indicadores de empleabilidad y mejora de las condiciones de trabajadores sociales. Previamente me desempeñé como científica de datos con Accenture en el equipo de inteligencia aplicada, y también cuento con un Master’s en Gestión de Big Data por la Universidad Politécnica de Cataluña.
