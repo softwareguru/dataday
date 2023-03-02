@@ -1,6 +1,6 @@
 ---
 id: b2
-title: ¿Es el score Crediticio la Única Propuesta de Valor que Qiene la Ciencia de Datos?
+title: ¿Es el score Crediticio la Única Propuesta de Valor que Tiene la Ciencia de Datos?
 slug: mas-alla-score-crediticio
 speakers:
  - León Palafox
