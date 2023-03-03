@@ -7,8 +7,8 @@ designation : "Head of Football Analytics @ Atletico Mineiro"
 country: ""
 facebook: ""
 instagram: ""
-twitter: ""
-linkedin: "https://twitter.com/rodripicchioni/status/1486707204908589058"
+twitter: "https://twitter.com/rodripicchioni/status/1486707204908589058"
+linkedin: ""
 github: ""
 events: 
  - 2023mx
