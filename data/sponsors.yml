@@ -11,9 +11,10 @@ sponsor_group:
 - title: "gold"
   slug: gold
   sponsor:
-    - logo : "images/sponsors/Softtek-reducido.png"
+    - logo : "images/sponsors/Softtek-logo.png"
       link : "http://softtek.com/jobs"
-
+    - logo : "images/sponsors/Csoftmty.png"
+      link : "https://csoftmty.org/"
 
 - title: "Organismo de apoyo"
   slug: community
