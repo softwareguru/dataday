@@ -14,4 +14,6 @@ events:
  - 2023mx
 ---
 
-Bachelors degree in Mathematics and minor in sports management from West Virginia University institute of technology, speciality in statistical methods at CIMAT, data analyst at a small Saas company in Aguascalientes. Masters degree in data and decision analytics by Southampton university and summer of research for dissertation with city football group
+Customer Success Analyst at StatsBomb overlooking all the spanish speaking and women's customers.
+
+From Mexico City, Bachelor's in Mathematics from West Virginia Tech and Masters Degre in Data Analytics from Southampton University in England where she worked with City Football Group in a research project for her dissertation. (ELO rank of NCAA D1 women's soccer and predicting ranking of draft).
