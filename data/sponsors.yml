@@ -13,14 +13,14 @@ sponsor_group:
   sponsor:
     - logo : "images/sponsors/Softtek-logo.png"
       link : "http://softtek.com/jobs"
-    - logo : "images/sponsors/Csoftmty.png"
-      link : "https://csoftmty.org/"
 
 - title: "Organismo de apoyo"
   slug: community
   sponsor: 
     - logo : "images/sponsors/prosoftware.png"
       link : "https://www.prosoftware.store/"
+    - logo : "images/sponsors/Csoftmty.png"
+      link : "https://csoftmty.org/"
 
 
 - title : ""
