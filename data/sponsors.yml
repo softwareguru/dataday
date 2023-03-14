@@ -4,8 +4,13 @@ subtitle: "DataDay(s) es posible gracias al apoyo de"
 
 sponsor_group:
 
-- title: ""
+- title: "Platinum"
+  slug: platinum
   sponsor:
+    - logo : "images/sponsors/datastax.jpg"
+      link : "https://www.datastax.com/"
+    - logo : "images/sponsors/Logo_Panamericana.png"
+      link : "http://up.edu.mx"
 
 
 - title: "gold"
@@ -13,6 +18,8 @@ sponsor_group:
   sponsor:
     - logo : "images/sponsors/Softtek-logo.png"
       link : "http://softtek.com/jobs"
+    - logo : "images/sponsors/elastic.png"
+      link : "https://www.elastic.co/"
 
 - title: "Organismo de apoyo"
   slug: community
