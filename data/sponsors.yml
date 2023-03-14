@@ -9,8 +9,6 @@ sponsor_group:
   sponsor:
     - logo : "images/sponsors/datastax.jpg"
       link : "https://www.datastax.com/"
-    - logo : "images/sponsors/Logo_Panamericana.png"
-      link : "http://up.edu.mx"
 
 
 - title: "gold"
@@ -21,7 +19,13 @@ sponsor_group:
     - logo : "images/sponsors/elastic.png"
       link : "https://www.elastic.co/"
 
-- title: "Organismo de apoyo"
+- title: "Silver"
+  slug: platinum
+  sponsor:
+    - logo : "images/sponsors/Logo_Panamericana.png"
+      link : "http://up.edu.mx"
+
+- title: "Organismos de apoyo"
   slug: community
   sponsor: 
     - logo : "images/sponsors/prosoftware.png"
