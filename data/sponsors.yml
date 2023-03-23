@@ -22,6 +22,8 @@ sponsor_group:
   sponsor:
     - logo : "images/sponsors/Logo_Panamericana.png"
       link : "http://up.edu.mx"
+    - logo : "images/sponsors/PepsiCo.png"
+      link : "https://pepjobs.mypepsico.com/main/"
 
 - title: "Organismos de apoyo"
   slug: community
