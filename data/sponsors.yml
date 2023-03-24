@@ -20,6 +20,8 @@ sponsor_group:
   sponsor:
     - logo : "images/sponsors/elastic.png"
       link : "https://www.elastic.co/"
+    - logo : "images/sponsors/EGob-logo.png"
+      link : "https://egobiernoytp.tec.mx/es"
 
 
 - title: "Silver"
