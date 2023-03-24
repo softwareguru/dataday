@@ -9,6 +9,10 @@ sponsor_group:
   sponsor:
     - logo : "images/sponsors/datastax.jpg"
       link : "https://www.datastax.com/"
+    - logo : "images/sponsors/td-synnex+ibm.png"
+      link : "https://site.tdsynnex.com/ibm-cloud-paks/p/1"
+    - logo : "images/sponsors/factor-it.png"
+      link : "https://factorit.com/"
 
 
 - title: "gold"
@@ -16,6 +20,7 @@ sponsor_group:
   sponsor:
     - logo : "images/sponsors/elastic.png"
       link : "https://www.elastic.co/"
+
 
 - title: "Silver"
   slug: platinum
@@ -27,6 +32,7 @@ sponsor_group:
     - logo : "images/sponsors/BBVA_blue.png"
       link : "https://bbva.csod.com/ux/ats/careersite/15/home/requisition/207984?c=bbva"
 
+
 - title: "Organismos de apoyo"
   slug: community
   sponsor: 
@@ -36,6 +42,5 @@ sponsor_group:
       link : "https://csoftmty.org/"
 
 
-- title : ""
-  sponsor:
+
 
