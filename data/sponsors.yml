@@ -24,6 +24,8 @@ sponsor_group:
       link : "http://up.edu.mx"
     - logo : "images/sponsors/PepsiCo.png"
       link : "https://pepjobs.mypepsico.com/main/"
+    - logo : "images/sponsors/BBVA_blue.png"
+      link : "https://bbva.csod.com/ux/ats/careersite/15/home/requisition/207984?c=bbva"
 
 - title: "Organismos de apoyo"
   slug: community
