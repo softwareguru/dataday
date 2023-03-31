@@ -9,8 +9,8 @@ banner:
   venue : ""
   button1:
     enable : true
-    label : "Quiero ser conferencista"
-    link : "https://convoca.dev/datadaymx-2023/cfp"
+    label : "Consulta la agenda"
+    link : "agenda"
   button2:
     enable : true
     label : "Boletos"
