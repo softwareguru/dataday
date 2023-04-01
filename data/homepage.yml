@@ -14,7 +14,7 @@ banner:
   button2:
     enable : true
     label : "Boletos"
-    link : "tickets"
+    link : "tickets2023mx"
 
 
 ############################## Event ##############################

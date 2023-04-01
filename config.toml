@@ -95,7 +95,7 @@ country = "Mexico"
 [params.navigation_button]
 enable = true
 label = "BOLETOS"
-link = "/dataday/tickets"
+link = "/dataday/tickets2023mx"
 
 
 ############################# social icon ############################
