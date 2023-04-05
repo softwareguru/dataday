@@ -20,9 +20,9 @@ tags:
 ---
 
 
-Exploramos diferentes fuentes de datos de jugadoras de futbol soccer  y utilizaremos modelos de aprendizaje supervisado para predecir el impacto económico que tienen sus lesiones para su equipo. Además, deteniéndonos con mas detalle en la búsqueda de un tiempo de desgaste y recuperación equilibrados para conservar la eficiencia y evitar lesiones. 
+En esta charla platicaremos acerca del proyecto en el que exploramos diferentes fuentes de datos de jugadoras de fútbol femenil en México y utilizaremos modelos de aprendizaje supervisado para predecir el tiempo de recuperación, así como el impacto económico que tienen sus lesiones para su equipo. Además, deteniéndonos con más detalle en la búsqueda de un tiempo de desgaste y recuperación equilibrado para conservar la eficiencia y evitar lesiones.
 
 En esta primera fase buscamos 2 objetivos:
 
-- Encontrar el mejor tiempo de recuperación para el promedio de jugadoras de un equipo 
-- Impacto económico para el equipo y asociación debido a la lesión y salida de una jugadora.
+* Encontrar el mejor tiempo de recuperación para el promedio de jugadoras de un equipo.
+* Impacto económico para el equipo y asociación debido a la lesión y salida de una jugadora.
