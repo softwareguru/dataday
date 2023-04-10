@@ -9,6 +9,10 @@ sponsor_group:
   sponsor:
     - logo : "images/sponsors/datastax.jpg"
       link : "https://www.datastax.com/"
+    - logo : "images/sponsors/Ultrasis.png"
+      link : "https://www.ultrasist.mx/ultrasite/"
+    - logo : "images/sponsors/Couchbase.png"
+      link : "https://www.couchbase.com/"
     - logo : "images/sponsors/td-synnex+ibm.png"
       link : "https://site.tdsynnex.com/ibm-cloud-paks/p/1"
     - logo : "images/sponsors/factor-it.png"
