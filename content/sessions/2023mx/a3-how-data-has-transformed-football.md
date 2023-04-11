@@ -4,12 +4,12 @@ title: How Data has Transformed Football
 slug: how-data-has-transformed-football
 speakers:
  - Jordan Gardner
-time_start: 2023-04-25T09:40:00-06:00
-time_end:   2023-04-25T10:10:00-06:00
+time_start: 2023-04-25T10:00:00-06:00
+time_end:   2023-04-25T10:30:00-06:00
 day: mx-23
-timeslot: 1
+timeslot: a
 timeorder: 4
-room: Sala 1 (México 1-2)
+room: México 1-2
 language: 
 live_url: 
 slides: 

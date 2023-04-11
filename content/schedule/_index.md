@@ -8,46 +8,49 @@ days:
   - id: mx-23
     title_short: Martes
     title_full: Martes 25 Abril, 2023
-    rooms: ["Sala 1 (México 1-2)", "Sala 2 (México 3-5)", "Crowne"]
+    rooms: ["México 1-2", "México 3-5", "Crowne"]
     timeslots: 
-      - id: 1
-        time_start: 2023-04-25 8:30:00 -0600 CDT
+      - id: a
+        time_start: 2023-04-25 9:00:00 -0600 CDT
         type: keynote
-      - id: 2
-        time_start: 2023-04-25 11:10:00 -0600 CDT
+      - id: b
+        time_start: 2023-04-25 11:30:00 -0600 CDT
         type: break
         name: Break
-      - id: 3
-        time_start: 2022-07-18 11:35:00 -0600 CDT
+      - id: c
+        time_start: 2023-04-25 12:00:00 -0600 CDT
         type: concurrent
-      - id: 3-1
-        time_start: 2022-07-18 12:55:00 -0600 CDT
+      - id: d
+        time_start: 2023-04-25 12:40:00 -0600 CDT
         type: concurrent
-      - id: 3-2
-        time_start: 2022-07-18 13:35:00 -0600 CDT
+      - id: e
+        time_start: 2023-04-25 13:20:00 -0600 CDT
         type: concurrent
-      - id: 4
-        time_start: 2022-07-18 14:10:00 -0600 CDT
+      - id: f
+        time_start: 2023-04-25 14:00:00 -0600 CDT
         type: break
         name: Lunch Break
-      - id: 5
-        time_start: 2022-07-18 15:00:00 -0600 CDT
+      - id: g
+        time_start: 2023-04-25 15:00:00 -0600 CDT
         type: concurrent
-      - id: 6
-        time_start: 2022-07-18 16:15:00 -0600 CDT
+      - id: h
+        time_start: 2023-04-25 15:40:00 -0600 CDT
+        type: concurrent
+      - id: i
+        time_start: 2023-04-25 16:20:00 -0600 CDT
+        type: concurrent
+      - id: j
+        time_start: 2023-04-25 17:00:00 -0600 CDT
         type: break
-        name: Break
-      - id: 7
-        time_start: 2022-07-18 16:30:00 -0600 CDT
+        name: Cocktail & networking
+      - id: k
+        time_start: 2023-04-25 17:15:00 -0600 CDT
         type: concurrent
-      - id: 7-1
-        time_start: 2022-07-18 17:10:00 -0600 CDT
+      - id: l
+        time_start: 2023-04-25 17:55:00 -0600 CDT
         type: concurrent
-      - id: 7-2
-        time_start: 2022-07-18 17:50:00 -0600 CDT
-        type: concurrent
-      - id: 8
-        time_start: 2022-07-18 18:30:00 -0600 CDT
+      - id: m
+        time_start: 2023-04-25 18:30:00 -0600 CDT
         type: break
         name: Cocktail & networking
 
@@ -62,6 +65,10 @@ tracks:
   - slug: workshop
     label: Talleres
 
+
+summary: Conoce las sesiones presentadas en Data Day México 2023
 ---
+
+### Conoce las sesiones presentadas en Data Day México 2023
 
 <p>Los horarios se muestran en base a horario Central de México (GMT-6).</p>

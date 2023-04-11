@@ -14,6 +14,7 @@ events:
  - 2022
  - 2021
  - 2022mty
+ - 2023mx
 ---
 
 Actuario Facultad de Ciencias de la UNAM. Docente, Conferencista, Gamer y Friki. Especialista en llevar a instituciones a la optimización de recursos mediante analitica e inteligencia e negocio y equipos multidiciplinarios para lograr objetivos clave cuantificables.
