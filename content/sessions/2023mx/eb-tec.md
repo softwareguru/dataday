@@ -1,8 +1,9 @@
 ---
 id: b4
-title: "Sesión presentada por Escuela de Gobierno y Transformación Pública del Tec de Monterrey"
+title: "Ciencia de Ciudades en América Latina"
 slug: tec
 speakers: 
+ - Roberto Ponce López
 time_start: 2023-04-25T13:20:00-06:00
 time_end:   2023-04-25T13:55:00-06:00
 day: mx-23
@@ -17,5 +18,7 @@ slides:
 video: 
 
 ---
+
+La ciencia de ciudades es una aproximación cuantitativa a la planeación de mejores entornos urbanos. Esta nueva práctica hace uso de datos, técnicas de modelación y de simulación para representar y analizar las complejas dinámicas que moldean una ciudad: dónde viven las personas, dónde se localizan los empleos, cómo se desplazan las personas; así como qué impacto tiene la infraestructura y las políticas públicas sobre esas decisiones individuales de localización. En América Latina, la práctica de la planeación urbana se encuentra ligada al diseño urbano. La ciencia de ciudades es un campo emergente, con algunas aplicaciones en la academia, pero aún con un limitado alcance comercial y de impacto en política pública en la región. En esta presentación mostraremos una aplicación computacional de código abierto y uso gratuito para caracterizar el crecimiento urbano y construir escenarios de futuro para cualquier ciudad de América Latina con más de 100 mil habitantes. Esta herramienta es producto de una colaboración entre el Banco Interamericano de Desarrollo, la Escuela de Gobierno y Transformación Pública y el Centro para el Futuro de las Ciudades del Tecnológico de Monterrey, para impulsar la adopción de un nuevo modelo de planeación basado en datos en las oficinas responsables del tema en América Latina.
 
 

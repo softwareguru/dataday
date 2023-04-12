@@ -1,5 +1,5 @@
 ---
-title: "Hector Cuesta"
+title: "Héctor Cuesta"
 date: 2023-02-17T12:38:33-06:00
 images : 
  - "images/speakers/hector-cuesta.jpeg"

@@ -1,5 +1,5 @@
 ---
-title: "Rene Rosado Gonzalez"
+title: "Rene Rosado González"
 date: 2022-02-09T15:03:01-06:00
 images:
  - "images/speakers/rene-rosado-gonzalez.jpg"

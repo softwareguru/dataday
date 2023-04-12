@@ -1,5 +1,5 @@
 ---
-title: "Jorge Arturo Hernandez Almazan"
+title: "Jorge Arturo Hernández Almazán"
 date: 2023-02-17T12:26:42-06:00
 images : 
  - "images/speakers/jorge-arturo-hernandez-almazan.png"
