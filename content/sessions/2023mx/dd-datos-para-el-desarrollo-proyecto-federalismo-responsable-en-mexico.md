@@ -16,6 +16,8 @@ tags:
 slides: 
 video:  
 track: public-policy
+summary: "Federalismo Responsable busca explicar el funcionamiento del federalismo mexicano para proponer recomendaciones de política pública. En esta charla platicaremos sobre el proyecto, y cómo obtenemos, procesamos y
+exponemos los datos utilizados."
 ---
 
 Federalismo Responsable en México es un proyecto desarrollado por la Fundación Konrad Adenauer (KAS) México que reúne a los mayores expertos nacionales en materia de federalismo y políticas públicas a nivel subnacional en México. A través de este se ha generado un diagnóstico del marco jurídico y los gobiernos subnacionales durante los últimos 20 años, y evaluado el funcionamiento de distintas áreas públicas. Para ello, el proceso ETL es fundamental para el análisis y la obtención de resultados medibles y comparables. Como Coordinador Estratégico del proyecto, tengo el encargo de supervisar todos los diagnósticos y garantizar la calidad de los contenidos, así como la coherencia entre todas las partes que lo componen. 

@@ -17,6 +17,8 @@ live_url:
 slides: 
 video: 
 tags: 
+summary: "Platicaremos sobre como el stack ASC (AWS Snowball, Starlink, Couchbase) habilita capacidades de analítica en la orilla (edge analytics) en zonas con problemas de conectividad."
+
 ---
 
 There is a growing class of apps that require 100% uptime and real-time speed regardless of where they are operating in the world - examples include healthcare, field service, emergency response, energy exploration and more. These kinds of apps must work reliably wherever the user is, even if that is in the remotest of locations such as deep wilderness, underground, at sea, or in the air. A fundamental challenge in meeting these requirements remains the network; there are still huge swaths of the globe with little or no internet, meaning apps that depend on a connection to distant cloud data centers cannot operate in those areas. Emerging technologies like Starlink are closing the gap, but no matter the coverage, reliability or speed of a network, it will inevitably suffer slowness and outages that affect the applications that rely on it, resulting in a poor user experience and business downtime.

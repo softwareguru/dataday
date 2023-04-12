@@ -16,6 +16,7 @@ track: workshop
 tags:
 slides: 
 video: 
+summary: "En este tutorial exploraremos como utilizar tecnologías open source para crear pipelines para manejar series de tiempo que sean escalables y listos para producción. Mostraremos cómo utilizar herramientas como Dask Numba y ML Forecast para tareas de feature engineering, forecasting y evaluación."
 
 ---
 

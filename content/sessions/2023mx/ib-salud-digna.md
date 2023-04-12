@@ -16,8 +16,9 @@ slides:
 video: 
 track: fintech
 tags:
+summary: "Implementación de un data warehouse usando Azure Synapse Analytics."
 ---
 
-Salud Digna A.C. presenta la implementación de un Modern DataWareHouse en Microsoft Azure Synapse Analitics como su arquitectura principal para servicios de Analítica e Inteligencia de Negocios, con la que atiende la necesidad de 10 9 Millones de pruebas COVID, 17.9 millones de Px atendidos con 136.9 Millones de estudios realizados. Dando seguimiento a la traza de entrega de los resultados como ventaja competitiva.
+Salud Digna A.C. presenta la implementación de un Data Warehouse moderno usando Microsoft Azure Synapse Analytics como su arquitectura principal para servicios de Analítica e Inteligencia de Negocios, con la que atiende la necesidad de 10 9 Millones de pruebas COVID, 17.9 millones de Px atendidos con 136.9 Millones de estudios realizados. Dando seguimiento a la traza de entrega de los resultados como ventaja competitiva.
 
 

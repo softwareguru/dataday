@@ -16,6 +16,7 @@ tags:
 slides: 
 video:  
 track: public-policy
+summary: "Platicaremos sobre el caso de cómo se desarrolló y utilizó un modelo predictivo para identificar personas de alto riesgo de crisis de salud de comportamiento"
 ---
 
 ¿Cómo podemos utilizar datos para reducir el impacto de los suicidios, sobredósis y otras crisis de salud de comportamiento? En el programa de Ciencia de Datos para el Bien en la Universidad de Carnegie Mellon colaboramos con dos condados para construir un modelo predictivo de machine learning que identifica a personas de alto riesgo. Reunimos datos de distintas fuentes incluyendo ambulancias, hospitales, centros de salud y el sistema de justicia, y construimos un pipeline que actua de forma proactiva para disminuir el impacto de estas crisis. En esta sesión platicaremos sobre los aspectos técnicos de la herramienta, el proceso de evaluación, principales retos y consideraciones éticas.

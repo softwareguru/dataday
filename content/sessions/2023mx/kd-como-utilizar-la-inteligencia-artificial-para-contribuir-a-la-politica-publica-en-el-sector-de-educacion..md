@@ -1,6 +1,6 @@
 ---
 id: d9
-title: "Cómo Utilizar la Inteligencia Artificial Para Contribuir a la Política Pública en el Sector de Educación"
+title: "Cómo Utilizar la Inteligencia Artificial para Contribuir a la Política Pública en el Sector de Educación"
 slug: utilizar-ia-para-contribuir-politica-publica-educacion
 speakers:
  - Jorge Arturo Hernandez Almazan
@@ -16,7 +16,7 @@ tags:
 slides: 
 video: 
 track: public-policy
-
+summary: "Se compartirá un proyecto de investigación sobre la Gestión del Conocimiento soportado con la Inteligencia Artificial contextualizado en el sector Educativo."
 ---
 
 Los avances científicos y tecnológicos que sustentan nuestra vida actual han sido conseguidos a partir del conocimiento que el ser humano ha logrado en diferentes áreas del conocimiento. Debido a la relevancia del conocimiento, la investigación en el sector educativo ha enfatizado la necesidad de estudiar con mayor detalle la Gestión de Conocimiento (GC) del ser humano sobre las diferentes áreas disciplinares. De acuerdo con la Política Pública de México y de nivel internacional, el área disciplinar de las matemáticas implica un desafío para el ser humano desde temas fundamentales abordados en nivel básico hasta los cálculos complejos de nivel universitario. De esta forma, la GC del ser humano en el dominio de las matemáticas incluye procesos y actividades orientadas a: descubrir, adquirir, usar y compartir el conocimiento.

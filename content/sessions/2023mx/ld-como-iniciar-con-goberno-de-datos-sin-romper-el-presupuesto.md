@@ -1,6 +1,6 @@
 ---
 id: l
-title: "Cómo Iniciar Con Gobierno de Datos Sin Romper El Presupuesto"
+title: "Cómo Iniciar con Gobierno de Datos sin Romper el Presupuesto"
 slug: como-iniciar-con-goberno-de-datos-sin-romper-el-presupuesto
 speakers:
  - Andrés Tello
@@ -15,6 +15,7 @@ live_url:
 slides: 
 video: 
 track: fintech
+summary: "Cómo implementar un ecosistema de gobierno de datos basado en tecnologías open source que permite resolver las necesidades sin tener que hacer fuertes inversiones iniciales en licenciamiento."
 ---
 
-Los proyectos de gobiernos de datos, como DAMA, suelen ser complicados y con poca visibilidad de el retorno de inversión, entoces, reduzcamos el riesgo de este tipo de iniativas DAMA, realizando una implementación del modelo basado en herramientas opensource que pueden escalar a licenciamientos enterprise que le permitirán resolver temas que van desde integración de datos, BI hasta manejo del gobierno, alineados de una manera ágil que nos permita experimentar y realizar pruebas, sin que representen un golpe al presupuesto, permitiendo flexibilidad y alneación a requermientos de cumplimiento tales como reportes regulatorios, análisis de clientes y visibilidady benchmarking de procesos.
+Los proyectos de gobiernos de datos, como DAMA, suelen ser complicados y con poca visibilidad de el retorno de inversión. En esta charla muestro cómo se puede reducir el riesgo de este tipo de iniativas realizando una implementación basada en herramientas open source. Esto permite resolver necesidades que van desde integración de datos y BI hasta gobierno de datos alineados de una manera ágil que nos permita experimentar y realizar pruebas, sin que representen un golpe al presupuesto.  

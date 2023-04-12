@@ -16,6 +16,7 @@ slides:
 video: 
 track: public-policy
 tags:
+summary: "Compartiremos detalles sobre el análisis de datos realizado sobre Ciudad de México como ecosistema de innovación."
 ---
 
 En esta charla compartiremos detalles sobre el análisis de datos realizado como parte de la iniciativa REAP (Regional Entreprensurship Acceleration Program) en Ciudad de México. Esta es una iniciativa del Instituto de Tecnología de Massachusetts (MIT) para interactuar con comunidades de innovación alrededor del mundo.

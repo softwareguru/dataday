@@ -16,7 +16,7 @@ track: fintech
 tags:
 slides: 
 video: 
-
+summary: "En esta charla compartiremos detalles sobre la puesta en producción de un modelo de originación en Clara. Dicho modelo permite evaluar el riesgo de crédito de los solicitantes y ha contribuido a mejorar sus operaciones y a lograr unos resultados más favorables."
 ---
 
 El aprendizaje automático tiene un gran potencial para generar valor para las empresas e incluso transformar industrias, pero este potencial solo se puede alcanzar una vez que dichos modelos se implementen en un ambiente de producción y sus inferencias estén disponibles de manera habitual para los usuarios.

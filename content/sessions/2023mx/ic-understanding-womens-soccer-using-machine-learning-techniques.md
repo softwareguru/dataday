@@ -16,6 +16,7 @@ slides:
 video: 
 track: sports-analytics
 tags:
+summary: "In this talk, I will discuss three areas where data can provide insights that can help in squad building and in-game decision making."
 ---
 
 Women's soccer is on the rise, with both increased interest and professionalization in the past decade. This is evident in the interest and publicity surrounding the recent World Cups, European Championships and the LIGA MX Femenil. There has also been increased availability about data collected from professional women's matches.

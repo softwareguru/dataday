@@ -17,8 +17,8 @@ slides:
 video: 
 track: sports-analytics
 tags:
+summary: "Utilizamos modelos de aprendizaje supervisado para predecir el tiempo de recuperación, así como el impacto económico que tienen las lesiones en jugadoras de futbol femenil en México."
 ---
-
 
 En esta charla platicaremos acerca del proyecto en el que exploramos diferentes fuentes de datos de jugadoras de fútbol femenil en México y utilizaremos modelos de aprendizaje supervisado para predecir el tiempo de recuperación, así como el impacto económico que tienen sus lesiones para su equipo. Además, deteniéndonos con más detalle en la búsqueda de un tiempo de desgaste y recuperación equilibrado para conservar la eficiencia y evitar lesiones.
 

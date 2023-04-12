@@ -16,6 +16,7 @@ track: fintech
 live_url: 
 slides: 
 video: 
+summary: "En esta charla exploraremos el diverso rango de aplicaciones donde la ciencia de datos puede agregar valor en el sector Fintech más allá del score crediticio."
 ---
 
 En esta charla exploraremos el diverso rango de aplicaciones donde la ciencia de datos puede agregar valor en el sector Fintech más allá del score crediticio. 
