@@ -42,7 +42,7 @@ days:
       - id: j
         time_start: 2023-04-25 17:00:00 -0600 CDT
         type: break
-        name: Cocktail & networking
+        name: Break
       - id: k
         time_start: 2023-04-25 17:15:00 -0600 CDT
         type: concurrent
