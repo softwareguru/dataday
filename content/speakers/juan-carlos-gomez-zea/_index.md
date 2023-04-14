@@ -2,7 +2,7 @@
 title: Juan Carlos Gómez Zea
 images:
  - images/speakers/juan-carlos-gomez-zea.jpg
-designation: Latin America, General Manager @ Couchbase
+designation: Senior Enterprise Representative
 linkedin: https://www.linkedin.com/in/juancarlosgomezzea/
 twitter: https://twitter.com/jcgomezjc
 date: 2019-10-25
