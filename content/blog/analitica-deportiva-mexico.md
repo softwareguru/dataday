@@ -1,5 +1,5 @@
 ---
-title: "Data Day México traerá la analítica deportiva a México. Ya hay fecha."
+title: "Data Day México traerá la analítica deportiva a México."
 date: 2023-02-23T11:22:25-06:00
 image: "images/blog/sports_data_analytics.jpg"
 draft: false
@@ -9,7 +9,7 @@ url: blog/data-day-mexico-traera-la-analitica-deportiva-a-mexico
 <img src="/dataday/images/blog/sports_data_analytics.jpg" class="img-fluid mx-auto d-block" >
 <br>
 
-**México, Ciudad de México, a 31 de enero de 2023.**- Después de llevar a cabo Data Day en el corazón industrial de México (Monterrey), la conferencia líder para profesionales de datos empresariales en América Latina vuelve a la CDMX con un novedoso track: **Analítica Deportiva.**
+Después de llevar a cabo Data Day en el corazón industrial de México (Monterrey), la conferencia líder para profesionales de datos empresariales en América Latina vuelve a la CDMX con un novedoso track: **Analítica Deportiva.**
 
 ### Sports Analytics: una intersección que apenas comienza en México
 
@@ -19,7 +19,7 @@ Aquí es donde la ciencia de datos ya tiene tiempo trayendo mejoras en béisbol 
 
 ¿Sabes cómo los clubes más importantes del fútbol valúa las transacciones de jugadores? ¿O cómo Cristiano Ronaldo llegó a los 200 millones de euros por temporada? Los managers y DTs de los equipos de fútbol en México ya han tomado nota de ello y están incorporando datos a sus decisiones.
 
-Empresas que trabajan con el Liverpool FC y con el Manchester United estarán presentes en Data Day, convirtiéndolo en el PRIMER evento de ciencia de datos en México que trae esta intersección entre deportes y data.
+Data Day traerá a ponentes de las áreas de analytics de clubes como Sevilla FC, Chivas, Atlético Mineiro y otros clubes europeos, convirtiéndolo en el PRIMER evento de ciencia de datos en México que trae esta intersección entre deportes y data.
 
 ### También se suman dos grandes líneas temáticas
 
