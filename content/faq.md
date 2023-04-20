@@ -8,6 +8,11 @@ image: /images/uploads/informacion.png
 #### ¿Data Day México será presencial o en línea?
 Data Day México será un evento presencial a realizarse el 25 de abril de 2023 en Ciudad de México. Adicionalmente, los participantes tendrán acceso a una experiencia en línea que se realizará el 11 de mayo donde podrán ver las grabaciones de las sesiones que no pudieron ver en vivo, además de tener otra oportunidad de interactuar con los conferencistas.
 
+#### ¿Cómo llego a la sede? 
+
+El evento se realizará en el [Hotel Bel Air Unique CDMX WTC](https://www.wyndhamhotels.com/trademark/mexico-city-mexico/bel-air-unique-mexico-city-wtc-trademark/overview) ubicado en Dakota 95 en la Colonia Nápoles. Anteriormente ya hemos realizado Data Day en esta misma sede, solo que antes se llamaba Crowne Plaza. 
+
+
 #### ¿Dónde adquiero mi pase?
 Los boletos ya están disponibles y puedes comprarlos en línea. Consulta la [página de boletos](/dataday/tickets).
 
