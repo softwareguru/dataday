@@ -4,8 +4,8 @@ title: "Cómo Iniciar con Gobierno de Datos sin Romper el Presupuesto"
 slug: como-iniciar-con-goberno-de-datos-sin-romper-el-presupuesto
 speakers:
  - Andrés Tello
-time_start: 2023-04-25T13:35:00-06:00
-time_end:   2023-04-25T14:10:00-06:00
+time_start: 2023-04-25T17:55:00-06:00
+time_end:   2023-04-25T18:30:00-06:00
 day: mx-23
 timeslot: l
 timeorder: 0
