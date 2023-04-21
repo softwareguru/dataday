@@ -48,3 +48,6 @@ El boleto a Data Day incluye:
  * Un participante que ha adquirido un boleto puede cancelarlo hasta 30 días antes del evento y obtener su reembolso completo directamente via Eventbrite.
  * Si faltan menos de 30 días para el evento, no es posible cancelarlo pero sí transferirlo. Simplemente notifícanos para que actualicemos los datos del boleto.
 
+### Descuentos
+
+La fase 1 y 2 de pases tempraneros han terminado. Pero, tenemos 20% de descuento para mujeres, estudiantes y profesionistas independientes. Ponte en contacto con nosotros para solicitar tu código de descuento.

@@ -52,6 +52,11 @@ home = ["HTML", "RSS"]
   URL = "speakers"
   weight = 3
 
+  [[menu.main]]
+  name = "Networking"
+  URL = "networking"
+  weight = 3
+
 
   #[[menu.main]]
   #name = "Conferencistas Anteriores"

@@ -8,4 +8,4 @@ weight: 6
 draft: false
 ---
 
-Al finalizar el evento tendremos la rifa entre todos los registrados al evento de 3 copias del libro electrónico "Data for All" cortesía de Publicaciones Manning
+Al finalizar el evento tendremos la rifa entre todos los registrados al evento de 3 copias del libro electrónico "[Software Engineering for Data Scientists](https://www.manning.com/books/software-engineering-for-data-scientists)" cortesía de Publicaciones Manning.

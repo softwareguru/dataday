@@ -8,4 +8,4 @@ draft: false
 weight: 7
 ---
 
-¡Acompáñanos en nuestro brindis al finalizar el evento (7:15 pm) en el foayer para interactuar con la comunidad de Datos!
+¡Acompáñanos en nuestro brindis al finalizar el evento (6:30 pm) para interactuar con la comunidad de Datos!
