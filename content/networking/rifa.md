@@ -4,7 +4,7 @@ date: 2021-01-06T18:26:06-06:00
 image: images/networking/rifa.png
 button: 
 link: 
-weight: 6
+weight: 1
 draft: false
 ---
 
