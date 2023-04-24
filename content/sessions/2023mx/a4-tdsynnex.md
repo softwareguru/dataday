@@ -1,6 +1,6 @@
 ---
 id: a4
-title: "La revolución de la IA: ¿Estamos preparados para gobernar la explosión de datos?"
+title: "La Revolución de la IA: ¿Estamos preparados para gobernar la explosión de datos?"
 slug: revolucion-ia
 speakers:
  - Felipe Arentsen

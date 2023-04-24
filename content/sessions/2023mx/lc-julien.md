@@ -19,4 +19,8 @@ track: sports-analytics
 
 ---
 
-On our final presentation, we'll explore the exciting realm of Mexican Futbol, including the current state of Mexican clubs, La Liga, and El Tri. We'll also discuss how embracing data-driven environments, namely Moneyball and Commercialization, can help move Mexican Futbol forward. Furthermore, we'll discuss guidelines of creating data-driven environments and offer tips to attendees on how to acquire the necessary skills. Join us for a thought-provoking session on the future of Mexican football.
+On our final presentation, we'll explore the exciting realm of Mexican Futbol, including the current state of Mexican 
+clubs, La Liga, and El Tri. We'll also discuss how embracing data-driven environments, namely Moneyball and 
+Commercialization, can help move Mexican Futbol forward. Furthermore, we'll discuss guidelines of creating 
+data-driven environments and offer tips to attendees on how to acquire the necessary skills. Join us for a 
+thought-provoking session on the future of Mexican football.

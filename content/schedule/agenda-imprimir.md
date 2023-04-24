@@ -1,8 +1,8 @@
 ---
-title: "Agenda"
+title: "Agenda para imprimir"
 date: 2023-02-04T09:37:06-05:00
-url: /agenda
-layout: list-onsite
+url: /agenda-imprimir
+layout: agenda-imprimir
 
 days: 
   - id: mx-23

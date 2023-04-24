@@ -4,6 +4,7 @@
 .venv
 scripts/speakers
 scripts/sessions
+scripts/qr
 
 # Logs
 logs

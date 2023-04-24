@@ -1,6 +1,6 @@
 ---
 id: 2b
-title: "Valuación Financiera de Atletas Profesionales Dirigida Por Datos"
+title: "Valuación Financiera de Atletas Profesionales Dirigida por Datos"
 slug: valuacion-financiera-de-atletas-dirigida-por-datos
 speakers:
  - Gustavo Jiménez

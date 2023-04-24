@@ -1,0 +1,39 @@
+{{ define "main" }}
+{{ partial "page-title.html" . }}
+
+<div class="container">
+
+    {{ range .Params.days }}
+      {{ $curr_day :=  .id }}
+      <h3>{{.title_full}}</h3>
+
+      {{ range .rooms }}
+        <h4>Salón: {{.}}</h4>
+
+        <table class="mb-4">
+          <thead>
+            <tr>
+              <th width="15%">Horario</th>
+              <th>Sesión</th>
+            </tr>
+          </thead>
+          <tbody>
+        {{ range sort (where (where (where $.Site.RegularPages "Section" "sessions") ".Params.day" $curr_day) ".Params.room" .) ".Params.time_start" }}
+            <tr>
+              <td>{{ (.Params.time_start | time).Format "15:04" }} - {{ (.Params.time_end | time).Format "15:04" }}</td>
+              <td>{{ .Title }}{{ with .Params.speakers }}, por {{ delimit . ", " " & " }}.{{ end }}</td>
+            </tr>    
+        {{ end }}  
+          </tbody>
+        </table>
+        
+
+      {{ end }}
+
+    {{ end }}
+
+</div>
+
+  
+
+{{ end }}
