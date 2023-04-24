@@ -8,7 +8,7 @@ time_start: 2023-04-25T15:40:00-06:00
 time_end:   2023-04-25T16:15:00-06:00 
 tags:
 day: mx-23
-timeslot: h
+timeslot: g
 timeorder: 0
 room: México 1-2
 language: 
