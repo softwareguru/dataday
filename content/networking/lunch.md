@@ -8,4 +8,4 @@ weight: 5
 draft: false
 ---
 
-Acompañanos a la hora de comida  y comparte con participantes, ponentes y patrocinadores.
+Acompáñanos a la hora de comida  y comparte con participantes, ponentes y patrocinadores.
