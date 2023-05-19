@@ -2,7 +2,7 @@
 ######################## default configuration ####################
 baseURL = "https://sg.com.mx/dataday/"
 publishDir = "public/dataday"
-title = "Data Day"
+title = "Data Day Online"
 enableRobotsTXT = true
 RemovePathAccents = true
 
@@ -37,10 +37,10 @@ home = ["HTML", "RSS"]
   URL = "about-us"
   weight = 1
 
-  [[menu.main]]
-  name = "Agenda"
-  URL = "agenda"
-  weight = 2
+  # [[menu.main]]
+  # name = "Agenda"
+  # URL = "agenda"
+  # weight = 2
 
   #[[menu.main]]
   #name = "Sesiones anteriores"
@@ -52,10 +52,10 @@ home = ["HTML", "RSS"]
   URL = "speakers"
   weight = 3
 
-  [[menu.main]]
-  name = "Networking"
-  URL = "networking"
-  weight = 3
+  # [[menu.main]]
+  # name = "Networking"
+  # URL = "networking"
+  # weight = 3
 
 
   #[[menu.main]]
@@ -85,8 +85,8 @@ email = "eventos@sg.com.mx"
 author = "Software Guru"
 disclaimer = ""
 
-start_date = "2023-04-25T8:30-05:00"
-end_date = "2023-04-25T19:00-05:00"
+start_date = "2023-05-24T10:00-05:00"
+end_date = "2023-05-26T16:00-05:00"
 
 [params.venue]
 name = "Hotel Bel Air Unique Mexico City WTC"
