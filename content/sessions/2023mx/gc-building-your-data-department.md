@@ -5,10 +5,10 @@ slug: building-your-data-department
 speakers:
  - Bryce Murphy
  - Rodrigo Picchioni
-time_start: 2023-04-25T15:00:00-06:00
-time_end:   2023-04-25T15:35:00-06:00
-day: mx-23
-timeslot: g
+time_start: 2023-05-26T13:30:00-06:00
+time_end:   2023-05-26T14:00:00-06:00
+day: 23mxo3
+timeslot: a
 timeorder: 0
 room: México 3-5
 language: 

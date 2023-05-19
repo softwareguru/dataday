@@ -4,10 +4,10 @@ title: Cómo Generar Nuevas Fuentes de Ingreso en Equipos Deportivos por Medio d
 slug: generar-nuevas-fuentes
 speakers:
  - Marino Arnaiz
-time_start: 2023-04-25T15:40:00-06:00
-time_end:   2023-04-25T16:15:00-06:00
-day: mx-23
-timeslot: h
+time_start: 2023-05-26T12:00:00-06:00
+time_end:   2023-05-26T12:30:00-06:00
+day: 23mxo3
+timeslot: a
 timeorder: 0
 room: México 3-5
 language: 

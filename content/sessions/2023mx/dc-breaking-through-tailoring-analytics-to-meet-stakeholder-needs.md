@@ -5,10 +5,10 @@ slug: breaking-through-tailoring-analytics-to-meet-stakeholder-needs
 speakers:
  - David Vallett
  - Darian Ignatius
-time_start: 2023-04-25T12:40:00-06:00
-time_end:   2023-04-25T13:15:00-06:00
-day: mx-23
-timeslot: d
+time_start: 2023-05-26T11:00:00-06:00
+time_end:   2023-05-26T11:30:00-06:00
+day: 23mxo3
+timeslot: a
 timeorder: 0
 room: México 3-5
 language: 

@@ -4,12 +4,12 @@ title: "Cómo Utilizar la Inteligencia Artificial para Contribuir a la Política
 slug: utilizar-ia-para-contribuir-politica-publica-educacion
 speakers:
  - Jorge Arturo Hernandez Almazan
-time_start: 2023-04-25T17:15:00-06:00
-time_end:   2023-04-25T17:50:00-06:00
-day: mx-23
-timeslot: k
+time_start: 2023-05-24T10:30:00-06:00
+time_end:   2023-05-24T11:00:00-06:00
+day: 23mxo1
+timeslot: b
 timeorder: 0
-room: Crowne
+room: Airmeet
 language: 
 live_url: 
 tags:

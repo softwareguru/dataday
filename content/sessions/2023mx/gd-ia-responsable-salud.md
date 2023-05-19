@@ -4,12 +4,11 @@ title: Inteligencia Artificial Responsable en el Cuidado de la Salud
 slug: ia-responsable-salud
 speakers:
  - Lourdes Martínez Villaseñor
-time_start: 2023-04-25T15:00:00-06:00
-time_end:   2023-04-25T15:35:00-06:00
-day: mx-23
-timeslot: g
-timeorder: 0
-room: Crowne
+time_start: 2023-05-24T11:00:00-06:00
+time_end:   2023-05-24T11:30:00-06:00
+day: 23mxo1
+timeslot: a
+room: Airmeet
 language: 
 live_url: 
 track: public-policy

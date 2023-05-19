@@ -4,17 +4,17 @@ title: Solving the Distributed Data Problem
 slug: solving-the-distributed-data-problem
 speakers:
  - Aaron Ploetz
-time_start: 2023-04-25T11:00:00-06:00
-time_end:   2023-04-25T11:30:00-06:00
-day: mx-23
+time_start: 2023-05-24T10:00:00-06:00
+time_end:   2023-05-24T10:30:00-06:00
+day: 23mxo1
 timeslot: a
-timeorder: 6
-room: México 1-2
+timeorder: 1
+room: Airmeet
 language: 
 live_url: 
 slides: 
 video: 
-track: fintech
+track: tools
 tags:
 ---
 

@@ -5,14 +5,14 @@ slug: asc-remote-edge-computing
 speakers:
  - Juan Carlos Gómez Zea
  - Daniel Cadenas
-time_start: 2023-04-25T09:30:00-06:00
-time_end:   2023-04-25T10:00:00-06:00
-day: mx-23
+time_start: 2023-05-25T10:00:00-06:00
+time_end:   2023-05-25T10:30:00-06:00
+day: 23mxo2
 timeslot: a
 timeorder: 3
 room: México 1-2
 language: 
-track: public-policy
+track: tools
 live_url: 
 slides: 
 video: 

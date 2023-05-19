@@ -4,17 +4,17 @@ title: "Caso de estudio: Arquitectura de datos en Salud Digna"
 slug: salud-digna-arquitectura
 speakers:
  - Hector Arturo Velasco Ayala
-time_start: 2023-04-25T16:20:00-06:00
-time_end:   2023-04-25T16:55:00-06:00
-day: mx-23
-timeslot: i
+time_start: 2023-05-25T15:30:00-06:00
+time_end:   2023-05-25T16:00:00-06:00
+day: 23mxo2
+timeslot: a
 timeorder: 0
 room: México 1-2
 language: 
 live_url: 
 slides: 
 video: 
-track: fintech
+track: tools
 tags:
 summary: "Implementación de un data warehouse usando Azure Synapse Analytics."
 ---

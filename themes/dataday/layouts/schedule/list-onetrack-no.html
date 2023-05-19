@@ -3,7 +3,7 @@
 
 <div class="container">
     <div class="content mt-4"> 
-        {{ .Content }} Hola mundo
+        {{ .Content }}
     </div>
 
     <h3 class="mt-4">Tracks</h3> 
@@ -24,7 +24,7 @@
             {{ $time_id := .id }}
             {{ $time_label := .time_start | time }}
             <div class="time-row {{ .type }}">
-                <div class="time-label">{{ $time_label.Format "15:04" }}</div>
+                <div class="time-label"></div>
                 {{ if eq .type "break" }}
                     <div class="time-room">
                         <div class="session-item">

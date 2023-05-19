@@ -4,15 +4,15 @@ title: "Tutorial: Crea pipelines escalables para series de tiempo con ML Forecas
 slug: mlforecast
 speakers:
  - Fede Garza
-time_start: 2023-04-25T13:20:00-06:00
-time_end:   2023-04-25T13:55:00-06:00
-day: mx-23
-timeslot: e
+time_start: 2023-05-25T16:00:00-06:00
+time_end:   2023-05-25T16:30:00-06:00
+day: 23mxo2
+timeslot: a
 timeorder: 0
 room: Crowne
 language: 
 live_url: 
-track: workshop
+track: tools
 tags:
 slides: 
 video: 

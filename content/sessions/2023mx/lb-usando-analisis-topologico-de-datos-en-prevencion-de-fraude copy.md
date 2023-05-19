@@ -4,10 +4,10 @@ title: "Usando Análisis Topológico De Datos en Prevención De Fraude"
 slug: usando-analisis-topologico-de-datos-en-prevencion-de-fraude
 speakers:
  - Christian Ramirez
-time_start: 2023-04-25T17:55:00-06:00
-time_end:   2023-04-25T18:30:00-06:00
-day: mx-23
-timeslot: l
+time_start: 2023-05-25T16:30:00-06:00
+time_end:   2023-05-25T17:00:00-06:00
+day: 23mxo2
+timeslot: a
 timeorder: 0
 room: México 1-2
 language: 

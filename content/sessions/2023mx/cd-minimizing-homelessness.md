@@ -4,11 +4,10 @@ title: "Minimizing Entry Into Homelessness Following Eviction"
 slug: minimizing-entry-into-homelessness
 speakers:
  - Catalina Vajiac
-time_start: 2023-04-25T12:00:00-06:00
-time_end:   2023-04-25T12:35:00-06:00
-tags:
-day: mx-23
-timeslot: c
+time_start: 2023-05-24T16:00:00-06:00
+time_end:   2023-05-24T16:30:00-06:00
+day: 23mxo1
+timeslot: a
 timeorder: 0
 room: Crowne
 language: 

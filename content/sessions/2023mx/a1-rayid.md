@@ -4,12 +4,12 @@ title: "What Can Data Science Do for Your City?"
 slug: what-can-data-science-do-for-your-city
 speakers:
  - Rayid Ghani
-time_start: 2023-04-25T09:00:00-06:00
-time_end:   2023-04-25T09:30:00-06:00
-day: mx-23
-timeslot: a
-timeorder: 2
-room: México 1-2
+time_start: 2023-05-24T12:30:00-06:00
+time_end:   2023-05-24T13:00:00-06:00
+day: 23mxo1
+timeslot: f
+timeorder: 1
+room: Airmeet
 language: 
 track: public-policy
 live_url: 

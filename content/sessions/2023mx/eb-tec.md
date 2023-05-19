@@ -4,10 +4,10 @@ title: "Ciencia de Ciudades en América Latina"
 slug: tec
 speakers: 
  - Roberto Ponce López
-time_start: 2023-04-25T13:20:00-06:00
-time_end:   2023-04-25T13:55:00-06:00
-day: mx-23
-timeslot: e
+time_start: 2023-05-24T15:00:00-06:00
+time_end:   2023-05-24T15:30:00-06:00
+day: 23mxo1
+timeslot: a
 timeorder: 0
 room: México 1-2
 language: 

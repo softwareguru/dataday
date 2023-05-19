@@ -4,10 +4,10 @@ title: "Análisis De Riesgo en Finanzas Descentralizadas (DeFi)"
 slug: analisis-de-riesgo-en-finanzas-descentralizadas-defi
 speakers:
  - Hector Cuesta
-time_start: 2023-04-25T17:15:00-06:00
-time_end:   2023-04-25T17:50:00-06:00
-day: mx-23
-timeslot: k
+time_start: 2023-05-25T10:30:00-06:00
+time_end:   2023-05-25T11:00:00-06:00
+day: 23mxo2
+timeslot: a
 timeorder: 0
 room: México 1-2
 language: 

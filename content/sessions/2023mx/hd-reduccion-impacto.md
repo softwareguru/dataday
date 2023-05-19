@@ -4,10 +4,10 @@ title: "Reducción del Impacto de las Crisis de Salud Mental y de Comportamiento
 slug: reducing-the-impact-of-behavioral-health-crises-a-data-science-case-study
 speakers:
  - Núria Adell Raventós
-time_start: 2023-04-25T15:40:00-06:00
-time_end:   2023-04-25T16:15:00-06:00
-day: mx-23
-timeslot: h
+time_start: 2023-05-24T15:30:00-06:00
+time_end:   2023-05-24T16:00:00-06:00
+day: 23mxo1
+timeslot: a
 timeorder: 0
 room: Crowne
 language: 

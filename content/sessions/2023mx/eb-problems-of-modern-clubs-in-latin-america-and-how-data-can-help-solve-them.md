@@ -4,10 +4,10 @@ title: "Problems of Modern Clubs in Latin America and How Data Can Help Solve Th
 slug: problems-of-modern-clubs-in-latin-america-and-how-data-can-help-solve-them
 speakers:
  - Mayela Reyna
-time_start: 2023-04-25T13:20:00-06:00
-time_end:   2023-04-25T13:55:00-06:00
-day: mx-23
-timeslot: e
+time_start: 2023-05-26T10:30:00-06:00
+time_end:   2023-05-26T11:00:00-06:00
+day: 23mxo3
+timeslot: a
 timeorder: 0
 room: México 3-5
 language: 

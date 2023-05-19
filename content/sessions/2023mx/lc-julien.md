@@ -4,10 +4,10 @@ title: "Paving Mexican Futbol's Future With Data"
 slug: lc
 speakers:
  - Julian Sfeir
-time_start: 2023-04-25T17:55:00-06:00
-time_end:   2023-04-25T18:30:00-06:00
-day: mx-23
-timeslot: l
+time_start: 2023-05-26T11:30:00-06:00
+time_end:   2023-05-26T12:00:00-06:00
+day: 23mxo3
+timeslot: a
 timeorder: 0
 room: México 3-5
 language: 
