@@ -4,10 +4,10 @@ title: "Caso de Estudio de ML en Producción: Modelo de originación de Clara"
 slug: ml-produccion-clara
 speakers:
  - María Lanza
-time_start: 2023-04-25T15:40:00-06:00
-time_end:   2023-04-25T16:15:00-06:00
-day: mx-23
-timeslot: h
+time_start: 2023-05-25T13:00:00-06:00
+time_end:   2023-05-25T13:30:00-06:00
+day: 23mxo2
+timeslot: a
 timeorder: 0
 room: México 1-2
 language: 
