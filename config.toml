@@ -99,8 +99,8 @@ country = "Mexico"
 # Navigation button
 [params.navigation_button]
 enable = true
-label = "BOLETOS"
-link = "/dataday/tickets2023mx"
+label = "INGRESA"
+link = "https://us.airmeet.com/e/10982d20-e099-11ed-94c0-498788f20703"
 
 
 ############################# social icon ############################
