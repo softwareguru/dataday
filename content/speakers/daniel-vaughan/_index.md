@@ -12,7 +12,7 @@ linkedin: https://www.linkedin.com/in/daniel-vaughan-1462212/
 github: ""
 events: 
  - 2023mx
-draft: true 
+
 ---
 
 Daniel Vaughan es autor de O'Reilly ("Analytical Skills for AI and Data Science", 2020) y ha liderado equipos de ciencia de datos en varias empresas de los sectores fintech, bancario, hospitalidad y telecomunicaciones.  En la actualidad se encuentra escribiendo su segundo libro titulado "Data Science: The Hard Parts" por publicarse en junio de 2023.
