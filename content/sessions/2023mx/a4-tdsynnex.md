@@ -4,9 +4,9 @@ title: "La Revolución de la IA: ¿Estamos preparados para gobernar la explosió
 slug: revolucion-ia
 speakers:
  - Felipe Arentsen
-time_start: 2023-04-25T10:30:00-06:00
-time_end:   2023-04-25T11:00:00-06:00
-day: mx-23
+time_start: 2023-05-25T12:30:00-06:00
+time_end:   2023-05-25T13:00:00-06:00
+day: 23mxo2
 timeslot: a
 timeorder: 5
 room: México 1-2
