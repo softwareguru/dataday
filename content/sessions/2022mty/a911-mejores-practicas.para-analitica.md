@@ -15,7 +15,8 @@ timeorder: 1
 track: case-study 
 live_url: 
 slides: DDMty2022-ArcaContal.pdf
-video: https://www.crowdcast.io/e/ddmty2022-online/17
+#video: https://www.crowdcast.io/e/ddmty2022-online/17
+video: https://youtu.be/p7u3J3kS4P4
 summary: Lecciones aprendidas para mantener y extender modelos predictivos hacia otros países o unidades de negocio.
 ---
 

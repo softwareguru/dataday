@@ -14,7 +14,8 @@ timeorder: 5
 track: case-study
 live_url: 
 slides: DDMty2022-Snowflake.pdf
-video: https://www.crowdcast.io/e/ddmty2022-online/14
+#video: https://www.crowdcast.io/e/ddmty2022-online/14
+video: https://youtu.be/ke3qA7GuLyo
 draft: false
 summary: En esta charla presentada por Snowflake compartiremos el caso de estudio de cómo Cemex mejoró dramáticamente su agilidad y gobierno de datos por medio de Snowflake Datalake y posteriormente mostraremos un caso de uso end-to-end usando datos públicos del INEGI con ETL con Snowpark Python y visualización a través de Streamlit.
 ---

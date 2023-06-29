@@ -14,7 +14,8 @@ timeorder: 4
 track: data4good
 live_url: 
 slides: DDMty2022-ResponsibleAI-Kit.pdf
-video: https://www.crowdcast.io/e/ddmty2022-online/13
+#video: https://www.crowdcast.io/e/ddmty2022-online/13
+video: https://youtu.be/HfJ6vbYRj1o
 draft: false
 summary: We will walk through success stories of data science applied to public policy, and extract lessons and suggestions for how this can be applied in Monterrey.
 ---

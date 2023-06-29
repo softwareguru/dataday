@@ -14,7 +14,8 @@ timeorder: 7
 track: mlops
 live_url: 
 slides: 
-video: https://www.crowdcast.io/e/ddmty2022-online/9
+#video: https://www.crowdcast.io/e/ddmty2022-online/9
+video: https://youtu.be/Ycr_D2YIw9o
 draft: false
 ---
 

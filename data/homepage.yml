@@ -13,8 +13,8 @@ banner:
     link : "agenda"
   button2:
     enable : true
-    label : "Ir a evento online"
-    link : "https://us.airmeet.com/e/10982d20-e099-11ed-94c0-498788f20703"
+    label : "Ver sesiones anteriores"
+    link : "sessions/"
 
 
 ############################## Event ##############################

@@ -14,7 +14,8 @@ timeorder: 3
 track: case-study
 live_url: 
 slides: DDMty2022-MakingAgileWork-Erika.pdf
-video: https://www.crowdcast.io/e/ddmty2022-online/16
+#video: https://www.crowdcast.io/e/ddmty2022-online/16
+video: https://youtu.be/DzHAkldxUSo
 summary: Data science initiativas can benefit from following Agile development practices. In this talk we will review how to successfully adopt agile development practices in data teams. 
 ---
 

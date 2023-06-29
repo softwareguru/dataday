@@ -15,7 +15,8 @@ timeorder: 2
 track: case-study
 live_url: 
 slides: DDMty2022-SaludDigna.pdf
-video: https://www.crowdcast.io/e/ddmty2022-online/20
+#video: https://www.crowdcast.io/e/ddmty2022-online/20
+video: https://youtu.be/rYFCAUL7oBs
 summary: Compartiremos cómo en Salud Digna hemos logrado establecer un laboratorio óptico 100% automatizado por medio de  modelos automatizados de supervisión.
 ---
 

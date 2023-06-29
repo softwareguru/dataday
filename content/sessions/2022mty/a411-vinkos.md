@@ -14,7 +14,8 @@ timeorder: 1
 track: case-study
 live_url: 
 slides: DDMty2022-UniversalDataDistribution-VinkOS.pdf
-video: https://www.crowdcast.io/e/ddmty2022-online/23
+#video: https://www.crowdcast.io/e/ddmty2022-online/23
+video: https://youtu.be/lV62iOdtCL0
 draft: false
 summary: Platicaremos sobre la visión denominada "Universal Data Distribution (UDD)", la cual busca que las empresas puedan tomar el control de sus flujos de datos, desde el origen hasta todos los puntos de consumo.
 ---

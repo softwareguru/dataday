@@ -14,7 +14,8 @@ timeorder: 2
 track: case-study
 live_url: 
 slides: DDMty2022-Banregio.pdf
-video: https://www.crowdcast.io/e/ddmty2022-online/26
+#video: https://www.crowdcast.io/e/ddmty2022-online/26
+video: https://youtu.be/5XpUd_DXb0U
 draft: false
 ---
 
