@@ -14,7 +14,8 @@ timeorder: 2
 track: case-study
 live_url: 
 slides: DDMty2022-Microsoft.pdf
-video: https://www.crowdcast.io/e/ddmty2022-online/1
+#video: https://www.crowdcast.io/e/ddmty2022-online/1
+video: https://youtu.be/CXzo-xaBang
 
 ---
 

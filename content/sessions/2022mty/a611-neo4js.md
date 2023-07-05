@@ -14,7 +14,8 @@ timeorder: 1
 track: case-study
 live_url: 
 slides: DDMty2022-Neo4J2.pdf
-video: https://www.crowdcast.io/e/ddmty2022-online/6
+#video: https://www.crowdcast.io/e/ddmty2022-online/6
+video: https://youtu.be/jXeyY_vtqtk
 summary: Aprenderemos cómo podemos aprovechar las características de las bases de datos orientadas a grafos, especialmente Neo4J, para construir sistemas de recomendación poderosos.
 
 ---

@@ -14,7 +14,8 @@ timeorder: 3
 track: workshop
 live_url: 
 slides: DDMty2022-NotebookPipeline-Sebastian.pdf
-video: https://www.crowdcast.io/e/ddmty2022-online/7
+#video: https://www.crowdcast.io/e/ddmty2022-online/7
+video: https://youtu.be/duRcHjyzSCU
 summary: Laboratorio práctico enfocado a convertir un notebook de limpieza y entrenamiento en un flujo completamente automatizado
 draft: false
 ---

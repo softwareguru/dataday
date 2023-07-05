@@ -14,7 +14,8 @@ timeorder: 2
 track: workshop
 live_url: 
 slides: 
-video: https://www.crowdcast.io/e/ddmty2022-online/2
+#video: https://www.crowdcast.io/e/ddmty2022-online/2
+video: https://youtu.be/9-qLPTJbax8
 summary: Laboratorio práctico para familiarizarse con DataStax Astra. una base de datos serverless basada en Apache Cassandra.
 ---
 

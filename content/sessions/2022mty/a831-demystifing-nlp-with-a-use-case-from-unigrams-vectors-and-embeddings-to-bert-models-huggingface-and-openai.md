@@ -14,7 +14,8 @@ timeorder: 3
 track: mlops
 live_url: 
 slides: DDMty2022-Demistifying-Angel.pdf
-video: https://www.crowdcast.io/e/ddmty2022-online/3
+#video: https://www.crowdcast.io/e/ddmty2022-online/3
+video: https://youtu.be/pmqiA6MZBGo
 summary: Daremos un vistazo a cómo se implementa una solución de Procesamiento de Lenguaje Natural.
 ---
 
