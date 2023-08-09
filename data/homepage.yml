@@ -3,14 +3,16 @@ banner:
   enable : true
   greeting: Bienvenido a
   title : "Data Day"
-  tagline: "Aprendizaje, inspiración y vinculación para profesionales de datos"
-  meta: "Experiencia online: 24 al 26 de mayo de 2023"
+  tagline: "Data Science desde el corazón industrial de MX"
+  meta: "14 de noviembre de 2023"
+  lugar: "Escuela de Gobierno y Transformación Público del Tecnológico de Monterrey
+San Pedro Garza García, Nuevo León, México."
   logo : "/images/logo.svg"
   venue : ""
   button1:
-    enable : false
-    label : "Consulta la agenda"
-    link : "agenda"
+    enable : true
+    label : "Boletos"
+    link : "tickets"
   button2:
     enable : true
     label : "Ver sesiones anteriores"

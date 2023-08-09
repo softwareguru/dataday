@@ -78,8 +78,8 @@ home = "Home"
 
 # Meta data
 description = "Data Day es el congreso líder de ciencia e ingeniería de datos. La próxima edición es el 25 de abril de 2023 en Ciudad de México."
-image = "images/card-2023mx.jpg"
-images = ["images/card-2023mx.jpg"]
+image = "images/card-2023mty.jpg"
+images = ["images/card-2023mty.jpg"]
 twitter_user = "@revistasg"
 email = "eventos@sg.com.mx"
 author = "Software Guru"
@@ -98,9 +98,9 @@ country = "Mexico"
 
 # Navigation button
 [params.navigation_button]
-enable = false
-label = "INGRESA"
-link = "https://us.airmeet.com/e/10982d20-e099-11ed-94c0-498788f20703"
+enable = true
+label = "Boletos"
+link = "tickets"
 
 
 ############################# social icon ############################

@@ -8,34 +8,26 @@ aliases:
 ---
 
 
-<div id="eventbrite-widget-container-529898519737"></div>
+<div id="eventbrite-widget-container-689687633277"></div>
 
-<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+<script src="https://www.eventbrite.com.mx/static/widgets/eb_widgets.js"></script>
 
 <script type="text/javascript">
     var exampleCallback = function() {
-        console.log('Order complete!');
+        console.log('Pedido completo');
     };
 
     window.EBWidgets.createWidget({
         // Required
         widgetType: 'checkout',
-        eventId: '529898519737',
-        iframeContainerId: 'eventbrite-widget-container-529898519737',
+        eventId: '689687633277',
+        iframeContainerId: 'eventbrite-widget-container-689687633277',
 
         // Optional
-        iframeContainerHeight: 580,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
         onOrderComplete: exampleCallback  // Method called when an order has successfully completed
     });
 </script>
-
-### ¿Qué incluye tu boleto?
-
-El boleto a Data Day incluye:
- * Acceso a todas las conferencias y talleres en persona.
- * Comida a medio día, servicio de café durante breaks, y coctél al cierre del evento.
- * Acceso al evento en línea (11 de mayo) con grabaciones de las charlas así como talleres en línea en vivo.
- * Constancia de participación (digital).
 
 
 ### Formas de pago
@@ -47,7 +39,3 @@ El boleto a Data Day incluye:
  * Si el evento es cancelado o pospuesto por cualquier razón fuera del alcance de los participantes, sus boletos serán reembolsados íntegramente.
  * Un participante que ha adquirido un boleto puede cancelarlo hasta 30 días antes del evento y obtener su reembolso completo directamente via Eventbrite.
  * Si faltan menos de 30 días para el evento, no es posible cancelarlo pero sí transferirlo. Simplemente notifícanos para que actualicemos los datos del boleto.
-
-### Descuentos
-
-La fase 1 y 2 de pases tempraneros han terminado. Pero, tenemos 20% de descuento para mujeres, estudiantes y profesionistas independientes. Ponte en contacto con nosotros para solicitar tu código de descuento.
