@@ -2,7 +2,7 @@
 ######################## default configuration ####################
 baseURL = "https://sg.com.mx/dataday/"
 publishDir = "public/dataday"
-title = "Data Day Online"
+title = "Data Day MTY"
 enableRobotsTXT = true
 RemovePathAccents = true
 
