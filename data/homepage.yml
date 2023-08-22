@@ -5,7 +5,7 @@ banner:
   title : "Data Day"
   tagline: "Data Science desde el corazón industrial de MX"
   meta: "14 de noviembre de 2023"
-  lugar: "Escuela de Gobierno y Transformación Público del Tecnológico de Monterrey
+  lugar: "Escuela de Gobierno y Transformación Pública del Tecnológico de Monterrey <br>
 San Pedro Garza García, Nuevo León, México."
   logo : "/images/logo.svg"
   venue : ""
@@ -15,8 +15,8 @@ San Pedro Garza García, Nuevo León, México."
     link : "tickets"
   button2:
     enable : true
-    label : "Ver sesiones anteriores"
-    link : "sessions/"
+    label : "Envia tu propuesta"
+    link : "https://convoca.dev/data-day-monterrey-2023/cfp"
 
 
 ############################## Event ##############################
