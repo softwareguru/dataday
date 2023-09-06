@@ -7,52 +7,18 @@ sponsor_group:
 - title: "Platinum"
   slug: platinum
   sponsor:
-    - logo : "images/sponsors/datastax.jpg"
-      link : "https://www.datastax.com/"
-    - logo : "images/sponsors/Couchbase.png"
-      link : "https://www.couchbase.com/"
-    - logo : "images/sponsors/td-synnex+ibm.png"
-      link : "https://site.tdsynnex.com/ibm-cloud-paks/p/1"
-    - logo : "images/sponsors/factor-it.png"
-      link : "https://factorit.com/"
+    - logo : "images/sponsors/Escuela-de-gobierno.png"
+      link : "https://egobiernoytp.tec.mx/es"
+    - logo : "images/sponsors/Logo_US_CMMI.png"
+      link : "https://www.ultrasist.mx/ultrasite/"
+
 
 
 - title: "gold"
   slug: gold
   sponsor:
-    - logo : "images/sponsors/elastic.png"
-      link : "https://www.elastic.co/"
-    - logo : "images/sponsors/EGob-logo.png"
-      link : "https://egobiernoytp.tec.mx/es"
-
-
-- title: "Silver"
-  slug: silver
-  sponsor:
-    - logo : "images/sponsors/Logo_Panamericana.png"
-      link : "http://up.edu.mx"
-    - logo : "images/sponsors/PepsiCo.png"
-      link : "https://pepjobs.mypepsico.com/main/"
-    - logo : "images/sponsors/BBVA_blue.png"
-      link : "https://bbva.csod.com/ux/ats/careersite/15/home/requisition/207984?c=bbva"
-    - logo : "images/sponsors/Factored.png"
-      link : "https://factored.ai/join-us/"
-
-
-- title: "Organismos de apoyo"
-  slug: community
-  sponsor: 
-    - logo : "images/sponsors/prosoftware.png"
-      link : "https://www.prosoftware.store/"
-    - logo : "images/sponsors/Csoftmty.png"
-      link : "https://csoftmty.org/"
-    - logo : "images/sponsors/Amiti.png"
-      link : "https://ttrem.amiti.org.mx/"
-    - logo : "images/sponsors/EL-MISTER.png"
-      link : "https://elmister.substack.com/"
-    - logo : "images/sponsors/manning.png"
-      link : "https://www.manning.com/?utm_source=conference&utm_medium=organic&utm_campaign=datadaymx_2023&utm_content=discount"
-
+    - logo : "images/sponsors/Softtek.png"
+      link : "https://www.softtek.com/es-mx/haz-tu-carrera-en-softtek"
 
 
 
