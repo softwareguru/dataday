@@ -21,6 +21,8 @@ sponsor_group:
   sponsor:
     - logo : "images/sponsors/Softtek.png"
       link : "https://www.softtek.com/es-mx/haz-tu-carrera-en-softtek"
+    - logo : "images/sponsors/CIIIA_Logo.png"
+      link : "https://www.ciiia.mx/"
 
 
 
