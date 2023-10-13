@@ -3,14 +3,22 @@ title: "Juan Baldemar Garza Villegas"
 images:
  - images/speakers/juan_baldemar.jpg
 date: 2019-09-25
-
+linkedin: ""
+designation: "Continuous Improvement Specialist (Data Science & Analytics)  Problem Solver making data useful"
 events:
+ - 2023mty
  - 2022
  - 2019mty
 ---
 
-Ingeniero Mecánico Administrador con Maestría en Administración y Doctorado con línea de investigación en Analítica, Calidad, Mejora Continua e Innovación, por la Universidad Autónoma de Nuevo León.
+Más de 20 años de experiencia ejecutiva en la industria privada en las áreas de Analítica y Ciencia de Datos, Gestión de Proyectos, Calidad, Ingeniería Industrial, Mejora Continua, Simulación e Innovación. 
 
-Consultor con más de 18 años de experiencia en temas de analítica y ciencia de datos, calidad, productividad, mejora continua, analítica descriptiva y predictiva de negocios en diferentes organizaciones como el sector industrial, comercial, servicios, gobierno y salud. Participa también como Profesor e Investigador de Posgrado y cuerpo de instructores del Diplomado de Data Science en la UDEM.
+Actualmente es Especialista Sr. de Mejora Continua, Analítica y Ciencia de Datos en Viakable.
+
+Profesor e Investigador de Posgrado de la Universidad de Monterrey. (UDEM)
+
+Instructor y consultor certificado en Industria 4.0, Ciencia de Datos, IA, Calidad 4.0, People Analytics y Mejora Continua.
+ 
+Instructor del Diplomado en Analítica y Ciencia de Datos de la UDEM.
 
 &nbsp;

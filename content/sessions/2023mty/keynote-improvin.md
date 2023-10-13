@@ -1,7 +1,7 @@
 ---
-id: {{ .Name }}
-title: "{{ replace .Name "-" " " | title }}"
-slug: {{ .Name }}
+id: keynote-improvin
+title: "Keynote Improvin"
+slug: keynote-improvin
 speakers:
  - 
 time_start: 2023-11-14T09:00:00-06:00
@@ -12,7 +12,7 @@ timeorder: 1
 room: Sala 1 
 language: 
 live_url: 
-track: 
+track: keynote
 tags:
 slides: 
 video: 

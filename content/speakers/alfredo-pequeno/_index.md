@@ -1,8 +1,8 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "Alfredo Pequeno"
+date: 2023-10-13T17:19:06-06:00
 images : 
- - "images/speakers/{{ .Name }}.jpg"
+ - "images/speakers/speaker.jpg"
 designation : ""
 country: ""
 facebook: ""

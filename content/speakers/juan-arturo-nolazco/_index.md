@@ -1,8 +1,8 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "Juan Arturo Nolazco"
+date: 2023-10-13T15:31:28-06:00
 images : 
- - "images/speakers/{{ .Name }}.jpg"
+ - "images/speakers/speaker.jpg"
 designation : ""
 country: ""
 facebook: ""
