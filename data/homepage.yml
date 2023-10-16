@@ -16,7 +16,7 @@ San Pedro Garza García, Nuevo León, México."
   button2:
     enable : true
     label : "Consulta la agenda"
-    link : "/dataday/agenda"
+    link : "https://sg.com.mx/dataday/agenda/"
 
 
 ############################## Event ##############################
