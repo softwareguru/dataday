@@ -47,10 +47,10 @@ home = ["HTML", "RSS"]
   URL = "sessions/"
   weight = 2
 
-  #[[menu.main]]
-  #name = "Conferencistas"
-  #URL = "speakers"
-  #weight = 3
+  [[menu.main]]
+  name = "Conferencistas"
+  URL = "speakers"
+  weight = 3
 
   # [[menu.main]]
   # name = "Networking"
@@ -58,10 +58,6 @@ home = ["HTML", "RSS"]
   # weight = 3
 
 
-  [[menu.main]]
-  name = "Conferencistas Anteriores"
-  URL = "speakers/archive"
-  weight = 3
 
   [[menu.main]]
   name = "FAQ"

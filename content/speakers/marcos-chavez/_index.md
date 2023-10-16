@@ -1,14 +1,14 @@
 ---
-title: "Marcos Chavez"
+title: "Marcos Chávez"
 date: 2023-10-13T17:12:08-06:00
 images : 
  - "images/speakers/marcos-chavez.jpg"
-designation : ""
+designation : Gerente de Analítica Avanzada en Xignux
 country: ""
 facebook: ""
 instagram: ""
 twitter: ""
-linkedin: ""
+linkedin: https://www.linkedin.com/in/marchavez/
 github: ""
 events: 
  - 2023mty

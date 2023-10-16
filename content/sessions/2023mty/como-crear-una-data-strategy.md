@@ -1,21 +1,17 @@
 ---
-id: como-crear-una-data-strategy
-title: "Como Crear Una Data Strategy"
-slug: como-crear-una-data-strategy
+title: "Taller: Cómo Crear una Estrategia de Datos"
+slug: taller-data-strategy
 speakers:
  - Jessica Zuñiga
-time_start: 2023-11-14T09:00:00-06:00
-time_end:   2023-11-14T10:00:00-06:00
-day: mty-23
-timeslot: 1
-timeorder: 1
-room: Sala 1 
-language: 
-live_url: 
-track: Casos de estudio de organizaciones dirigidas por datos
-tags:
+time_start: 2023-11-14T11:30:00-06:00
+time_end:   2023-11-14T12:10:00-06:00
+day: 2023mty
+room: Sala 3
+track: Liderazgo de organizaciones de datos
 slides: 
 video: 
+gridarea: "8/4/10/5"
+
 ---
 
 Como profesionistas de Datos, ¿Cómo demostramos el valor de tener una solida gestión de datos e información en la empresa? ¿Cuál es el beneficio al negocio? ¿Buenas prácticas? ¿Metodologías? ¿Gobierno de Datos?

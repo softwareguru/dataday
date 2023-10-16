@@ -80,20 +80,7 @@
 	color: $secondary-color;
 }
 
-.time-row {
-	margin-bottom: 1em;
-	grid-column-gap: 1em;
-}
 
-.time-row.concurrent {
-	display: grid;
-	grid-template-columns: 50px 1fr 1fr 1fr;
-}
-
-.time-row.keynote, .time-row.break {
-	display: grid;
-	grid-template-columns: 50px 1fr;
-}
 
 @media (max-width: 576px) {
 	.time-label { grid-area: 1 / 1 / 4 / 2; }
@@ -101,17 +88,15 @@
 	.room-2 { grid-area: 2 / 2 / 3 / 5; }
 	.room-3 { grid-area: 3 / 2 / 4 / 5; }  
 }
-  
-.session-item {
-	background-color: #d0d0d0;
+
+.session-item, .activity {
+	background-color: #c0c0c040;
 	margin-bottom: 0.5em;
 	padding: 0.8em;  
 	border-radius: 10px;
 }
 
-.session-item.order-0 {
-    height:95%;
-}
+
 
 .session-time {
 	white-space: nowrap;
@@ -123,20 +108,15 @@
 	color: #606060;
 }
 
-.local-room {
-	font-size: 0.9em;
-}
-
 .session-title {
 	font-weight: 500;
 }
 
 .session-title a {
 	color: #404040;	
-//	color:rgba(0, 0, 0, 0.574);
 }
 .session-title a:hover {
-	color: #ffffff;
+	text-decoration: underline;
 }
 
 .session-speakers {
@@ -149,42 +129,36 @@
 	margin: 0;
 }
 
+.track-name {
+	font-size: 0.8em;
+}
+
 .track-all {
 	background-color: #ababab;
 }
-.track-keynote {
-background-color: #b0b0f0;
+
+.track-tendencias-y-perspectivas {
+	background-color: #40d9ff20;
 }
 
-.track-sports-analytics { 
-	background-color: #80c9fa;
-//	background-color: #ed2525c6;
+.track-ingeniería-de-datos { 
+	background-color: #1b9ecd60;
 }
 
-.track-deep-dive {
-	background-color: #e3a0ff;
+.track-bienestar-y-salud {
+	background-color: #e3a0ff80;
 }
-.track-fintech {
-	background-color: #e09090;
-}
-
-.track-public-policy {
-	background-color: #80c0b4;
-	// original color $green
+.track-machine-learning-en-procesos-industriales {
+	background-color: #fc2a0330;
 }
 
-.track-workshop {
-	background-color: #e8cd08;
+.track-liderazgo-de-organizaciones-de-datos {
+	background-color: #2ca15b40;
 }
 
-.track-tools {
-	background-color: #b080e0;
+.track-logística-y-consumo {
+	background-color: #f7fa1120;
 }
-
-.session-item.lightning {
-	margin:0;
-}
-
 
 .hour{
 //	color:rgba(0, 0, 0, 0.653);
@@ -232,5 +206,16 @@ color: #404040;
 
 .card-abstract a.read-more {
 	font-weight: 500;
-	color: white;
+}
+
+.daygrid {
+	display: grid;
+	grid-template-columns: 100px repeat(3, 1fr);
+	grid-template-rows: auto;
+	grid-column-gap: 1em;
+	grid-row-gap: 0px;
+}
+
+.activity {
+    text-align: center;
 }

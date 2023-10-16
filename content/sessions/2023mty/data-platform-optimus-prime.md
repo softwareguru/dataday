@@ -6,16 +6,13 @@ speakers:
  - Xochitl Morales
 time_start: 2023-11-14T09:00:00-06:00
 time_end:   2023-11-14T10:00:00-06:00
-day: mty-23
-timeslot: 1
-timeorder: 1
+day: 2023mty
 room: Sala 1 
-language: 
-live_url: 
-track: Data engineering & MLOps
-tags:
+track: Ingeniería de datos
 slides: 
 video: 
+gridarea: "13/4/14/5"
+
 ---
 
 Create a scalable and reliable centralized repository for all data company, regardless of its format or structure.

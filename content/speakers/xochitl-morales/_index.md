@@ -3,16 +3,11 @@ title: "Xochitl Morales"
 date: 2023-10-13T16:51:59-06:00
 images : 
  - "images/speakers/xochitl-morales.jpg"
-designation : "Data Manager"
-country: ""
-facebook: ""
-instagram: ""
-twitter: ""
+designation : "Data Manager en Digital@FEMSA"
 linkedin: "https://www.linkedin.com/in/xochitl-morales-37251231"
 github: ""
 events: 
  - 2023mty
 ---
 
-Revise en linkedin - es lo más práctico que tener perfiles en diferentes plataformas.
-Siendo de datos, tengamos una fuente de la verdad, aunque algunos usan su perfil indebidamente.
+Xochitl es una ejecutiva con más de 10 años de experiencia en la ejecución de proyectos de transformación digital basada en analítica de datos. Le apasiona colaborar para construir experiencias innovadoras considerando a las personas y procesos además de aprovechar tecnologías como cloud, AI, social e IoT.

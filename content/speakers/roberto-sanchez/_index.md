@@ -6,7 +6,6 @@ date: 2019-10-21
 designation: "Líder de Ciencia de Datos en Arca Continental"
 linkedin: "https://www.linkedin.com/in/robsanpam/"
 events: 
- - 2019mty
  - 2023mty
 ---
 

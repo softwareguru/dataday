@@ -14,16 +14,4 @@ events:
  - 2023mty
 ---
 
-Ciudad de origen: Cuautla, Morelos, México.
-
-Maestría en Ciencias en Ciencias de la Computación.
-
-Egresado de CENIDET (https://cenidet.tecnm.mx/).
-
-Programación con Python, PHP, Java. 
-
-ETL con SQL Server.
-
-Manejo de GIS como QGis y ArcGIS, GeoServer y Web Mapping.
-
-Nivel de inglés: 90% written and spoken.
+Antonio es Jefe de Cartografía Digital en el Sistema Operador de Agua Potable y Saneamiento de Cuautla, Morelos. Cuenta con una Maestría en Ciencias en Ciencias de la Computación por el CENIDET y tiene más de 10 años de experiencia profesional en roles de analítica de datos.

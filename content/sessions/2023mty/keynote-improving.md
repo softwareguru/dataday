@@ -1,16 +1,15 @@
 ---
-id: keynote-arca
-title: "Sesión presentada por Arca Continental"
-slug: keynote-arca
+title: "Sesión presentada por Improving"
+slug: keynote-improving
 speakers:
 time_start: 2023-11-14T09:00:00-06:00
 time_end:   2023-11-14T10:00:00-06:00
 day: 2023mty
 room: Sala 1 
-track: Logística y consumo
+track: Tendencias y perspectivas
 slides: 
 video: 
-gridarea: "3/2/4/5"
+gridarea: "4/2/5/5"
 
 ---
 

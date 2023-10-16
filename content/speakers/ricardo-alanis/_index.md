@@ -3,7 +3,7 @@ title: "Ricardo Alanis"
 date: 2023-10-13T15:26:36-06:00
 images : 
  - "images/speakers/ricardo-alanis.jpg"
-designation : "Director of Data at Nowports"
+designation : "Director of Data en Nowports"
 country: ""
 facebook: ""
 instagram: ""

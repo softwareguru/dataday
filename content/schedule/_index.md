@@ -2,50 +2,93 @@
 title: "Agenda"
 date: 2023-02-04T09:37:06-05:00
 url: /agenda
-layout: list-onetrack
+layout: list
 
 days: 
-  - id: 23mxo1
-    title_short: Miércoles
-    title_full: Miércoles 24 de mayo (public policy)
-    rooms: ["Airmeet"]
-    timeslots: 
-      - id: a
-        time_start: 2023-05-24 10:00:00 -0600 CDT
-        type: keynote
+  - id: 2023mty
+    title_short: Martes
+    title_full: Martes 14 de noviembre
+    rooms: ["Sala 1", "Sala 2", "Sala 3"]
+    schedule_items: 
+      - type: timelabel
+        label: "8:30 - 8:40"
+        gridarea: "1/1/2/2"
+      - type: timelabel
+        label: "8:40 - 9:10"
+        gridarea: "2/1/3/2"
+      - type: timelabel
+        label: "9:10 - 9:40"
+        gridarea: "3/1/4/2"
+      - type: timelabel
+        label: "9:40 - 10:10"
+        gridarea: "4/1/5/2"
+      - type: timelabel
+        label: "10:10 - 10:40"
+        gridarea: "5/1/6/2"
+      - type: timelabel
+        label: "10:40 - 11:10"
+        gridarea: "6/1/7/2"
+      - type: timelabel
+        label: "11:10 - 11:30"
+        gridarea: "7/1/8/2"
+      - type: timelabel
+        label: "11:30 - 12:10"
+        gridarea: "8/1/9/2"
+      - type: timelabel
+        label: "12:10 - 12:50"
+        gridarea: "9/1/10/2"
+      - type: timelabel
+        label: "12:50 - 13:40"
+        gridarea: "10/1/11/2"
+      - type: timelabel
+        label: "13:40 - 14:20"
+        gridarea: "11/1/12/2"
+      - type: timelabel
+        label: "14:20 - 15:00"
+        gridarea: "12/1/13/2"
+      - type: timelabel
+        label: "15:00 - 15:40"
+        gridarea: "13/1/14/2"
+      - type: timelabel
+        label: "15:40 - 16:20"
+        gridarea: "14/1/15/2"
+      - type: timelabel
+        label: "16:20 - 16:40"
+        gridarea: "15/1/16/2"
+      - type: timelabel
+        label: "16:40 - 17:20"
+        gridarea: "16/1/17/2"
+      - type: timelabel
+        label: "17:20 - 18:00"
+        gridarea: "17/1/18/2"
+      - type: activity
+        label: "Bienvenida"
+        gridarea: "1/2/2/5"
+      - type: activity
+        label: "Break"
+        gridarea: "7/2/8/5"
+      - type: activity
+        label: "Comida"
+        gridarea: "10/2/11/5"
+      - type: activity
+        label: "Break"
+        gridarea: "15/2/16/5"
 
-  - id: 23mxo2
-    title_short: Jueves
-    title_full: Jueves 25 de mayo (tools & fintech)
-    rooms: ["Airmeet"]
-    timeslots: 
-      - id: a
-        time_start: 2023-05-25 10:00:00 -0600 CDT
-        type: keynote
 
-  - id: 23mxo3
-    title_short: Viernes
-    title_full: Viernes 26 de mayo (sports analytics)
-    rooms: ["Airmeet"]
-    timeslots: 
-      - id: a
-        time_start: 2023-05-26 10:00:00 -0600 CDT
-        type: keynote
 
 tracks:
-  - slug: sports-analytics
-    label: Sports analytics
-  - slug: public-policy
-    label: Public policy 
-  - slug: fintech
-    label: Fintech 
-  - slug: tools
-    label: Herramientas
+  - slug: logística-y-consumo
+    label: Logística y consumo
+  - slug: bienestar-y-salud
+    label: Bienestar y salud
+  - slug: machine-learning-en-la-industria
+    label: Machine Learning en la industria 
+  - slug: ingeniería-de-datos
+    label: Ingeniería de datos
+  - slug: estrategia-de-datos
+    label: Estrategia de datos
 
 
-summary: Conoce las sesiones presentadas en Data Day México 2023
 ---
 
-### Conoce las sesiones presentadas en Data Day México 2023
 
-<p>Los horarios se muestran en base a horario Central de México (GMT-6).</p>

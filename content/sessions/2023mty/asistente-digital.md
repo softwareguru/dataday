@@ -1,21 +1,18 @@
 ---
-id: asistente-digital-el-copiloto-de-los-vendedores-en-la-era-digital
-title: "Asistente Digital: El Copiloto de los Vendedores en la Era Digital"
-slug: asistente-digital-el-copiloto-de-los-vendedores-en-la-era-digital
+title: "Asistente Digital: El copiloto de los vendedores en la era digital"
+slug: asistente-digital
 speakers:
  - Roberto Sánchez
-time_start: 2023-11-14T09:00:00-06:00
-time_end:   2023-11-14T10:00:00-06:00
-day: mty-23
-timeslot: 1
-timeorder: 1
+time_start: 2023-11-14T15:00:00-06:00
+time_end: 2023-11-14T15:40:00-06:00
+day: 2023mty
 room: Sala 1 
 language: 
-live_url: 
-track: negocio
-tags:
+track: Logística y consumo
 slides: 
 video: 
+gridarea: "13/2/14/3"
+
 ---
 
 En el contexto de la industria de bebidas y botanas en México, Arca Continental se destaca como un referente en la innovación y la transformación digital. Durante esta presentación, exploraremos el proyecto *Asistente Digital Fuerza de Venta*, que implementa modelos y procesos integrados para identificar oportunidades comerciales y desencadenar acciones automáticas dirigidas a la fuerza de ventas.
