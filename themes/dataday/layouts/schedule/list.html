@@ -6,15 +6,6 @@
         {{ .Content }}
     </div>
 
-    <h3 class="mt-4">Tracks</h3> 
-    <div class="color-code-list">
-        <div id="track-all" class="btn color-code-item track-all" onclick="showTrack(this,'all')">Todas</div>
-        {{ range .Params.tracks }}
-        <div id="track-{{ .slug }}" class="btn color-code-item track-{{ .slug }}" onclick="showTrack(this,'{{.slug}}')">{{ .label }}</div>
-        {{ end }}
-    </div>
-
-
     {{ range .Params.days }}
       {{ $curr_day :=  .id }}
 
