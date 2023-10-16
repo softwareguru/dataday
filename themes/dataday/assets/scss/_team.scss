@@ -1,0 +1,11 @@
+.team-strip {
+	display: grid;
+	grid-template-columns: repeat(auto-fill,240px);
+	grid-row-gap: 30px;
+	grid-column-gap: 30px;
+	justify-content: space-around;
+}
+
+.team-strip.comite {
+	grid-template-columns: repeat(auto-fill,280px);
+}

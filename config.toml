@@ -47,10 +47,10 @@ home = ["HTML", "RSS"]
   URL = "speakers"
   weight = 3
 
-  # [[menu.main]]
-  # name = "Networking"
-  # URL = "networking"
-  # weight = 3
+  [[menu.main]]
+  name = "Organizadores"
+  URL = "team"
+  weight = 3
 
 
 
@@ -76,15 +76,15 @@ email = "eventos@sg.com.mx"
 author = "Software Guru"
 disclaimer = ""
 
-start_date = "2023-05-24T10:00-05:00"
-end_date = "2023-05-26T16:00-05:00"
+start_date = "2023-11-14T8:30-06:00"
+end_date = "2023-11-14T18:00-06:00"
 
 [params.venue]
-name = "Hotel Bel Air Unique Mexico City WTC"
-street = "Dakota 95, Col. Nápoles"
-city = "Ciudad de México"
-region = "CDMX"
-zipcode = "03810"
+name = "Escuela de Gobierno y Transformación Pública"
+street = "Eugenio Garza Lagüera y, Av. Rufino Tamayo"
+city = "San Pedro Garza García"
+region = "NL"
+zipcode = "66269"
 country = "Mexico"
 
 # Navigation button
@@ -104,10 +104,6 @@ icon = "tf-ion-social-youtube"
 link = "https://www.youtube.com/c/softwareguru"
 
 [[params.social]]
-icon = "fab fa-slack"
-link = "https://istio.slack.com"
-
-[[params.social]]
 icon = "tf-ion-social-octocat"
 link = "https://github.com/softwareguru"
 
@@ -115,29 +111,6 @@ link = "https://github.com/softwareguru"
 icon = "tf-ion-android-mail"
 link = "mailto:eventos@sg.com.mx"
 
-[[params.footer_about]]
-name = "Istio website"
-link = "https://istio.io"
-
-[[params.footer_resources]]
-name = "Organizers"
-link = "/istiocon-2021/organizers"
-
-[[params.footer_resources]]
-name = "Code of Conduct"
-link = "/istiocon-2021/coc"
-
-[[params.footer_resources]]
-name = "Privacy policy"
-link = "/istiocon-2021/privacy"
-
-[[params.footer_resources]]
-name = "Call for papers"
-link = "https://sessionize.com/istiocon-2021/"
-
-[[params.footer_resources]]
-name = "Partnership opportunities"
-link = "/istiocon-2021/partner/IstioCon2021_Partner_Packages_v2.pdf"
 
 
 

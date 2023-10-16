@@ -1,8 +1,9 @@
 ---
-title: "Fernando Hernández"
+title: "Mariana Torres"
 date: 2021-01-06T13:04:28-06:00
-image : /images/organizers/fer.jpg
-designation: Promotion and social media
+images: 
+ - images/team/mariana.jpg
+designation: Atención a participantes
 country: 
 facebook: 
 instagram: 

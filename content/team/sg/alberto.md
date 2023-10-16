@@ -1,12 +1,10 @@
 ---
 title: "Alberto Rodríguez"
 date: 2021-01-06T13:04:28-06:00
-image : /images/organizers/alberto.jpg
-designation: Streaming & website
+images: 
+ - images/team/alberto.jpg
+designation: Website y producción AV
 country: 
-facebook: 
-instagram: 
-twitter: 
 linkedin: 
 github: 
 group: sg
