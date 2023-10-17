@@ -14,9 +14,15 @@ gridarea: "8/4/10/5"
 
 ---
 
-Como profesionistas de Datos, ¿Cómo demostramos el valor de tener una solida gestión de datos e información en la empresa? ¿Cuál es el beneficio al negocio? ¿Buenas prácticas? ¿Metodologías? ¿Gobierno de Datos?
+¿Eres líder del área de Datos de tu empresa, profesionista de datos o líder de un área qué genera y hace uso de los datos? En tu empresa, ¿Existen esfuerzos aislados de equipos que administran y usan datos? ¿Tienes un negocio y quieres entender cómo empezar a gestionar correctamente tu información? Te invito a que te sumes a este taller introductorio a cómo diseñar una estrategia de Datos efectiva y útil. 
 
-Taller introductorio a cómo diseñar una estrategia de Datos efectiva y útil para garantizar el éxito del negocio. Primeros pasos, roadmap y quick wins.
-
-
-
+Tópicos que se abordarán:
+ - ¿Qué es una estrategia de datos?
+ - Elementos clave de una estrategia de datos
+ - Ejemplo Rocky Health Systems
+ - Ejercicio Práctico: Mapea tu caso
+ - Template: Definir los motivaciones y los impulsores empresariales
+ - Ejercicio en equipos (estimado 15-20 min)
+ - ¿Por dónde empiezo?
+ - Alineación con negocio
+ - Buenas prácticas de gestión de datos e información
