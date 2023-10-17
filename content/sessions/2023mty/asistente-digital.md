@@ -3,6 +3,7 @@ title: "Asistente Digital: El copiloto de los vendedores en la era digital"
 slug: asistente-digital
 speakers:
  - Roberto Sánchez
+ - Loreli Lozada
 time_start: 2023-11-14T15:00:00-06:00
 time_end: 2023-11-14T15:40:00-06:00
 day: 2023mty
