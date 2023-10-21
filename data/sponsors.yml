@@ -9,8 +9,8 @@ sponsor_group:
   sponsor:
     - logo : "images/sponsors/Escuela-de-gobierno.png"
       link : "https://egobiernoytp.tec.mx/es"
-    - logo : "images/sponsors/Logo_US_CMMI.png"
-      link : "https://www.ultrasist.mx/ultrasite/"
+    #- logo : "images/sponsors/Logo_US_CMMI.png"
+    #  link : "https://www.ultrasist.mx/ultrasite/"
     - logo : "images/sponsors/Improving.png"
       link : "https://www.improving.com/"
 

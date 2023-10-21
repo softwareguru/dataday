@@ -2,7 +2,7 @@
 title: "José Armando Salcedo Delgado"
 date: 2023-10-13T16:21:14-06:00
 images : 
- - "images/speakers/speaker.jpg"
+ - "images/speakers/jose-armado-salcedo.jpg"
 designation : "Profesor"
 country: ""
 facebook: ""
