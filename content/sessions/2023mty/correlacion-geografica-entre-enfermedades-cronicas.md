@@ -2,7 +2,7 @@
 title: "Correlación Geográfica entre Enfermedades Crónicas No Transmisibles y la contaminación atmosférica en el Valle de México"
 slug: correlacion-geografica-entre-enfermedades-cronicas
 speakers:
- - Antonio Galindo
+ - Juan Antonio Galindo
 time_start: 2023-11-14T09:00:00-06:00
 time_end:   2023-11-14T10:00:00-06:00
 day: 2023mty
