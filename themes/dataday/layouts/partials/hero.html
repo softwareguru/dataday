@@ -13,11 +13,13 @@
       </div>
       
       {{ with .meta }}
-      <h4 style="text-shadow: 2px 2px 1px#108686;">{{ . }}</h3>
+      <h4 style="text-shadow: 1px 1px 12px#108686, 0 0 1em #108686,
+      0 0 0.2em #108686;">{{ . }}</h3>
         {{ end }}
 
         {{ with .lugar }}
-        <h4 style="text-shadow: 2px 2px 1px#108686;">{{ . | markdownify }}</h3>
+        <h4 style="text-shadow: 1px 1px 12px#108686, 0 0 1em #108686,
+        0 0 0.2em #108686;">{{ . | markdownify }}</h3>
         {{ end }}
 
     </div>
