@@ -12,8 +12,16 @@
         {{ with .tagline }}<h3 class="tagline">{{ . }}</h3>{{ end }}
       </div>
       
-      {{ with .meta }}<h4>{{ . }}</h3>{{ end }}
-        {{ with .lugar }}<h4>{{ . | markdownify }}</h3>{{ end }}
+      {{ with .meta }}
+      <h4 style="text-shadow: 1px 1px 12px#108686, 0 0 1em #108686,
+      0 0 0.2em #108686;">{{ . }}</h3>
+        {{ end }}
+
+        {{ with .lugar }}
+        <h4 style="text-shadow: 1px 1px 12px#108686, 0 0 1em #108686,
+        0 0 0.2em #108686;">{{ . | markdownify }}</h3>
+        {{ end }}
+
     </div>
 
     {{ if .button1.enable }}
