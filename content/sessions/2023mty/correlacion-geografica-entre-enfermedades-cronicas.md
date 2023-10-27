@@ -11,8 +11,6 @@ track: Bienestar y salud
 slides: 
 video: 
 gridarea: "13/3/14/4"
-images:
- - images/sessions/2023mty/JuanAntonioGalindo.jpg
 
 ---
 
