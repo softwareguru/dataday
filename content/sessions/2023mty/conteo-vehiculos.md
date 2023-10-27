@@ -11,6 +11,8 @@ track: Bienestar y salud
 slides: 
 video: 
 gridarea: "16/3/17/4"
+images:
+ - images/sessions/2023mty/JoseSalcedo.jpg
 
 ---
 

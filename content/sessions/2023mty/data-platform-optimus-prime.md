@@ -12,6 +12,8 @@ track: Ingeniería de datos
 slides: 
 video: 
 gridarea: "8/4/9/5"
+images:
+ - images/sessions/2023mty/AntonioGalindo.jpg
 
 ---
 

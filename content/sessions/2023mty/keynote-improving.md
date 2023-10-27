@@ -11,6 +11,8 @@ track: Tendencias y perspectivas
 slides: 
 video: 
 gridarea: "4/2/5/5"
+images:
+ - images/sessions/2023mty/Improving.jpg
 
 ---
 

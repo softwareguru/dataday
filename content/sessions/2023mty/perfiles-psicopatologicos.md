@@ -12,6 +12,8 @@ track: Bienestar y salud
 slides: 
 video: 
 gridarea: "14/3/15/4"
+images:
+ - images/sessions/2023mty/EmanuelGallegos.jpg
 
 ---
 

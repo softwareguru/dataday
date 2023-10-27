@@ -12,6 +12,8 @@ track: Machine learning en procesos industriales
 slides: 
 video: 
 gridarea: "12/3/13/4"
+images:
+ - images/sessions/2023mty/SaulCuen.jpg
 
 ---
 

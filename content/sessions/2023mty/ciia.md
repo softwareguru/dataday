@@ -11,6 +11,8 @@ track: Tendencias y perspectivas
 slides: 
 video: 
 gridarea: "11 / 2 / 12 / 3"
+images:
+ - images/sessions/2023mty/CIIIA.jpg
 
 ---
 

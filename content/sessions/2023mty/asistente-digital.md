@@ -13,6 +13,8 @@ track: Logística y consumo
 slides: 
 video: 
 gridarea: "16/2/17/3"
+images:
+ - images/sessions/2023mty/RobertoLoreli.jpg
 
 ---
 

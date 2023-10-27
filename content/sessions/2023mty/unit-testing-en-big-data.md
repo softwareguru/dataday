@@ -11,6 +11,8 @@ track: Ingeniería de datos
 slides: 
 video: 
 gridarea: "9/4/10/5"
+images:
+ - images/sessions/2023mty/LudimSanchez.jpg
 
 ---
 

@@ -11,6 +11,8 @@ track: Tendencias y perspectivas
 slides: 
 video: 
 gridarea: "13 / 2 / 14 / 3"
+images:
+ - images/sessions/2023mty/Dayset.jpg
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Caso de Estudio sobre la Creación de una Plataforma Empresarial LLM, presentado por Softtek"
+title: "Caso de Estudio: Creación de una Plataforma Empresarial LLM, presentado por Softtek"
 slug: softtek
 speakers:
  - Ricardo Garza
@@ -11,6 +11,8 @@ track: Tendencias y perspectivas
 slides: 
 video: 
 gridarea: "8 / 2 / 9 / 3"
+images:
+ - images/sessions/2023mty/Softtek.jpg
 
 ---
 

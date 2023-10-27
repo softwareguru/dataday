@@ -12,7 +12,8 @@ track: Liderazgo de organizaciones de datos
 slides: 
 video: 
 gridarea: "16/4/17/5"
-
+images:
+ - images/sessions/2023mty/RicardoAlanis.jpg
 ---
 
 

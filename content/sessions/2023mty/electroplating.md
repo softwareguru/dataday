@@ -11,6 +11,8 @@ track: Machine learning en procesos industriales
 slides: 
 video: 
 gridarea: "9/3/10/4"
+images:
+ - images/sessions/2023mty/JuanCanizales.jpg
 
 ---
 

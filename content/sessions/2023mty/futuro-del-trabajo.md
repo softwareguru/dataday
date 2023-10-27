@@ -10,6 +10,8 @@ track: Liderazgo de organizaciones de datos
 slides: 
 video: 
 gridarea: "17 / 4 / 18 / 5"
+images:
+ - images/sessions/2023mty/Basilio.jpg
 
 ---
 

@@ -11,6 +11,8 @@ track: Bienestar y salud
 slides: 
 video: 
 gridarea: "17/3/18/4"
+images:
+ - images/sessions/2023mty/CesarPayan.jpg
 
 ---
 

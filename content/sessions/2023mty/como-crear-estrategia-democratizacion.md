@@ -11,7 +11,8 @@ track: Liderazgo de organizaciones de datos
 slides: 
 video: 
 gridarea: "12/2/13/3"
-
+images:
+ - images/sessions/2023mty/AlfredoPequeno.jpg
 ---
 
 

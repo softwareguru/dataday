@@ -2,7 +2,7 @@
 title: "Taller: Cómo Crear una Estrategia de Datos"
 slug: taller-data-strategy
 speakers:
- - Jessica Zuñiga
+ - Jessica Zúñiga
 time_start: 2023-11-14T11:30:00-06:00
 time_end:   2023-11-14T12:10:00-06:00
 day: 2023mty
@@ -11,6 +11,8 @@ track: Liderazgo de organizaciones de datos
 slides: 
 video: 
 gridarea: "13/4/15/5"
+images:
+ - images/sessions/2023mty/JessicaZuniga.jpg
 
 ---
 

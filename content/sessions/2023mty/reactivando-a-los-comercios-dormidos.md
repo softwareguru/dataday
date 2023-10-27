@@ -11,6 +11,8 @@ track: Logística y consumo
 slides: 
 video: 
 gridarea: "17/2/18/3"
+images:
+ - images/sessions/2023mty/CarlosGuel.jpg
 
 ---
 

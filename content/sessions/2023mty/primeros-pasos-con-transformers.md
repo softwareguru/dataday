@@ -11,7 +11,8 @@ track: Ingeniería de datos
 slides: 
 video: 
 gridarea: "11/4/13/5"
-
+images:
+ - images/sessions/2023mty/JuanVazquez.jpg
 ---
 
 En este taller vamos a describir las principales características de los transformers y los grandes modelos de lenguaje (LLM). Discutimos el mecanismo de atención, algunas de las arquitecturas recientes y posteriormente vamos a describir cómo generar un pipeline de datos con RAG (Retrieval-Augmentation Generation) con Haystack y vamos a discutir el uso de herramientas como HuggingFace, Langchain y Llama-Index para LLM. La meta será crear una app de preguntas y respuestas.
