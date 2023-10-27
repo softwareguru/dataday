@@ -7,16 +7,17 @@ sponsor_group:
 - title: "Platinum"
   slug: platinum
   sponsor:
-    - logo : "images/sponsors/Escuela-de-gobierno.png"
+    - logo : "images/sponsors/escuela-de-gobierno.png"
       link : "https://egobiernoytp.tec.mx/es"
     #- logo : "images/sponsors/Logo_US_CMMI.png"
     #  link : "https://www.ultrasist.mx/ultrasite/"
     - logo : "images/sponsors/Improving.png"
       link : "https://www.improving.com/"
+    - logo : "images/sponsors/elastic.png"
+      link : "https://www.elastic.co/es/"
 
 
-
-- title: "gold"
+- title: "Gold"
   slug: gold
   sponsor:
     - logo : "images/sponsors/Softtek.png"
@@ -27,4 +28,17 @@ sponsor_group:
       link : "https://www.dayset.com/"
 
 
+- title: "Silver"
+  slug: gold
+  sponsor:
+    - logo : "images/sponsors/ensitech.png"
+      link : "https://ensitech.com/"
 
+
+- title: "SilveComunidades y Organismos r"
+  slug: community
+  sponsor:
+    - logo : "images/sponsors/wid.png"
+      link : "https://www.linkedin.com/company/women-in-data-science-power-and-engineering?originalSubdomain=mx"
+    - logo : "images/sponsors/dsmty.png"
+      link : "https://www.facebook.com/groups/469523539899326"
