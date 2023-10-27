@@ -8,7 +8,7 @@ room: Sala 3
 track: 
 slides: 
 video: 
-gridarea: "17 / 4 / 18 / 5"
+gridarea: "17 / 2 / 18 / 3"
 
 ---
 
