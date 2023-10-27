@@ -10,7 +10,7 @@ room: Sala 1
 track: Machine learning en procesos industriales
 slides: 
 video: 
-gridarea: "8/3/9/4"
+gridarea: "12/3/13/4"
 images:
  - images/sessions/2023mty/MarcosChavez.jpg
 
