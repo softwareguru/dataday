@@ -32,34 +32,34 @@ days:
         label: "11:10 - 11:30"
         gridarea: "7/1/8/2"
       - type: timelabel
-        label: "11:30 - 12:10"
+        label: "11:30 - 12:05"
         gridarea: "8/1/9/2"
       - type: timelabel
-        label: "12:10 - 12:50"
+        label: "12:10 - 12:45"
         gridarea: "9/1/10/2"
       - type: timelabel
         label: "12:50 - 13:40"
         gridarea: "10/1/11/2"
       - type: timelabel
-        label: "13:40 - 14:20"
+        label: "13:40 - 14:15"
         gridarea: "11/1/12/2"
       - type: timelabel
-        label: "14:20 - 15:00"
+        label: "14:20 - 14:55"
         gridarea: "12/1/13/2"
       - type: timelabel
-        label: "15:00 - 15:40"
+        label: "15:00 - 15:35"
         gridarea: "13/1/14/2"
       - type: timelabel
-        label: "15:40 - 16:20"
+        label: "15:40 - 16:15"
         gridarea: "14/1/15/2"
       - type: timelabel
         label: "16:20 - 16:40"
         gridarea: "15/1/16/2"
       - type: timelabel
-        label: "16:40 - 17:20"
+        label: "16:40 - 17:15"
         gridarea: "16/1/17/2"
       - type: timelabel
-        label: "17:20 - 18:00"
+        label: "17:20 - 17:55"
         gridarea: "17/1/18/2"
       - type: activity
         label: "Bienvenida"
