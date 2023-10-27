@@ -2,6 +2,7 @@
 title: "Modelado e inteligencia de datos para tomar decisiones de negocio acertadas, presentado por Dayset"
 slug: dayset
 speakers:
+ - Rodolfo López Montes
 time_start: 2023-11-14T11:30:00-06:00
 time_end:   2023-11-14T12:10:00-06:00
 day: 2023mty

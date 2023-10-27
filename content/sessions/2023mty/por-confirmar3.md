@@ -1,15 +1,16 @@
 ---
-title: "Sesión por confirmar"
+title: "Tendencias Tecnológicas en Tecnologías de Lenguajes"
 speakers:
+ - Juan Arturo Nolazco
 time_start: 2023-11-14T11:30:00-06:00
 time_end:   2023-11-14T12:10:00-06:00
 day: 2023mty
 room: Sala 3
-track: 
+track: Tendencias y perspectivas
 slides: 
 video: 
-gridarea: "17 / 2 / 18 / 3"
+gridarea: "14 / 2 / 15 / 3"
 
 ---
 
-
+El objetivo de la presentación es proporcionar a los asistentes una visión integral de las tendencias tecnológicas mas recientes en el campo de las Tecnologías de Lenguaje. Durante la conferencia, se explorarán las innovaciones, desarrollos y aplicaciones actuales en áreas como Tecnologías del Lenguaje. El propósito principal es que los participantes adquieran conocimientos actualizados sobre las tendencias tecnológicas en este campo y comprendan su relevancia en diversos contextos.

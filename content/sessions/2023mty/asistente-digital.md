@@ -12,7 +12,7 @@ language:
 track: Logística y consumo
 slides: 
 video: 
-gridarea: "14/2/15/3"
+gridarea: "16/2/17/3"
 
 ---
 

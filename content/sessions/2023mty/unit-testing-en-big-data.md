@@ -10,7 +10,7 @@ room: Sala 1
 track: Ingeniería de datos
 slides: 
 video: 
-gridarea: "14/4/15/5"
+gridarea: "9/4/10/5"
 
 ---
 

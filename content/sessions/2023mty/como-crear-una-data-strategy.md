@@ -10,7 +10,7 @@ room: Sala 3
 track: Liderazgo de organizaciones de datos
 slides: 
 video: 
-gridarea: "8/4/10/5"
+gridarea: "13/4/15/5"
 
 ---
 

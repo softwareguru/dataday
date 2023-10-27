@@ -2,6 +2,7 @@
 title: "Sesión presentada por Elastic"
 slug: keynote-elastic
 speakers:
+ - Manuel García
 time_start: 2023-11-14T09:00:00-06:00
 time_end:   2023-11-14T10:00:00-06:00
 day: 2023mty

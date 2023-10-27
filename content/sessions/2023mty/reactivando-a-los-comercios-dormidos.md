@@ -10,7 +10,7 @@ room: Sala 1
 track: Logística y consumo
 slides: 
 video: 
-gridarea: "16/2/17/3"
+gridarea: "17/2/18/3"
 
 ---
 
