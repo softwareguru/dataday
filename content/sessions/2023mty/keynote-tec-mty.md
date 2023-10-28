@@ -12,6 +12,7 @@ tags:
 slides: 
 video: 
 gridarea: "2 / 2 / 3 / 5"
+timeslot: 1
 images:
  - images/sessions/2023mty/Tec.jpg
 

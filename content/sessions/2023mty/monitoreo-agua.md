@@ -4,13 +4,14 @@ slug: monitoreo-agua
 speakers:
  - Cesar Payan
 time_start: 2023-11-14T17:20:00-06:00
-time_end:   2023-11-14T18:00:00-06:00
+time_end:   2023-11-14T17:55:00-06:00
 day: 2023mty
 room: Sala 1 
 track: Bienestar y salud
 slides: 
 video: 
 gridarea: "17/3/18/4"
+timeslot: 29
 images:
  - images/sessions/2023mty/CesarPayan.jpg
 

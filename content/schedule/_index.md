@@ -64,15 +64,23 @@ days:
       - type: activity
         label: "Bienvenida"
         gridarea: "1/2/2/5"
+        timelabel: "8:30-8:40"
+        gridaream: "1/1/2/2"
       - type: activity
         label: "Break"
         gridarea: "7/2/8/5"
+        timelabel: "11:10-11:30"
+        gridaream: "7/1/8/2"
       - type: activity
         label: "Comida"
         gridarea: "10/2/11/5"
+        timelabel: "12:50-13:40"
+        gridaream: "14/1/15/2"
       - type: activity
         label: "Break"
         gridarea: "15/2/16/5"
+        timelabel: "16:20-16:40"
+        gridaream: "25/1/26/2"
 
 
 

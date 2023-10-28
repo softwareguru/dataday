@@ -3,14 +3,15 @@ title: "Unit Testing en Big Data: Potenciando la confianza de nuestros ETLs"
 slug: unit-testing-en-big-data
 speakers:
  - Ludim Sanchez
-time_start: 2023-11-14T09:00:00-06:00
-time_end:   2023-11-14T10:00:00-06:00
+time_start: 2023-11-14T12:10:00-06:00
+time_end:   2023-11-14T12:45:00-06:00
 day: 2023mty
 room: Sala 1 
 track: Ingeniería de datos
 slides: 
 video: 
 gridarea: "9/4/10/5"
+timeslot: 12
 images:
  - images/sessions/2023mty/LudimSanchez.jpg
 

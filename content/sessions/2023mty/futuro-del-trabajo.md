@@ -2,14 +2,15 @@
 title: "La Inteligencia Artificial y el Futuro del Trabajo"
 speakers:
  - Basilio Karamanos
-time_start: 2023-11-14T11:30:00-06:00
-time_end:   2023-11-14T12:10:00-06:00
+time_start: 2023-11-14T17:20:00-06:00
+time_end:   2023-11-14T17:55:00-06:00
 day: 2023mty
 room: Sala 3
 track: Liderazgo de organizaciones de datos
 slides: 
 video: 
 gridarea: "17 / 4 / 18 / 5"
+timeslot: 30
 images:
  - images/sessions/2023mty/Basilio.jpg
 

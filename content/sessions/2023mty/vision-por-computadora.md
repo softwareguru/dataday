@@ -3,14 +3,15 @@ title: "Visión por Computadora: Casos en una empresa de manufactura"
 slug: vision-por-computadora
 speakers:
  - Marcos Chávez
-time_start: 2023-11-14T09:00:00-06:00
-time_end:   2023-11-14T10:00:00-06:00
+time_start: 2023-11-14T14:20:00-06:00
+time_end:   2023-11-14T14:55:00-06:00
 day: 2023mty
 room: Sala 1 
 track: Machine learning en procesos industriales
 slides: 
 video: 
 gridarea: "12/3/13/4"
+timeslot: 18
 images:
  - images/sessions/2023mty/MarcosChavez.jpg
 

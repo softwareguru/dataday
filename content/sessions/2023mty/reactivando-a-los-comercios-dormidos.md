@@ -3,14 +3,15 @@ title: "Reactivando a los comercios dormidos: Un enfoque de Ciencia de Datos bas
 slug: reactivando-a-los-comercios-dormidos
 speakers:
  - Carlos Javier Guel Martínez
-time_start: 2023-11-14T09:00:00-06:00
-time_end:   2023-11-14T10:00:00-06:00
+time_start: 2023-11-14T17:20:00-06:00
+time_end:   2023-11-14T17:55:00-06:00
 day: 2023mty
 room: Sala 1 
 track: Logística y consumo
 slides: 
 video: 
 gridarea: "17/2/18/3"
+timeslot: 28
 images:
  - images/sessions/2023mty/CarlosGuel.jpg
 

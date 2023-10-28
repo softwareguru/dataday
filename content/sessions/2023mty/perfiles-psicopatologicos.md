@@ -3,8 +3,8 @@ title: "Análisis de Perfiles Psicopatológicos y su Relación con la Rehospital
 slug: perfiles-psicopatologicos
 speakers:
  - Emanuel Gallegos
-time_start: 2023-11-14T09:00:00-06:00
-time_end:   2023-11-14T10:00:00-06:00
+time_start: 2023-11-14T15:40:00-06:00
+time_end:   2023-11-14T16:15:00-06:00
 day: 2023mty
 room: Sala 1 
 language: 
@@ -12,6 +12,7 @@ track: Bienestar y salud
 slides: 
 video: 
 gridarea: "14/3/15/4"
+timeslot: 23
 images:
  - images/sessions/2023mty/EmanuelGallegos.jpg
 

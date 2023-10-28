@@ -219,6 +219,14 @@ color: #404040;
 	}
 }
 
-.activity {
+.daygrid-xs {
+	display: grid;
+	grid-template-columns: 1fr;
+	grid-template-rows: auto;
+	grid-column-gap: 1em;
+	grid-row-gap: 0px;
+}
+
+.daygrid .activity {
     text-align: center;
 }

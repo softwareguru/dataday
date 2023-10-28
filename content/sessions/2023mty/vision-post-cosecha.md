@@ -3,8 +3,8 @@ title: "Visión Computacional y Machine Learning en la Industria Post-cosecha"
 slug: vision-computacional-post-cosecha
 speakers:
  - Saul Cuen
-time_start: 2023-11-14T09:00:00-06:00
-time_end:   2023-11-14T10:00:00-06:00
+time_start: 2023-11-14T11:30:00-06:00
+time_end:   2023-11-14T12:05:00-06:00
 day: 2023mty
 room: Sala 1 
 language: 
@@ -12,6 +12,7 @@ track: Machine learning en procesos industriales
 slides: 
 video: 
 gridarea: "8/3/9/4"
+timeslot: 8
 images:
  - images/sessions/2023mty/SaulCuen.jpg
 

@@ -3,14 +3,15 @@ title: "Conteo Automático de Vehículos en Movimiento a Partir de Videos Tomado
 slug: conteo-vehiculos
 speakers:
  - José Armando Salcedo Delgado
-time_start: 2023-11-14T09:00:00-06:00
-time_end:   2023-11-14T10:00:00-06:00
+time_start: 2023-11-14T16:40:00-06:00
+time_end:   2023-11-14T17:15:00-06:00
 day: 2023mty
 room: Sala 1 
 track: Bienestar y salud
 slides: 
 video: 
 gridarea: "16/3/17/4"
+timeslot: 26
 images:
  - images/sessions/2023mty/JoseSalcedo.jpg
 

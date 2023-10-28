@@ -3,14 +3,15 @@ title: "Analítica, Ciencia de Datos y Machine Learning para Seguridad Industria
 slug: analitica-seguridad-industrial
 speakers:
  - Juan Baldemar Garza Villegas
-time_start: 2023-11-14T15:40:00-06:00
-time_end: 2023-11-14T18:20:00-06:00
+time_start: 2023-11-14T13:40:00-06:00
+time_end:   2023-11-14T14:15:00-06:00
 day: 2023mty
 room: Sala 2
 track: Machine learning en procesos industriales
 slides: 
 video: 
 gridarea: "11/3/12/4"
+timeslot: 15
 images:
  - images/sessions/2023mty/BaldemarGarza.jpg
 ---
