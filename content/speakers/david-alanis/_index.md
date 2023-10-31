@@ -1,5 +1,5 @@
 ---
-title: "David alanis"
+title: "David Alanis"
 images:
  - images/speakers/david-alanis.jpg
 date: 2023-10-15
