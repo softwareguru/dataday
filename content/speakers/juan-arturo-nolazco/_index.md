@@ -3,7 +3,7 @@ title: "Juan Arturo Nolazco"
 date: 2023-10-13T15:31:28-06:00
 images: 
  - "images/speakers/juan-arturo-nolazco.jpg"
-designation: Director Data Science Hub en Tec de Monterrey
+designation: Director del Data Science Hub en Tec de Monterrey
 linkedin: https://www.linkedin.com/in/juan-arturo-nolazco-flores-3a08861/
 events: 
  - 2023mty

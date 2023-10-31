@@ -1,8 +1,8 @@
 ---
-title: "Sesión por confirmar"
+title: "El personal y los colaboradores, piezas clave en la generación de datos en Salud"
 slug: health
 speakers:
- - Juana Martínez
+ - David Alanis
 time_start: 2023-11-14T15:00:00-06:00
 time_end:   2023-11-14T15:35:00-06:00
 day: 2023mty
@@ -12,8 +12,9 @@ slides:
 video: 
 gridarea: "13/3/14/4"
 timeslot: 20
+images:
+ - images/sessions/2023mty/DavidAlanis.jpg
+
 ---
 
-Estudios previos han demostrado que la exposición a la contaminación ambiental puede incidir directamente en enfermedades crónicas. El objetivo de este estudio es examinar la relación geográfica entre los contaminantes del aire (Monóxido de Carbono (CO), Monóxido de Nitrógeno (NO), Dióxido de Nitrógeno (NO2), Óxidos de Nitrógeno (NOX),  Ozono (O3), Partículas Menores a 2.5 micras (PM2.5), Partículas Menores a 10 micras (PM10) y Dióxido de Azufre (SO2)) con las enfermedades crónicas no transmisibles (cáncer, diabetes y neumonía) a través de la geolocalización a nivel de residencia en la Zona Metropolitana del Valle de México de los pacientes fallecidos por estas 3 enfermedades crónicas no transmisibles (ECNT). La geolocalización de cada defunción se realizó a partir de la información proporcionada por la Secretaría de Salud registradas de 2015 a 2020 la cual fue completamente anonimizada antes de ser goerreferenciada, mientras que la información de la concentración de contaminantes fue obtenida de varias estaciones meteorológicas ubicadas en la Zona Metropolitana del Valle de México. De las mediciones de los contaminantes se obtuvo la media mensual para cada uno de ellos para el periodo 2010 a 2021. Se observó un coeficiente de correlación positivo entre la concentración media de los contaminantes CO, NO2y NOX y las ECNT mientras que un coeficiente de correlación negativo se observó para los contaminantes O3, PM10, PM2.5 y SO2.
-
-
+El personal de salud se encuentra saturado por sus actividades rutinarias y además enfrenta el reto de adaptarse a nuevas formas de captura de datos, como notas médicas electrónicas. Esta transición digital frecuentemente obliga al personal a batallar con herramientas tecnológicas complejas, generando una carga adicional. Entre las presiones regulatorias y de cumplimiento, la generación de datos de calidad se vuelve difícil. Los errores en los datos son comunes debido a la falta de tiempo y familiaridad con las nuevas herramientas. Para evitar extensos procesos de limpieza de datos, se requieren estrategias como: capacitación adecuada del personal en el uso de las herramientas; diseño intuitivo de sistemas de captura de datos; reducción de carga administrativa; y apoyo técnico constante. Centrarse en la experiencia del usuario y en simplificar los flujos de trabajo, es clave para obtener datos de calidad sin sobrecargar al personal.

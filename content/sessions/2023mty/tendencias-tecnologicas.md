@@ -11,6 +11,9 @@ slides:
 video: 
 gridarea: "14 / 2 / 15 / 3"
 timeslot: 22
+images:
+ - images/sessions/2023mty/ArturoNolazco.jpg
+
 ---
 
 El objetivo de la presentación es proporcionar a los asistentes una visión integral de las tendencias tecnológicas mas recientes en el campo de las Tecnologías de Lenguaje. Durante la conferencia, se explorarán las innovaciones, desarrollos y aplicaciones actuales en áreas como Tecnologías del Lenguaje. El propósito principal es que los participantes adquieran conocimientos actualizados sobre las tendencias tecnológicas en este campo y comprendan su relevancia en diversos contextos.
