@@ -16,4 +16,7 @@ images:
  - images/sessions/2023mty/AlfredoPequeno.jpg
 ---
 
+Revisaremos las principales consideraciones a tener cuenta al desarrollar una estrategia para la democratización de los datos en un contexto corporativo. 
+
+Tocaremos puntos tales como: cambio cultural, elección de plataformas tecnológicas, capacitación, cómo hacer los datos disponibles, seguridad y compliance.
 
