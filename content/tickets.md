@@ -30,6 +30,19 @@ aliases:
 </script>
 
 
+### Descuentos 
+
+La tarifa temprana terminó, pero aún tenemos descuentos para ti 
+
+- Mujeres 20% código utiliza el código DDAY_MUEJERES
+- Estudiantes 20% utiliza el código DDAY_ESTUDIANTE
+- Independientes 20% utiliza el código DDAY_INDEPENDIENTE
+- Foraneos 20% utiliza el código DDAY_FORANEO
+- Organismos (AMITI, CSOFTMTY, etc.), y comunidades15% acércate a las comunidades aliadas.
+
+<br>
+En el caso de estudiantes deberán enviar su credencial de estudiante al correo dataday@sg.com.mx
+
 ### Formas de pago
  * Directamente en Eventbrite puedes pagar con tu cuenta de PayPal o tarjeta de crédito.
  * Si deseas pagar por medio de transferencia bancaria, al adquirir tus pases en Eventbrite selecciona la opción “Mostrar otras opciones de pago” y da click en “Pago sin conexión”, al completar tu registro el sistema te mostrará los datos bancarios para realizar la operación.
