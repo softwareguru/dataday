@@ -1,5 +1,5 @@
 ---
-title: "El personal y los colaboradores, piezas clave en la generación de datos en Salud"
+title: "El Personal y los Colaboradores, Piezas Clave en la Generación de Datos en Salud"
 slug: health
 speakers:
  - David Alanis
