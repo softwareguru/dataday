@@ -11,7 +11,7 @@ twitter: ""
 linkedin: "https://www.linkedin.com/in/juan-antonio-galindo-6134b875/"
 github: ""
 events: 
- - 2023mty
+draft: true
 ---
 
 Antonio es Jefe de Cartografía Digital en el Sistema Operador de Agua Potable y Saneamiento de Cuautla, Morelos. Cuenta con una Maestría en Ciencias en Ciencias de la Computación por el CENIDET y tiene más de 10 años de experiencia profesional en roles de analítica de datos.
