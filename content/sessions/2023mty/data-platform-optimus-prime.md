@@ -1,7 +1,7 @@
 ---
 id: data-platform-optimus-prime
-title: "Data Platform Optimus Prime usando infrastructure as code, Google Cloud Composer, BigQuery y DataFlow (GCP)"
-slug: data-platform-optimus-prime
+title: "Transformando y evolucionando una plataforma de datos"
+slug: transformando-y-evolucionando-una-plataforma-de-datos
 speakers:
  - Antonio Galindo
 time_start: 2023-11-14T11:30:00-06:00
