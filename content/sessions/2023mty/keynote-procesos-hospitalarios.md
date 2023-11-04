@@ -15,7 +15,7 @@ gridarea: "5/2/6/5"
 timeslot: 4
 images:
  - images/sessions/2023mty/Christus.jpg
-
+draft: true
 ---
 
 
