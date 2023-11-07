@@ -1,6 +1,6 @@
 ---
 id: keynote-arca
-title: "Sesión presentada por Arca Continental"
+title: "Definiendo el Journey para el Éxito de un Equipo de Analítica, presentado por Arca Continental"
 slug: keynote-arca
 speakers:
  - Raúl Castro
@@ -16,4 +16,4 @@ gridarea: "3/2/4/5"
 timeslot: 2
 ---
 
-
+En esta charla compartiremos un vistazo a lo que hacemos en el equipo de analítica avanzada en Arca Continental: cuál es nuestra visión, iniciativas, resultados hasta el momento y perspectivas a futuro.

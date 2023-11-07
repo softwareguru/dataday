@@ -10,7 +10,7 @@ room: Sala 1
 track: Tendencias y perspectivas
 slides: 
 video: 
-gridarea: "8 / 2 / 9 / 3"
+gridarea: "8/2/9/3"
 timeslot: 7
 images:
  - images/sessions/2023mty/Softtek.jpg

@@ -9,8 +9,8 @@ room: Sala 3
 track: Liderazgo de organizaciones de datos
 slides: 
 video: 
-gridarea: "17 / 4 / 18 / 5"
-timeslot: 30
+gridarea: "17/2/18/2"
+timeslot: 28
 images:
  - images/sessions/2023mty/Basilio.jpg
 

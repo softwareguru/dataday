@@ -3,15 +3,15 @@ title: "Tendencias y Perspectivas de la IA: Lecciones Aprendidas y una Mirada al
 slug: ciiia
 speakers:
  - Alejandro Maldonado
-time_start: 2023-11-14T13:40:00-06:00
-time_end:   2023-11-14T14:15:00-06:00
+time_start: 2023-11-14T12:10:00-06:00
+time_end:   2023-11-14T12:45:00-06:00
 day: 2023mty
 room: Sala 1 
 track: Tendencias y perspectivas
 slides: 
 video: 
-gridarea: "11 / 2 / 12 / 3"
-timeslot: 14
+gridarea: "9/2/10/3"
+timeslot: 10
 images:
  - images/sessions/2023mty/CIIIA.jpg
 

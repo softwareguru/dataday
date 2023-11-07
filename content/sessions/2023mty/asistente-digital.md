@@ -4,16 +4,16 @@ slug: asistente-digital
 speakers:
  - Roberto Sánchez
  - Loreli Lozada
-time_start: 2023-11-14T16:40:00-06:00
-time_end:   2023-11-14T17:15:00-06:00
+time_start: 2023-11-14T15:00:00-06:00
+time_end:   2023-11-14T15:35:00-06:00
 day: 2023mty
 room: Sala 1 
 language: 
 track: Logística y consumo
 slides: 
 video: 
-gridarea: "16/2/17/3"
-timeslot: 25
+gridarea: "13/2/14/3"
+timeslot: 19
 images:
  - images/sessions/2023mty/RobertoLoreli.jpg
 
