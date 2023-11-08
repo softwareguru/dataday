@@ -34,7 +34,7 @@ aliases:
 
 La tarifa temprana terminó, pero aún tenemos descuentos para ti 
 
-- Mujeres 20% código utiliza el código DDAY_MUEJERES
+- Mujeres 20% código utiliza el código DDAY_MUJERES
 - Estudiantes 20% utiliza el código DDAY_ESTUDIANTE
 - Independientes 20% utiliza el código DDAY_INDEPENDIENTE
 - Foraneos 20% utiliza el código DDAY_FORANEO
