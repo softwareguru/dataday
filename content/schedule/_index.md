@@ -61,6 +61,9 @@ days:
       - type: timelabel
         label: "17:20 - 17:55"
         gridarea: "17/1/18/2"
+      - type: timelabel
+        label: "18:00 - 19:00"
+        gridarea: "18/1/19/2"
       - type: activity
         label: "Bienvenida"
         gridarea: "1/2/2/5"
@@ -81,8 +84,11 @@ days:
         gridarea: "15/2/16/5"
         timelabel: "16:20-16:40"
         gridaream: "25/1/26/2"
-
-
+      - type: activity
+        label: "Cóctel"
+        gridarea: "18/2/19/5"
+        timelabel: "18:00-19:00"
+        gridaream: "31/1/32/2"
 
 tracks:
   - slug: logística-y-consumo

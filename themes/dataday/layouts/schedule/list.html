@@ -34,7 +34,7 @@
       <div class="d-block d-sm-none">
         <div class="daygrid-xs">
             {{ range (where .schedule_items ".type" "activity") }}
-              <div class="{{.type}}" {{ with .gridaream }}style="grid-area: {{. | safeCSS}};"{{end}}><div class="session-time hour">{{.timelabel}}</div>{{.label}}</div>
+              <div class="{{.type}}" {{ with .gridaream }}style="grid-area: {{ . | safeCSS}};"{{end}}><div class="session-time hour">{{.timelabel}}</div>{{.label}}</div>
             {{ end }}
 
             {{ range sort (sort (where (where $.Site.Pages "Section" "sessions") ".Params.day" $curr_day )  ".Title") ".Params.timeslot" }}
