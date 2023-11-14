@@ -1,4 +1,3 @@
-
 def main():
     import csv, sys, os, qrcode
     from slugify import slugify
@@ -23,17 +22,22 @@ def main():
         reader = csv.DictReader(csvfile)
 
         for row in reader:
-            first_name = row['first_name']
-            last_name = row['last_name']
-            company = row['company']
-            title = row['title']
-            email = row['email']
+            id = row['Number']
+            firstname = row['First Name']
+            lastname = row['Last Name']
+            company = row['Company']
+            title = row['Title']
+            email = row['Email']
+            color_r = int(row['color_r'])
+            color_g = int(row['color_g'])
+            color_b = int(row['color_b'])
 
             data = f'''BEGIN:VCARD
 VERSION:3.0
-N:{last_name};{first_name}
-FN:{first_name} {last_name}
+N:{lastname};{firstname}
+FN:{firstname} {lastname}
 ORG:{company}
+TITLE:{title}
 EMAIL:{email}
 END:VCARD'''
 
@@ -41,11 +45,11 @@ END:VCARD'''
             qr = qrcode.QRCode(version=5)
             qr.add_data(data)
             qr.make()
-            img = qr.make_image()
-            slug = slugify(first_name)+"-"+slugify(last_name)
-            img.save(f"qr/{slug}.png")
+            img = qr.make_image(fill_color=(color_r,color_g,color_b))
+            img.save(f"qr/{id}.png")
 
     print("Done")
 
-if __name__ == "__main__": 
-	main() 
+if __name__ == "__main__":
+        main()
+
