@@ -85,7 +85,7 @@ days:
         timelabel: "16:20-16:40"
         gridaream: "25/1/26/2"
       - type: activity
-        label: "Cóctel"
+        label: "Coctel"
         gridarea: "18/2/19/5"
         timelabel: "18:00-19:00"
         gridaream: "31/1/32/2"
