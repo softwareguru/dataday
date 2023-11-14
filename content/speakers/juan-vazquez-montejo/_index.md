@@ -14,8 +14,4 @@ events:
  - 2023mty
 ---
 
-Juan ha trabajado en varias compañías en roles relacionados a datos e IA (wOS, PepsiCo) colaborando principalmente en preprocesamiento de datos y modelos de Machine Learning/Deep Learning para tareas de pronóstico/clasificación.
-
-Ha impartido cursos y talleres en temas de ciencia de datos, inteligencia artificial, BI y STEM en instituciones como UADY, CINVESTAV-IPN, Universidad Politécnica de Yucatán, Universidad Panamericana y Fundó las comunidades de Hackbanero y Méridata. 
-Actualmente trabaja en PepsiCo e imparte cátedra en devf.la, y Ailabschool. 
-Sus intereses son Ciencia de datos, inteligencia artificial, causalidad, divulgación de la ciencia, emprendimiento y fitness.
+Juan ha trabajado en varias compañías en roles relacionados a datos e IA (wOS, PepsiCo) colaborando principalmente en preprocesamiento de datos y modelos de Machine Learning/Deep Learning para tareas de pronóstico/clasificación. Ha impartido cursos y talleres sobre ciencia de datos, inteligencia artificial, BI y STEM en instituciones como UADY, CINVESTAV-IPN, Universidad Politécnica de Yucatán, Universidad Panamericana y fundó las comunidades de Hackbanero y Méridata. Actualmente trabaja en PepsiCo e imparte cátedra en devf.la, y Ailabschool.

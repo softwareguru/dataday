@@ -6,7 +6,7 @@ speakers:
 time_start: 2023-11-14T15:00:00-06:00
 time_end:   2023-11-14T16:15:00-06:00
 day: 2023mty
-room: Sala 3
+room: Aula 105
 track: Liderazgo de organizaciones de datos
 slides: 
 video: 

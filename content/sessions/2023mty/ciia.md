@@ -6,7 +6,7 @@ speakers:
 time_start: 2023-11-14T12:10:00-06:00
 time_end:   2023-11-14T12:45:00-06:00
 day: 2023mty
-room: Sala 1 
+room: Sala principal 
 track: Tendencias y perspectivas
 slides: 
 video: 

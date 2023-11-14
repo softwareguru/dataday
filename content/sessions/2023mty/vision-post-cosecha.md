@@ -6,7 +6,7 @@ speakers:
 time_start: 2023-11-14T11:30:00-06:00
 time_end:   2023-11-14T12:05:00-06:00
 day: 2023mty
-room: Sala 1 
+room: Aula 104
 language: 
 track: Machine learning en procesos industriales
 slides: 

@@ -6,7 +6,7 @@ speakers:
 time_start: 2023-11-14T13:40:00-06:00
 time_end:   2023-11-14T14:55:00-06:00
 day: 2023mty
-room: Sala 1 
+room: Aula 105
 track: Ingeniería de datos
 slides: 
 video: 

@@ -6,7 +6,7 @@ speakers:
 time_start: 2023-11-14T15:40:00-06:00
 time_end:   2023-11-14T16:15:00-06:00
 day: 2023mty
-room: Sala 1 
+room: Aula 104
 language: 
 track: Bienestar y salud
 slides: 

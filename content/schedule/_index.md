@@ -8,7 +8,7 @@ days:
   - id: 2023mty
     title_short: Martes
     title_full: Martes 14 de noviembre
-    rooms: ["Sala 1", "Sala 2", "Sala 3"]
+    rooms: ["Sala principal", "Aula 104", "Aula 105"]
     schedule_items: 
       - type: timelabel
         label: "8:30 - 8:40"
