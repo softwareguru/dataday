@@ -13,7 +13,8 @@ video:
 gridarea: "12/2/13/3"
 timeslot: 17
 images:
- - images/sessions/2023mty/AlfredoPequeno.jpg
+- images/sessions/2023mty/AlfredoPequeno.jpg
+slides: ddmty2023/Democratizacion-Alfredo.pdf
 ---
 
 Revisaremos las principales consideraciones a tener cuenta al desarrollar una estrategia para la democratización de los datos en un contexto corporativo. 
