@@ -14,7 +14,7 @@ gridarea: "9/4/10/5"
 timeslot: 12
 images:
  - images/sessions/2023mty/LudimSanchez.jpg
-
+slides: ddmty2023/UnitTesting-LudimSanchez.pdf
 ---
 
 Descubre cómo emplear pruebas unitarias en procesos de datos, usando herramientas como unittest,  Docker y AWS. Aprende a garantizar la precisión y confiabilidad de tus procesos ETL de Big Data de manera eficiente. Ideal para ingenieros de datos y desarrolladores ETL, esta presentación te equipa con conocimientos prácticos para empezar a implementar tus primeras pruebas sólidas y confiables en tus flujos de trabajo de Big Data.

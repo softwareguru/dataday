@@ -23,8 +23,8 @@ def main():
 
         for row in reader:
             id = row['Number']
-            firstname = row['First Name']
-            lastname = row['Last Name']
+            firstname = row['First name']
+            lastname = row['Last name']
             company = row['Company']
             title = row['Title']
             email = row['Email']

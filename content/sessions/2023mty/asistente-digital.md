@@ -16,7 +16,7 @@ gridarea: "13/2/14/3"
 timeslot: 19
 images:
  - images/sessions/2023mty/RobertoLoreli.jpg
-
+slides: ddmty2023/AsistenteDigital-RobertoLoreli.pdf
 ---
 
 En el contexto de la industria de bebidas y botanas en México, Arca Continental se destaca como un referente en la innovación y la transformación digital. Durante esta presentación, exploraremos el proyecto *Asistente Digital Fuerza de Venta*, que implementa modelos y procesos integrados para identificar oportunidades comerciales y desencadenar acciones automáticas dirigidas a la fuerza de ventas.

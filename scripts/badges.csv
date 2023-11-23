@@ -1,0 +1,197 @@
+Number,First name,Last name,Company,Title,Email,color_r,color_g,color_b,image
+1,Juan Manuel,Ahumada Vázquez,Ultralink Plus,Desarrollador,Juan.ahumada94@gmail.com,80,80,80,qr/1.png
+2,Ricardo,Alanis,Nowports,Director de Datos,ricardo.alanis@nowports.com,40,200,20,qr/2.png
+3,David Mario,Alanis Tamez,evaluaMED,Founder,david@evaluamed.com,40,200,20,qr/3.png
+4,Diego Alberto,Algara Woodhouse,Improving company,Data Architect,diego.algara@improving.com,40,200,20,qr/4.png
+5,Jenifer Alejandrina,Andrade Alonso,Daikin Manufacturing Mexico,Líder de Equipo - App Empresariales,jenifer.andrade@daikinapplied.com,80,80,80,qr/5.png
+6,Ana Paola,Aranda Luelmo,Health Data Science Program,Estudiante,apal250102@gmail.com,40,200,20,qr/6.png
+7,Luis Alejandro,Arellano López,INEGI,Enlace Supervisor,alejandro.arellano@inegi.org.mx,80,80,80,qr/7.png
+8,Pablo Antonio,Balmaceda González,INEGI,Jefe de departamento,pablo.balmaceda@inegi.org.mx,80,80,80,qr/8.png
+9,Jorge Eduardo,Beltran Sada,TVCENLINEA.COM,Coordinador De Sistemas Y Desarrollo,jorge.beltran@tvc.mx,80,80,80,qr/9.png
+10,Dirceo,Bravo Flores,SiLincoln Valley,Founder,dirceo@gmail.com,240,190,20,qr/10.png
+11,Yolanda Irma,Caballero Contreras,Caterpillar Inc.,Product Analytics Engineer,yolanda.caballerocontreras@cat.com,80,80,80,qr/11.png
+12,Abel,Camarillo,Verlet,Dev,dataday@verlet.org,40,200,20,qr/12.png
+13,Juan Pablo,Canizales Martinez,Kemet,Ingeniero de Equipo,jpcanizales20@gmail.com,40,200,20,qr/13.png
+14,Natalia,Cantú Morales,Softtek,Talent Attraction,natalia.cantu@softtek.com,200,20,200,qr/14.png
+15,Raymundo,Carrasco,Prolec GE,Product Manager,raymundo.carrasco@prolec.energy,240,190,20,qr/15.png
+16,Iván,Carrillo,Tebon Class,Coordinador BI,ivancarrillo005@gmail.com,40,200,20,qr/16.png
+17,José Adrian,Castillo Sierra,Htech,Arquitecto de Software,adrian.castillo@htech.com,80,80,80,qr/17.png
+18,Raúl,Castro,Arca Continental,Advanced Analytics Manager,raul.castro@arcacontal.com ,40,200,20,qr/18.png
+19,Marcos,Chavez Chavez,Xignux,Gerente de Analítica Avanzada,marcos.chavez@xignux.com,40,200,20,qr/19.png
+20,Luis,Cisneros,Universidad de Monterrey,Científico de Datos,luis.cisnerosc@udem.edu,80,80,80,qr/20.png
+21,Edson Uriel,Cordova Cruz,Frisa,Ingeniero de Sistemas,edson.cordova@frisa.com,80,80,80,qr/21.png
+22,Maximino,Cornejo Tenorio,Neolinx de México,Desarrollador,mcornejo@neolinx.mx,80,80,80,qr/22.png
+23,Grecia,Cortés,HCL Technologies Mexico,Desarrollador Backend,mmqnq-eventbrite@yahoo.com,80,80,80,qr/23.png
+24,Sirenia,Cruz,AMI Automation,Implementation Engineer,sirenia.cruz@amiautomation.com,80,80,80,qr/24.png
+25,Valeria,Cuellar Vizcarra,Arca Continental,Analista de reclutamiento,valeria.cuellar@arcacontal.com,200,20,200,qr/25.png
+26,Saul,Cuen Rochin,Industrias Rochin / Tec de Monterrey,Consultor / Profesor,saulcuen@tec.mx,40,200,20,qr/26.png
+27,Alan,Cuevas,Elastic,Sr. Solutions Architect,alan.cuevas@elastic.co,40,200,20,qr/27.png
+28,Julio César,de Alejandro Montalvo,Sigma Alimentos,Gerente Analítica de Datos,jalejandrom@sigma-alimentos.com,80,80,80,qr/28.png
+29,Gilberto,del Mercado Lopez,Frisa,Ingeniero Sistemas,gilberto.delmercado@frisa.com,80,80,80,qr/29.png
+30,Jesús Eider,Díaz Moraila,Sigma Alimentos,Jefe Analítica de Datos,jediazm@sigma-alimentos.com,80,80,80,qr/30.png
+31,Erika,Diaz Reyes,INEGI,Enlace de coordinación de proyecto,erika.diaz@inegi.org.mx,80,80,80,qr/31.png
+32,Luis Alberto,Diaz y Diaz,Neolinx de México,Jefe de Soporte,ldiaz@neolinx.mx,80,80,80,qr/32.png
+33,Diana,Dones Espericueta,ROGAPER,Lider de Equipo de Datos,ddones@gruporoga.com,80,80,80,qr/33.png
+34,Pedro Mauricio,Esparza García,Sigma Alimentos,Jefe Ingeniería de Datos,pesparza@sigma-alimentos.com,80,80,80,qr/34.png
+35,Daniel,Estrada Castañeda,Servicios Administrativos Comernova,TI,daniel.estrada@dmx.biz,80,80,80,qr/35.png
+36,Dafne,Fernandez De Castro,Elastic,dafne.fernandez@elastic.co,dafne.fernandez@elastic.co,20,120,224,qr/36.png
+37,Rodrigo,Flores,Nemak,HSE Specliasit,rodrigo.flores07@nemak.com,80,80,80,qr/37.png
+38,Alan Israel,Flores Cabrera,Ultralink Plus,Desarrollador,alanif@hotmail.com,80,80,80,qr/38.png
+39,Antonio Arturo,Galindo Díaz,Digital@FEMSA,Head of Data,tonygalindo@hotmail.com,40,200,20,qr/39.png
+40,Emmanuel,Gallegos,Independiente,Psiquiatra y Terapeuta EMDR,jemanuelgv@gmail.com,40,200,20,qr/40.png
+41,Fabiola Guadalupe,Gallegos Flores,Daikin Manufacturing Mexico,Ingeniera de Datos,fabiola.gallegos@daikinapplied.com,80,80,80,qr/41.png
+42,Gustavo Alejandro,Gallegos Macias,INEGI,Enlace supervisor,gustavo.gallegos@inegi.org.mx,80,80,80,qr/42.png
+43,José Carlos,García Montes,Htech,Principal Data Engineer,carlos.garcia@lagersoft.com,80,80,80,qr/43.png
+44,Adrián,García Valdez,Oxxo,Inteligencia de Datos,adrian.garciavaldez@oxxo.com,240,190,20,qr/44.png
+45,Edgar ,Garza,Ventus Technology,Director Comercial,egarza@ventus-tech.com,80,80,80,qr/45.png
+46,Eric,Garza,AMI Automation,Development Manager,eric.garza@amiautomation.com,80,80,80,qr/46.png
+47,Ricardo,Garza,Softtek,Diretor de Innovación,ricardo.garza@softtek.com,40,200,20,qr/47.png
+48,Adrian Jacob,Garza Aguirre,Frisa,Especialista IT,adrian.garza@frisa.com,80,80,80,qr/48.png
+49,Juan Baldemar,Garza Villegas,Viakable,Data Scientist Sr,juangza79@gmail.com,40,200,20,qr/49.png
+50,Bryant Fernando,Gómez Dominguez,Ultralink Plus,Desarrollador,fernandogmz2001@gmail.com,80,80,80,qr/50.png
+51,Andrea,Gonzalez,Arca Continental,Coordinador de Reclutamiento,andrea.gonzalez@arcacontal.com,200,20,200,qr/51.png
+52,Ricardo,Gonzalez,Sigma Alimentos,Lead Data Scientist,rigonzalezma@sigma-alimentos.com,40,200,20,qr/52.png
+53,Erik Alonso,González Arguijo,Grupo Versa,Jefe de desarrollo y Software Empresarial,egonzalez@grupoversa.com,80,80,80,qr/53.png
+54,Gilberto Armando,Gonzalez Montemayor,Xignux,Consultor de Calidad y Gobierno del Dato,gilbertoarmando.gonzalez@ext.xignux.com,80,80,80,qr/54.png
+55,Carlos Enrique,Gonzalez Moran,Independiente,Data Engineer,carlos.gzz.moran@gmail.com,80,80,80,qr/55.png
+56,Francisco Javier,Gonzalez Perez,Servicios Administrativos Comernova,TI,francisco.gonzalezp@dmx.biz,80,80,80,qr/56.png
+57,Carlos Javier,Guel Martínez,Banorte,Subdirector de Portafolio de Negocio Adquirente,carlos_gmtz@hotmail.com,40,200,20,qr/57.png
+58,Luis Osvaldo,Guerra Aldape,Grupo GP,Jefe de Aplicaciones y proyectos tecnologicos,luis.guerra@grupogp.com.mx,80,80,80,qr/58.png
+59,Anabeth,Gutierrez Olmos,Proteina Animal,Gerente IT,it@buenavistahospotal.com,80,80,80,qr/59.png
+60,Cynthia Pamela,Gutierrez Villegas,Improving company,Talent Acquisition,cynthia.gutierrez@improving.com,20,120,224,qr/60.png
+61,Jose,Hernandez,AMI Automation,Project Manager,jose.hernandez@amiautomation.com,80,80,80,qr/61.png
+62,Luis,Hernandez,AMI Automation,Development Engineer Sr.,luis.hernandez@amiautomation.com,80,80,80,qr/62.png
+63,Manuel,Hernandez,Consorcio Consultivo Empresarial SC,Project Manager,alejandrohp@gmail.com,80,80,80,qr/63.png
+64,Carlos,Hernández,Ventus Technology,Especialista Elastic,carlos.hernandez@ventus-tech.com,200,20,200,qr/64.png
+65,Rolando,Hernández,Ventus Technology,Director Centro de Inteligencia Artificial,rhernandez@ventus-tech.com,20,120,224,qr/65.png
+66,Hector Emilio,Hernandez Castillo,Neolinx de México,Desarrollador,ehernandez@neolinx.mx,80,80,80,qr/66.png
+67,Angel Adrian ,Hernandez Espinosa,AMI Automation,Ingeniero electrónico,practicante.soluciones@amiautomation.com,80,80,80,qr/67.png
+68,Francisco,Hernández Gausin,Grupo Versa,Desarrollador Sr,fhernandez@grupoversa.com,80,80,80,qr/68.png
+69,Katya,Hernandez Nevarez,Softtek,Marketing,katya.hernandez@softtek.com,200,20,200,qr/69.png
+70,Juan Emmanuel,Hernandez Vazquez,Silincoln Valley,Medios digitales,jehdzv@outlook.com,240,190,20,qr/70.png
+71,Maria del Carmen,Iñigo,Elastic,Enterprise Account Executive,mariadelcarmen.inigoroman@elastic.co,20,120,224,qr/71.png
+72,Basilio,Karamanos,A4Good Mexico,Consultor,basilio@gestoresarcadia.com,40,200,20,qr/72.png
+73,Francisco Alejandro,Larzon Jiménez,Oxxo,Inteligencia de Datos,francisco.larzon@oxxo.com,240,190,20,qr/73.png
+74,Carlos Mario,Leal Garza,Caterpillar Inc.,Product Analytics Engineer,carlos.lealgarza@cat.com,80,80,80,qr/74.png
+75,Eduardo,Lopez,AMI Automation,Development Engineer,eduardo.lopez@amiautomation.com,80,80,80,qr/75.png
+76,Rafael,López Guajardo,STRATA Consultores,Profesor,rafael@strata.mx,80,80,80,qr/76.png
+77,Rodolfo,Lopez Montes,DAYSET,Data Management Sr,rodolfo.lopez@dayset.com,40,200,20,qr/77.png
+78,Gabriela,López Salinas,Grupo Versa,Desarrollador Jr Especialista BI,glopez@grupoversa.com,80,80,80,qr/78.png
+79,Lorelí,Lozada,Arca Continental,Jefa de Traducción de Datos,elvia.lozada@arcacontal.com ,40,200,20,qr/79.png
+80,Victor,Machuca Rivera,Sigma Alimentos,Jefe Analítica de Datos,vmachuca@sigma-alimentos.com,80,80,80,qr/80.png
+81,Alejandro,Maldonado,CII.IA,Chief Scientific Officer,alejandro.maldonado@ciiia.mx,40,200,20,qr/81.png
+82,Juan Gilberto,Marquez,Xignux,Inteligencia de Negocios,juangilberto.marquez@xignux.com,80,80,80,qr/82.png
+83,Mariana,Marquez,DAYSET,Sales,mariana.marquez@dayset.com,20,120,224,qr/83.png
+84,Fernando,Martinez,Tebon Class,Analista de Datos,fer.marrez@gmail.com,40,200,20,qr/84.png
+85,Cynthia,Martínez,TecSalud,Chief Medical Informatics Officer,,40,200,20,qr/85.png
+86,Juana María,Martínez,Health Data Science Program,Ing de datos,juanamtz@gmail.com,40,200,20,qr/86.png
+87,Luis,Martínez,Adistec,Business  Manager Ciberseguridad,lmartinez@adistec.com,200,20,200,qr/87.png
+88,Salvador,Martínez Gutiérrez,INEGI,Enlace supervisor,salvador.gutierrez@inegi.org.mx,80,80,80,qr/88.png
+89,Jose Manuel,Martinez Rojas,TVCENLINEA.COM,Data Analyst,manuel.martinez@tvc.mx,80,80,80,qr/89.png
+90,Javier Israel,Mata Sanchez,Nowports,Data Team Lead,isra.sanchez95@gmail.com,80,80,80,qr/90.png
+91,Jose Manuel,Mendez Carrillo,Frisa,Especialista IT,jmendez@frisa.com,80,80,80,qr/91.png
+92,Jesus Rafael,Mendoza Alardin,Dimex Capital,Gerente de Visualizaciones,jesus.mendoza@dmx.biz,80,80,80,qr/92.png
+93,Jorge,Montelongo Zuñiga,TVCENLINEA.COM,Gerente de Planeación,jorge.montelongo@tvc.mx,80,80,80,qr/93.png
+94,Xochitl,Morales,Digital@FEMSA,Data Manager,xochitl.morales@digitalfemsa.com,40,200,20,qr/94.png
+95,Fabián,Morán Hernández,INEGI,Enlace Supervisor,fabian.moran@inegi.org.mx,80,80,80,qr/95.png
+96,Claudia,Naranjo Hernández,Softtek,Talent Attraction,claudia.naranjo@softtek.com,200,20,200,qr/96.png
+97,Juan Arturo,Nolazco,Tec de Monterrey,Director Data Science Hub,jnolazco@tec.mx ,40,200,20,qr/97.png
+98,Juan,Ortegon,AMI Automation,Development Engineer,juan.ortegon@amiautomation.com,80,80,80,qr/98.png
+99,Diana Carolina,Ortiz Alvarez,Ensitech,Organizational Development Analyst,ortizalvarezdianacarolina@gmail.com,20,120,224,qr/99.png
+100,Cesar,Payán,CommScope,Staff Engineer,cesar.payan@gmail.com,40,200,20,qr/100.png
+101,Iván Alejandro,Pedraza Macias,Sigma Alimentos,Jefe Ingeniería de Datos,ipedraza@sigma-alimentos.com,80,80,80,qr/101.png
+102,Nancy Daniela,Peña Hernández,Xignux,Inteligencia de negocios,nancydaniela.pena@xignux.com,80,80,80,qr/102.png
+103,Alfredo,Pequeño,Regional SAB,Director de Medios de Pago y Datos,alfredo.pequeno@banregio.com,40,200,20,qr/103.png
+104,Karina Fernanda,Perez Dominguez,Independiente,Ingeniera de Datos,karinaf1427@gmail.com,80,80,80,qr/104.png
+105,Eduardo,Perez Martinez,Xignux,Gerente de Datos y Analitica,eduardo.perez@xignux.com,80,80,80,qr/105.png
+106,Vanessa,Pinales Castillo,Frisa,Ingeniero Sistemas,vanessa.pinales@frisa.com,80,80,80,qr/106.png
+107,Yolanda,Ponce Márquez,Xignux,Analítica Avanzada,yolanda.ponce@xignux.com,80,80,80,qr/107.png
+108,José,Portillo,Liceo de Monterrey,Coordinador,jonathan.portillo@liceo.edu.mx,80,80,80,qr/108.png
+109,David,Puente,Arca Continental,Director Advanced Analytics,david.puente@arcacontal.com ,40,200,20,qr/109.png
+110,Eduardo,Ramirez,Ensitech,Director de AI,eduardo@ensitech.com,40,200,20,qr/110.png
+111,Jorge Alberto,Ramírez García,Caterpillar Inc.,Product Analytics Engineer,jorge.ramirezgarcia1@cat.com,80,80,80,qr/111.png
+112,Michell,Rivera,Ensitech,IT Recruiter,michell@ensitech.com,20,120,224,qr/112.png
+113,Vania Yatzil,Robledo Palacio,INEGI,Enlace Supervisor,vania.robledo@inegi.org.mx,80,80,80,qr/113.png
+114,Jorge Adrian,Rocha,ROGAPER,Ingeniero en datos,jrocha@gruporoga.com,80,80,80,qr/114.png
+115,Juan Carlos,Rodriguez Aguilar,TVCENLINEA.COM,Gerente de Sistemas & SGA,juancarlos.rodriguez@tvc.mx,80,80,80,qr/115.png
+116,Jose Angel,Rodriguez Alcocer,Frisa,Ingeniero Sistemas,joseangel.rodriguez@frisa.com,80,80,80,qr/116.png
+117,Rosalinda Irais,Rodriguez Ramos,Xignux,Arquitecto de datos,rosalindairais.rodriguez@xignux.com,80,80,80,qr/117.png
+118,Marco Antonio,Rodríguez Rangel,INEGI,Enlace Supervisor,marco.rangel@inegi.org.mx,80,80,80,qr/118.png
+119,Miguel Ángel,Rodríguez Reyes,INEGI,Enlace Supervisor,miguel.rodriguezr@inegi.org.mx,80,80,80,qr/119.png
+120,Martha Elena,Rodriguez Zamora,Xignux,Gobierno de Datos,marthaelena.rodriguez@xignux.com,80,80,80,qr/120.png
+121,Etna Aurora,Rojas Flores,Independiente,Consultor,etna.rojas@gmail.com,80,80,80,qr/121.png
+122,Miriam Yuridia,Rojas Luis,Ensitech,Cientifico de Datos,miriam.rojas@ensitech.com,80,80,80,qr/122.png
+123,Estefania,Romo Castorena,Improving company,Talent Acquisition,estefania.romo@improving.com,20,120,224,qr/123.png
+124,Mariela,Rueda Quijano,Improving company,Talent Acquisition,mariela.quijano@improving.com,20,120,224,qr/124.png
+125,Nancy,Ruiz Perez,TVCENLINEA.COM,Directora de Estrategia,nancy@tvc.mx,80,80,80,qr/125.png
+126,Jorge Antonio,Salazar González,Sigma Alimentos,Jefe Analítica de Datos,jsalazarg@sigma-alimentos.com,80,80,80,qr/126.png
+127,José,Salcedo,Prepa UDEM,Profesor,techjasd@gmail.com,40,200,20,qr/127.png
+128,Ludim,Sánchez,Spin by OXXO,Data Engineer,ludim.anel@gmail.com,40,200,20,qr/128.png
+129,Roberto,Sánchez,Arca Continental,Líder de Ciencia de Datos,roberto.sanchezp@arcacontal.com,40,200,20,qr/129.png
+130,Job Noé,Sánchez Magaña,INEGI,Jefe de departamento,job.sanchez@inegi.org.mx,80,80,80,qr/130.png
+131,Roberto,Sánchez Pámanes,Arca Continental,Lead Data Scientist,roberto.sanchezp@arcacontal.com,40,200,20,qr/131.png
+132,Efraín,Santoyo Durán,INEGI,Jefe de departamento,efrain.santoyo@inegi.org.mx,80,80,80,qr/132.png
+133,Carlos,Sesma,Dandelix,Data Scientist,carlos.sesma@hotmail.com,240,190,20,qr/133.png
+134,Fernanda,Sobrino,ITESM Escuela de Gobierno y Transformación Pública,Profesora Investigadora,fersobrinno@tec.mx,40,200,20,qr/134.png
+135,Armando,Soto Valdez,INEGI,jefe de departamento,armando.soto@inegi.org.mx,80,80,80,qr/135.png
+136,Reinhold ,Suchowitzky Toba,AMI Automation,R&D,reinhold.suchowitzky@amiautomation.com,80,80,80,qr/136.png
+137,Liliana Abigail,Torres López,Independiente,Consultor,abii_torres@outlook.com,80,80,80,qr/137.png
+138,Maria,Trejo,AMI Automation,Data Analyst Engineer,maria.trejo@amiautomation.com,80,80,80,qr/138.png
+139,Aldo,Valadez,Regional SAB,Chief Analytics Officer,vavaladez@gmail.com,40,200,20,qr/139.png
+140,Orel,Valladares Muñoz,Oxxo,Inteligencia de Datos,orel.valladares@oxxo.com,240,190,20,qr/140.png
+141,Adriana Margarita,Vallejo Castillo,Health Data Science Program,Co directora,adriana@healthids.org,40,200,20,qr/141.png
+142,Josue David,Vazquez Calvillo,Xignux,Inteligencia de negocios,josuedavid.vazquez@xignux.com,80,80,80,qr/142.png
+143,Juan,Vazquez Montejo,PepsiCo,Data Scientist Contractor,gukumatz@gmail.com,40,200,20,qr/143.png
+144,Ángel Francisco,Vela De La Garza Evia,Xignux,Analítica Avanzada,angelfrancisco.vela@xignux.com,80,80,80,qr/144.png
+145,Jaime Eduardo,Verdugo Jimenez,Ultralink Plus,Desarrollador,jaimeeduardoverdugoj@gmail.com,80,80,80,qr/145.png
+146,Enrique,Viera Valdez,Xignux,Coordinador Calidad De Datos,enrique.viera@xignux.com,80,80,80,qr/146.png
+147,Jesus Sergio,Zapata Reyes,Frisa,Ingeniero Tecnologias Operativas,jesus.zapata@frisa.com,80,80,80,qr/147.png
+148,Jessica,Zuñiga,Habi / TuHabi,Head de Data Governance,jessizucastillo@gmail.com,40,200,20,qr/148.png
+149,Karen,Zúñiga Castillo,Tecnológico de Monterrey,AI Software Developer Specialist,kazuca97@gmail.com,80,80,80,qr/149.png
+150,Pedro,Galván Kondo,SG,,pedro@sg.com.mx,20,160,200,qr/150.png
+151,Mariana,Torres,SG,,mariana@sg.com.mx,20,160,200,qr/151.png
+152,Ivett,Sánchez,SG,,ivett@sg.com.mx,20,160,200,qr/152.png
+153,Fernando,Hernández,SG,,fernando@sg.com.mx,20,160,200,qr/153.png
+154,Alberto,Rodríguez,SG,,alberto@sg.com.mx,20,160,200,qr/154.png
+155,Claudia,Perea,SG,,claudia@sg.com.mx,20,160,200,qr/155.png
+156,Leobardo,Morales,SG,,leo@sg.com.mx,20,160,200,qr/156.png
+157,Ludivina,Facundo,CII.IA,Chief AI Officer,ludivina.facundo@ciiia.mx,200,20,200,
+158,Jaime,Sáenz,CII.IA,Presidente de Consejo,jaime.saenz@sitconsultores.com,200,20,200,
+159,Mauricio,Leal,CII.IA,Director de Operaciones,mauricio.leal@ciiia.mx,20,120,224,
+160,Manuel,de la Cerda Gonzalez,Escuela de Gobierno y Transformación Pública,,manuel_usnavyseals5@hotmail.com,240,190,20,
+161,Ismael,Sánchez Lozano,Escuela de Gobierno y Transformación Pública,,ismael04_5@hotmail.com,240,190,20,
+162,Rocío,Rodríguez Molina,Escuela de Gobierno y Transformación Pública,,rocio.rdz06@gmail.com,240,190,20,
+163,Gabriela Lizeth,Moreno Hernández,Escuela de Gobierno y Transformación Pública,,gabbrielam88@outlook.com,240,190,20,
+164,Isabel,Garza Treviño,Escuela de Gobierno y Transformación Pública,,isa.garzat@gmail.com,240,190,20,
+165,Oscar David,Gonzalez Huerta,Escuela de Gobierno y Transformación Pública,,oscargzzh@gmail.com,240,190,20,
+166,Cesar,Villarreal,Arca Continental,Arquitecto de soluciones,cesar.villarreal@arcacontal.com,240,190,20,
+167,Martha,Garcia,Arca Continental,Lider de Data Translator,martha.garciar@arcacontal.com,240,190,20,
+168,Brissa,Romero,Arca Continental,Cientifico de Datos,brissa.romero@arcacontal.com,240,190,20,
+169,Veronica,Castillo,Arca Continental,Data Translator,veronica.castillom@arcacontal.com,240,190,20,
+170,Diego,Garcia,Arca Continental,Ingeniero de Datos,diego.garcias@arcacontal.com,240,190,20,
+171,Ivan,Ramirez,Arca Continental,Lider de datos,ivan.ramirezm@arcacontal.com,240,190,20,
+172,Fernando,Camacho,Arca Continetal,Consultor comunicacion externa,fcamacho@zimat.com.mx,240,190,20,
+173,Vicente,Chavez,Arca Continental,Gerente de comunicacion externa,vicente.chavezc@arcacontal.com,240,190,20,
+174,Raul,Martinez,Arca Continental,Científico de Datos,raul.martinezt@arcacontal.com,240,190,20,
+175,Raul,Castro,Arca Continental,Gerente de Ciencia de Datos,raul.castro@arcacontal.com,240,190,20,
+176,David,Puente,Arca Continental,Director de analíticos,david.puente@arcacontal.com,240,190,20,
+177,Eduardo Isaí,Villarreal Sierra,Escuela de Gobierno y Transformación Pública,,a01177547@tec.mx,240,190,20,
+178,Irene,Martínez Alvarez,Escuela de Gobierno y Transformación Pública,,a00831584@tec.mx,240,190,20,
+179,Kamila,Topete Güereña,Escuela de Gobierno y Transformación Pública,,a00830836@tec.mx,240,190,20,
+180,María Teresa,González Gámez,Escuela de Gobierno y Transformación Pública,,a01570825@tec.mx,240,190,20,
+181,Carlos Emmanuel,Saldaña Villanueva,Escuela de Gobierno y Transformación Pública,,carlos.s@tec.mx,240,190,20,
+182,Sunny Arely,Villa Juárez,Escuela de Gobierno y Transformación Pública,,sunnyvilla@tec.mx,240,190,20,
+183,Arturo Demian,García Nepomucen,Escuela de Gobierno y Transformación Pública,,A01731485@tec.mx,240,190,20,
+184,Fernanda,Quintanilla Domínguez,Escuela de Gobierno y Transformación Pública,,A01721451@tec.mx,240,190,20,
+185,Emiliano,Montalvo Vásquez,Escuela de Gobierno y Transformación Pública,,A00832862@tec.mx,240,190,20,
+186,Pedro,Torres Estrada,Escuela de Gobierno y Transformación Pública,Profesor,pedro.torres@tec.mx,240,190,20,
+187,Esteban,García ,Independiente,,gace75@gmail.com,240,190,20,
+188,Rey ,Flores,Olimpiada de matemáticas,,serolfrotceh@gmail.com,240,190,20,
+189,Raúl,Alejandri Oberrauter,EGobiernoyTP,Estudiante,a01470348@tec.mx,240,190,20,
+190,Luis Alberto,Palacios ,EGobiernoyTP,Estudiante,a01470338@tec.mx,240,190,20,
+191,Deneb,Treviño Rios,EGobiernoyTP,Estudiante,a00805390@tec.mx,240,190,20,
+192,Ridel Angel,Antunes Quispe,EGobiernoyTP,Estudiante,a01470340@tec.mx,240,190,20,
+193,Monica Belen,Hernández Bennettez,EGobiernoyTP,Estudiante,a01470332@tec.mx,240,190,20,
+194,Angeles ,Vela Del Río,Csoftmty,Directora General,angeles.vela@csoftmty.org,240,190,20,
+195,Iliana ,Ramirez Rampirez,Csoftmty,Directora capital humano,iliana.ramirez@csoftmty.org,240,190,20,
+196,Sonia,Tijerina Sanchez,Csoftmty,Directora de mercados,sonia.tijerina@csoftmty.org,240,190,20,

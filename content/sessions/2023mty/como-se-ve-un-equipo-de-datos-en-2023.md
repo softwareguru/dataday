@@ -15,6 +15,7 @@ gridarea: "16/4/17/5"
 timeslot: 27
 images:
  - images/sessions/2023mty/RicardoAlanis.jpg
+slides: ddmty2023/EquipoDatos-RicardoAlanis.pdf
 ---
 
 
