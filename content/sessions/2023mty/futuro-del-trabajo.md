@@ -13,6 +13,7 @@ gridarea: "17/2/18/2"
 timeslot: 28
 images:
  - images/sessions/2023mty/Basilio.jpg
+slides: ddmty2023/FuturoTrabajo-Basilio.pdf
 
 ---
 

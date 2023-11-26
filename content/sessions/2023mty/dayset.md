@@ -14,6 +14,7 @@ gridarea: "11/2/12/3"
 timeslot: 14
 images:
  - images/sessions/2023mty/Dayset.jpg
+slides: ddmty2023/Dayset.pdf
 
 ---
 

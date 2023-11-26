@@ -15,6 +15,7 @@ gridarea: "8/3/9/4"
 timeslot: 8
 images:
  - images/sessions/2023mty/SaulCuen.jpg
+slides: ddmty2023/VisionComputacional-SaulCuen.pdf
 
 ---
 

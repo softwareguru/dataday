@@ -14,6 +14,7 @@ gridarea: "16/2/17/3"
 timeslot: 25
 images:
  - images/sessions/2023mty/CarlosGuel.jpg
+slides: ddmty2023/AbandonoClientes-CarlosGuel.pdf
 
 ---
 

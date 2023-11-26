@@ -14,7 +14,7 @@ gridarea: "17/3/18/4"
 timeslot: 29
 images:
  - images/sessions/2023mty/CesarPayan.jpg
-
+draft: true
 ---
 
 Se presentará un sistema eficiente y de bajo costo para monitorear el estado de repositorios de agua (lagos y presas) utilizando datos proporcionados por el sistema de satelites Sentinel de la Agencia Espacial Europea. 

@@ -14,7 +14,7 @@ gridarea: "9/3/10/4"
 timeslot: 11
 images:
  - images/sessions/2023mty/JuanCanizales.jpg
-
+slides: ddmty2023/Electroplating-JuanPablo.pdf
 ---
 
 Con el uso de IA, específicamente con algoritmos de Machine Learnig se pueden predecir eventos de falla con mayor precisión y evitar interrupciones de procesos debidas a eventuales fallos en los equipos.

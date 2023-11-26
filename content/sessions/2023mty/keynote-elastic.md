@@ -12,6 +12,8 @@ slides:
 video: 
 gridarea: "5/2/6/5"
 timeslot: 4
+slides: ddmty2023/Elastic.pdf
+
 ---
 
 Te invitamos a adentrarte en el potencial del Generative AI para tu negocio, y así abrir la puerta a un mundo de descubrimientos a través de los datos. 
