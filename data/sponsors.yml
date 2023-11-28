@@ -1,6 +1,6 @@
 
 title: "Patrocinadores"
-subtitle: "DataDay(s) es posible gracias al apoyo de"
+subtitle: "Data Day Monterrey 2023 fue posible gracias al apoyo de:"
 
 sponsor_group:
 
@@ -44,8 +44,6 @@ sponsor_group:
       link : "https://www.linkedin.com/company/women-in-data-science-power-and-engineering?originalSubdomain=mx"
     - logo : "images/sponsors/dsmty.png"
       link : "https://www.facebook.com/groups/469523539899326"
-    - logo : "images/sponsors/tacos-de-datos.png"
-      link : "https://www.tacosdedatos.com/"
     - logo : "images/sponsors/Saturdays-AI.png"
       link : "https://saturdays.ai/monterrey-ai/"
     - logo : "images/sponsors/Csoftmty.png"
