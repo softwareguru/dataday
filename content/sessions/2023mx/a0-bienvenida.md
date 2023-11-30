@@ -17,6 +17,7 @@ live_url:
 slides: 
 video: 
 tags: 
+draft: true
 ---
 
 

@@ -14,7 +14,7 @@ language:
 live_url: 
 tags:
 slides: 
-video: 
+video: https://youtu.be/-SBbM7KmHcw
 track: public-policy
 summary: "Using historical data we systematically predict entry into homelessness among individuals with a recent eviction."
 ---

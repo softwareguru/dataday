@@ -11,7 +11,7 @@ timeslot: a
 language: 
 live_url: 
 slides: 
-video: 
+video: https://youtu.be/_v2mqkEyIgc
 track: public-policy
 tags:
 summary: "Compartiremos detalles sobre el análisis de datos realizado sobre Ciudad de México como ecosistema de innovación."

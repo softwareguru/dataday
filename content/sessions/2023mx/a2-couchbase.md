@@ -15,7 +15,7 @@ language:
 track: tools
 live_url: 
 slides: 
-video: 
+video: https://youtu.be/7Bb9XHxlUBc
 tags: 
 summary: "Platicaremos sobre como el stack ASC (AWS Snowball, Starlink, Couchbase) habilita capacidades de analítica en la orilla (edge analytics) en zonas con problemas de conectividad."
 

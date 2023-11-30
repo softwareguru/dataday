@@ -15,7 +15,7 @@ live_url:
 track: fintech
 tags:
 slides: 
-video: 
+video: https://youtu.be/4fe57Vgxlcw
 summary: "Mostraremos cómo interactuar de forma eficiente con datos a gran escala utilizando las herramientas de Elastic."
 ---
 

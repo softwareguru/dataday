@@ -14,7 +14,7 @@ language:
 live_url: 
 tags:
 slides: 
-video:  
+video: https://youtu.be/S8pQhcYo38I
 track: public-policy
 summary: "Federalismo Responsable busca explicar el funcionamiento del federalismo mexicano para proponer recomendaciones de política pública. En esta charla platicaremos sobre el proyecto, y cómo obtenemos, procesamos y
 exponemos los datos utilizados."

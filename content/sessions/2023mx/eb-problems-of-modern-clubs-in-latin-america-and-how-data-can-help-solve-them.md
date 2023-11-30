@@ -15,7 +15,7 @@ live_url:
 track: 
 tags:
 slides: 
-video: 
+video: https://youtu.be/R-DML-pwBhQ
 track: sports-analytics
 ---
 

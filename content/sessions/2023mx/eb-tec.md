@@ -15,7 +15,7 @@ live_url:
 track: public-policy
 tags:
 slides: 
-video: 
+video: https://youtu.be/wOaQsjvq10g
 summary: "En esta presentación mostraremos una aplicación computacional de código abierto y uso gratuito para caracterizar el crecimiento urbano y construir escenarios de futuro para cualquier ciudad de América Latina con más de 100 mil habitantes."
 ---
 
