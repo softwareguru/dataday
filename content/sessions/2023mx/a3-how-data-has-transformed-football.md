@@ -13,7 +13,7 @@ room: México 1-2
 language: 
 live_url: 
 slides: 
-video: 
+video: https://youtu.be/sX-rieybWy0
 track: sports-analytics
 tags:
 ---

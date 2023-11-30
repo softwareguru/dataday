@@ -13,7 +13,7 @@ room: México 1-2
 language: 
 live_url: 
 slides: 
-video: 
+video: https://youtu.be/-5NWAEA5PT8
 track: tools
 tags:
 summary: "Implementación de un data warehouse usando Azure Synapse Analytics."

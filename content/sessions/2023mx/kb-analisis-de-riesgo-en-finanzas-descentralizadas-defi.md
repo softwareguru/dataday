@@ -14,7 +14,7 @@ language:
 live_url: 
 tags:
 slides: 
-video: 
+video: https://youtu.be/x_CyRiwYXSQ
 track: fintech
 summary: "Evaluación de riesgos en DeFi desde un punto de vista de análisis de datos. Exploraremos cómo los datos pueden ser utilizados para evaluar y monitorear los riesgos en DeFi, incluyendo los riesgos asociados con la liquidez, la solvencia, la volatilidad y la integridad de los contratos inteligentes."
 ---

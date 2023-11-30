@@ -14,7 +14,7 @@ language:
 live_url: 
 tags:
 slides: 
-video: 
+video: https://youtu.be/SfcASYcAdLQ
 track: public-policy
 summary: "Se compartirá un proyecto de investigación sobre la Gestión del Conocimiento soportado con la Inteligencia Artificial contextualizado en el sector Educativo."
 ---

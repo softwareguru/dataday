@@ -13,7 +13,7 @@ room: México 3-5
 language: 
 live_url: 
 slides: 
-video: 
+video: https://youtu.be/kUxqmwla_nw
 track: sports-analytics
 tags:
 summary: "In this talk, I will discuss three areas where data can provide insights that can help in squad building and in-game decision making."

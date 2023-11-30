@@ -14,7 +14,7 @@ language:
 live_url: 
 tags:
 slides: 
-video:  
+video: https://youtu.be/wzF8YlIeLP0
 track: public-policy
 summary: "Platicaremos sobre el caso de cómo se desarrolló y utilizó un modelo predictivo para identificar personas de alto riesgo de crisis de salud de comportamiento"
 ---

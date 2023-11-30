@@ -15,7 +15,7 @@ live_url:
 track: fintech
 tags:
 slides: 
-video: 
+video: https://youtu.be/vHL1EgLJaHM
 summary: "En esta charla compartiremos detalles sobre la puesta en producción de un modelo de originación en Clara. Dicho modelo permite evaluar el riesgo de crédito de los solicitantes y ha contribuido a mejorar sus operaciones y a lograr unos resultados más favorables."
 ---
 
