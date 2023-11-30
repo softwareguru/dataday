@@ -13,7 +13,7 @@ room: Crowne
 language: 
 live_url: 
 slides: 
-video: 
+video: https://youtu.be/17U8hr9Cw3s
 track: tools
 summary: "Cómo implementar un ecosistema de gobierno de datos basado en tecnologías open source que permite resolver las necesidades sin tener que hacer fuertes inversiones iniciales en licenciamiento."
 ---
