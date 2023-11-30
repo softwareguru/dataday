@@ -15,6 +15,7 @@ gridarea: "8/4/9/5"
 timeslot: 9
 images:
  - images/sessions/2023mty/AntonioGalindo.jpg
+slides: ddmty2023/OptimusPrime-TonyGalindo.pdf
 
 ---
 
