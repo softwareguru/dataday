@@ -14,7 +14,7 @@ room: México 3-5
 language: 
 live_url: 
 slides: 
-video: 
+video: https://youtu.be/0X1YotJ_aN8
 track: sports-analytics
 tags:
 summary: "Utilizamos modelos de aprendizaje supervisado para predecir el tiempo de recuperación, así como el impacto económico que tienen las lesiones en jugadoras de futbol femenil en México."

@@ -15,7 +15,7 @@ language:
 track: fintech
 live_url: 
 slides: 
-video: 
+video: https://youtu.be/DF_B8Zx6dds
 summary: "Mostraremos cómo monitorear los datos del cliente (desde la adquisición, conversión, crecimiento, retención hasta la reactivación) permite detectar y mitigar casos de fraude."
 ---
 
