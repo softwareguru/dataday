@@ -38,8 +38,8 @@ home = ["HTML", "RSS"]
   weight = 1
 
   [[menu.main]]
-  name = "Agenda"
-  URL = "agenda"
+  name = "Sesiones anteriores"
+  URL = "/sessions"
   weight = 2
 
   [[menu.main]]
