@@ -11,7 +11,7 @@ room: Aula 105
 track: Ingeniería de datos
 slides: 
 video: 
-gridarea: "8/4/9/5"
+gridarea: "8/4/9/5" 
 timeslot: 9
 images:
  - images/sessions/2023mty/AntonioGalindo.jpg
