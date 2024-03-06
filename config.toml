@@ -44,7 +44,7 @@ home = ["HTML", "RSS"]
 
   [[menu.main]]
   name = "Conferencistas"
-  URL = "speakers"
+  URL = "speakers/archive"
   weight = 3
 
   [[menu.main]]

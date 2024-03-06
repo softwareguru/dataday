@@ -4,8 +4,9 @@ banner:
   greeting: Bienvenido a
   title : "Data Day"
   tagline: "Data Science desde el corazón industrial de MX"
-  meta: "Data Day Monterrey se llevó a cabo el pasado 14 de noviembre de 2023."
-  lugar: "¡Nos vemos en Data Day México 2024!"
+  meta: "5 de noviembre de 2024"
+  lugar: "Escuela de Gobierno y Transformación Pública del Tecnológico de Monterrey
+San Pedro Garza García, Nuevo León, México"
   logo : "/images/logo.svg"
   venue : ""
   button1:

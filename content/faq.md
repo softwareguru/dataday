@@ -4,14 +4,14 @@ date: 2019-09-10T07:51:25.000+00:00
 url: /faq
 image: /images/uploads/informacion.png
 ---
-## ¿Cuándo se realizará Data Day Monterrey?
+## ¿Cuándo se realizará la próxima edición de Data Day?
 
-Data Day Monterrey se realizará el próximo 14 de noviembre de 2023 en la Escuela de Gobierno y Transformación Pública del Tecnológico de Monterrey, ubicada en Eugenio Garza Lagüera y, Av. Rufino Tamayo, Valle Oriente, 66269, San Pedro Garza García, N.L., [Ver mapa](https://maps.app.goo.gl/3FK3etutcp8sSkt26).
+Data Day Monterrey se realizará el próximo 5 de noviembre de 2024 en la Escuela de Gobierno y Transformación Pública del Tecnológico de Monterrey, ubicada en Eugenio Garza Lagüera y, Av. Rufino Tamayo, Valle Oriente, 66269, San Pedro Garza García, N.L., [Ver mapa](https://maps.app.goo.gl/3FK3etutcp8sSkt26).
 
 
 ## ¿Cuál es el horario del evento?
 
-La recepción comenzará a las 7:30 a.m. El programa de conferencias iniciará a las 8:30 a.m. y terminará a las 6:00 p.m. La agenda completa ya está publicada en https://sg.com.mx/dataday/agenda/
+La recepción comenzará a las 7:30 a.m. El programa de conferencias normalmente comienza a las 8:30 a.m. y termina a las 6:00 p.m. Los detalles de la agenda serán actualizados en https://sg.com.mx/dataday/agenda/
 
 ## Estacionamiento
 
@@ -27,11 +27,11 @@ Te compartimos dos opciones de hoteles cercanos a la sede del evento para que pu
 
 ## ¿Cómo adquiero mi pase para el evento?
 
-Puedes hacerlo en https://sg.com.mx/dataday/tickets/. Tenemos disponible la opción de pase individual y la de grupo de más de 5 personas con descuento especial.
+Pronto podrás adquirir tu pase en https://sg.com.mx/dataday/tickets/. ¿Deseas asistir en grupo de 5 personas o más? Ponte en contacto con @mariana@sg.com.mc para aprovechar un descuento especial.
 
 ## ¿Podré obtener una constancia de participación?
 
-Sí. Todos los participantes reciben una constancia que acredita su participación en Data Day Monterrey 2023.
+Sí. Todos los participantes reciben una constancia que acredita su participación en Data Day.
 
 ## Código de conducta
 
