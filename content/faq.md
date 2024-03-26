@@ -27,7 +27,7 @@ Te compartimos dos opciones de hoteles cercanos a la sede del evento para que pu
 
 ## ¿Cómo adquiero mi pase para el evento?
 
-Pronto podrás adquirir tu pase en https://sg.com.mx/dataday/tickets/. ¿Deseas asistir en grupo de 5 personas o más? Ponte en contacto con @mariana@sg.com.mc para aprovechar un descuento especial.
+Pronto podrás adquirir tu pase en https://sg.com.mx/dataday/tickets/. ¿Deseas asistir en grupo de 5 personas o más? Ponte en contacto con mariana@sg.com.mx para aprovechar un descuento especial.
 
 ## ¿Podré obtener una constancia de participación?
 
