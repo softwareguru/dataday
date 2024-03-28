@@ -1,7 +1,17 @@
 
+
+.section-tracks{
+  background-color: #080D10;
+  margin-top: -35px;
+}
+
 .tracks h2 {
     text-align: center;
     font-size: 4.1em;
+    text-shadow: 1px 1px 12px#000000, 0 0 1em #b4b4b4,
+        0 0 0.2em #959595;
+        font-weight: 800;
+    color: white;
 }
 
 .card-tracks{

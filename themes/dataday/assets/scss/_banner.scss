@@ -1,8 +1,8 @@
 .section.banner {
   margin-top: 90px;
-  //background: rgb(45,144,181);
+  background: #080D10;
   //background: linear-gradient(90deg, rgba(45,144,181,1) 2%, rgba(167,9,15,1) 47%, rgba(140,159,0,1) 100%);
-  background-image: url(/dataday/images/DDMTY23-fondo.png);
+  background-image: url(/dataday/images/monterrey_s_fondo_back.png);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -78,7 +78,7 @@
     margin-top: -70px;
 	}
 	@include mobile {
-		margin-top: 0px;
+		margin-top: -45px;
     width: 100%;
 	}
 
@@ -120,13 +120,25 @@
   }
 }
 
-.hero-info h4 {
-  font-weight: 400;
-  font-size: 24px;
+.logo-hero {
+  
+  @media (max-width: 575px) {
+    width: 190px;
+  }
 
-  @media (max-width: 768px) {
-    font-size: 16px;
-    padding: 5px;
-    background-color: rgba(0, 0, 0, 0.6);
+  @media (max-width: 385px) {
+    width: 190px;
+  }
+}
+
+
+.box-place{
+  margin-top: 20px;
+  border-radius: 40px;
+  background-color: #080d10aa;
+  padding: 30px;
+
+  @media (max-width: 635px) {
+    padding: 15px;
   }
 }

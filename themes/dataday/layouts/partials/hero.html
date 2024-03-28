@@ -7,20 +7,26 @@
     <div class="hero-info">
       {{ with .greeting }}<h2>{{ . }}</h2>{{ end }}
       <!--{{ with .title }}<h1>{{ . }}</h1>{{ end }} -->
-      <img src="images/DDMX23-logo.png" class="logo-hero img-fluid" alt="">
-      <div class="">
+      <img src="images/dataday2022.png" class="logo-hero img-fluid" alt="">
+      <div class="welcome-dd">
         {{ with .tagline }}<h3 class="tagline">{{ . }}</h3>{{ end }}
       </div>
       
-      {{ with .meta }}
-      <h4 style="text-shadow: 1px 1px 12px#108686, 0 0 1em #108686,
-      0 0 0.2em #108686;">{{ . }}</h3>
-        {{ end }}
 
+      <div class="box-place">
         {{ with .lugar }}
-        <h4 style="text-shadow: 1px 1px 12px#108686, 0 0 1em #108686,
-        0 0 0.2em #108686;">{{ . | markdownify }}</h3>
+        <h4 style="text-shadow: 1px 1px 12px#000000, 0 0 1em #b4b4b4,
+        0 0 0.2em #959595;">{{ . | markdownify }}</h3>
         {{ end }}
+  
+  
+        {{ with .meta }}
+        <h4 style="text-shadow: 1px 1px 12px#000000, 0 0 1em #b4b4b4,
+        0 0 0.2em #959595;">{{ . }}</h3>
+          {{ end }}
+  
+
+      </div>
 
     </div>
 
