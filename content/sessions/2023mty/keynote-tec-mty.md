@@ -10,7 +10,7 @@ room: Sala principal
 track: Bienestar y salud
 tags:
 slides: 
-video: 
+video: https://youtu.be/llp641ZHMjU
 gridarea: "2 / 2 / 3 / 5"
 timeslot: 1
 images:
