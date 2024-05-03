@@ -11,7 +11,7 @@ Data Day Monterrey se realizará el próximo 5 de noviembre de 2024 en la Escuel
 
 ## ¿Cuál es el horario del evento?
 
-La recepción comenzará a las 7:30 a.m. El programa de conferencias normalmente comienza a las 8:30 a.m. y termina a las 6:00 p.m. Los detalles de la agenda serán actualizados en https://sg.com.mx/dataday/agenda/
+Las sesiones son de 8:30 am a 6:30 p.m. Los detalles de la agenda serán actualizados en https://sg.com.mx/dataday/agenda/
 
 ## Estacionamiento
 

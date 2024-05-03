@@ -10,13 +10,13 @@ San Pedro Garza García, Nuevo León, México"
   logo : "/images/logo.svg"
   venue : ""
   button1:
-    enable : false
-    label : "Boletos"
-    link : "tickets"
+    enable : true
+    label : "Convocatoria de ponencias"
+    link : "https://convoca.dev/dataday-2024/cfp"
   button2:
     enable : true
-    label : "Mantente informado"
-    link : "https://cdn.forms-content.sg-form.com/c636d801-8d4d-11ee-bff8-1e7a5c02829b"
+    label : "Tickets"
+    link : "tickets"
 
 
 ############################## Event ##############################
