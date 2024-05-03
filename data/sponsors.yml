@@ -11,23 +11,8 @@ sponsor_group:
       link : "https://egobiernoytp.tec.mx/es"
     #- logo : "images/sponsors/Logo_US_CMMI.png"
     #  link : "https://www.ultrasist.mx/ultrasite/"
-    - logo : "images/sponsors/Improving.png"
-      link : "https://www.improving.com/"
-    - logo : "images/sponsors/Elastic-Ventus.png"
-      link : "https://www.elastic.co/es/"
-    - logo : "images/sponsors/Arca.png"
-      link : "https://www.arcacontal.com/"
 
 
-- title: "Gold"
-  slug: gold
-  sponsor:
-    - logo : "images/sponsors/Softtek.png"
-      link : "https://www.softtek.com/es-mx/haz-tu-carrera-en-softtek"
-    - logo : "images/sponsors/CIIIA_Logo.png"
-      link : "https://www.ciiia.mx/"
-    - logo : "images/sponsors/erwin-dayset.png"
-      link : "https://www.dayset.com/"
 
 
 - title: "Silver"

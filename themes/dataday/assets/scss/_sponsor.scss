@@ -15,12 +15,20 @@
 	background: #eee;
 }
 
+.sponsors h3 {
+	margin-top: 0.8em;
+	margin-bottom: 0.8em;
+}
 
-.sponsor-strip.platinum {
+.sponsor-strip {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
 	align-items: center;
+	margin-bottom: 60px;
+} 
+
+.sponsor-strip.platinum {
 
     .sponsor-item {
 	    width: 28%;
@@ -37,10 +45,6 @@
 }
 
 .sponsor-strip.gold {
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: center;
-	align-items: center;
 
     .sponsor-item {
 	    width: 30%;
@@ -57,11 +61,6 @@
 }
 
 .sponsor-strip.silver {
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: center;
-	align-items: center;
-
 
     .sponsor-item {
 	    width: 18%;
@@ -78,10 +77,6 @@
 }
 
 .sponsor-strip.community { 
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: center;
-	align-items: center;
 
     .sponsor-item {
 	    width: 28%;
@@ -100,7 +95,6 @@
 
 
 .sponsor-strip.partner {
-	display: grid;
 	grid-template-columns: repeat(4, 1fr);
 	grid-gap: 50px;
 	justify-content: space-between;
