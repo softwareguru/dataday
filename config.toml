@@ -69,8 +69,8 @@ home = "Home"
 
 # Meta data
 description = "Data Day es el congreso líder de ciencia e ingeniería de datos. La próxima edición es el 14 de noviembre de 2023 en Monterrey."
-image = "images/card-2023mty.jpg"
-images = ["images/card-2023mty.jpg"]
+image = "images/card-2024mty.jpg"
+images = ["images/card-2024mty.jpg"]
 twitter_user = "@revistasg"
 email = "eventos@sg.com.mx"
 author = "Software Guru"
