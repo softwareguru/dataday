@@ -10,7 +10,7 @@ room: Aula 104
 language: 
 track: Machine learning en procesos industriales
 slides: 
-video: 
+video: https://youtu.be/uA8jcIPANWw
 gridarea: "8/3/9/4"
 timeslot: 8
 images:

@@ -10,7 +10,7 @@ day: 2023mty
 room: Aula 105
 track: Ingeniería de datos
 slides: 
-video: 
+video: https://youtu.be/IwZ8T4l0f90
 gridarea: "8/4/9/5" 
 timeslot: 9
 images:

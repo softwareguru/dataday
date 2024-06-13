@@ -9,7 +9,7 @@ day: 2023mty
 room: Sala principal 
 track: Tendencias y perspectivas
 slides: 
-video: 
+video: https://youtu.be/MdB5S60_2g0
 gridarea: "5/2/6/5"
 timeslot: 4
 slides: ddmty2023/Elastic.pdf

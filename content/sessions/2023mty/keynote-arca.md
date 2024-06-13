@@ -11,7 +11,7 @@ day: 2023mty
 room: Sala principal 
 track: Logística y consumo
 slides: 
-video: 
+video: https://youtu.be/ewsVEPmhzO0
 gridarea: "3/2/4/5"
 timeslot: 2
 ---

@@ -9,7 +9,7 @@ day: 2023mty
 room: Sala principal 
 track: Tendencias y perspectivas
 slides: 
-video: 
+video: https://youtu.be/OUqZynYlxbg
 gridarea: "9/2/10/3"
 timeslot: 10
 images:
