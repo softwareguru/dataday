@@ -9,7 +9,7 @@ day: 2023mty
 room: Aula 104
 track: Bienestar y salud
 slides: 
-video: 
+video: https://youtu.be/4S3AgFCY2bE
 gridarea: "13/3/14/4"
 timeslot: 20
 images:

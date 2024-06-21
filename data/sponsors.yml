@@ -9,10 +9,8 @@ sponsor_group:
   sponsor:
     - logo : "images/sponsors/escuela-de-gobierno.png"
       link : "https://egobiernoytp.tec.mx/es"
-    #- logo : "images/sponsors/Logo_US_CMMI.png"
-    #  link : "https://www.ultrasist.mx/ultrasite/"
-
-
+    - logo : "images/sponsors/colegio-bourbaki.png"
+      link : "https://www.colegio-bourbaki.com/"
 
 
 - title: "Silver"
