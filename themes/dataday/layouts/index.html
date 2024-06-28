@@ -46,6 +46,11 @@
 <!-- /Testimonial -->
 
 
+<!-- blog -->
+{{ if $data.homepage.datalive.enable }}
+{{ partial "noticias.html" . }}
+{{ end }}
+<!-- /blog -->
 
 
 <!-- event_info  -->
@@ -62,14 +67,6 @@
 {{ end }}
 <!-- /sponsor -->
 
-
-
-
-<!-- blog -->
-{{ if $data.homepage.datalive.disable }}
-{{ partial "noticias.html" . }}
-{{ end }}
-<!-- /blog -->
 
 <!-- schedule -->
 {{ if $data.homepage.schedule.enable }}
