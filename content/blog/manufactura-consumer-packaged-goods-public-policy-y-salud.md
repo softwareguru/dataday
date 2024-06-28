@@ -1,14 +1,10 @@
 ---
-title: "Manufactura, Consumer Packaged Goods, Public Policy y Salud"
+title: "Manufactura, Consumer Packaged Goods, Public Policy y Salud: Los Principales Ejes de Data Day Monterrey 2024"
 date: 2024-06-27T11:22:25-06:00
 image: "images/blog/tracks.png"
 draft: false
 slug: manufactura-consumer-packaged-goods-public-policy-y-salud
 ---
-
-## Manufactura, Consumer Packaged Goods, Public Policy y Salud: Los Principales Ejes de Data Day Monterrey 2024
-
-<br>
 
 Estamos muy emocionado porque, ahora, anunciamos con bastante anticipación la próxima edición de Data Day Monterrey, el evento de análisis de datos más esperado del año. Tenemos fecha y sede confirmadas: la cita será el 5 de noviembre de 2024 en la Escuela de Gobierno y Transformación Pública del Tecnológico de Monterrey, en San Pedro Garza García, Nuevo León, México.
 
