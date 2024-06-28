@@ -1,9 +1,10 @@
 ---
 title: "El Impacto de la Ciencia de Datos en la Manufactura"
-date: 2024-06-27T11:22:25-06:00
+date: 2024-06-27T12:22:25-06:00
 image: "images/blog/impacto.png"
 draft: false
 slug: el-impacto-de-la-ciencia-de-datos-en-la-manufactura
+draft: true
 ---
 
 
