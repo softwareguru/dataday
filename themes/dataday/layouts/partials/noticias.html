@@ -11,7 +11,7 @@
     <div class="card-deck">
       {{ range first 1 (where .Site.RegularPages "Type" "blog" )}}
        
-      <div class="card">
+      <div class="card col-md-6">
    
         <img src="{{ .Params.Image | absURL }}" class="img-fluid" alt="{{ .Title | markdownify }}">
         <div class="card-body">

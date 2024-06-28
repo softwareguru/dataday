@@ -4,10 +4,9 @@ date: 2024-06-27T11:22:25-06:00
 image: "images/blog/tracks.png"
 draft: false
 slug: manufactura-consumer-packaged-goods-public-policy-y-salud
-
 ---
 
-Estamos muy emocionado porque, ahora, anunciamos con bastante anticipación la próxima edición de Data Day Monterrey, el evento de análisis de datos más esperado del año. Tenemos fecha y sede confirmadas: la cita será el 5 de noviembre de 2024 en la Escuela de Gobierno y Transformación Pública del Tecnológico de Monterrey, en San Pedro Garza García, Nuevo León, México.
+Estamos muy emocionados porque, ahora, anunciamos con bastante anticipación la próxima edición de Data Day Monterrey, el evento de análisis de datos más esperado del año. Tenemos fecha y sede confirmadas: la cita será el 5 de noviembre de 2024 en la Escuela de Gobierno y Transformación Pública del Tecnológico de Monterrey, en San Pedro Garza García, Nuevo León, México.
 
 Data Day Monterrey 2024 reunirá a profesionales, académicos y líderes de la industria para explorar el impacto transformador de los datos en cuatro sectores clave: manufactura, servicios de salud, bienes de consumo masivo y política pública.
 
@@ -37,7 +36,7 @@ Puedes acceder a conferencias magistrales, paneles de discusión, talleres y han
 
 Estarás en un espacio invaluable para concer y conectar con profesionales y líderes de la industria. Podrás obtener contactos clave que te pueden llevar a futuras colaboraciones y oportunidades laborales.
 
-3. Innovación aplicación práctica
+3. Innovación y aplicación práctica
 
 Tendrás acceso a casos de éxito y proyectos innovadores que están marcando la diferencia en el mundo real. Esto te permitirá aprender cómo aplicar estas estrategias y conocimientos a tu propio trabajo o investigación.
 
