@@ -30,7 +30,7 @@ Industrias Rochin implementó una aplicación innovadora de herramientas de visi
 
 Con estas numerosas implementaciones no solo lograron notables avances tecnológicos sino también un impacto tangible en la eficiencia y la calidad dentro de la industria de alimentos frescos.
 
-Puedes ver el caso de estudio [“Visión por Computadora: Casos en una empresa de manufactura”](https://sg.com.mx/dataday/sessions/2023mty/vision-computacional-post-cosecha/), donde descubrirás cómo la ciencia de datos se aplica a la optimización de procesos, control de calidad y personalización en masa, dentro de la industria manufacturera.
+Puedes ver el caso de estudio [“Visión Computacional y Machine Learning en la Industria Post-cosecha”](https://sg.com.mx/dataday/sessions/2023mty/vision-computacional-post-cosecha/), donde descubrirás cómo la ciencia de datos se aplica a la optimización de procesos, control de calidad y personalización en masa, dentro de la industria manufacturera.
 
 **Caso de estudio 2:**
 
