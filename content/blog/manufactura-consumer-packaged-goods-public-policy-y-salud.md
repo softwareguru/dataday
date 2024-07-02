@@ -1,6 +1,6 @@
 ---
 title: "Manufactura, Consumer Packaged Goods, Public Policy y Salud: Los Principales Ejes de Data Day Monterrey 2024"
-date: 2024-06-27T11:22:25-06:00
+date: 2024-06-25T11:22:25-06:00
 image: "images/blog/tracks.png"
 draft: false
 slug: manufactura-consumer-packaged-goods-public-policy-y-salud
