@@ -1,5 +1,5 @@
 ---
-title: "Atención profesionales de datos, ¡Data Day Monterrey 2024 está en marcha y tú puedes ser el o la protagonista!"
+title: "Atención profesionales de datos, ¡Data Day Monterrey 2024 está en marcha y tú puedes ser su protagonista!"
 date: 2024-07-01T11:22:25-06:00
 image: "images/blog/cfp-2024.png"
 draft: false
@@ -59,7 +59,7 @@ Recuerda que estos **no es una lista definitiva y revisaremos las propuestas de 
 2. Fecha límite: Tienes hasta el 15 de julio de 2024 para enviarla.
 3. Requisitos: Un resumen que describa el tema de la ponencia, objetivos y resultados esperados.
 
-### Beneficios para los Ponentes:
+### Beneficios para nuestros ponentes:
 
 1. Participación gratuita en el evento.
 2. Exposición en el sitio web del evento y en nuestras redes sociales.
