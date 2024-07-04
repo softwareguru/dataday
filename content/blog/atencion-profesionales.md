@@ -77,6 +77,35 @@ Recuerda que estos **no es una lista definitiva y revisaremos las propuestas de 
 
 * **Funcionarios Públicos y Políticos:** Tomadores de decisiones y responsables de políticas que utilizan datos para mejorar la gobernanza.
 
+
+### ¿Cuál ha sido la experiencia de otros ponentes?
+
+<a href="/dataday/speakers/jose-ignacio-dominguez/">
+<h3>Jose Ignacio Dominguez</h3>
+</a>
+
+##### Consulting Partner @ DATA Sense
+
+<br>
+
+"Lo mejor que me ha tocado vivir es el aprendizaje logrado a lo largo del día. Desde luego que por las preguntas y el interés de los miembros de la audiencia, pero también por los casos expuestos por los colegas conferencistas que me han llevado a descubrir nuevas formas de enfocar los problemas, nuevas plataformas de análisis y procedimientos que han servido de inspiración para mis propios proyectos.
+
+El diseño del contenido del evento es muy útil al separar por líneas de temas y, en mi caso, al enfatizar la prioridad del contexto de los problemas por encima de los procedimientos de solución.
+
+Para aquellos colegas que vayan a exponer por primera vez, mi recomendación es centrarse en un mensaje muy claro que dejar a la audiencia, sea este con relación al contexto del problema, o al procedimiento para su solución. Y más allá de su exposición, aprovechar la convivencia durante el día con los asistentes."
+
+
+<a href="/dataday/speakers/alfonso-ruiz-guido/">
+<h3>Alfonso Ruiz Guido</h3>
+</a>
+
+##### Fundador y director @ Colegio Matemáticas Bourbaki
+
+<br>
+
+"Mi participación fue una experiencia formidable y quizás la primera charla que di en Zoom. Recuerdo que estaba comenzando la pandemia y nosotros mismos en el Colegio de Matemáticas Bourbaki no estábamos seguros de la eficacia de los talleres virtuales. Sin embargo, puedo decir que posiblemente Data Day ha sido un parteaguas en nuestra manera de preparar el material de nuestros cursos. La comunidad del Data Day es, sin lugar a dudas, una de las más exigentes y al mismo tiempo entusiastas por aprender más."
+
+
 ¡No te pierdas esta oportunidad!
 
 Data Day Monterrey 2024 promete ser una experiencia enriquecedora y transformadora. No solo tendrás la oportunidad de compartir tus conocimientos, sino también de aprender de otros expertos en el campo. ¡Esperamos recibir tus propuestas y verte en la Escuela de Gobierno y Transformación Pública del Tecnológico de Monterrey, en San Pedro Garza García, Nuevo León, México, el próximo 5 de noviembre!
