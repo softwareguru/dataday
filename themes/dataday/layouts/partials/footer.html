@@ -6,10 +6,19 @@
 	<div class="container">
 		<div class="footer-strip" >
 			<div>
-				<h3 class="mb-3" style="color: white;">{{ .Site.Title | markdownify }}</h3>
+				<div>
+					<h3 class="mb-3" style="color: white;">{{ .Site.Title | markdownify }}</h3>
+	
+					<ul class="list-inline footer-socials" >
+						{{ range .Site.Params.social }}
+						<li class="list-inline-item" ><a href="{{ .link | safeURL }}" target="_blank"><i class="{{ .icon }}" style="color: white;"></i></a></li>
+						{{ end }}
+					</ul>
+				</div>	
 				<ul class="list-inline" >
 					<a style="color: white;">Data Day(s) es otro fantástico evento de <a href="http://sg.com.mx">Software Guru</a>
 				</ul>
+
 			</div>
 			<div>
 				<h5 style="color: white;">Conoce más</h5>
@@ -22,7 +31,7 @@
 					<li ><a href="mailto:dataday@sg.com.mx" style="color: white;">Contacto</a></li>
 				</ul>
 			</div>
-			<div>
+			<div> 
 				<h5 style="color: white;">Ediciones anteriores</h5>
 				<ul class="footer_links">
 					<li ><a href="/dataday/sessions/2023mty/" style="color: white;">Data Day Monterrey 2023</a></li>

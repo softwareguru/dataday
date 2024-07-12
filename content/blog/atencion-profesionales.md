@@ -99,7 +99,7 @@ Para aquellos colegas que vayan a exponer por primera vez, mi recomendación es 
 <h3>Alfonso Ruiz Guido</h3>
 </a>
 
-##### Fundador y director @ Colegio Matemáticas Bourbaki
+##### Fundador y director @ Colegio de Matemáticas Bourbaki
 
 <br>
 
