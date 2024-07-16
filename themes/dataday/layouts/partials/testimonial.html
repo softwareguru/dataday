@@ -1,49 +1,235 @@
 <!-- Testimonial css references on "_participate.scss"-->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
 
-<div class="row row-cols-1 row-cols-md-2 testimonial-section">
+<style>
+  html,
+  body {
+    position: relative;
+    height: 100%;
+  }
+
+  body {
+    background: #eee;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: #000;
+    margin: 0;
+    padding: 0;
+  }
+
+  .section-testimonial{
+    background: #080D10;
+    background-image: url(/dataday/images/monterrey_s_fondo_back.png);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    margin-top: -28px;
+    padding: 30px 20px 60px 20px
+  }
+
+  .swiper {
+    width: 100%;
+    height: 100%;
+  }
+
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .titulo-testimoniales{
+    color: white;
+  }
+
+  .nombre-testimonial{
+    color: #ede21b;
+  }
+
+  .rol-testimonial{
+    color: #f23248;
+  }
+
+  .card-testimoniales{
+    background-color: #242323e4; 
+    border-radius: 20px;
+  }
+
+  .card-item-testimonial{
+    padding: 30px 30px 0px 30px
+  }
+
+  .col-testimonial{
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    margin-right: 20px; 
+    left: -30px;
+  }
+
+  .titulo-opiniones{
+    color: #d0e816;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.6);
+    font-size: 3.1em;
+  }
+  
+</style>
+
+  <!-- Swiper -->
+  <div class="swiper mySwiper section-testimonial">
 
     <div>
-      <h1 class="testimonial-title">Lo que los "dateros" opinan de Data Day</h1>
+      <h1 class="text-center titulo-opiniones container">Los que los profesionales de datos opinan de Data Day</h1>
+      <br><br>
     </div>
     
-    <div>
-      <div class="card mb-3 card-testimonial" style="
-        background-color: #32c5f0;">
-        <div class="row no-gutters">
-          <div class="col-md-4" style="padding: 20px;">
-            <img src="/dataday/images/speakers/jose-ignacio.png" class="card-img rounded-circle" alt="...">
+    <div class="swiper-wrapper" > 
+
+      <div class="card h-100 swiper-slide shadow card-testimoniales">
+        <div class="card-item-testimonial">
+          <p class="titulo-testimoniales">"Lo mejor que me ha tocado vivir es el aprendizaje logrado a lo largo del día. Los casos de estudio me han servido de inspiración para mis propios proyectos."</p>
+          <br>
+        </div>
+
+        <div class="row">
+          <div class="col">
+            <div class="col-md-12 headshot-box" style="padding: 20px;">
+              <img src="/dataday/images/speakers/jose-ignacio-dominguez.png" class="card-img rounded-circle">
+            </div>
           </div>
-          <div class="col-md-8">
-            <div class="card-body">
-              <p class="card-text testimonial">"Lo mejor que me ha tocado vivir es el aprendizaje logrado a lo largo del día. Los casos de estudio me han servido de inspiración para mis propios proyectos."</p>
-              <h3 class="card-name">Jose Ignacio Dominguez</h3>
-              <h5 class="card-name">Consulting Partner</h5>
-              <h5 class="card-name">@ DATA Sense</h5>
+          <div class="col col-testimonial"> 
+            <div>
+              <h3 class="nombre-testimonial">Jose Ignacio Dominguez</h3>
+              <h6 class="rol-testimonial">Consulting Partner</h5>
+              <h6 class="rol-testimonial">@ DATA Sense</h5>
             </div>
           </div>
         </div>
       </div>
-    
-      <div class="card mb-3 card-testimonial" style="
-        max-width: 840px; 
-        border-radius: 15px 15px 15px 15px;
-        background-color: #ed1b35;">
-        <div class="row no-gutters">
-          <div class="col-md-4" style="padding: 20px;">
-            <img src="/dataday/images/speakers/carlos-alfonso-ruiz-guido.jpg" class="card-img rounded-circle" alt="...">
+
+      <div class="card h-100 swiper-slide shadow card-testimoniales">
+        <div class="card-item-testimonial">
+          <p class="titulo-testimoniales">"Data Day ha sido un parteaguas en nuestra manera de preparar el material de nuestros cursos. La comunidad del Data Day es, sin lugar a dudas, una de las más exigentes y al mismo tiempo entusiastas por aprender más."</p>
+        </div>
+
+        <div class="row">
+          <div class="col">
+            <div class="col-md-12" style="padding: 20px;">
+              <img src="/dataday/images/speakers/alfonso-ruiz-guido.png" class="card-img rounded-circle">
+            </div>
           </div>
-          <div class="col-md-8">
-            <div class="card-body">
-              <p class="card-text testimonial">"Data Day ha sido un parteaguas en nuestra manera de preparar el material de nuestros cursos. La comunidad del Data Day es, sin lugar a dudas, una de las más exigentes y al mismo tiempo entusiastas por aprender más."</p>
-              <h3 class="card-name">Alfonso Ruiz Guido</h3>
-              <h5 class="card-name">Fundador y director</h5>
-              <h5 class="card-name">@ Colegio Matemáticas Bourbaki</h5>
+          <div class="col col-testimonial"> 
+            <div>
+              <h3 class="nombre-testimonial">Alfonso Ruiz Guido</h3>
+              <h6 class="rol-testimonial">Fundador y director</h5>
+              <h6 class="rol-testimonial">@ Colegio Matemáticas Bourbaki</h5>
             </div>
           </div>
         </div>
       </div>
+
+      <div class="card h-100 swiper-slide shadow card-testimoniales">
+        <div class="card-item-testimonial">
+          <p class="titulo-testimoniales">“Fue una experiencia transformadora para mi carrera. La retroalimentación recibida por parte de otros expertos en datos fue invaluable. Cconecté con varios profesionales que compartieron sus experiencias y conocimientos.”</p>
+        </div>
+
+        <div class="row">
+          <div class="col">
+            <div class="col-md-12" style="padding: 20px;">
+              <img src="/dataday/images/speakers/carlos-guel.png" class="card-img rounded-circle">
+            </div>
+          </div>
+          <div class="col col-testimonial"> 
+            <div>
+              <h3 class="nombre-testimonial">Carlos Javier Guel Martínez</h3>
+              <h6 class="rol-testimonial">Subdirector @ Banorte</h5>
+              <h6 class="rol-testimonial">Profesor @ TecMilenio</h5>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card h-100 swiper-slide shadow card-testimoniales">
+        <div class="card-item-testimonial">
+          <p class="titulo-testimoniales">“Fue una experiencia transformadora para mi carrera. La retroalimentación recibida por parte de otros expertos en datos fue invaluable. Cconecté con varios profesionales que compartieron sus experiencias y conocimientos.”</p>
+        </div>
+
+        <div class="row">
+          <div class="col">
+            <div class="col-md-12" style="padding: 20px;">
+              <img src="/dataday/images/speakers/juana-martinez.png" class="card-img rounded-circle">
+            </div>
+          </div>
+          <div class="col col-testimonial"> 
+            <div>
+              <h3 class="nombre-testimonial">Juana Martinez</h3>
+              <h6 class="rol-testimonial">Ingeniera de datos @ Ensitech | CoDirectora</h5>
+              <h6 class="rol-testimonial">@ Health Data Science Program</h5>
+            </div>
+          </div>
+        </div>
+      </div>
+
     </div>
-    
-    </div>
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-pagination"></div>
+
+
+  </div>
+
+  <!-- Swiper JS -->
+  <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+
+    <!-- Initialize Swiper -->
+    <script>
+      var swiper = new Swiper(".mySwiper", {
+        slidesPerView: 1,
+        spaceBetween: 10, 
+        autoplay: true,
+          autoplaySpeed: 10500,
+          pauseOnHover: false,
+        pagination: {
+          el: ".swiper-pagination",
+          clickable: true,
+        },
+        navigation: {
+          nextEl: '.swiper-button-next',
+          prevEl: '.swiper-button-prev',
+        },
+  
+        breakpoints: {
+          640: {
+            slidesPerView: 2,
+            spaceBetween: 20,
+          },
+          1024: {
+            slidesPerView: 2,
+            spaceBetween: 40,
+          },
+          1055: {
+            slidesPerView: 2,
+            spaceBetween: 45,
+          },
+          1480: {
+            slidesPerView: 3,
+            spaceBetween: 45,
+          },
+        },
+      });
+    </script>
+
+
     
     <!-- /Testimonial -->
