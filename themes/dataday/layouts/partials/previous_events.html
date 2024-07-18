@@ -1,0 +1,27 @@
+
+<section class="section-previous-events">
+    <div>
+      <div class="title-about1" style="margin-top: -58px;">
+        <h1>EDICIONES ANTERIORES</h1>
+      </div>
+      <div class="row" style="padding: 40px;">
+        {{ range (where .Site.Pages "Section" "sessions")}}
+        {{ if in .Params.previous_events "true" }}
+        <div class="col-12 col-md-3 px-3 mb-3" >
+    
+          <div class="card h-100 shadow p-3 mb-6 border-card">
+            <a href="{{ .Permalink }}"> 
+              <img src="{{ .Params.image }}" alt="{{ .Title | markdownify }}" class="img-fluid" style="cursor: pointer">
+              
+              <h3 class="text-center mt-3">{{.Title}}</h3>
+                   
+            </a>
+          </div>
+        </div>
+        {{ end }}
+        {{ end }}
+      </div>
+    </div>
+    </section>
+    
+    

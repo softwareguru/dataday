@@ -55,13 +55,13 @@
 // What is Datdaday h1 2024
 
 
-.section-what-is, .section-why-participate { 
+.section-what-is, .section-why-participate, .section-previous-events { 
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
   text-align: center;
   color: white;
-  text-shadow: #202020 2px 2px 2px;
+
 }
 
 .section-what-is{
@@ -70,6 +70,10 @@
 
 .section-why-participate{
 	background-image: url(/dataday/images/participar-dd.png); 
+}
+
+.section-previous-events{
+	background-image: url(/dataday/images/que-es-dd.png); 
 }
 
 .title-about1{

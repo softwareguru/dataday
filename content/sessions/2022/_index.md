@@ -6,7 +6,8 @@ headscripts:
  - https://unpkg.com/bootstrap-table@1.18.2/dist/bootstrap-table.min.css
 footerscripts:
  - https://unpkg.com/bootstrap-table@1.18.2/dist/bootstrap-table.min.js
-
+previous_events: true
 playlist: PLnLzwYW6HOC6h8NwJYfg84Cm2KzCkm6st
+image: images/dataday2022vv.png
 ---
 

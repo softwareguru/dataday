@@ -6,8 +6,8 @@ headscripts:
  - https://unpkg.com/bootstrap-table@1.18.2/dist/bootstrap-table.min.css
 footerscripts:
  - https://unpkg.com/bootstrap-table@1.18.2/dist/bootstrap-table.min.js
-
-playlist: 
+previous_events: true
+image: images/card-2022.jpg
 ---
 
 ## Revive las sesiones de Data Day Monterrey 2022

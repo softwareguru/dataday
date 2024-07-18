@@ -6,7 +6,8 @@ headscripts:
  - https://unpkg.com/bootstrap-table@1.18.2/dist/bootstrap-table.min.css
 footerscripts:
  - https://unpkg.com/bootstrap-table@1.18.2/dist/bootstrap-table.min.js
-
+previous_events: true
 playlist: PLnLzwYW6HOC6MHUPo7X8wc7rXNWiZrfWv
+image: images/DDMTY2019.png
 ---
 
