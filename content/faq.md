@@ -21,9 +21,10 @@ La sede cuenta con estacionamiento. No tiene costo, sólo debes informar que vas
 
 Te compartimos dos opciones de hoteles cercanos a la sede del evento para que puedas hospedarte y aprovechar una tarifa preferencial:
 
-* Fiesta Inn Monterrey Valle, tarifa especial en [convenio TEC De Monterrey](https://drive.google.com/file/d/1mhBvBIEWVjO-yPEGAtEFNMyv2QEZyvai/view).
+* Fiesta Inn Monterrey Valle, tarifa especial en [convenio TEC De Monterrey](https://drive.google.com/file/d/1T_Xy1mylxa-UfbVe9OCccN8dIZuADVVu/view)
 
-* AC Hoteles, Marriot Monterrey Valle, tarifa especial en [convenio TEC De Monterrey](https://www.marriott.com/es/event-reservations/reservation-link.mi?id=1696968606167&key=CORP&app=resvlink).
+* AC Hoteles, Marriot Monterrey Valle, tarifa especial en [convenio TEC De Monterrey](https://drive.google.com/file/d/1_8AfQKaQ_7ahXmRxuvLwDxnKkX4-aLqu/view)
+
 
 ## ¿Cómo adquiero mi pase para el evento?
 
