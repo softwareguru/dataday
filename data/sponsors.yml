@@ -20,6 +20,8 @@ sponsor_group:
   sponsor:
     - logo : "images/sponsors/ensitech.png"
       link : "https://ensitech.com/"
+    - logo : "images/sponsors/vinkos.png"
+      link : "https://vinkos.com/"
 
 
 - title: "Comunidades y Organismos "

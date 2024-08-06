@@ -4,7 +4,7 @@ date: 2023-02-04T09:37:06-05:00
 url: /agenda-2023
 layout: list
 
-days: 
+days:  
   - id: 2023mty
     title_short: Martes
     title_full: Martes 14 de noviembre
