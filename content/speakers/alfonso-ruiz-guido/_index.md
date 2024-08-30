@@ -4,7 +4,7 @@ images:
  - images/speakers/alfonso-ruiz.jpg
 date: 2020-02-07
 events:
- - 2020
+ - 2024mty
 designation: "Fundador y director de Colegio Bourbaki" 
 ---
 

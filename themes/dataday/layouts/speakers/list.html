@@ -7,7 +7,7 @@
     <div class="lead my-3">{{ .Content }}</div>
     <div class="speaker-strip">
       {{ range .Data.Pages.ByTitle }}
-        {{ if in .Params.events "2023mty" }}
+        {{ if in .Params.events "2024mty" }}
       <div class="speaker-item text-center"> 
         <div class="headshot mb-2">
           <img src="{{ with .Params.images }}{{ index . 0 | relURL }}{{ end }}" alt="" class="img-fluid rounded-circle">          

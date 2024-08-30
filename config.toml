@@ -38,13 +38,13 @@ home = ["HTML", "RSS"]
   weight = 1
 
   [[menu.main]]
-  name = "Sesiones anteriores"
-  URL = "sessions"
+  name = "Sesiones"
+  URL = "sessions/2024mty"
   weight = 2
 
   [[menu.main]]
   name = "Conferencistas"
-  URL = "speakers/archive"
+  URL = "speakers"
   weight = 3
 
   [[menu.main]]
