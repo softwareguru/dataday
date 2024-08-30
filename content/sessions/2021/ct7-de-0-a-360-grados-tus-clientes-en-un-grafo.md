@@ -5,7 +5,7 @@ block: c
 id: ct7
 title: De 0 a 360 grados. Tus clientes en un grafo, por VinkOS
 speakers:
-  - Luis Almazán
+  - luis-almazan
 time_start: 2021-03-24T18:30:00-06:00
 slot: t7
 video: https://youtu.be/YHO_FMsXQ6A

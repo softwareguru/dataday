@@ -1,5 +1,5 @@
 ---
-title: "Hermilo Cortes"
+title: "Hermilo Cortés"
 date: 2024-08-29T21:27:47-06:00
 images : 
  - "images/speakers/hermilo-cortes.jpg"

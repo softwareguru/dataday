@@ -8,6 +8,8 @@ footerscripts:
  - https://unpkg.com/bootstrap-table@1.18.2/dist/bootstrap-table.min.js
 previous_events: true
 image: images/card-2024mty.jpg
+layout: list-active
 ---
 
 
+Estas son las sesiones confirmadas hasta el momento para Data Day 2024.
