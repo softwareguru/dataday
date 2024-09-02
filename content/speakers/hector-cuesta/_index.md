@@ -3,7 +3,7 @@ title: "Héctor Cuesta"
 date: 2023-02-17T12:38:33-06:00
 images : 
  - "images/speakers/hector-cuesta.jpeg"
-designation : "Principal Solutions Architect @ PALO IT"
+designation : "Head of Data"
 country: ""
 facebook: ""
 instagram: ""
@@ -12,6 +12,7 @@ linkedin: "https://www.linkedin.com/in/hmcuesta/"
 github: ""
 events: 
  - 2023mx
+ - 2024mty
 ---
 
-Data Scientist and Product Director with over 17+ years of experience contributing to the growth of Startups and Organizations, performing as Data-driven strategic technology leader and mentor. Solid experience in setting business data-driven strategies, metrics oriented and a deep background in Agile development practices such as: Scrum and complex team topologies. Author of the Packt Publishing book Practical Data Analysis. Holds a BA in Informatics, a M.Sc. in Computer Science and a MicroMaster in Finance, currently doing a PhD on Education. I’m an enthusiast of Robotics in my spare time.
+Head of Data, ex-científico de datos enfocado en creación de productos de Datos con más de 18 años de experiencia.  Mi carrera ha estado marcada por la implementación de estrategias Data-Driven, orientadas a métricas y calidad de datos en Startups Fintech y organizaciones multiculturales de alto rendimiento. Autor del libro *Practical Data Analysis* publicado por Packt,. Licenciado en Informática, un M.Sc. en Ciencias de la Computación, un MicroMaster en Finanzas y candidato a Doctor en Educación. En mi tiempo libre, soy Chef y entusiasta de la Robótica.

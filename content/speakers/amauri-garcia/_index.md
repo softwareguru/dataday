@@ -2,8 +2,8 @@
 title: "Amauri Garcia"
 date: 2022-02-09T15:10:53-06:00
 images: 
- - images/speakers/amauri-garcia.jpg
-designation : "Senior Operations Analyst"
+ - images/speakers/amauri-garcia.png
+designation : "Manager Analytics and Data Science at Polaris Inc"
 country: ""
 facebook: ""
 instagram: ""
@@ -12,8 +12,7 @@ linkedin: "https://www.linkedin.com/in/amauri-garc%C3%ADa-287891129/"
 github: ""
 events: 
  - 2022
+ - 2024mty
 ---
 
-Ingeniero en Finanzas graduado del ITESO Guadalajara, 26 años. Actualmente desempeñando la position de Anslista de Operaciones Senior en Monterrey liderando el equipo de Data Analytics en la Planta de Manufactura. 
-
-Tengo mas de 5 años de experiencia y he trabajado como Data Analyst en HP y como Consultuor de BI para AgileThougth.
+Analytics and Data Science Manager at Polaris Inc / Financial Engineer by ITESO with Finance , analytics and data science background. Worked at HP, AgileThought and now Polaris with +10 years of experience in data field.

@@ -5,12 +5,11 @@ images:
 date: 2021-02-16
 events:
  - 2021
-designation: Profesor-investigador @ ITESO 
+designation: Associate Professor in Machine Learning @ ITESO / Rust Data & ML Engineer @ IteraLabs.ai 
+
+linkedin: https://www.linkedin.com/in/iffranciscome/
 ---
 
-Juan Francisco Muñoz-Elguezabal (Francisco ME) is a professor in the Mathematics and Physics Department at the Western Institute of Technology and Higher Education (ITESO). His research interests include AI &amp; Machine Learning for Trading, Data Science for Financial Markets, Behavioral Finance, Urban economics, Business Model Innovation for Social Impact. Has experience in Startups of the FinTech industry and innovation of goverment programs for entrepreneurship.
-<div>Msc in Data Science (ITESO)</div>
-<div>B.Eng in Financial Engineering (ITESO)</div>
-<div>1st Place in Research Poster Event (CIMAT-EPE 2020)</div>
-<div>Grant for a Research &amp; Innovation Project (CONACYT)</div>
-<div>1st Place in a FinTech Hackathon (ITESM) MXHacks II &amp; meXBT</div>
+Financial Engineering (B.Eng), Data Science (M.Sc), Engineering Sciences in AI (PhD) candidate. I'm a Data / Machine Learning Engineer interested in the intersection between Generative AI, Financial Machine Learning and Blockchain technologies for Decentralized Finance, particularly from the engineering and performance perspective. 
+
+Currently I'm an Associate Professor in Financial Machine Learning and A.I. at ITESO University, in the Mathematics and Physics Department. Also an individual member contributor for mlcommons.org for the Inference/Algorithms/Benchmarks groups.

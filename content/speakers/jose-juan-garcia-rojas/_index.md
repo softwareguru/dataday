@@ -2,20 +2,17 @@
 title: "Jose Juan García Rojas"
 date: 2022-02-09T15:25:42-06:00
 images:
- - "images/speakers/jose-juan-garcia-rojas.jpg"
-designation : "Líder técnico en el área de datos"
+ - "images/speakers/jose-juan-garcia-rojas.png"
+designation : "Data engineer en Trully"
 country: ""
 facebook: ""
 instagram: ""
 twitter: "https://twitter.com/freakisimo"
-linkedin: "https://www.linkedin.com/in/jose-juan-g-2b695689/"
+linkedin: "https://www.linkedin.com/in/freakisimo/"
 github: ""
 events:
  - 2022
+ - 2024mty
 ---
 
-Soy un programador de formación con más de 10 años de experiencia, que comenzó su carrera en datos con Dat’s Why utilizando datos geográficos y con más de 5 años de experiencia trabajando con big data.
-
-Mi principal objetivo con líder de un área de datos es poder seguir guiando y apoyando a mi equipo para que pueda desarrollar sus fortalezas enfocado en sus intereses y cubriendo las necesidades de la empresa
-
-Mi pasión en el tema de datos es poder comunicar de una manera eficiente la información de valor contenida en los datos de forma que pueda llegar a todos.
+Soy un ingeniero de datos en Trully enfocado en optimizar procesos, apasionado por la visualización de datos y automatización de procesos, con 10 años de experiencia en manejo de python y con mucho gusto por las visualizaciones de datos en mapas
