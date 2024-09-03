@@ -1,5 +1,5 @@
 ---
-title: "TallerAceleración del Desarrollo de Modelos de ML en Startups"
+title: "Aceleración del Desarrollo de Modelos de ML en Startups"
 slug: aceleracion-del-desarrollo-de-modelos-de-ml-en-startups
 speakers:
  - Jose Juan Garcia Rojas
