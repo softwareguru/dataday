@@ -52,7 +52,10 @@ home = ["HTML", "RSS"]
   URL = "team"
   weight = 3
 
-
+  [[menu.main]]
+  name = "Beneficios"
+  URL = "beneficios"
+  weight = 5
 
   [[menu.main]]
   name = "FAQ"

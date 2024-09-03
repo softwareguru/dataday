@@ -17,10 +17,12 @@
         <tbody>
               {{ range .Data.Pages.ByTitle }}
             <tr>
-                <td><h4 class="mb-0">
-                    <a class="session-title" href="{{.Permalink}}">{{ .Params.title }}</a>
-                    </h4>
-                </td>
+            <td>
+              <h4 class="mt-2">
+                <a class="session-title mb-4" href="{{.Permalink}}">{{ .Params.title }}</a>
+                <p class="mb-2" style="color: #ed1b35;">{{ with .Params.speakers }}{{ delimit . ", " " & " }}{{ end }}</p>
+              </h4>
+            </td>
             </tr>
             {{ end }}
         </tbody>
