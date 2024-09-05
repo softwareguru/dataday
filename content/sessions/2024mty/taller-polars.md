@@ -1,8 +1,8 @@
 ---
-title: "Polars: Dataframes en Alto Rendimiento"
+title: "[Taller] Polars: Dataframes en Alto Rendimiento"
 slug: taller-polars
 speakers:
- - hermilo-cortes
+ - Hermilo Cortes
 time_start: 2024-11-05T17:20:00-06:00
 time_end:   2024-11-05T18:40:00-06:00
 day: 2024mty

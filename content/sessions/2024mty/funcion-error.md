@@ -1,5 +1,5 @@
 ---
-title: "Taller: Función de error vs métrica de evaluación"
+title: "[Taller]: Función de error vs métrica de evaluación"
 slug: taller-matematicas
 speakers:
  - Alfonso Ruiz Guido

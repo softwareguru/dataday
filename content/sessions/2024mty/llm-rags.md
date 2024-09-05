@@ -2,8 +2,8 @@
 title: "De LLMs, RAGs y sus letras chiquitas, ¿qué es lo que no te dicen de la construcción de una aplicación Gen AI corporativa?"
 slug: vinkos
 speakers:
- - luis-almazan
- - daniel-teran
+ - Luis Almazan
+ - Daniel Teran
 time_start: 2024-11-05T12:10:00-06:00
 time_end:   2024-11-05T12:50:00-06:00
 day: 2024mty
