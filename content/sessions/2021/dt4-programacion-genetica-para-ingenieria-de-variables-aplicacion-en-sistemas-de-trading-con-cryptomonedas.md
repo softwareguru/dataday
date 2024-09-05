@@ -2,7 +2,7 @@
 id: dt4
 title: "Programación Genética para Ingeniería de Variables: Aplicación en Sistemas de Trading con Criptomonedas"
 speakers:
- - Francisco Muñoz
+ - J Francisco Munoz-Elguezabal
 time_start: 2021-03-25T13:15:00-06:00
 time_end:   2021-03-25T14:00:00-06:00
 block: d
