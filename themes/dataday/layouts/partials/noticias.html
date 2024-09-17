@@ -9,16 +9,12 @@
     </div>
 
     <div class="card-deck">
-      {{ range first 2 (where .Site.RegularPages "Type" "blog" )}}
+      {{ range first 3 (where .Site.RegularPages "Type" "blog" )}}
        
       <div class="card col-md-6">
-   
+      <br>
         <img src="{{ .Params.Image | absURL }}" class="img-fluid" alt="{{ .Title | markdownify }}">
-        <div class="card-body">
-          <h5 class="card-title"><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h5>
-     
-        </div>
-
+        <br>
 
         {{ if .Params.link }}
 
@@ -38,6 +34,9 @@
      
       {{ end }}
     </div>
+    <br>
+    <center><a class="btn btn-primary boton-blog" href="../dataday/blog" role="button"><strong style="color: white;">Conocer más</strong></a></center>
+    
   
     </div>
 </section>
