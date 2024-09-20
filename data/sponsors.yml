@@ -14,6 +14,11 @@ sponsor_group:
     - logo : "images/sponsors/Softtek.png"
       link : "http://www.softtek.com/jobs"
 
+- title: "Gold"
+  slug: gold
+  sponsor:
+    - logo : "images/sponsors/core-bi.png"
+      link : "https://corebi.com.ar/"
 
 - title: "Silver"
   slug: gold
