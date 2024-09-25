@@ -1,5 +1,5 @@
 ---
-title: "AI para todos:  Preparando  a los datos y las organizaciones para esta revolución industrial"
+title: "AI para todos:  Preparando a los datos y las organizaciones para esta revolución industrial"
 slug: ai-para-todos
 speakers:
  - Ricardo Daniel Alanis Tamez
