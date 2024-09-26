@@ -3,11 +3,14 @@ title: "Aceleración del Desarrollo de Modelos de ML en Startups"
 slug: aceleracion-del-desarrollo-de-modelos-de-ml-en-startups
 speakers:
  - Jose Juan Garcia Rojas
-time_start: 2024-11-05T15:40:00-06:00
-time_end:   2024-11-05T17:00:00-06:00
+time_start: 2024-11-05T14:20:00
+time_end:   2024-11-05T15:00:00
+timeslot: 21
+gridarea: "11/3/12/4"
 day: 2024mty
-room: 
-track: 
+room: Sala 2
+track: Hard Core ML
+
 ---
 
 La naturaleza del desarrollo de modelos de ML es un ciclo de mejora gradual. Para lograr buenos resultados, es importante definir un proceso que permita la rápida iteración.

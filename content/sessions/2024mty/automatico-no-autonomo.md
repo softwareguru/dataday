@@ -3,11 +3,13 @@ title: "Automático, no Autónomo"
 slug: automatico-no-autonomo
 speakers:
  - José Antonio Padrós Escalante
-time_start: 2024-11-05T15:40:00-06:00
-time_end:   2024-11-05T17:00:00-06:00
+time_start: 2024-11-05T17:20:00
+time_end:   2024-11-05T18:00:00
 day: 2024mty
-room: 
-track: 
+timeslot: 38
+gridarea: "16/2/17/3"
+room: Sala 1
+track: Data strategy
 ---
 
 ¿A quién pertenece el conocimiento que provino del análisis de datos? Al dueño de los datos que ordenó el estudio. Típicamente, una empresa. 

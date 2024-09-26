@@ -1,13 +1,15 @@
 ---
-title: "[Taller]: Función de error vs métrica de evaluación"
+title: "Taller: Función de error vs métrica de evaluación"
 slug: taller-matematicas
 speakers:
  - Alfonso Ruiz Guido
-time_start: 2024-11-05T15:40:00-06:00
-time_end:   2024-11-05T17:00:00-06:00
+time_start: 2024-11-05T12:00:00
+time_end:   2024-11-05T13:20:00
 day: 2024mty
-room: 
-track: 
+timeslot: 14
+gridarea: "8/5/10/6"
+room: Sala 4
+track: Data science
 
 ---
 

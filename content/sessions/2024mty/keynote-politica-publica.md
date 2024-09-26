@@ -3,11 +3,13 @@ title: "Una Discusión sobre diseño de aplicaciones con LLMs y agentes: estabil
 slug: keynote-tec
 speakers:
  - Adolfo de Unánue
-time_start: 2024-11-05T08:30:00-06:00
-time_end:   2024-11-05T09:00:00-06:00
+time_start: 2024-11-05T09:10:00
+time_end:   2024-11-05T09:40:00
+timeslot: 2
+gridarea: "2/2/3/6"
 day: 2024mty
-room: 
-track: 
+room: Sala 1
+track: Data strategy
 
 ---
 

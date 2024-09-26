@@ -6,7 +6,6 @@ title = "Data Day MTY"
 enableRobotsTXT = true
 RemovePathAccents = true
 
-
 googleAnalytics = "G-7XSYNH098S"
 
 theme = "dataday"

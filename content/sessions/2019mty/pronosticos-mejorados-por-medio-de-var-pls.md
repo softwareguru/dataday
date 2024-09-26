@@ -1,12 +1,9 @@
 ---
-id: 
 title: "Pronósticos mejorados por medio de VAR-PLS"
 speakers:
- - José Antonio García Ramírez
+  - jose-antonio-garcia-ramirez
 time_start: 2019-11-13T15:20:00-05:00
 time_end:   2019-11-13T16:00:00-05:00
-block: 
-slot: 
 video: https://youtu.be/XwqrBVcMK0U
 ---
 

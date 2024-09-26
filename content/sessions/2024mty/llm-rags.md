@@ -4,11 +4,13 @@ slug: vinkos
 speakers:
  - Luis Almazan
  - Daniel Teran
-time_start: 2024-11-05T12:10:00-06:00
-time_end:   2024-11-05T12:50:00-06:00
 day: 2024mty
-room: 
-track: 
+time_start: 2024-11-05T11:20:00
+time_end:   2024-11-05T12:00:00
+timeslot: 7
+gridarea: "7/2/8/3"
+room: Sala 1
+track: Data strategy
 
 ---
 

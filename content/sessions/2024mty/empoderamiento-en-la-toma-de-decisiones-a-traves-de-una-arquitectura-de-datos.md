@@ -3,14 +3,16 @@ title: "Empoderamiento en la Toma de Decisiones a Traves de una Arquitectura de 
 slug: empoderamiento-en-la-toma-de-decisiones-a-traves-de-una-arquitectura-de-datos
 speakers:
  - Antonio Arias Mejía
-time_start: 2024-11-05T15:40:00-06:00
-time_end:   2024-11-05T17:00:00-06:00
+time_start: 2024-11-05T12:00:00
+time_end:   2024-11-05T12:40:00
 day: 2024mty
-room: 
-track: 
+timeslot: 12
+gridarea: "8/3/9/4"
+room: Sala 2
+track: Data engineering
 ---
 
-En esta conferencia caminaremos en uno de los retos que afrontó una organización en trancision a la digitalización para fortalecer a sus analistas de reclamos de garantías.
+En esta conferencia caminaremos en uno de los retos que afrontó una organización en transicion a la digitalización para fortalecer a sus analistas de reclamos de garantías.
 
 Para ello, exploramos los distintos componentes que de su arquitectura y cómo estos permitieron su integración con un modelo de Machine Learning que empodera a los agentes proveyendo de mayor información histórica y un acercamiento predictivo para que puedan tomar la mejor decisión.
 

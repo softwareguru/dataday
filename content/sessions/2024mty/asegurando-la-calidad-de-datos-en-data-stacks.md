@@ -3,11 +3,13 @@ title: "Asegurando la Calidad de Datos en Data Stacks"
 slug: asegurando-la-calidad-de-datos-en-data-stacks
 speakers:
  - Hector Cuesta
-time_start: 2024-11-05T15:40:00-06:00
-time_end:   2024-11-05T17:00:00-06:00
+time_start: 2024-11-05T11:20:00
+time_end:   2024-11-05T12:00:00
 day: 2024mty
-room: 
-track:  
+timeslot: 8
+gridarea: "7/3/8/4"
+room: Sala 2
+track:  Data engineering
 ---
 
 Asegurar la calidad de los datos se ha convertido en un desafío crítico para las organizaciones que buscan precisión, consistencia y confiabilidad en sus procesos de toma de decisiones. Esta charla abordará las estrategias multifacéticas y las herramientas esenciales para mantener una alta calidad de datos como Great Expectations o Apache Griffin.

@@ -1,4 +1,3 @@
-<head>
   <meta charset="utf-8">
   <title>{{ .Title }}{{ if not .IsHome }} | Data Day{{ end }}</title>
 
@@ -73,10 +72,10 @@
       "offers": {
         "@type": "Offer",
         "url": {{ with .Site.Params.navigation_button.link }}{{ . | absURL }}{{ end }},
-        "price": "3400",
+        "price": "3500",
         "priceCurrency": "MXN",
         "availability": "https://schema.org/InStock",
-        "validFrom": "2022-09-01T12:00"
+        "validFrom": "2024-09-01T12:00"
       },
       "performer": {
         "@type": "PerformingGroup",
@@ -91,5 +90,3 @@
   </script>
 {{ end }}
 
-
-</head>
