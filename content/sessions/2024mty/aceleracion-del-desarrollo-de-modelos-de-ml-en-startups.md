@@ -9,7 +9,7 @@ timeslot: 21
 gridarea: "11/3/12/4"
 day: 2024mty
 room: Sala 2
-track: Hard Core ML
+track: Data engineering
 
 ---
 

@@ -3,8 +3,8 @@ title: "Caso de estudio: Clasificación binaria con datos desbalanceados"
 slug: clasificacion-binaria
 speakers:
  - jose-antonio-garcia-ramirez
-time_start: 2024-11-05T09:00:00
-time_end:   2024-11-05T10:00:00
+time_start: 2024-11-05T16:20:00
+time_end:   2024-11-05T17:00:00
 day: 2024mty
 timeslot: 33
 gridarea: "14/2/15/3"

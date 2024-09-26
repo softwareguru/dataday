@@ -9,7 +9,7 @@ day: 2024mty
 timeslot: 39
 gridarea: "16/3/18/4"
 room: Sala 2
-track: 
+track: Data science
 tags:
 slides: 
 video: 

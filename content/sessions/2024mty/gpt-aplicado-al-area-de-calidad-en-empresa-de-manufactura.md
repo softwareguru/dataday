@@ -6,9 +6,9 @@ speakers:
 time_start: 2024-11-05T15:00:00
 time_end:   2024-11-05T15:40:00
 day: 2024mty
-timeslot: 26
-gridarea: "12/3/13/4"
-room: Sala 2
+timeslot: 25
+gridarea: "12/2/13/3"
+room: Sala 1
 track: Data strategy
 ---
 

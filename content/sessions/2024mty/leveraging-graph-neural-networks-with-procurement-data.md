@@ -3,8 +3,8 @@ title: "Leveraging Graph Neural Networks with Procurement Data"
 slug: leveraging-graph-neural-networks-with-procurement-data
 speakers:
  - Edison Vazquez
-time_start: 2024-11-05T08:30:00-06:00
-time_end:   2024-11-05T09:00:00-06:00
+time_start: 2024-11-05T16:20:00
+time_end:   2024-11-05T17:00:00
 day: 2024mty
 timeslot: 34
 gridarea: "14/3/15/4"

@@ -3,11 +3,11 @@ title: "Impulsando Decisiones Estratégicas en venta de bienes de consumo masivo
 slug: impulsando-decisiones-estrategicas
 speakers:
  - Carlos Daniel Vazquez Rosas
-time_start: 2024-11-05T15:00:00
-time_end:   2024-11-05T15:40:00
+time_start: 2024-11-05T15:40:00
+time_end:   2024-11-05T16:20:00
 day: 2024mty
-timeslot: 25
-gridarea: "12/2/13/3"
+timeslot: 29
+gridarea: "13/2/14/3"
 room: Sala 1
 track: Data strategy
 ---

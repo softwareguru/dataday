@@ -3,8 +3,8 @@ title: "AI para todos: Preparando a los datos y las organizaciones para esta rev
 slug: ai-para-todos
 speakers:
  - Ricardo Daniel Alanis Tamez
-time_start: 2024-11-05T11:20:00
-time_end:   2024-11-05T17:00:00
+time_start: 2024-11-05T12:40:00
+time_end:   2024-11-05T13:20:00
 timeslot: 15
 gridarea: "9/2/10/3"
 day: 2024mty

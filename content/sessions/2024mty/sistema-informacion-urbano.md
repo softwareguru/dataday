@@ -3,8 +3,8 @@ title: "Sistema de Información Urbano Metropolitano: La expansión urbana de Mo
 slug: sistema-informacion-urbano
 speakers:
  - Gonzalo Peraza
-time_start: 2024-11-05T11:20:00
-time_end:   2024-11-05T12:00:00
+time_start: 2024-11-05T12:00:00
+time_end:   2024-11-05T12:40:00
 day: 2024mty
 timeslot: 13
 gridarea: "8/4/9/5"

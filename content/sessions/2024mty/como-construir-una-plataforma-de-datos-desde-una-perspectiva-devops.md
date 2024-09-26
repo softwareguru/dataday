@@ -6,9 +6,9 @@ speakers:
 time_start: 2024-11-05T12:40:00
 time_end:   2024-11-05T13:20:00
 day: 2024mty
-timeslot: 16
-gridarea: "9/3/10/4"
-room: Sala 2
+timeslot: 18
+gridarea: "9/5/10/6"
+room: Sala 4
 track: Data engineering
 ---
 

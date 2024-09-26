@@ -9,7 +9,7 @@ day: 2024mty
 timeslot: 31
 gridarea: "13/4/14/5"
 room: Sala 3
-track: 
+track: Public policy
 tags:
 slides: 
 video: 

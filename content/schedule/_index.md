@@ -37,15 +37,36 @@ days:
         label: "Break"
         gridarea: "6/2/7/6"
         timelabel: "10:50 - 11:20"
-        gridaream: "6/1/7/2"
+        gridaream: "5/1/7/2"
+      - type: timelabel
+        label: "11:20"
+        gridarea: "7/1/8/2"
+      - type: timelabel
+        label: "12:00"
+        gridarea: "8/1/9/2"
+      - type: timelabel
+        label: "12:40"
+        gridarea: "9/1/10/2"
       - type: timelabel
         label: "13:20"
         gridarea: "10/1/11/2"
       - type: activity
         label: "Comida"
         gridarea: "10/2/11/6"
-        timelabel: "13:20 - 14:40"
-        gridaream: "19/1/20/2"
+        timelabel: "13:20 - 14:20"
+        gridaream: "17/1/20/2"
+      - type: timelabel
+        label: "14:20"
+        gridarea: "11/1/12/2"
+      - type: timelabel
+        label: "15:00"
+        gridarea: "12/1/13/2"
+      - type: timelabel
+        label: "15:40"
+        gridarea: "13/1/14/2"
+      - type: timelabel
+        label: "16:20"
+        gridarea: "14/1/15/2"
       - type: timelabel
         label: "17:00"
         gridarea: "15/1/16/2"
@@ -53,7 +74,10 @@ days:
         label: "Break"
         gridarea: "15/2/16/6"
         timelabel: "17:00 - 17:20"
-        gridaream: "37/1/38/2"
+        gridaream: "34/1/38/2"
+      - type: timelabel
+        label: "17:20"
+        gridarea: "16/1/17/2"
 
 
 tracks:

@@ -3,8 +3,8 @@ title: "Taller: Ingeniería de datos cuantitativa con PostgreSQL y Rust"
 slug: introduction-to-rust-driven-quantitative
 speakers:
  - J Francisco Munoz-Elguezabal
-time_start: 2024-11-05T15:00:00
-time_end:   2024-11-05T16:20:00
+time_start: 2024-11-05T14:20:00
+time_end:   2024-11-05T15:40:00
 day: 2024mty
 timeslot: 24
 gridarea: "11/5/13/6"

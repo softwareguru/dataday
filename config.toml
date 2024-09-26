@@ -37,8 +37,8 @@ home = ["HTML", "RSS"]
   weight = 1
 
   [[menu.main]]
-  name = "Sesiones"
-  URL = "sessions/2024mty"
+  name = "Agenda"
+  URL = "agenda"
   weight = 2
 
   [[menu.main]]
