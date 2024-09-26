@@ -134,6 +134,13 @@ link = "/plugins/flaticon/flaticon.css"
 [[params.plugins.css]]
 link = "https://unpkg.com/bootstrap-table@1.22.1/dist/bootstrap-table.min.css"
 
+[[params.plugins.css]]
+link = "/dataday/css/fontawesome.css"
+[[params.plugins.css]]
+link = "/dataday/css/brands.css"
+[[params.plugins.css]]
+link = "/dataday/css/solid.css"
+
 # JS Plugins
 [[params.plugins.js]]
 link = "https://code.jquery.com/jquery-3.5.1.slim.min.js" 
@@ -141,8 +148,6 @@ link = "https://code.jquery.com/jquery-3.5.1.slim.min.js"
 [[params.plugins.js]]
 link="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"
 
-[[params.plugins.js]]
-link="https://kit.fontawesome.com/a6f10b653b.js"
 
 [[params.plugins.js]]
 link="https://unpkg.com/bootstrap-table@1.22.1/dist/bootstrap-table.min.js"
