@@ -5,7 +5,7 @@ block: a
 id: at2
 title: Ya tengo un modelo. ¿Y ahora qué hago con él?
 speakers:
-  - Adolfo De Unánue
+  - adolfo-de-unanue
 time_start: 2021-03-22T11:45:00-06:00
 slot: t2
 video: https://youtu.be/jHHXdINcFKk

@@ -2,7 +2,7 @@
 id: 
 title: "Una nueva ciencia de datos para México"
 speakers:
- - Adolfo de Unánue
+ - adolfo-de-unanue
 time_start: 2020-08-03T13:00:00-05:00
 time_end:   2020-08-03T13:45:00-05:00
 block: 

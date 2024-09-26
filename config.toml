@@ -4,7 +4,7 @@ baseURL = "https://sg.com.mx/dataday/"
 publishDir = "public/dataday"
 title = "Data Day MTY"
 enableRobotsTXT = true
-RemovePathAccents = true
+RemovePathAccents = false
 
 googleAnalytics = "G-7XSYNH098S"
 

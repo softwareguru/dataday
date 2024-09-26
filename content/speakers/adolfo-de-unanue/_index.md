@@ -1,5 +1,5 @@
 ---
-title: "Adolfo De Unánue"
+title: "Adolfo de Unánue"
 images:
  - images/speakers/adolfo-unanue.jpg
 date: 2020-01-13
