@@ -10,8 +10,6 @@ instagram: ""
 twitter: "https://twitter.com/zn"
 linkedin: https://www.linkedin.com/in/zinnya-del-villar/
 github: ""
-events:
- - 2024mty
 ---
 
 Zinnya del Villar es Directora de Datos y Tecnología en Data-Pop Alliance, una organización sin ánimo de lucro que es una coalición sobre Big Data y desarrollo, donde realiza investigaciones sobre el uso de datos y métodos computacionales para trabajar en favor de la equidad de género y racial,  la pobreza, el impacto del cambio climático y otros temas sociales relacionados con el espacio y el lugar, así como investigaciones sobre el uso ético de los datos. También es profesora de ciencia de datos en diferentes universidades francesas y mexicanas. Zinnya del Villar es una mamá hacker que se centra en la democratización de la tecnología, la alfabetización de datos y el uso de datos con una perspectiva de género, así como una activista de la igualdad de género en la tecnología. Ha organizado hackathones , diseñado modelos de ciencia de datos para medir lo no medible como VaWG, creado podcasts de divulgación de ciencia de datos y ha dado múltiples conferencias a varios tipos de audiencias, incluyendo una charla de TeDx sobre la equidad de género en la tecnología.

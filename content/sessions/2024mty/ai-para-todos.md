@@ -9,7 +9,7 @@ timeslot: 15
 gridarea: "9/2/10/3"
 day: 2024mty
 room: Sala 1
-track: GenAI
+track: Data strategy
 ---
 
 En Nowports, una startup de logística, experimentamos un gran crecimiento que nos llevó a alcanzar el estatus de unicornio. Este éxito trajo consigo nuevos desafíos y oportunidades, especialmente en el ámbito de la gestión de datos y la tecnología.

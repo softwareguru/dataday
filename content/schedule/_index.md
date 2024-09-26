@@ -28,6 +28,17 @@ days:
         label: "9:40"
         gridarea: "3/1/4/2"
       - type: timelabel
+        label: "10:10"
+        gridarea: "5/1/6/2"
+      - type: timelabel
+        label: "10:50"
+        gridarea: "6/1/7/2"
+      - type: activity
+        label: "Break"
+        gridarea: "6/2/7/6"
+        timelabel: "10:50 - 11:20"
+        gridaream: "6/1/7/2"
+      - type: timelabel
         label: "13:20"
         gridarea: "10/1/11/2"
       - type: activity
@@ -35,6 +46,14 @@ days:
         gridarea: "10/2/11/6"
         timelabel: "13:20 - 14:40"
         gridaream: "19/1/20/2"
+      - type: timelabel
+        label: "17:00"
+        gridarea: "15/1/16/2"
+      - type: activity
+        label: "Break"
+        gridarea: "15/2/16/6"
+        timelabel: "17:00 - 17:20"
+        gridaream: "37/1/38/2"
 
 
 tracks:

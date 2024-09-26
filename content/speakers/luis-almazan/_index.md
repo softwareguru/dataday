@@ -3,6 +3,7 @@ title: "Luis Almazán"
 images:
  - images/speakers/luis-almazan.jpg
 date: 2020-07-07
+designation: "Científico de datos en VinkOS"
 events:
  - 2021
  - 2020
