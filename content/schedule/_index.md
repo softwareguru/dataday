@@ -90,7 +90,8 @@ tracks:
   - slug: public-policy
     label: Politica pública
 
-
+description: "Conoce la agenda de sesiones de Data Day Monterrey 2024 con charlas y talleres sobre estrategia, ingeniería y ciencia de datos."
+summary: "Conoce la agenda de sesiones de Data Day Monterrey 2024 con charlas y talleres sobre estrategia, ingeniería y ciencia de datos."
 ---
 
 
