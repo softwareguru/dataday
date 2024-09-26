@@ -2,7 +2,7 @@
 title: "Automático, no Autónomo"
 slug: automatico-no-autonomo
 speakers:
- - José Antonio Padrós Escalante
+ - antonio-padros
 time_start: 2024-11-05T17:20:00
 time_end:   2024-11-05T18:00:00
 day: 2024mty
