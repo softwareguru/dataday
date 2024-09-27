@@ -1,5 +1,5 @@
 ---
-title: "The Power of Data in Manufacturing Operations"
+title: "El Poder de los Datos en la Manufactura"
 slug: the-power-of-data-in-manufacturing-operations
 speakers:
  - Amauri Garcia
@@ -12,5 +12,6 @@ room: Sala 1
 track: Data strategy
 ---
 
-A successful culture of data empowerment starts with a strong foundational strategy. Companies in manufacturing industry struggles with daily common operations issues and repeat the same mistakes with no digital and data foundation to drive a better problem solving analysis. Here we will present some case studies of data transformation in SQDDP in all organization tiers and how to drive better visibility to take faster and better decisions
+
+En esta charla platicaremos sobre cómo podemos mejorar el desempeño de líneas de manufactura por medio de la captura y análisis de datos. Revisaremos casos y lecciones aprendidas en empresas en Nuevo León, específicamente en la transformación de datos para tableros SQDP y cómo utilizarlos para mejorar la visiblidad a todos los niveles, que habilite la toma de decisiones mejores y más rápidas.
 
