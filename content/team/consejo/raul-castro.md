@@ -7,5 +7,6 @@ designation: Advanced Analytics Sr. Manager en Arca Continental
 linkedin: https://www.linkedin.com/in/raularcadio/
 github: ""
 group: consejo
+draft: true
 ---
 

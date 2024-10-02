@@ -16,9 +16,15 @@ draft: false
 
 ### Descuentos 
 
-La tarifa temprana (early bird) es la mejor tarifa que puedes obtener. Aprovéchala.
+La tarifa temprana terminó, pero aún tenemos descuentos para ti 
 
-Una vez vencida la tarifa temprana, habilitaremos descuentos para grupos, profesionistas independientes, mujeres y estudiantes.
+- Mujeres 15% código utiliza el código MUJERES_DESC
+- Estudiantes 15% utiliza el código DDAY_ESTUDIANTE
+- Independientes 15% utiliza el código DDAY_INDEPENDIENTE
+- Foraneos 15% utiliza el código DDAY_FORANEO
+- Organismos (AMITI, CSOFTMTY, etc.), y comunidades15% acércate a las comunidades aliadas.
+
+En el caso de estudiantes deberán enviar su credencial de estudiante al correo dataday@sg.com.mx
 
 ### Formas de pago
  * Puedes pagar con tu cuenta de PayPal o tarjeta de crédito.

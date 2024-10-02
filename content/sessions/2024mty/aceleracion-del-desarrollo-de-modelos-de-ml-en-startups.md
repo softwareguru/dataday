@@ -3,6 +3,7 @@ title: "Aceleración del Desarrollo de Modelos de ML en Startups"
 slug: aceleracion-del-desarrollo-de-modelos-de-ml-en-startups
 speakers:
  - Jose Juan Garcia Rojas
+ - Azael Carrillo Cabrera
 time_start: 2024-11-05T14:20:00
 time_end:   2024-11-05T15:00:00
 timeslot: 21

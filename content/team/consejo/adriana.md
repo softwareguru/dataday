@@ -6,5 +6,6 @@ images :
 designation : "Co Directora Health Data Science Program / Líder Health IDS"
 linkedin: "https://www.linkedin.com/in/adrianavallejoc/"
 group: consejo
+draft: true
 ---
 

@@ -7,6 +7,7 @@ designation: Chief Medical Informatics Officer en TecSalud
 linkedin: https://www.linkedin.com/in/cynthia-sarai-mart%C3%ADnez-alejo-1b838414b/
 github: 
 group: consejo
+draft: true
 ---
 
 
