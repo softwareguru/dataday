@@ -19,9 +19,9 @@ draft: false
 La tarifa temprana terminó, pero aún tenemos descuentos para ti 
 
 - Mujeres 15% código utiliza el código MUJERES_DESC
-- Estudiantes 15% utiliza el código DDAY_ESTUDIANTE
-- Independientes 15% utiliza el código DDAY_INDEPENDIENTE
-- Foraneos 15% utiliza el código DDAY_FORANEO
+- Estudiantes 15% utiliza el código <a href="https://ti.to/sgmx/data-day-monterrey-2024/discount/EGOBIERNOYTP_ESTUDIANTES">DDAY_ESTUDIANTE</a>
+- Independientes 15% utiliza el código <a href="https://ti.to/sgmx/data-day-monterrey-2024/discount/DDAY_INDEPENDIENTE">DDAY_INDEPENDIENTE</a>
+- Foraneos 15% utiliza el código <a href="https://ti.to/sgmx/data-day-monterrey-2024/discount/DDAY_FORANEO">DDAY_FORANEO</a>
 - Organismos (AMITI, CSOFTMTY, etc.), y comunidades15% acércate a las comunidades aliadas.
 
 En el caso de estudiantes deberán enviar su credencial de estudiante al correo dataday@sg.com.mx
