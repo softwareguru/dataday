@@ -5,9 +5,9 @@ images:
 date: 2019-09-25
 events: 
  - 2019mty
- - 2024mty
 designation: Analytics data science and IOT Engineer en Hexaware | Maestro en Cómputo Estadístico - CIMAT
 linkedin: https://www.linkedin.com/in/antoniogarcialinkedin/
+
 ---
 
 
