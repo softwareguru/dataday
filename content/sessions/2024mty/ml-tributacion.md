@@ -2,7 +2,7 @@
 title: "Machine Learning para la Tributación Fiscal del Costo de lo Vendido"
 slug: ml-tributacion
 speakers:
- - Daniel Uribe Troncoso
+ - Daniel Uribe Trancoso
 time_start: 2024-11-05T15:40:00
 time_end:   2024-11-05T16:20:00
 day: 2024mty

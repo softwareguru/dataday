@@ -2,7 +2,7 @@
 title: "Empoderamiento en la Toma de Decisiones a Traves de una Arquitectura de Datos"
 slug: empoderamiento-en-la-toma-de-decisiones-a-traves-de-una-arquitectura-de-datos
 speakers:
- - Antonio Arias Mejía
+ - Antonio Arias Mejia
 time_start: 2024-11-05T12:00:00
 time_end:   2024-11-05T12:40:00
 day: 2024mty
