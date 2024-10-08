@@ -13,7 +13,7 @@ track: Data science
 
 ---
 
-Durante la platica conoceremos un pipeline de Machine Learning que utiliza código en R Studio y Python, con librerías de ciencia de Datos y Sistemas RAG para lograr:
+Durante la plática, conoceremos un pipeline de Machine Learning que utiliza código en R Studio y Python, con librerías de ciencia de datos y sistemas RAG para lograr:
 1. Identificar conceptos relacionados entre facturas emitidas y facturas recibidas logrando calcular el costo de lo vendido.
 2. Identificar facturas canceladas y asignar periodos de consideración para facturas emitidas de acuerdo a criterios fiscales.
 3. Identificar conceptos deducibles de impuestos de acuerdo a la naturaleza de operación del negocio.
