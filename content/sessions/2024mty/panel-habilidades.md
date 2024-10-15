@@ -2,10 +2,10 @@
 title: "Panel: Habilidades matemáticas en la era de la Ciencia de Datos"
 slug: panel-matematicas
 speakers:
- - María de la Paz Rico Fernández
+ - Maria de la Paz Rico Fernandez
  - Enrique Cortes Rello 
  - Ernesto Lupercio
- - León Palafox
+ - Leon Palafox
  - Alfonso Ruiz Guido
 time_start: 2024-11-05T14:20:00-06:00
 time_end:   2024-11-05T15:00:00-06:00

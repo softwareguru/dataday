@@ -1,5 +1,5 @@
 ---
-title: "María de la Paz Rico Fernandez"
+title: "María de la Paz Rico Fernández"
 date: 2023-03-01T22:57:46-06:00
 images : 
  - "images/speakers/maria-de-la-paz-rico-fernandez.jpg"
