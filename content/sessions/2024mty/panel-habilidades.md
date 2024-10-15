@@ -2,7 +2,8 @@
 title: "Panel: Habilidades matemáticas en la era de la Ciencia de Datos"
 slug: panel-matematicas
 speakers:
- - Enrique Cortes Rello
+ - María de la Paz Rico Fernández
+ - Enrique Cortes Rello 
  - Ernesto Lupercio
  - León Palafox
  - Alfonso Ruiz Guido
