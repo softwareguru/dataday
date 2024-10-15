@@ -1,0 +1,23 @@
+{{ define "main" }}
+{{ partial "page-title.html" . }}
+
+<!-- Speakers Section -->
+<section class="speakers-section-three" id="speakers-section">
+  <div class="container">
+    <div class="lead my-3">{{ .Content }}</div>
+    <div class="speaker-strip2">
+      <table>        
+        {{ range where $.Site.Pages "Section" "speakers" }}
+        {{ if in .Params.events "2024mty" }}
+        <tr>
+          <td>{{.Title}}</td>
+          <td><img src="{{ with .Params.images }}{{ index . 0 | relURL }}{{ end }}" alt="" class="img-fluid"></td>
+        </tr>                  
+        {{ end }}
+      {{ end }}
+    </table>
+  </div>
+  </div>
+</section>
+<!-- End Speakers Section -->
+{{ end }}
