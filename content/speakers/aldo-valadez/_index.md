@@ -7,6 +7,7 @@ events:
  - 2021
  - 2019mty
  - 2022mty
+ - 2024mty
 designation: "Chief Analytics Officer @ Regional SAB"
 linkedin: https://www.linkedin.com/in/vavaladez/
 ---

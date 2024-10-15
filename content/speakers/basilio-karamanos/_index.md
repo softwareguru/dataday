@@ -4,7 +4,7 @@ images:
  - "images/speakers/basilio-karamanos.jpg"
 date: 2021-02-16
 events:
- - 2023mty
+ - 2024mty
 designation: AI4Good Mexico
 ---
 
