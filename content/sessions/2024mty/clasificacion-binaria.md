@@ -1,8 +1,8 @@
 ---
-title: "Caso de estudio: Clasificación binaria con datos desbalanceados"
+title: "Más Allá de FinOps: Optimización de costos en la nube"
 slug: clasificacion-binaria
 speakers:
- - jose-antonio-garcia-ramirez
+ - aldo-valadez
 time_start: 2024-11-05T16:20:00
 time_end:   2024-11-05T17:00:00
 day: 2024mty
@@ -15,11 +15,6 @@ slides:
 video: 
 ---
 
+La utilización de infraestructura y servicios de nube pública brinda agilidad y conveniencia. Por otro lado, al usar servicios de nube pública para procesar datos, la falta de estrategias adecuadas de optimización puede llevar a un gasto innecesario y a una disminución en la eficiencia operativa.
 
-En esta charla se detalla un caso de uso de la aplicación de los algoritmos de sobre y submuestreo para un problema de clasificación binario en el contexto de predecir la rotación de empleados de uno de una de las cadenas tiendas de conveniencia más grandes de México.
-
-**Objetivos de la Charla:**
-   - Introducir a la audiencia en la problemática de los conjuntos de datos desbalanceados.
-   - Explicar las técnicas de remuestreo y su aplicación práctica en un caso de uso real.
-   - Mostrar los resultados obtenidos y las mejoras logradas en la predicción de la rotación de empleados.
-   - Proveer recursos y ejemplos prácticos que los asistentes puedan aplicar en sus propios proyectos.
+En esta charla compartiré tips y recomendaciones que he aprendido a traves de mi experiencia como Chief Analytics Officer, que te ayudarán a establecer estrategias adecuadas para gestionar costos en la contratación de servicios de cómputo en la nube.
