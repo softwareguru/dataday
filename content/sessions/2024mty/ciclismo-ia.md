@@ -10,9 +10,6 @@ timeslot: 35
 room: Sala 3
 gridarea: "14/4/15/5"
 track: Public policy
-tags:
-slides: 
-video: 
 ---
 
 

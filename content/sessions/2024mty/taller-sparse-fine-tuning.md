@@ -13,6 +13,7 @@ track: Data science
 tags:
 slides: 
 video: 
+draft: true
 ---
 
 El Sparse fine-tuning de mecanismos de atención se utiliza para optimizar LLMs y sean mas precisos en tareas o contextos especificos. Este taller profundiza en los principios teoricos y la práctica de aplicar técnicas de sparse fine-tuning a las attention layers de los LLMs, con el objetivo de reducir los costos computacionales del fine tuning total manteniendo el rendimiento del modelo en las tareas que se quieren optimizar. Los participantes obtendrán una comprensión integral de las metodologías de sparse fine-tuning, experiencia práctica implementando estas técnicas en modelos populares y conocimientos sobre cómo evaluar la eficacia de los modelos sparse fine-tuned. A través de una combinación de explicaciones teóricas y demostraciones prácticas.
