@@ -3,13 +3,15 @@ title: "AI para todos: Preparando a los datos y las organizaciones para esta rev
 slug: ai-para-todos
 speakers:
  - Ricardo Daniel Alanis Tamez
-time_start: 2024-11-05T12:40:00
-time_end:   2024-11-05T13:20:00
-timeslot: 15
-gridarea: "9/2/10/3"
+
+time_start: 2024-11-05T09:40:00
+time_end:   2024-11-05T10:10:00
+timeslot: 4
+gridarea: "4/2/5/6"
 day: 2024mty
 room: Sala 1
 track: Data strategy
+
 ---
 
 En Nowports, una startup de logística, experimentamos un gran crecimiento que nos llevó a alcanzar el estatus de unicornio. Este éxito trajo consigo nuevos desafíos y oportunidades, especialmente en el ámbito de la gestión de datos y la tecnología.

@@ -9,7 +9,7 @@ gridarea: "5/2/6/6"
 day: 2024mty
 room: Sala 1
 track: 
-
+draft: true
 ---
 
 Serie de charlas relámpago presentadas por distintos conferencistas.

@@ -22,16 +22,16 @@ days:
         timelabel: "9:00 - 9:10"
         gridaream: "1/1/2/2"
       - type: timelabel
-        label: ""
+        label: "9:10"
         gridarea: "2/1/3/2"
       - type: timelabel
         label: "9:40"
         gridarea: "3/1/4/2"
       - type: timelabel
         label: "10:10"
-        gridarea: "5/1/6/2"
+        gridarea: "4/1/5/2"
       - type: timelabel
-        label: "10:50"
+        label: "10:40"
         gridarea: "6/1/7/2"
       - type: activity
         label: "Break"

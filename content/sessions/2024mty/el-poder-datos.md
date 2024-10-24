@@ -9,7 +9,15 @@ day: 2024mty
 timeslot: 22
 gridarea: "11/4/12/5"
 room: Sala 3
-track: Public policy
+track: Data strategy
+
+# time_start: 2024-11-05T12:40:00
+# time_end:   2024-11-05T13:20:00
+# timeslot: 15
+# gridarea: "9/2/10/3"
+# day: 2024mty
+# room: Sala 1
+# track: Data strategy
 
 ---
 
