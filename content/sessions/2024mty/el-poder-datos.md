@@ -3,21 +3,13 @@ title: "El Poder de los Datos en la Manufactura"
 slug: the-power-of-data-in-manufacturing-operations
 speakers:
  - Amauri Garcia
-time_start: 2024-11-05T14:20:00-06:00
-time_end:   2024-11-05T15:00:00-06:00
+time_start: 2024-11-05T15:00:00
+time_end:   2024-11-05T15:40:00
 day: 2024mty
-timeslot: 22
-gridarea: "11/4/12/5"
-room: Sala 3
+timeslot: 25
+gridarea: "12/2/13/3"
+room: Sala 1
 track: Data strategy
-
-# time_start: 2024-11-05T12:40:00
-# time_end:   2024-11-05T13:20:00
-# timeslot: 15
-# gridarea: "9/2/10/3"
-# day: 2024mty
-# room: Sala 1
-# track: Data strategy
 
 ---
 

@@ -3,11 +3,11 @@ title: "GPT aplicado al área de Calidad en Empresa de Manufactura"
 slug: gpt-aplicado-al-area-de-calidad-en-empresa-de-manufactura
 speakers:
  - Juan Baldemar Garza Villegas
-time_start: 2024-11-05T15:00:00
-time_end:   2024-11-05T15:40:00
+time_start: 2024-11-05T12:40:00
+time_end:   2024-11-05T13:20:00
 day: 2024mty
-timeslot: 25
-gridarea: "12/2/13/3"
+timeslot: 15
+gridarea: "9/2/10/3"
 room: Sala 1
 track: Data strategy
 ---
