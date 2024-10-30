@@ -19,6 +19,8 @@ sponsor_group:
   sponsor:
     - logo : "images/sponsors/core-bi.png"
       link : "https://corebi.com.ar/"
+    - logo : "images/sponsors/dayset.png"
+      link : "https://www.dayset.com/"
 
 - title: "Silver"
   slug: gold
