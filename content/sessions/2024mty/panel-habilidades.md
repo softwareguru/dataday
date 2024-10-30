@@ -14,7 +14,7 @@ day: 2024mty
 timeslot: 20
 gridarea: "11/2/12/3"
 room: Sala 1
-track: Data strategy
+track: Public policy
 
 ---
 
