@@ -8,7 +8,7 @@ time_end:   2024-11-05T15:40:00
 day: 2024mty
 timeslot: 24
 gridarea: "11/5/13/6"
-room: Sala 105
+room: Sala 101
 track: Data engineering
 draft: true
 ---
