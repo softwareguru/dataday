@@ -9,7 +9,7 @@ time_start: 2024-11-05T11:20:00
 time_end:   2024-11-05T12:00:00
 timeslot: 7
 gridarea: "7/2/8/3"
-room: Sala 1
+room: Sala de conferencias
 track: Data strategy
 
 ---

@@ -11,7 +11,7 @@ days:
     enabled: true
     title_short: Martes
     title_full: Martes 5 de noviembre
-    rooms: ["Sala 1", "Sala 2", "Sala 3", "Sala 4"]
+    rooms: ["Sala de conferencias", "Sala 101", "Sala 104", "Sala 105"]
     schedule_items: 
       - type: timelabel
         label: "9:00"
