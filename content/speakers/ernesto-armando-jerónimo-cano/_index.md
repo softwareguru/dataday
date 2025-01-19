@@ -1,9 +1,9 @@
 ---
-title: "Ernesto Armando Jeronimo Cano"
+title: "Ernesto Armando Jerónimo Cano"
 date: 2024-10-30T14:44:22-05:00
 images : 
  - "images/speakers/ernesto-armando-jeronimo-cano.jpg"
-designation: 
+designation: "Coordinador de Proyectos en la Subsecretaría de Protección Social y Oportunidades del Gobierno de Nuevo León"
 country: ""
 facebook: ""
 instagram: ""

@@ -8,7 +8,7 @@ time_end:   2024-11-05T17:00:00
 day: 2024mty
 timeslot: 33
 gridarea: "14/2/15/3"
-room: Sala 1
+room: Sala de conferencias
 track: Data strategy
 tags:
 slides: 

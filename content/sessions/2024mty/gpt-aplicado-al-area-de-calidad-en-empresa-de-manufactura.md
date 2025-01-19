@@ -8,7 +8,7 @@ time_end:   2024-11-05T13:20:00
 day: 2024mty
 timeslot: 15
 gridarea: "9/2/10/3"
-room: Sala 1
+room: Sala de conferencias
 track: Data strategy
 ---
 

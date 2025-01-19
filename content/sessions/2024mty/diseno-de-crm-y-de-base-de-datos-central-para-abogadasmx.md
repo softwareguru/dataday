@@ -9,7 +9,7 @@ time_end:   2024-11-05T12:00:00
 day: 2024mty
 timeslot: 9
 gridarea: "7/4/8/5"
-room: Sala 3
+room: Sala 105
 track: Public policy
 ---
 

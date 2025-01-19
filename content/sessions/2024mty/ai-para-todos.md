@@ -4,12 +4,12 @@ slug: ai-para-todos
 speakers:
  - Ricardo Daniel Alanis Tamez
 
-time_start: 2024-11-05T09:40:00
-time_end:   2024-11-05T10:10:00
+time_start: 2024-11-05T10:10:00
+time_end:   2024-11-05T10:40:00
 timeslot: 4
 gridarea: "4/2/5/6"
 day: 2024mty
-room: Sala 1
+room: Sala de conferencias
 track: Data strategy
 
 ---

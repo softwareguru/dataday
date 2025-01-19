@@ -13,7 +13,7 @@ time_end:   2024-11-05T15:00:00
 day: 2024mty
 timeslot: 20
 gridarea: "11/2/12/3"
-room: Sala 1
+room: Sala de conferencias
 track: Public policy
 
 ---

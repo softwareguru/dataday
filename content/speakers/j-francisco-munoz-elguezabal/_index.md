@@ -5,7 +5,6 @@ images:
 date: 2021-02-16
 events:
  - 2021
- - 2024mty
 designation: Associate Professor in Machine Learning @ ITESO / Rust Data & ML Engineer @ IteraLabs.ai
 
 linkedin: https://www.linkedin.com/in/iffranciscome/
