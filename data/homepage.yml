@@ -3,8 +3,8 @@ banner:
   enable : true
   greeting: Bienvenido a
   title : "Data Day"
-  tagline: "Data Science desde el corazón industrial de MX"
-  meta: "5 de noviembre de 2024"
+  tagline: "Casos avanzados de data science e IA"
+  meta: "Octubre 2025"
   lugar: "Escuela de Gobierno y Transformación Pública del Tecnológico de Monterrey
 San Pedro Garza García, Nuevo León, México"
   logo : "/images/logo.svg"
