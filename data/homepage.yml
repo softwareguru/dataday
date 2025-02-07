@@ -3,10 +3,9 @@ banner:
   enable : true
   greeting: Bienvenido a
   title : "Data Day"
-  tagline: "Casos avanzados de data science e IA"
+  tagline: "DATA SCIENCE DESDE EL CORAZÓN INDUSTRIAL DE MX"
   meta: "21 de Octubre del 2025"
-  lugar: "Escuela de Gobierno y Transformación Pública del Tecnológico de Monterrey
-San Pedro Garza García, Nuevo León, México"
+  lugar: "Escuela de Gobierno y Transformación Pública del Tecnológico de Monterrey San Pedro Garza García, Nuevo León, México"
   logo : "/images/logo.svg"
   venue : ""
   button1:
@@ -14,7 +13,7 @@ San Pedro Garza García, Nuevo León, México"
     label : "Convocatoria de ponencias"
     link : "https://convoca.dev/dataday-2024/cfp"
   button2:
-    enable : true
+    enable : false
     label : "Tickets"
     link : "tickets"
 

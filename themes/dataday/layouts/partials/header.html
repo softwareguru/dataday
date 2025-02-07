@@ -1,6 +1,6 @@
 <!-- Navigation Start -->
 <header>
-  <nav id="navbar" class="navbar navbar-expand-md navbar-dark fixed-top " style="background-color: black; z-index: 10; !important">
+  <nav id="" class="navbar navbar-expand-md fixed-top " style="background-color: #90CEE7; z-index: 10; !important">
     <div class="container" style="align-items: flex-end;">
       <a class="navbar-brand" href='{{ "/dataday" | relURL }}'>
         <img src="{{ .Site.Params.logo | relURL }}" alt="{{ .Site.Title }}"  class="img-fluid logo-b">
@@ -12,7 +12,7 @@
       </button>
 
       <!--  MAIN MENU  -->
-      <div class="navbar-collapse collapse text-center" id="navigation">
+      <div class="navbar-collapse collapse text-center mb-2" id="navigation">
         <ul class="navbar-nav mx-auto">
           {{ range .Site.Menus.main }}
             {{ if .HasChildren }}

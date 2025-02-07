@@ -2,7 +2,7 @@
   margin-top: 90px;
   background: #080D10;
   //background: linear-gradient(90deg, rgba(45,144,181,1) 2%, rgba(167,9,15,1) 47%, rgba(140,159,0,1) 100%);
-  background-image: url(/dataday/images/monterrey_s_fondo_back.png);
+  background-image: url(/dataday/images/bg-2025.png);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -70,9 +70,9 @@
   color: #ffffff !important;
   font-family: $heading-font;
   text-align: center;
-  width: 50%;
+
   margin: 0 auto;
-  margin-top: -45px;
+  margin-top: -75px;
 
 	@include tablet {
     margin-top: -70px;
@@ -121,24 +121,55 @@
 }
 
 .logo-hero {
+
+  width: 600px;
   
-  @media (max-width: 575px) {
-    width: 190px;
+  @media (max-width: 825px) {
+    width: 450px;
   }
 
   @media (max-width: 385px) {
-    width: 190px;
+    width: 390px;
   }
 }
 
+.info-dataday{
+  margin-top: 0px;
+}
+
+.dataday-place{
+  font-weight: 900;
+  margin-top: -20px;
+  font-size: 1.3em;
+  text-align: right;
+  padding-right: 50px;
+
+  @media (max-width: 995px) {
+    font-size: 1em;
+  }
+
+
+  @media (max-width: 685px) {
+    margin-top: 10px;
+    font-size: .8em;
+    text-align: center;
+    padding-right: 0px;
+  }
+}
 
 .box-place{
-  margin-top: 20px;
-  border-radius: 40px;
-  background-color: #080d10aa;
-  padding: 30px;
+  border-radius: 20px 0 0 20px; 
+  padding: 10px 0 10px 0px;
+  border-width: 3px;
+  border-style: solid;
+  border-color: white;
+  text-align: right;
+  padding-right: 50px;
 
-  @media (max-width: 635px) {
-    padding: 15px;
+  @media (max-width: 685px) {
+  text-align: center;
+  padding-right: 0px;
+  border-radius: 20px; 
+  margin: 15px;
   }
 }

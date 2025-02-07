@@ -1,33 +1,27 @@
-  {{ $data := index .Site.Data }}
+{{ $data := index .Site.Data }}
 
 <!-- banner -->
 {{ with $data.homepage.banner }}
-<section class="section banner"> 
-  <div class="auto-container">
+<section class="section banner">
+  <div>
     <div class="hero-info">
-      {{ with .greeting }}<h2>{{ . }}</h2>{{ end }}
-      <!--{{ with .title }}<h1>{{ . }}</h1>{{ end }} -->
-      <img src="images/dataday2022.png" class="logo-hero img-fluid" alt="">
-      <div class="welcome-dd">
-        {{ with .tagline }}<h3 class="tagline">{{ . }}</h3>{{ end }}
-      </div>
-      
+      <img src="images/hero-2025.svg" class="logo-hero img-fluid">
 
-      <div class="box-place">
-        {{ with .lugar }}
-        <h4 style="text-shadow: 1px 1px 12px#000000, 0 0 1em #b4b4b4,
-        0 0 0.2em #959595;">{{ . | markdownify }}</h3>
-        {{ end }}
-  
-  
-        {{ with .meta }}
-        <h4 style="text-shadow: 1px 1px 12px#000000, 0 0 1em #b4b4b4,
-        0 0 0.2em #959595;">{{ . }}</h3>
-          {{ end }}
-  
+        <div class="row">
+          <div class="col-md-5">
+           
+          </div>
+          <div class="col-md-7 info-dataday">
+            <div class="dataday-place">
+              <p>DATA SCIENCE DESDE EL <br> CORAZÓN INDUSTRIAL DE MX<p>
+            </div>
 
-      </div>
-
+            <div class="box-place">
+              <h4>Escuela de Gobierno y Transformación Pública del Tecnológico</h4>
+              <h4>de Monterrey San Pedro Garza García, Nuevo León, México.</h4>
+            </div>
+          </div>
+        </div>
     </div>
 
     {{ if .button1.enable }}
@@ -45,5 +39,3 @@
 </section>
 {{ end }}
 <!-- /banner -->
-
-
