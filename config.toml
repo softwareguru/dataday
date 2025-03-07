@@ -36,10 +36,10 @@ home = ["HTML", "RSS"]
   URL = "about-us"
   weight = 1
 
-  [[menu.main]]
-  name = "Agenda"
-  URL = "agenda"
-  weight = 2
+  #[[menu.main]]
+  #name = "Agenda"
+  #URL = "agenda"
+  #weight = 2
 
   [[menu.main]]
   name = "Conferencistas"
@@ -51,10 +51,10 @@ home = ["HTML", "RSS"]
   URL = "team"
   weight = 3
 
-  [[menu.main]]
-  name = "Beneficios"
-  URL = "beneficios"
-  weight = 5
+  #[[menu.main]]
+  #name = "Beneficios"
+  #URL = "beneficios"
+  #weight = 5
 
   [[menu.main]]
   name = "FAQ"
@@ -91,7 +91,7 @@ country = "Mexico"
 
 # Navigation button
 [params.navigation_button]
-enable = true
+enable = false
 label = "Tickets"
 link = "/dataday/tickets"
 
@@ -102,7 +102,7 @@ icon = "fa-brands fa-x-twitter"
 link = "https://x.com/RevistaSG"
 
 [[params.social]]
-icon = "tf-ion-social-youtube"
+icon = "bi bi-youtube"
 link = "https://www.youtube.com/c/softwareguru"
 
 [[params.social]]

@@ -1,0 +1,69 @@
+
+<swiper-container class="mySwiper" pagination="true" pagination-clickable="true" navigation="true" space-between="30"
+    centered-slides="true" autoplay-delay="8500" autoplay-disable-on-interaction="false">
+    <swiper-slide>
+        <div class="mt-4">
+            <h1 class="text-uppercase carousel-text">
+                ¿QUÉ ES DATA DAY?</h1>
+
+            <div class="container mt-4  mr-4">
+                <div class="row mb-4">
+                    <div class="col-md-4">
+                        <img src="images/img-participantes.jpg" class="img-fluid carousel-img">
+                    </div>
+                    <div class="col-md-8 mt-4 text-left">
+                        <p>Day es la principal conferencia para profesionales de datos en América Latina. Presenta ejemplos reales y concretos de ciencia de datos para que los participantes obtengan valiosos planes de acción que pueden aplicar en su organización.</p>
+                          
+                        <p>Data Day se ha realizado exitosamente desde 2015 tanto en formato presencial como en online.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </swiper-slide>
+
+    <swiper-slide>
+        <div class="mt-4">
+            <h1 class="text-uppercase carousel-text">¿POR QUÉ PARTICIPAR?</h1>
+
+            <div class="container mt-4  mr-4">
+                <div class="row mb-4">
+                    <div class="col-md-4">
+                        <img src="images/que-es-dataday.jpg" class="img-fluid carousel-img">
+                    </div>
+                    <div class="col-md-8 mt-4 text-left">
+                        <p>Si tu rol es líder de datos, científico de datos o ingeniero de datos, Data Day es el evento donde podrás informarte y actualizarte con contenido de vanguardia desde un punto de vista objetivo y neutral.</p>
+                        
+                            <p>Mediante charlas, talleres y hands-on labs aprenderás sobre:</p> 
+                            <ul>
+                            <li>Casos de estrategia de datos para líderes y CDOs,</li>
+                            <li>Técnicas efectivas de Machine Learning e Inteligencia Artificial para Científicos y Analistas de Datos,</li>
+                            <li>Herramientas para construir y gestionar pipelines de datos complejos para Ingenieros de Datos.</li>
+                            </ul>
+                          
+                        <p>Data Day se ha realizado exitosamente desde 2015 tanto en formato presencial como en online.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </swiper-slide>
+
+</swiper-container>
+
+<!-- Swiper JS -->
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-element-bundle.min.js"></script>
+
+<!-- Initialize Swiper -->
+<script>
+    const progressCircle = document.querySelector(".autoplay-progress svg");
+    const progressContent = document.querySelector(".autoplay-progress span");
+
+    const swiperEl = document.querySelector("swiper-container");
+    swiperEl.addEventListener("autoplaytimeleft", (e) => {
+        const [swiper, time, progress] = e.detail;
+        progressCircle.style.setProperty("--progress", 1 - progress);
+        progressContent.textContent = `${Math.ceil(time / 1000)}s`;
+    });
+</script>
+</body>
+
+</html>

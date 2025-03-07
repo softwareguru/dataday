@@ -1,3 +1,13 @@
+.section.blog{
+	background-image: url(../images/fondo3.png);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	
+}
+
+
 .blog-article{
 	-webkit-transition: all .35s ease;
 	   -moz-transition: all .35s ease;
@@ -23,14 +33,11 @@
 }
 
 
-.boton-blog{
-	color: $primary-color;
-}
-
 .boton-blog {
-	background-color: $primary-color !important;
-	border-color: $yellow2 !important;
-	
+	background-color: $blue-menu !important;
+	border-color: $blue-menu !important;
+	border-radius: 40px;
+	 
 }
 
 ///blog-nav

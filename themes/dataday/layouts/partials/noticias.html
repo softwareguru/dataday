@@ -1,12 +1,6 @@
 <section class="section blog">
   <div class="container">
-    <div class="row section-heading">
-      <div class="col-md-8">
-        <div class="heading">
-          <h2>Noticias recientes</h2>
-        </div>
-      </div>
-    </div>
+    <h1 class="text-uppercase carousel-text text-center mb-4">NOTICIAS RECIENTES</h1>
 
     <div class="card-deck">
       {{ range first 3 (where .Site.RegularPages "Type" "blog" )}}

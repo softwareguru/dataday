@@ -213,29 +213,15 @@ article.swag {
 
 
 .call-to-action{
-	position: relative;
-	background: #080D10;
     //background: linear-gradient(90deg, rgba(45,144,181,1) 2%, rgba(167,9,15,1) 47%, rgba(140,159,0,1) 100%);
-	background-image: url(../images/particulas_back.png);
+	background-image: url(../images/fondo1.png);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
-	padding: 100px 0;
-	text-shadow: #202020 2px 2px 2px;
+	padding: 60px 0;
 }
 
-.call-to-action:before{
-	position: absolute;
-	left: 0;
-	top: 0;
-	height: 100%;
-	width: 100%;
-	background-color: #000000;
-	opacity: .30;
-	content: "";
-	
-}
 
 .call-to-action .content-box{
 	position: relative;
@@ -253,9 +239,9 @@ article.swag {
 	margin-bottom: 15px;
 }
 
-.call-to-action .content-box h2{
+.call-to-action .content-box h3{
 	display: block;
-	font-size: 42px;
+	font-size: 26px;
 	line-height: 1.2em;
 	color: #ffffff;
 	font-weight: 500;
