@@ -62,8 +62,6 @@ home = ["HTML", "RSS"]
   weight = 6
 
 
-
-
 #################### default parameters ################################
 [params]
 logo = "images/dataday2022.png"

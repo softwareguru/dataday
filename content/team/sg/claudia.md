@@ -5,7 +5,7 @@ images:
  - images/team/claudia.jpg
 twitter: ""
 linkedin: ""
-designation: Patrocinios
+designation: Patrocinios y gestión del evento
 group: sg
 ---
 

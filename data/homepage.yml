@@ -45,7 +45,7 @@ timer:
 ####################### CTA #############################
 cta:
   enable : true
-  message: "Desde 2015 Data Day es el congreso líder para inspirar, informar y vincular a los profesionistas de datos en Latam."
+  message: "Desde 2015 Data Day es el congreso líder para inspirar, informar y vincular a los profesionistas de datos."
   label: No dejes pasar esta oportunidad
   link: https://sg.com.mx/datadays/tickets
   

@@ -4,15 +4,13 @@ date: 2023-10-17T16:28:40-06:00
 draft: false
 ---
 
-<strong><h2 class="text-center">¡Ya está de vuelta Data Day en Monterrey!</h2></strong>
+<strong><h2 class="text-center">¡Ya está de vuelta Data Day!</h2></strong>
 
 <br>
 
-
 Gracias por ser parte de esta edición, donde se presentan ejemplos reales y concretos de ciencia de datos.
 
-¡Agradecemos que tu empresa / comunidad participe en este increíble evento! Data Day Monterrey 2024 se realizará el próximo 5 de noviembre en Monterrey, Nuevo León.
-
+¡Agradecemos que tu empresa / comunidad participe en este increíble evento! Data Day 2025 se realizará el próximo 21 de octubre en Monterrey, Nuevo León.
 
 ### Material de difusión
 
