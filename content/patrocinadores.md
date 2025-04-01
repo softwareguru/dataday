@@ -14,4 +14,6 @@ Integrate como patrocinador al evento más reconocido sobre ingeniería de datos
 - Forma parte de las empresas más comprometidas con Data Science en México 
 - Conecta con profesionales y expertos del sector.
 
-Conoce las oportunidades y beneficios que ofrecemos publicadas en el Prospectus (con link al archivo), si tienes alguna duda ó estás interesado en ser patrocinador de Data Day contáctanos para darte una respuesta personalizada en dataday@sg.com.mx.
+<br>
+
+Conoce más detalles de las oportunidades y beneficios de [patrocinios](/dataday/files/DDMTY25-Prospectus.pdf) que tenemos disponibles para ti. Y si tienes alguna duda ó estás interesado en ser patrocinador de Data Day contáctanos por correo para darte una respuesta personalizada: dataday@sg.com.mx.

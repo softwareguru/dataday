@@ -1,5 +1,5 @@
 
-title: "Patrocinadores Previos"
+title: "Patrocinadores"
 subtitle: "Data Day es posible gracias al apoyo de:"
 
 sponsor_group:
@@ -9,48 +9,18 @@ sponsor_group:
   sponsor:
     - logo : "images/sponsors/escuela-de-gobierno.png"
       link : "https://egobiernoytp.tec.mx/es"
-    - logo : "images/sponsors/colegio-bourbaki.png"
-      link : "https://www.colegio-bourbaki.com/"
-    - logo : "images/sponsors/Softtek.png"
-      link : "http://www.softtek.com/jobs"
 
-- title: "Gold"
-  slug: gold
-  sponsor:
-    - logo : "images/sponsors/core-bi.png"
-      link : "https://corebi.com.ar/"
-    - logo : "images/sponsors/dayset.png"
-      link : "https://www.dayset.com/"
-
-- title: "Silver"
-  slug: gold
-  sponsor:
-    - logo : "images/sponsors/ensitech.png"
-      link : "https://ensitech.com/"
-    - logo : "images/sponsors/vinkos.png"
-      link : "https://vinkos.com/"
+#- title: "Gold"
+#  slug: gold
+#  sponsor:
 
 
-- title: "Comunidades y Organismos "
-  slug: community
-  sponsor:
-    - logo : "images/sponsors/wid.png"
-      link : "https://www.linkedin.com/company/women-in-data-science-power-and-engineering?originalSubdomain=mx"
-    - logo : "images/sponsors/dsmty.png"
-      link : "https://www.facebook.com/groups/469523539899326"
-    - logo : "images/sponsors/Saturdays-AI.png"
-      link : "https://saturdays.ai/monterrey-ai/"
-    - logo : "images/sponsors/Csoftmty.png"
-      link : "https://csoftmty.org/"
-    - logo : "images/sponsors/logo-dama.png"
-      link : "https://dama.org.mx/"
-    - logo : "images/sponsors/canieti-logo.png"
-      link : "https://www.canieti.org/Inicio.aspx"
-    - logo : "images/sponsors/open-web.png"
-      link : "https://bit.ly/frutal-web-house"
-    - logo : "images/sponsors/datapub.png"
-      link : "https://x.com/thedatapub"
-    - logo : "images/sponsors/health-data.png"
-      link : "https://healthdataprogram.com/"
-    - logo : "images/sponsors/codigo-facilito.png"
-      link : "https://codigofacilito.com/codigofest"
+#- title: "Silver"
+#  slug: gold
+#  sponsor:
+#    - logo : ""
+#      link : ""
+
+#- title: "Comunidades y Organismos "
+#  slug: community
+#  sponsor:

@@ -14,7 +14,7 @@ Gracias por ser parte de esta edición, donde se presentan ejemplos reales y con
 
 ### Material de difusión
 
-Aquí puedes encontrar [banners](https://drive.google.com/drive/folders/15VtJKPVxArUbQfqdoem_wtPYmpbcMd57?usp=sharing) para redes sociales con los que puedes comunicar:
+Aquí puedes encontrar [banners](https://drive.google.com/drive/folders/1HhZuvAqT8UMLVIY1cfp9-91V14gdQsH_) para redes sociales con los que puedes comunicar:
 
 * Contenido general del evento
 * Empresas que estarán participando
@@ -22,7 +22,7 @@ Aquí puedes encontrar [banners](https://drive.google.com/drive/folders/15VtJKPV
 
 <br>
 
-¿No sabes qué textos usar? Puedes apoyarte en los [textos (captions)](https://docs.google.com/document/d/19BtSpfJDnNZ99nbPqaQSgdZzmIziHGFqQl0Mw0xKNgg/edit?usp=drive_link) que hemos creado específicamente para redes sociales.
+¿No sabes qué textos usar? Puedes apoyarte en los [textos (captions)](https://docs.google.com/document/d/1YxZC3a3CnY8WlalDJ8YlYZkntToBz4zFxlc6VfiN_T8/edit?usp=sharing) que hemos creado específicamente para redes sociales.
 
 ### Información para comunidades
 
