@@ -21,6 +21,26 @@ sponsor_group:
 #    - logo : ""
 #      link : ""
 
-#- title: "Comunidades y Organismos "
-#  slug: community
-#  sponsor:
+- title: "Comunidades y Organismos "
+  slug: community
+  sponsor:
+    - logo : "images/sponsors/wid.png"
+      link : "https://www.linkedin.com/company/women-in-data-science-power-and-engineering?originalSubdomain=mx"
+    - logo : "images/sponsors/dsmty.png"
+      link : "https://www.facebook.com/groups/469523539899326"
+    - logo : "images/sponsors/Saturdays-AI.png"
+      link : "https://saturdays.ai/monterrey-ai/"
+    - logo : "images/sponsors/Csoftmty.png"
+      link : "https://csoftmty.org/"
+    - logo : "images/sponsors/logo-dama.png"
+      link : "https://dama.org.mx/"
+    - logo : "images/sponsors/canieti-logo.png"
+      link : "https://www.canieti.org/Inicio.aspx"
+    - logo : "images/sponsors/open-web.png"
+      link : "https://bit.ly/frutal-web-house"
+    - logo : "images/sponsors/datapub.png"
+      link : "https://x.com/thedatapub"
+    - logo : "images/sponsors/health-data.png"
+      link : "https://healthdataprogram.com/"
+    - logo : "images/sponsors/codigo-facilito.png"
+      link : "https://codigofacilito.com/codigofest"
