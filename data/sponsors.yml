@@ -9,6 +9,8 @@ sponsor_group:
   sponsor:
     - logo : "images/sponsors/escuela-de-gobierno.png"
       link : "https://egobiernoytp.tec.mx/es"
+    - logo : "images/sponsors/bluetab.png"
+      link : "https://www.bluetab.net/es/"
 
 #- title: "Gold"
 #  slug: gold
