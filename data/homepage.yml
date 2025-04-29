@@ -10,12 +10,12 @@ banner:
   venue : ""
   button1:
     enable : false
-    label : "Convocatoria de ponencias"
-    link : "https://convoca.dev/dataday-2024/cfp"
+    label : "Intégrate como conferencista "
+    link : "https://convoca.dev/data-day-2025/cfp"
   button2:
-    enable : false
-    label : "Tickets"
-    link : "tickets"
+    enable : true
+    label : "Intégrate como conferencista "
+    link : "https://convoca.dev/data-day-2025/cfp"
 
 
 ############################## Event ##############################
