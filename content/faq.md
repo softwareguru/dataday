@@ -6,12 +6,11 @@ image: /images/uploads/informacion.png
 ---
 ## ¿Cuándo se realizará la próxima edición de Data Day?
 
-Data Day Monterrey se realizará el próximo 5 de noviembre de 2024 en la Escuela de Gobierno y Transformación Pública del Tecnológico de Monterrey, ubicada en Eugenio Garza Lagüera y, Av. Rufino Tamayo, Valle Oriente, 66269, San Pedro Garza García, N.L., [Ver mapa](https://maps.app.goo.gl/3FK3etutcp8sSkt26).
-
+Data Day Monterrey se realizará el próximo 21 de octubre de 2025 en la Escuela de Gobierno y Transformación Pública del Tecnológico de Monterrey, ubicada en Eugenio Garza Lagüera y, Av. Rufino Tamayo, Valle Oriente, 66269, San Pedro Garza García, N.L., [Ver mapa](https://maps.app.goo.gl/3FK3etutcp8sSkt26).
 
 ## ¿Cuál es el horario del evento?
 
-Las sesiones son de 8:30 am a 6:30 p.m. Los detalles de la agenda serán actualizados en https://sg.com.mx/dataday/agenda/
+Las sesiones son de 8:30 am a 6:30 p.m. Los detalles de la agenda los conocerás en nuestros comunicados
 
 ## Estacionamiento
 
@@ -19,16 +18,12 @@ La sede cuenta con estacionamiento. No tiene costo, sólo debes informar que vas
 
 ## ¿Dónde puedo hospedarme?
 
-Te compartimos dos opciones de hoteles cercanos a la sede del evento para que puedas hospedarte y aprovechar una tarifa preferencial:
-
-* Fiesta Inn Monterrey Valle, tarifa especial en [convenio TEC De Monterrey](https://drive.google.com/file/d/1T_Xy1mylxa-UfbVe9OCccN8dIZuADVVu/view)
-
-* AC Hoteles, Marriot Monterrey Valle, tarifa especial en [convenio TEC De Monterrey](https://drive.google.com/file/d/1_8AfQKaQ_7ahXmRxuvLwDxnKkX4-aLqu/view)
+Te compartiremos opciones de hoteles cercanos a la sede del evento para que puedas hospedarte y aprovechar una tarifa preferencial: Por publicar
 
 
 ## ¿Cómo adquiero mi pase para el evento?
 
-Pronto podrás adquirir tu pase en https://sg.com.mx/dataday/tickets/. ¿Deseas asistir en grupo de 5 personas o más? Ponte en contacto con mariana@sg.com.mx para aprovechar un descuento especial.
+Pronto podrás adquirir tu pase con descuentos especiales si compras anticipadamente y también si asistirás en grupos de  5 personas o más. Para grupos ponte en contacto con mariana@sg.com.mx
 
 ## ¿Podré obtener una constancia de participación?
 
