@@ -1,9 +1,9 @@
 ---
-title: "Ludim Sánchez"
+title: "Nat Sato"
 images:
- - images/speakers/ludim_sanchez.jpg
-designation: "Data Engineer en Spin by OXXO | Ing. de software en Chica Dev"
-linkedin: https://www.linkedin.com/in/chicadev/
+ - images/speakers/nat-sato.jpg
+designation: "Data Engineer"
+linkedin: 
 date: 2019-10-31
 events:
  - 2023mty 
