@@ -1,6 +1,6 @@
 ---
 title: Evaluación del evento 
-date: 2023-04-20T07:51:25.000+00:00'
+date: 2023-04-20T07:51:25.000+00:00
 draft: false
 
 ---

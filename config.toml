@@ -6,11 +6,12 @@ title = "Data Day MTY"
 enableRobotsTXT = true
 RemovePathAccents = true
 
-googleAnalytics = "G-7XSYNH098S"
-
 theme = "dataday"
 # post pagination
-paginate = "10"
+
+[services]
+  [services.googleAnalytics]
+    id = 'G-7XSYNH098S'
 
 [taxonomies]
 tag = "tags"

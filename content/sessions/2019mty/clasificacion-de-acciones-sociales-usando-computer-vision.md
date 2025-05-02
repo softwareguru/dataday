@@ -2,7 +2,7 @@
 id: 
 title: "Clasificación de acciones sociales usando computer vision"
 speakers:
- - Ludim Sánchez
+ - Nat Sato
 time_start: 2019-11-13T17:00:00-05:00
 time_end:   2019-11-13T17:40:00-05:00
 block: 
