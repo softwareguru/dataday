@@ -12,7 +12,7 @@ draft: false
       event="sgmx/data-day-2025"
     ></tito-widget>
 
-### Descuentos 
+### Precios 
 
  * El precio regular de la asistencia a Data Day 2025 es de $3,700 MXP el cual incluye: acceso a todas las conferencias y talleres, comida y espacios para networking. En general el precio más bajo lo encontrarás con earlybird que ofrece 30% de descuento y estará vigente al 31 de julio, 2025
 
