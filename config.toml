@@ -90,7 +90,7 @@ country = "Mexico"
 
 # Navigation button
 [params.navigation_button]
-enable = false
+enable = true
 label = "Tickets"
 link = "/dataday/tickets"
 
