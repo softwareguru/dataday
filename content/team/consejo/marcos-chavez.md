@@ -7,5 +7,6 @@ designation : Director de Datos e IA en Broxel
 linkedin: https://www.linkedin.com/in/marchavez/
 github: ""
 group: consejo
+draft: true
 ---
 

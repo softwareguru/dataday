@@ -7,7 +7,7 @@ designation: Lead Data Scientist en Sigma Alimentos
 linkedin: https://www.linkedin.com/in/r-gonzalezmtz/
 github: 
 group: consejo
-
+draft: true
 ---
 
 

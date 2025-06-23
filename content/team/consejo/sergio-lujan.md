@@ -1,5 +1,5 @@
 ---
-title: Sergio Rafael Luján
+title:  Sergio Luján Hoffmann
 date: 2023-10-13T17:12:08-06:00
 images: 
  - images/team/sergio-rafael.png
