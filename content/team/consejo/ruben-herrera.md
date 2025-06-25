@@ -1,13 +1,11 @@
 ---
-title: "Rubén Herrera"
-date: 2023-10-13T15:30:06-06:00
+title: "Alejandro del Rosal"
 images : 
- - images/speakers/ruben-herrera.jpg
-designation : Líder de Analítica de Datos en Christus Centro de Innovación
-linkedin: https://www.linkedin.com/in/ruben-herrera-vazquez-a0b056188/
+ - images/team/alejandro-del-rosal.jpg
+designation : Gerente de IA @Deacero
+linkedin: 
 github: 
 group: consejo 
-draft: true
+draft: false
 ---
 
-Rubén es especialista técnico en inteligencia de negocios en el Centro de Excelencia e Innovación de Christus.
