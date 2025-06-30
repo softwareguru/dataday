@@ -12,9 +12,11 @@ sponsor_group:
     - logo : "images/sponsors/bluetab.png"
       link : "https://www.bluetab.net/es/"
 
-#- title: "Gold"
-#  slug: gold
-#  sponsor:
+- title: "Gold"
+  slug: gold
+  sponsor:
+    - logo : "images/sponsors/mobik.png"
+      link : "https://www.mobiik.com/jobs"
 
 
 - title: "Silver"
