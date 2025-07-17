@@ -2,7 +2,7 @@
 id: 
 title: "La revolución de la ciencia de datos en la manufactura"
 speakers:
- - Eduardo Ramírez
+ - Eduardo Ramirez
 time_start: 2020-08-06T17:45:00-05:00
 time_end:   2020-08-06T18:30:00-05:00
 block: 

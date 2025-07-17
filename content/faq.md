@@ -18,8 +18,12 @@ La sede cuenta con estacionamiento. No tiene costo, sólo debes informar que vas
 
 ## ¿Dónde puedo hospedarme?
 
-Te compartiremos opciones de hoteles cercanos a la sede del evento para que puedas hospedarte y aprovechar una tarifa preferencial: Por publicar
+Te compartiremos opciones de hoteles cercanos a la sede del evento para que puedas hospedarte y aprovechar una tarifa preferencial
 
+<ul>
+<li> <a href="../files/hotel-fiesta-inn.pdf" target="_blank">Fiesta Inn</a></li> 
+<li> <a href="https://urldefense.com/v3/__https:/www.marriott.com/event-reservations/reservation-link.mi?id=1751901287607&key=GRP&app=resvlink__;!!FOfmI8qiWcWBHqypJtzENF0!3iBtAEUNRL4z_8mxgkBIMEdTA5PeR92KVVcsrx76gY9PRxeLoQLmQ0BXNzqTu4uIuXdcq3quXHiG8WiTdjv7KEoMdgGv4YwdsDZt9Ds$" target="_blank">AC HOTEL MONTERREY VALLE</a></li>
+</il>
 
 ## ¿Cómo adquiero mi pase para el evento?
 

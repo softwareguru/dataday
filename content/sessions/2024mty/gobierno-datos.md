@@ -15,13 +15,6 @@ track: Data strategy
 
 En esta sesión se explorará cómo el Gobierno de Datos se ha convertido en una necesidad estratégica para las organizaciones que buscan maximizar el valor de sus datos en un entorno competitivo y regulado. Comenzaremos con analizando la importancia del Gobierno de Datos y los desafíos que enfrentan las empresas que carecen de una estructura formal en su gestión de datos, incluyendo problemas de calidad, consistencia y cumplimiento.
 
-<<<<<<< HEAD
-=======
-En esta sesión se explorará cómo el Gobierno de Datos se ha convertido en una necesidad estratégica para las organizaciones que buscan maximizar el valor de sus datos en un entorno competitivo y regulado. Comenzaremos con analizando la importancia del Gobierno de Datos y los desafíos que enfrentan las empresas que carecen de una estructura formal en su gestión de datos, incluyendo problemas de calidad, consistencia y cumplimiento.
-
->>>>>>> 33a0b7e4d0032d0d968f82ea73befa4a253d94ab
-A continuación, se presentará un marco para la evaluación de madurez en gobierno de datos, resaltando que un assessment adecuado es crucial para identificar las capacidades actuales de una organización. Esta evaluación producirá artefactos como un Roadmap y un Plan de acción específicos, los cuales guiarán la implementación de estándares y procesos adecuadas antes de adoptar soluciones avanzadas.
-
 Se discutirán los objetivos de negocio que dependen del gobierno de datos, tales como la eficiencia operativa, la democratización, y el cumplimiento regulatorio. Explicaremos cómo un gobierno de datos robusto es esencial para alcanzar estos objetivos, habilitando una toma de decisiones basada en datos confiables.
 
 Revisaremos una metodología estructurada para la adopción de buenas prácticas en la gestión de datos, incluyendo aspectos clave como la calidad, privacidad, accesibilidad y retención de datos. Esta metodología aborda roles y responsabilidades dentro de la organización, asegurando que cada parte interesada entienda su papel en el ecosistema de datos.

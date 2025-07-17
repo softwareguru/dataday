@@ -4,6 +4,7 @@ images:
  - images/speakers/eduardo-ramirez.jpg
 date: 2019-02-14
 events:
+ - 2024mty
  - 2020
  - 2019mty
  - 2019cdmx
