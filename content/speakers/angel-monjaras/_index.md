@@ -5,7 +5,9 @@ images:
 date: 2018-01-23
 events: 
  - 2018
-designation: Data Visualization Developer @ C40 Cities 
+ - 2025mty
+designation: Analítica de Negocio
+linkedin: https://www.linkedin.com/in/angelmonjaras/
 ---
 
-Consultor y gerente con más de 20 años de experiencia en la implantación de soluciones tecnológicas empresariales, dedicando los últimos 8 años al área de business intelligence, data science y analytics. Cuenta con amplio conocimiento en la gestión de servicios y el desarrollo de procesos para sustentar operaciones de servicio. Cuenta con certificaciones como Qlik Sense Business Analyst, Data Architect y System Administrator, entre otras.
+Ingeniero en Cibernética y Ciencias de la Computación. Luego de una larga carrera en el mundo del software empresarial, he pasado los últimos 15 años inmerso en la inteligencia de negocios, el análisis e integración de datos, y la inteligencia artificial. Profesor de Diplomado en el ITAM. Qlik Luminary por dos años, Academic Program Ambassador por cuatro años.

@@ -12,8 +12,7 @@ linkedin: ""
 github: ""
 events: 
  - 2024mty
+ - 2025mty
 ---
 
-Elena es Científica de Datos e Investigadora Asociada en la Escuela de Gobierno y Transformación Pública. Actualmente, desarrolla proyectos con el objetivo de aplicar la Ciencia de Datos para resolver problemas socialmente relevantes. Específicamente, trabaja en proyectos relacionados con el uso de aprendizaje supervisado para optimizar procesos operativos, procesamiento de lenguaje natural (NLP) para generar categorizaciones, la administración de infraestructura tecnológica para el desarrollo de productos de ciencia de datos, y el análisis de la toma de decisiones basadas en evidencia en el ámbito de la política y la administración pública, entre otros.
-
-Estudió Psicología en la UNAM, con especialización en Ciencias Cognitivas y del Comportamiento. Durante su carrera, realizó estudios en la toma de decisiones temporales y probabilísticas, lo cual despertó su interés en el análisis de datos y la llevó a especializarse en su manejo. Posteriormente, obtuvo una especialización en Estadística Aplicada por el IIMAS y realizó una Maestría en Ciencia de Datos por el ITAM.
+Elena Villalobos Nolasco es científica de datos, investigadora y profesora de la Escuela de Gobierno y Transformación pública del Tec de Monterrey. Desde el Centro de Ciencia de Datos e Inteligencia Artificial diseña y lidera proyectos orientados a resolver problemas sociales mediante el desarrollo de productos de datos. Su trabajo se centra en la aplicacion de machine learning para optimizar procesos operativos, generar sistemas de alerta temprana y de priorización de recursos para dar soporte a la toma de decisiones de las organizaciones, con la generación y estructuración de información que alimenta dichos sistemas; además emplea procesamiento de lenguaje natural para clasificar y extraer conocimiento, administra infraestructura tecnológica local y en la nube que garantiza flujos reproducibles de ciencia de datos, y promueve la gobernanza de la información y la interoperabilidad con enfoque ético.

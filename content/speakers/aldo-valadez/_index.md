@@ -8,8 +8,11 @@ events:
  - 2019mty
  - 2022mty
  - 2024mty
-designation: "Chief Analytics Officer @ Regional SAB"
+ - 2025mty
+designation: "Chief Data, Analytics & AI Officer @ Sigma Alimentos"
 linkedin: https://www.linkedin.com/in/vavaladez/
 ---
 
-Aldo es ingeniero industrial con MBA, certificado como master black belt y con más de 20 años de experiencia en analítica avanzada. Ha ayudado a crear el departamento de analítica desde cero para 2 bancos, 2 startups y una multinacional. Actualmente sus esfuerzos se centran en optimizar la vida de los científicos de datos a través de pipelines automáticos en la nube y en generar interés en las empresas sobre el gobierno del dato.
+Destacado líder en analítica avanzada e inteligencia artificial con una trayectoria de más de 20 años impulsando la transformación digital en el sector financiero y otros ámbitos. Actualmente es Chief Data, Analytics & AI Officer en Sigma Alimentos, donde dirige las iniciativas estratégicas de analítica avanzada e IA para generar valor de negocio y mejorar la eficiencia.
+
+Cnferencista recurrente, con presencia nacional e internacional en eventos clave como Data Day Monterrey. Allí ha participado en paneles y presentaciones sobre temas como LLMs, desarrollo de productos basados en modelos de IA, tendencias emergentes, adopción de soluciones y colaboración interdisciplinaria .

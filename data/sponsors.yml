@@ -17,6 +17,8 @@ sponsor_group:
   sponsor:
     - logo : "images/sponsors/mobik.png"
       link : "https://www.mobiik.com/jobs"
+    - logo : "images/sponsors/vinkos.png"
+      link : "https://www.vinkos.com/"
 
 
 - title: "Silver"
@@ -24,6 +26,8 @@ sponsor_group:
   sponsor:
     - logo : "images/sponsors/melissa.png"
       link : "http://www.melissa.com/mx"
+    - logo : "images/sponsors/ensitech.png"
+      link : ""
 
 - title: "Comunidades y Organismos "
   slug: community

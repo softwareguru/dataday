@@ -11,5 +11,5 @@ twitter: ""
 linkedin: ""
 github: ""
 events: 
- - 2024mty
+ - 2025mty
 ---
