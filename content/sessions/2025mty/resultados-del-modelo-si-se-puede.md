@@ -2,7 +2,7 @@
 title: "Resultados del Modelo SISEPUEDE: Innovación en la Toma de Decisiones Basada en Datos"
 slug: resultados-del-modelo-si-se-puede
 speakers:
- - Fabian Fuentes 
+ - Carlos Fabian Fuentes Rivas
  - Juan Antonio Robledo
 time_start: 2025-10-21T17:30:00
 time_end:   2025-10-21T18:10:00

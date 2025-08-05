@@ -1,9 +1,9 @@
 ---
-title: "Fabián Fuentes"
+title: "Carlos Fabián Fuentes Rivas"
 date: 2025-08-05T09:54:37-06:00
 images : 
  - "images/speakers/speaker.jpg"
-designation : ""
+designation : "Senior Research Programmer en el Centro de Ciencia de Decisiones del Tecnológico de Monterrey"
 country: ""
 facebook: ""
 instagram: ""

@@ -3,7 +3,7 @@ title: "Juan Antonio Robledo"
 date: 2025-08-05T09:55:23-06:00
 images : 
  - "images/speakers/speaker.jpg"
-designation : ""
+designation : "Research Programmer en el Centro de Ciencia de Decisiones del Tecnológico de Monterrey"
 country: ""
 facebook: ""
 instagram: ""

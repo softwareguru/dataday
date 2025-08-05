@@ -33,7 +33,7 @@ days:
         label: "9:20"
         gridarea: "3/1/4/2"
       - type: activity
-        label: "Adolfo Unánue, por definir"
+        label: "Por definir"
         gridarea: "3/2/4/6"
         timelabel: "9:20 - 9:50"
         gridaream: "3/1/4/2"
@@ -42,7 +42,7 @@ days:
         label: "9:50"
         gridarea: "4/1/5/2"
       - type: activity
-        label: "Will Arteaga, por definir"
+        label: "Por definir"
         gridarea: "4/2/5/6"
         timelabel: "9:50 - 10:20"
         gridaream: "4/1/5/2"
@@ -82,6 +82,12 @@ days:
         timelabel: "12:10 - 12:40"
         gridaream: "9/1/10/2"
 
+      - type: activity
+        label: "Por definir"
+        gridarea: "10/2/11/3"
+        timelabel: "12:40 - 13:20"
+        gridaream: "11/1/12/2"
+
       - type: timelabel
         label: "12:40"
         gridarea: "10/1/11/2"
@@ -95,6 +101,12 @@ days:
         timelabel: "13:20 - 14:30"
         gridaream: "11/1/12/2"
 
+      - type: activity
+        label: "Por definir"
+        gridarea: "12/2/13/3"
+        timelabel: "14:30 - 15:10"
+        gridaream: "12/1/13/2"
+
       - type: timelabel
         label: "14:30"
         gridarea: "12/1/13/2"
@@ -103,9 +115,21 @@ days:
         label: "15:10"
         gridarea: "13/1/14/2"
 
+      - type: activity
+        label: "Por definir"
+        gridarea: "13/2/14/3"
+        timelabel: "15:10 - 15:50"
+        gridaream: "13/1/14/2"
+
       - type: timelabel
         label: "15:50"
         gridarea: "14/1/15/2"
+
+      - type: activity
+        label: "Por definir"
+        gridarea: "14/2/15/3"
+        timelabel: "15:10 - 15:50"
+        gridaream: "14/1/15/2"
 
       - type: timelabel
         label: "16:30"
@@ -129,12 +153,12 @@ days:
         gridarea: "18/1/19/2"
 
       - type: timelabel
-        label: "18:30"
+        label: "18:50"
         gridarea: "19/1/20/2"
       - type: activity
         label: "Cocktail"
         gridarea: "19/2/20/6"
-        timelabel: "18:30 - 19:30"
+        timelabel: "18:50 - 19:30"
         gridaream: "19/1/20/2"
 
 tracks:
