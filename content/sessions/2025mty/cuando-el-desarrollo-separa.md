@@ -2,7 +2,7 @@
 title: "Cuando el desarrollo separa: complejidad económica y segregación urbana en México"
 slug: cuando-el-desarrollo-separa
 speakers:
- - Fernando Gomez-Zaldivar
+ - Fernando Gomez Zaldivar
  - Gonzalo Gaudencio Peraza Mues
 time_start: 2025-10-21T14:30:00
 time_end:   2025-10-21T15:10:00

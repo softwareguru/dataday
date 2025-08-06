@@ -7,7 +7,7 @@ speakers:
  - Edmundo Molina
  - Fernanda Sobrino
  - Fernanda Durand
- - Fernando Gómez-Zaldívar
+ - Fernando Gomez Zaldivar
 time_start: 2022-12-08 9:30:00 -0600 CST
 time_end:   2022-12-08 10:00:00 -0600 CST
 room: Crowdcast

@@ -3,7 +3,7 @@ title: "Fernanda Sobrino"
 date: 2022-02-10T11:40:34-06:00
 images:
  - "images/speakers/fernanda-sobrino.jpg"
-designation : "Profesora e investigadora en Escuela de Gobierno y Transformación Pública del Tec de Monterrey"
+designation : "Profesora investigadora en la Escuela de Gobierno y Transformación Pública"
 country: ""
 facebook: ""
 instagram: ""
@@ -14,7 +14,9 @@ events:
  - 2022
  - 2022mty
  - 2023mty
+ - 2025mty
 ---
 
+Matemática y economista por el ITAM, México, y Maestra y Doctora en Economía por la Universidad de Princeton, Estados Unidos/ Profesora investigadora en la Escuela de Gobierno y Transformación Pública.
 
-Doctora en Economía por la Universidad de Princeton. Profesora e investigadora con amplia experiencia en temas de microeconomía aplicada, economía del crimen y análisis de datos. Su trabajo reciente incluye el mapeo de la organización criminal en los municipios mexicanos, el efecto de la crisis de los opiáceos en la competencia entre el crimen organizado en México y la relación entre la estructura del mercado y la violencia en los mercados de drogas.  Ha impartido cátedras sobre ciencia de datos, economía de la salud y programación de políticas públicas en universidades como la Escuela de Política Pública Harris de la Universidad de Chicago, la Universidad de Princeton y el  ITAM.
+Ha desarrollado su investigación académica sobre la extensión territorial de la criminalidad en los municipios mexicanos, los efectos de la crisis de los opiáceos en el crimen organizado en México y la relación entre economía y violencia en los mercados de drogas. Ha enseñado ciencia de datos, economía de la salud y programación de políticas públicas en universidades como la Escuela de Política Pública Harris de la Universidad de Chicago y la Universidad de Princeton, en Estados Unidos, y el ITAM en México.
