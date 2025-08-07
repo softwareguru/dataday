@@ -25,7 +25,7 @@ days:
         gridarea: "2/1/3/2"
       - type: activity
         label: "Remembranza 10 años, Pedro Galván"
-        gridarea: "2/2/2/6"
+        gridarea: "2/2/3/6"
         timelabel: "9:10 - 9:20"
         gridaream: "2/1/3/2"
 
@@ -70,7 +70,7 @@ days:
         gridaream: "7/1/8/2"
 
       - type: timelabel
-        label: "12:00"
+        label: "11:40"
         gridarea: "8/1/9/2"
 
       - type: timelabel
@@ -82,15 +82,15 @@ days:
         timelabel: "12:10 - 12:40"
         gridaream: "9/1/10/2"
 
+      - type: timelabel
+        label: "12:40"
+        gridarea: "10/1/11/2"
+
       - type: activity
         label: "Por definir"
         gridarea: "10/2/11/3"
         timelabel: "12:40 - 13:20"
-        gridaream: "11/1/12/2"
-
-      - type: timelabel
-        label: "12:40"
-        gridarea: "10/1/11/2"
+        gridaream: "10/1/11/2"
 
       - type: timelabel
         label: "13:20"
@@ -99,17 +99,18 @@ days:
         label: "Comida"
         gridarea: "11/2/12/6"
         timelabel: "13:20 - 14:30"
-        gridaream: "11/1/12/2"
+        gridaream: "14/1/15/2"
+
+
+      - type: timelabel
+        label: "14:30"
+        gridarea: "12/1/13/2"
 
       - type: activity
         label: "Por definir"
         gridarea: "12/2/13/3"
         timelabel: "14:30 - 15:10"
-        gridaream: "12/1/13/2"
-
-      - type: timelabel
-        label: "14:30"
-        gridarea: "12/1/13/2"
+        gridaream: "15/1/16/2"
 
       - type: timelabel
         label: "15:10"
@@ -119,7 +120,7 @@ days:
         label: "Por definir"
         gridarea: "13/2/14/3"
         timelabel: "15:10 - 15:50"
-        gridaream: "13/1/14/2"
+        gridaream: "20/1/21/2"
 
       - type: timelabel
         label: "15:50"
@@ -129,7 +130,7 @@ days:
         label: "Por definir"
         gridarea: "14/2/15/3"
         timelabel: "15:10 - 15:50"
-        gridaream: "14/1/15/2"
+        gridaream: "25/1/26/2"
 
       - type: timelabel
         label: "16:30"
@@ -142,7 +143,7 @@ days:
         label: "Break"
         gridarea: "16/2/17/6"
         timelabel: "17:10 - 17:30"
-        gridaream: "16/1/17/2"
+        gridaream: "31/1/32/2"
 
       - type: timelabel
         label: "17:30"
@@ -159,7 +160,7 @@ days:
         label: "Cocktail"
         gridarea: "19/2/20/6"
         timelabel: "18:50 - 19:30"
-        gridaream: "19/1/20/2"
+        gridaream: "40/1/41/2"
 
 tracks:
   - slug: data-strategy

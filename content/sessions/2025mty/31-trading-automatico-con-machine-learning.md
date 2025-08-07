@@ -9,7 +9,7 @@ day: 2025mty
 gridarea: 17/4/18/5
 room:  Salon 101 D
 track: Consumo
-timeslot: 
+timeslot: 31
 tags:
 slides: 
 video: 

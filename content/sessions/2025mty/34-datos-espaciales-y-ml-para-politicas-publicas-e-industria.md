@@ -9,7 +9,7 @@ day: 2025mty
 gridarea: 18/3/19/4
 room: Salon 101 C
 track: Política pública
-timeslot: 
+timeslot: 34
 tags:
 slides: 
 video: 

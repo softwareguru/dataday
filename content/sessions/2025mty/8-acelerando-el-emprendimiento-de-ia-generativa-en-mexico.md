@@ -3,13 +3,13 @@ title: "Acelerando el emprendimiento de IA Generativa en México"
 slug: acelerando-el-emprendimiento-de-ia-generativa-en-mexico
 speakers:
  - Sergio Lujan Hoffman
-time_start: 2025-10-21T10:20:00
-time_end:   2025-10-21T10:50:00
+time_start: 2025-10-21T11:40:00
+time_end:   2025-10-21T12:10:00
 day: 2025mty
-gridarea: 8/2/9/6 
+gridarea: 8/2/9/6
 room: Salon 204
 track: Estrategia de negocio
-timeslot: 
+timeslot: 8
 tags:
 slides: 
 video: 

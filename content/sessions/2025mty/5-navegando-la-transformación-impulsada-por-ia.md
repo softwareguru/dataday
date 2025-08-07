@@ -6,9 +6,9 @@ speakers:
 time_start: 2025-10-21T10:20:00
 time_end:   2025-10-21T10:50:00
 day: 2025mty
-gridarea: 5/2/6/6
+gridarea: "5/2/6/6"
 room: Auditorio
-timeslot: 
+timeslot: 5
 track: Manufactura y Cadena de suministro
 tags:
 slides: 

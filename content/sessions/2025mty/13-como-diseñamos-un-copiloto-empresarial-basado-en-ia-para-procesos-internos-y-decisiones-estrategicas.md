@@ -10,7 +10,7 @@ day: 2025mty
 gridarea: 10/5/11/6
 room: Salon 204
 track: Estrategia de negocio
-timeslot: 
+timeslot: 13
 tags:
 slides: 
 video: 

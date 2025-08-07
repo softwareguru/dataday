@@ -9,7 +9,7 @@ day: 2025mty
 gridarea: 14/5/16/6
 room: Salon 204
 track: Talleres
-timeslot: 
+timeslot: 25
 tags:
 slides: 
 video: 
