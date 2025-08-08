@@ -2,7 +2,7 @@
 title: "Una Discusión sobre Diseño de Aplicaciones con LLMs y Agentes: estabilidad, adaptabilidad y complejidad"
 slug: keynote-tec
 speakers:
- - Adolfo De Unanue
+ - Adolfo De Unanue Tiscareno
 time_start: 2024-11-05T09:10:00
 time_end:   2024-11-05T09:40:00
 timeslot: 2

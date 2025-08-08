@@ -6,7 +6,7 @@ date: 2018-01-23
 events: 
  - 2018
  - 2025mty
-designation: Analítica de Negocio
+designation: Administrador de Plataforma Qlik @ C40 Cities
 linkedin: https://www.linkedin.com/in/angelmonjaras/
 ---
 

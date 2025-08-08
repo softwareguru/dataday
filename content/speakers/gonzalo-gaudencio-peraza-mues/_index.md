@@ -3,6 +3,7 @@ title: "Gonzalo Gaudencio Peraza Mues"
 date: 2025-08-05T09:52:29-06:00
 images : 
  - "images/speakers/speaker.jpg"
+#gonzalo-gaudencio-peraza-mues
 designation : "Profesor investigador de la Escuela de Gobierno y Transformación Pública del TEC"
 country: ""
 facebook: ""

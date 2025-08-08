@@ -32,11 +32,6 @@ days:
       - type: timelabel
         label: "9:20"
         gridarea: "3/1/4/2"
-      - type: activity
-        label: "Por definir"
-        gridarea: "3/2/4/6"
-        timelabel: "9:20 - 9:50"
-        gridaream: "3/1/4/2"
 
       - type: timelabel
         label: "9:50"

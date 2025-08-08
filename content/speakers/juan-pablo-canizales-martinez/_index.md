@@ -2,16 +2,17 @@
 title: "Juan Pablo Canizales Martinez"
 date: 2023-10-13T16:55:05-06:00
 images : 
- - "images/speakers/juan-pablo-canizales-martinez.jpg"
-designation : "Ingeniero de Equipo Senior en Kemet de México"
+ - "images/speakers/juan-pablo-canizales-martinez.jpeg"
+designation : "Machine Learning Engineer @ IBM "
 country: ""
 facebook: ""
 instagram: ""
 twitter: ""
-linkedin: "https://www.linkedin.com/in/jpcanizales/"
+linkedin: https://www.linkedin.com/in/jose-barrantes/
 github: ""
 events: 
  - 2023mty
+ - 2025mty
 ---
 
-Soy ingeniero de equipo en un departamento de proyectos de una empresa de manufactura capacitores cerámicos multicapa. Realizamos la renovación y mejora de los equipos de manufactura de la planta, tanto la parte mecánica, eléctrica, diseño y automatización. Mi formación es Ingeniero Industrial, tengo una maestría en calidad y productividad, y actualmente estudio un doctorado en ingeniería industrial con línea de investigación de ciencia de datos e IA, mi investigación es generar un modelo de machine learnig para predecir fallas en una línea de producción. Soy entusiasta de la IA y como aplicarla en proyectos reales.
+José P. integra métodos estadísticos y computacionales para convertir los datos en una guía para quienes toman decisiones. Sus habilidades técnicas e interpersonales le permiten conectar a ingenieros, estadísticos y líderes empresariales, asegurando una comprensión común y resultados prácticos. Años de docencia han refinado su capacidad para explicar temas complejos a públicos generales. Aplica machine learning cuando corresponde, pero también hace uso de modelos bayesianos e inferencia causal de acuerdo a cada problema. Fuera del trabajo, lee, hace senderismo, disfruta del té y pasa tiempo con sus perros, Pequeña Mai y El Milanesso. =)
