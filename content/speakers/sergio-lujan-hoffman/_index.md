@@ -3,7 +3,7 @@ title: "Sergio Lujan Hoffman"
 date: 2025-08-05T10:42:14-06:00
 images : 
  - "images/team/sergio-rafael.png"
-designation : ""
+designation : "Data, Analytics & AI @ICONN"
 country: ""
 facebook: ""
 instagram: ""

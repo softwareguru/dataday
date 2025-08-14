@@ -3,7 +3,7 @@ title: "Adolfo De Unánue Tiscareño"
 images:
  - images/speakers/adolfo-de-unanue.jpeg
 date: 2020-01-13
-designation : "Doctor en Física Teórica de la Universidad Nacional Autónoma de México"
+designation : "Fundador y Director del Centro de Ciencia de Datos e Inteligencia Artificial de la Escuela de Gobierno y Transformación Pública del Tecnológico de Monterrey"
 country: ""
 facebook: "" 
 instagram: ""

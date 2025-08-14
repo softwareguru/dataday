@@ -4,7 +4,7 @@ images:
  - images/speakers/juan-baldemar-garza.jpg
 date: 2019-09-25
 linkedin: https://www.linkedin.com/in/juan-baldemar-garza-villegas-ph-d-764b3976/
-designation: "Sr AI Data Scientist"
+designation: "Sr AI Data Scientist at Viakable"
 events:
  - 2023mty
  - 2022

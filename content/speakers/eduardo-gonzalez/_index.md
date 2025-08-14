@@ -2,7 +2,7 @@
 title: "Eduardo Gonzalez"
 date: 2025-08-05T10:56:48-06:00
 images : 
- - "images/speakers/speaker.jpg"
+ - "images/speakers/eduardo-gonzalez.jpeg"
 designation : "Deputy Director | AI LLM & ML-Ops | banregio + heybanco @ Banregio / Hey"
 country: ""
 facebook: ""

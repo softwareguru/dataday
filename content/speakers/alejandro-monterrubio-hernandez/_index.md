@@ -2,7 +2,7 @@
 title: "Alejandro Monterrubio Hernández"
 date: 2025-08-05T10:32:04-06:00
 images : 
- - "images/speakers/speaker.jpg"
+ - "images/speakers/alejandro-monterrubio.jpg"
 designation : "CEO & Founder | BAACC"
 country: ""
 facebook: ""

@@ -3,7 +3,7 @@ title: "Juan Vázquez"
 date: 2025-08-05T10:11:12-06:00
 images : 
  - "images/speakers/juan-vazquez.jpg"
-designation : "DT Software Services (CTO)"
+designation : "DT Software Services Director de Tecnología"
 country: ""
 facebook: ""
 instagram: ""

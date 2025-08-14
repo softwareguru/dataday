@@ -2,16 +2,16 @@
 title: "Gonzalo Gaudencio Peraza Mues"
 date: 2025-08-05T09:52:29-06:00
 images : 
- - "images/speakers/speaker.jpg"
-#gonzalo-gaudencio-peraza-mues
+ - "images/speakers/gonzalo-peraza.png"
 designation : "Profesor investigador de la Escuela de Gobierno y Transformación Pública del TEC"
 country: ""
 facebook: ""
 instagram: ""
 twitter: ""
-linkedin: ""
+linkedin: "https://www.linkedin.com/in/gonzalo-g-peraza-mues-1678bb1b5/?originalSubdomain=mx"
 github: ""
 events: 
+ - 2024mty
  - 2025mty
 ---
 

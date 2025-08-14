@@ -3,7 +3,7 @@ title: "Adriana Vallejo"
 date: 2023-04-05T13:33:57-06:00
 images : 
  - "images/speakers/adriana-vallejo.png"
-designation : " Gerente  AI @ Muguerza"
+designation : " Gerente AI @ Christus Muguerza"
 country: ""
 facebook: ""
 instagram: ""
