@@ -2,7 +2,7 @@
 title: "Electroplating Production Line Maintenance Model"
 slug: electroplating-production-line-maintenance-model
 speakers:
- - Juan Pablo Canizales Martinez
+ - Jose Pablo Barrantes
 time_start: 2023-11-14T12:10:00-06:00
 time_end:   2023-11-14T12:45:00-06:00
 day: 2023mty
