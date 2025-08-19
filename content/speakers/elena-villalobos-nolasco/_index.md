@@ -1,5 +1,5 @@
 ---
-title: "Elena Villalobos"
+title: "Elena Villalobos Nolasco"
 date: 2024-09-02T17:32:39-06:00
 images : 
  - "images/speakers/elena-villalobos.png"
