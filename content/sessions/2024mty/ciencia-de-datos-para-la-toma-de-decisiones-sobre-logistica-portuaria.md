@@ -2,7 +2,7 @@
 title: "Ciencia de Datos para la Toma de Decisiones sobre Logística Portuaria"
 slug: ciencia-de-datos-para-la-toma-de-decisiones-sobre-logistica-portuaria
 speakers:
- - Elena Villalobos
+ - Elena Villalobos Nolasco
 time_start: 2024-11-05T15:00:00
 time_end:   2024-11-05T15:40:00
 day: 2024mty
