@@ -16,6 +16,15 @@ draft: false
 
  * El precio regular de la asistencia a Data Day 2025 es de $3,700 MXP el cual incluye: acceso a todas las conferencias y talleres, comida y espacios para networking. En general el precio más bajo lo encontrarás con earlybird que ofrece 30% de descuento y estará vigente al 6 de agosto, 2025.
 
+### Descuentos
+
+El período de tarifa temprana ha concluido. A pesar de esto, aún es posible que obtengas tu pase con 15% de descuento, utilizando los siguientes códigos según sea el caso:
+
+- Mujeres: **MUJERES_DESC_25**
+- Independientes: **DDAY_INDEPENDIENTE_25**
+- Foraneos: **DDAY_FORANEO_25**
+- Organismos y comunidades (si eres miembro de algún organismo ó comunidad que apoyan el evento, acércate con ellos para que te compartan el código)"
+
 ### Formas de pago
 
  * Puedes pagar con tu cuenta de PayPal o tarjeta de crédito.
