@@ -3,7 +3,7 @@ title: "Carlos Fabián Fuentes Rivas"
 date: 2025-08-05T09:54:37-06:00
 images : 
  - "images/speakers/carlos_fabian_fuentes.jpeg"
-designation : "Senior Research Programmer en el Centro de Ciencia de Decisiones del Tecnológico de Monterrey"
+designation : "Senior Research Programmer en el Centro de Ciencia de Decisiones de la Escuela de Gobierno y Transformación Pública del TEC"
 country: ""
 facebook: ""
 instagram: ""

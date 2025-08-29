@@ -3,7 +3,7 @@ title: "Fernando Gómez Zaldívar"
 date: 2022-02-10T12:24:30-06:00
 images:
  - "images/speakers/fernando-gomez-zaldivar.png"
-designation : "Investigador en Tecnológico de Monterrey"
+designation : "Profesor investigador en la Escuela de Gobierno y Transformación Pública del TEC"
 country: ""
 facebook: ""
 instagram: ""

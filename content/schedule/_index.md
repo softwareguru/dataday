@@ -96,16 +96,9 @@ days:
         timelabel: "13:20 - 14:30"
         gridaream: "14/1/15/2"
 
-
       - type: timelabel
         label: "14:30"
         gridarea: "12/1/13/2"
-
-      - type: activity
-        label: "Por definir"
-        gridarea: "12/2/13/3"
-        timelabel: "14:30 - 15:10"
-        gridaream: "15/1/16/2"
 
       - type: timelabel
         label: "15:10"
