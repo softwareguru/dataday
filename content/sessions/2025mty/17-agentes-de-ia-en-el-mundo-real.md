@@ -3,13 +3,13 @@ title: "Agentes de IA en el mundo real: cómo construir soluciones responsables 
 slug: agentes-de-ia-en-el-mundo-real
 speakers:
  - Lesly Zerna
-time_start: 2025-10-21T14:30:00
-time_end:   2025-10-21T15:50:00
+time_start: 2025-10-21T15:50:00
+time_end:   2025-10-21T17:10:00
 day: 2025mty
-gridarea: 12/5/14/6
+gridarea: 14/5/16/6
 room: Salon 204
 track: Talleres
-timeslot: 17
+timeslot: 25
 tags:
 slides: 
 video: 

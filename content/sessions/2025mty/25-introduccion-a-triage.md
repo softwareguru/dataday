@@ -10,7 +10,15 @@ gridarea: 14/5/16/6
 room: Salon 204
 track: Talleres
 timeslot: 25
-tags:
+
+
+time_start: 2025-10-21T14:30:00
+time_end:   2025-10-21T15:50:00
+day: 2025mty
+gridarea: 12/5/14/6
+room: Salon 204
+track: Talleres
+timeslot: 17
 slides: 
 video: 
 ---
