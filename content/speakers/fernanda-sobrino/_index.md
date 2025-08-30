@@ -2,7 +2,7 @@
 title: "Fernanda Sobrino"
 date: 2022-02-10T11:40:34-06:00
 images:
- - "images/speakers/fernanda-sobrino.jpg"
+ - "images/speakers/fer_sobrino.png"
 designation : "Profesora investigadora y científica de datos sr en el Centro de Ciencia de Datos e IA de la Escuela de Gobierno y Transformación Pública del TEC"
 country: ""
 facebook: ""
