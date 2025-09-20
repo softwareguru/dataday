@@ -1,5 +1,5 @@
 ---
-title: "Trading Automático con Machine Learning: De la Teoría a la Operativa Rea"
+title: "Trading Automático con Machine Learning: De la Teoría a la Operativa Real"
 slug: trading-automatico-con-machine-learning
 speakers:
  - Carlos Daniel Vazquez Rosas
