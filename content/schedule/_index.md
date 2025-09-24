@@ -36,11 +36,6 @@ days:
       - type: timelabel
         label: "9:50"
         gridarea: "4/1/5/2"
-      - type: activity
-        label: "Por definir"
-        gridarea: "4/2/5/6"
-        timelabel: "9:50 - 10:20"
-        gridaream: "4/1/5/2"
 
       - type: timelabel
         label: "10:20"
@@ -113,12 +108,6 @@ days:
       - type: timelabel
         label: "15:50"
         gridarea: "14/1/15/2"
-
-      - type: activity
-        label: "Por definir"
-        gridarea: "14/2/15/3"
-        timelabel: "15:10 - 15:50"
-        gridaream: "25/1/26/2"
 
       - type: timelabel
         label: "16:30"

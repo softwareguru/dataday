@@ -1,5 +1,5 @@
 ---
-title: "Will Arteaga"
+title: "Wilebaldo Arteaga Ávila"
 date: 2025-09-19T18:59:41-06:00
 images : 
  - "images/speakers/will-arteaga.png"

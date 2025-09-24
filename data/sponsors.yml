@@ -11,6 +11,9 @@ sponsor_group:
       link : "https://egobiernoytp.tec.mx/es"
     - logo : "images/sponsors/bluetab.png"
       link : "https://www.bluetab.net/es/"
+    - logo : "images/sponsors/akamai.png"
+      link : "https://www.akamai.com/es"
+
 
 - title: "Gold"
   slug: gold
