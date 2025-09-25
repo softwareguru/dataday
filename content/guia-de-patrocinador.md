@@ -75,10 +75,11 @@ La sede cuenta con estacionamiento, es gratis solo debes informar que eres asist
 
 ### Reservación  de hospedaje
 
-* Si asistirás al evento desde otra parte de la república o del extranjero, te compartimos dos opciones de hospedaje cercanas a la sede del evento y que cuentan con tarifa especial para asistentes a Data Day. La disponibilidad es limitada y la contratación la debes hacer directamente con el hotel.
+Si asistirás al evento desde otra parte de la república o del extranjero, te compartimos dos opciones de hospedaje cercanas a la sede del evento y que cuentan con tarifa especial para asistentes a Data Day. La disponibilidad es limitada y la contratación la debes hacer directamente con el hotel.
 
-* Fiesta Inn Monterrey Valle
-* AC Hoteles, Marriot Monterrey Valle
+* <a href="https://sg.com.mx/dataday/files/hotel-fiesta-inn.pdf" target="_blank">Fiesta Inn Monterrey Valle</a>
+
+* <a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1751901287607&key=GRP&app=resvlink" target="_blank">AC Hoteles, Marriot Monterrey Valle</a>
 
 ### Stands en Evento
 

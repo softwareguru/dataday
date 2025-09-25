@@ -3,6 +3,7 @@ title: "KYC not enough? Conoce la Analítica de Grafos: Un enfoque para la Preve
 slug: kyc-not-enough
 speakers:
  - Jose Luis Hernandez
+ - Luis Almazan
 # - Luis Eduardo Almazán
 time_start: 2025-10-21T15:50:00
 time_end:   2025-10-21T16:30:00
