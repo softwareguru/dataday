@@ -2,7 +2,7 @@
 <section class="section-previous-events">
   <br>
     <div class="">
-      <h1 class="text-center carousel-text-testimonial container text-uppercase mx-auto d-block mt-4" >Los que los profesionales de datos opinan de Data Day</h1>
+      <h1 class="text-center carousel-text-testimonial container text-uppercase mx-auto d-block mt-4" >Agendas anteriores</h1>
       <div class="row" style="padding: 40px;">
         {{ range (where .Site.Pages "Section" "sessions")}}
         {{ if in .Params.previous_events "true" }}
