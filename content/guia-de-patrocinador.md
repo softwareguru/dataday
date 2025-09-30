@@ -10,7 +10,7 @@ En nombre de todo el equipo organizador, queremos expresar nuestro más sincero 
 
 Para asegurar que su experiencia como patrocinador sea lo más fluida posible, hemos preparado esta guía detallada. En ella encontrarán toda la información necesaria para llevar un control óptimo de los materiales y recursos que se requerirán a lo largo del evento. Nuestro objetivo es que dispongan de las herramientas adecuadas para aprovechar al máximo su participación.
 
-Les invitamos a revisar esta guía con detenimiento. La entrega de los materiales solicitados, con algunas excepciones que estarán mencionadas, podrás compartirlos a través del [formato en línea](https://docs.google.com/forms/d/1_vDYza7p_R33tPzUzQJVq_A4jkUivG68etrrIJM0iz8/edit). 
+Les invitamos a revisar esta guía con detenimiento. La entrega de los materiales solicitados, con algunas excepciones que estarán mencionadas, podrás compartirlos a través del [formato en línea](https://docs.google.com/forms/d/e/1FAIpQLSdIbQijSkvLakre5MX-b7bVbw7YmNtF6ljWUN7q4Zg4pKaqKA/viewform?usp=dialog). 
 
 Estamos convencidos de que, con su valiosa contribución, Data Day 2025 será una experiencia memorable para todos. Si tienen alguna pregunta o necesitan asistencia adicional, no duden en contactar a nuestro equipo, quienes estarán encantados de ayudarles.
 
