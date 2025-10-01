@@ -7,7 +7,7 @@ time_start: 2025-10-21T11:40:00
 time_end:   2025-10-21T12:10:00
 day: 2025mty
 gridarea: 8/2/9/6
-room: Salon 204
+room: Auditorio
 track: Estrategia de negocio
 timeslot: 8
 tags:

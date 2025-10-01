@@ -12,7 +12,7 @@ day: 2025mty
 gridarea: 15/2/16/5
 room: Auditorio
 track: Panel
-timeslot: 26
+timeslot: 28
 tags:
 slides: 
 video: 

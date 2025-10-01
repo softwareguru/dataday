@@ -11,7 +11,7 @@ day: 2025mty
 gridarea: 14/2/15/3
 room: Auditorio
 track: Consumo
-timeslot: 22
+timeslot: 24
 tags:
 slides: 
 video: 

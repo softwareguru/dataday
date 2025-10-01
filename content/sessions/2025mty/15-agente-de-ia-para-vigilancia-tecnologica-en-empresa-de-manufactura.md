@@ -9,7 +9,7 @@ day: 2025mty
 gridarea: "10/4/11/5"
 room:  Salon 101 D
 track: Manufactura y Cadena de suministro
-timeslot: 12
+timeslot: 15
 tags:
 slides: 
 video: 

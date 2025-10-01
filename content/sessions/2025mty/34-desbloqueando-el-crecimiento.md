@@ -9,7 +9,7 @@ day: 2025mty
 gridarea: 18/2/19/3
 room: Auditorio
 track: Estrategia de negocio
-timeslot: 33
+timeslot: 34
 tags:
 slides: 
 video: 

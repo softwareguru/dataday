@@ -10,7 +10,7 @@ day: 2025mty
 gridarea: 17/2/18/3
 room: Auditorio
 track: Política pública
-timeslot: 29
+timeslot: 30
 tags:
 slides: 
 video: 

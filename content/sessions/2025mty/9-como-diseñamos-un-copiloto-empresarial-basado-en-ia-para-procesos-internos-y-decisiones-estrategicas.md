@@ -4,13 +4,13 @@ slug: como-disenamos-un-copiloto-empresarial-basado-en-ia-para-procesos-internos
 speakers:
  - Alejandro Monterrubio Hernandez
  - David Aaron Herrera del Castillo
-time_start: 2025-10-21T12:40:00
-time_end:   2025-10-21T13:20:00
+time_start: 2025-10-21T12:10:00
+time_end:   2025-10-21T12:40:00
 day: 2025mty
-gridarea: 10/5/11/6
-room: Salon 204
+gridarea: 9/2/10/3
+room: Auditorio
 track: Estrategia de negocio
-timeslot: 13
+timeslot: 9
 tags:
 slides: 
 video: 

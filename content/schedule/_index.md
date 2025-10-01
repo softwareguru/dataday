@@ -68,7 +68,7 @@ days:
         gridarea: "9/1/10/2"
       - type: activity
         label: "Por definir"
-        gridarea: "9/2/10/6"
+        gridarea: "9/3/10/4"
         timelabel: "12:10 - 12:40"
         gridaream: "9/1/10/2"
 
@@ -80,7 +80,7 @@ days:
         label: "Por definir"
         gridarea: "10/2/11/3"
         timelabel: "12:40 - 13:20"
-        gridaream: "10/1/11/2"
+        gridaream: "13/1/14/2"
 
       - type: timelabel
         label: "13:20"
@@ -89,7 +89,7 @@ days:
         label: "Comida"
         gridarea: "11/2/12/6"
         timelabel: "13:20 - 14:30"
-        gridaream: "14/1/15/2"
+        gridaream: "16/1/17/2"
 
       - type: timelabel
         label: "14:30"
@@ -103,7 +103,7 @@ days:
         label: "Por definir"
         gridarea: "13/2/14/3"
         timelabel: "15:10 - 15:50"
-        gridaream: "20/1/21/2"
+        gridaream: "21/1/22/2"
 
       - type: timelabel
         label: "15:50"
@@ -120,7 +120,7 @@ days:
         label: "Break"
         gridarea: "16/2/17/6"
         timelabel: "17:10 - 17:30"
-        gridaream: "31/1/32/2"
+        gridaream: "29/1/30/2"
 
       - type: timelabel
         label: "17:30"

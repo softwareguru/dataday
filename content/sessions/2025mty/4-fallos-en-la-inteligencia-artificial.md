@@ -7,7 +7,7 @@ time_start: 2025-10-21T09:50:00
 time_end:   2025-10-21T10:20:00
 day: 2025mty
 gridarea: "4/2/5/6"
-room: Salon 101 C
+room: Auditorio
 timeslot: 4
 track: Política pública
 tags:

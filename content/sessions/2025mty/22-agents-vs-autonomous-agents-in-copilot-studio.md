@@ -9,7 +9,7 @@ day: 2025mty
 gridarea: 13/3/14/4
 room: Salon 101 C
 track: Salud
-timeslot: 19
+timeslot: 22
 tags:
 slides: 
 video: 
