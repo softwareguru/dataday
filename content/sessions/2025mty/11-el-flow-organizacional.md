@@ -2,7 +2,7 @@
 title: "El Flow Organizacional: Datos, Decisiones y el Futuro del Talento"
 slug: el-flow-organizacional
 speakers:
- - Ricardo Alanís
+ - Ricardo Alanis
 time_start: 2025-10-21T12:10:00
 time_end:   2025-10-21T12:40:00
 day: 2025mty
