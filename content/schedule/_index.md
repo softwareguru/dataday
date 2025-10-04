@@ -53,11 +53,6 @@ days:
       - type: timelabel
         label: "11:10"
         gridarea: "7/1/8/2"
-      - type: activity
-        label: "Por definir"
-        gridarea: "7/2/8/6"
-        timelabel: "11:10 - 11:40"
-        gridaream: "7/1/8/2"
 
       - type: timelabel
         label: "11:40"
