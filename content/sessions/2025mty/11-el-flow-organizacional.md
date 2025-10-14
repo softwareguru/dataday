@@ -7,8 +7,7 @@ time_start: 2025-10-21T12:10:00
 time_end:   2025-10-21T12:40:00
 day: 2025mty
 gridarea: 9/4/10/5
-room: Estrategia de negocio
-track: Salon 101 D
+room: Salón 101 D
 timeslot: 11
 track: Estrategia de negocio
 tags:

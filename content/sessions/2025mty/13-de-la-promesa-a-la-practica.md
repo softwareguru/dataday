@@ -8,7 +8,6 @@ time_end:   2025-10-21T13:20:00
 day: 2025mty
 gridarea: 10/2/11/3
 room: Auditorio
-track: 
 timeslot: 13
 track: Estrategia de negocio
 tags:
