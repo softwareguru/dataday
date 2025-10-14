@@ -2,7 +2,7 @@
 title: "Abraham Guerra"
 date: 2025-10-14T10:00:07-06:00
 images : 
- - "images/speakers/abraham-guerra.jpg"
+ - "images/speakers/abraham-guerra.jpeg"
 designation : "Jefe de Negocios en IA en CHRISTUS MUGUERZA"
 country: ""
 facebook: ""
