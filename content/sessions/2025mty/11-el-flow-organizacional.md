@@ -10,7 +10,7 @@ gridarea: 9/4/10/5
 room: Estrategia de negocio
 track: Salon 101 D
 timeslot: 11
-track: Política pública
+track: Estrategia de negocio
 tags:
 slides: 
 video: 

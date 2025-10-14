@@ -10,7 +10,7 @@ gridarea: 10/2/11/3
 room: Auditorio
 track: 
 timeslot: 13
-track: Política pública
+track: Estrategia de negocio
 tags:
 slides: 
 video: 
