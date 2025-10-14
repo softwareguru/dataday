@@ -3,6 +3,8 @@ title: "Agentes de IA en el mundo real: cómo construir soluciones responsables 
 slug: agentes-de-ia-en-el-mundo-real
 speakers:
  - Lesly Zerna
+ - Francisco Javier Rivera Paleo
+ - Eduardo Ramírez
 time_start: 2025-10-21T15:50:00
 time_end:   2025-10-21T17:10:00
 day: 2025mty

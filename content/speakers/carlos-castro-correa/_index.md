@@ -12,6 +12,7 @@ linkedin: "https://www.linkedin.com/in/carloscastrocorrea/"
 github: ""
 events: 
  - 2025mty
+draft: true
 ---
 
 Matemático con Maestría en Ciencia de Datos, ambos por el ITAM, con más de 14 años de experiencia profesional en el sector privado y público (dentro y fuera de México). Ha diseñado e implementado soluciones de análisis de datos en distintas industrias como seguros, seguridad pública, retail, mercadotecnia, publicidad, educación, políticas públicas, medios de comunicación, tecnología y equipos deportivos. Fue el primer Director de Análisis de Datos en Presidencia de la República (2013-2016).

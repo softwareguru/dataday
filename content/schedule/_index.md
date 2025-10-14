@@ -61,21 +61,10 @@ days:
       - type: timelabel
         label: "12:10"
         gridarea: "9/1/10/2"
-      - type: activity
-        label: "Por definir"
-        gridarea: "9/3/10/4"
-        timelabel: "12:10 - 12:40"
-        gridaream: "9/1/10/2"
 
       - type: timelabel
         label: "12:40"
         gridarea: "10/1/11/2"
-
-      - type: activity
-        label: "Por definir"
-        gridarea: "10/2/11/3"
-        timelabel: "12:40 - 13:20"
-        gridaream: "13/1/14/2"
 
       - type: timelabel
         label: "13:20"
@@ -94,12 +83,6 @@ days:
         label: "15:10"
         gridarea: "13/1/14/2"
 
-      - type: activity
-        label: "Por definir"
-        gridarea: "13/2/14/3"
-        timelabel: "15:10 - 15:50"
-        gridaream: "21/1/22/2"
-
       - type: timelabel
         label: "15:50"
         gridarea: "14/1/15/2"
@@ -112,7 +95,7 @@ days:
         label: "17:10"
         gridarea: "16/1/17/2"
       - type: activity
-        label: "Break"
+        label: "Break y premiación Saturdays AI"
         gridarea: "16/2/17/6"
         timelabel: "17:10 - 17:30"
         gridaream: "29/1/30/2"
