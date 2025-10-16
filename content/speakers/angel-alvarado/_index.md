@@ -18,6 +18,6 @@ events:
  - 2018
 ---
 
-Líder altamente técnico y arquitecto de datos con amplia experiencia en la dirección de equipos multifuncionales distribuidos a nivel mundial y en la entrega de soluciones escalables en PLN, desarrollo back-end y procesamiento de datos en streaming/por lotes. Aprovechando Python, R, Snowpark y SQL, Angel ha creado sólidas canalizaciones que se integran con Snowflake, AWS, GCP, BigQuery, MySQL, Redis, Mongo, Solr y Elasticsearch. 
+Senior Data Engineer & Technical Leader, Líder altamente técnico y arquitecto de datos con amplia experiencia en la dirección de equipos multifuncionales distribuidos a nivel mundial y en la entrega de soluciones escalables en PLN, desarrollo back-end y procesamiento de datos en streaming/por lotes. Aprovechando Python, R, Snowpark y SQL, Angel ha creado sólidas canalizaciones que se integran con Snowflake, AWS, GCP, BigQuery, MySQL, Redis, Mongo, Solr y Elasticsearch. 
 
 Con su experiencia en visualización y análisis de datos, que abarca herramientas como Hex, Tableau, Jupyter, Streamlit y Superset, se asegura de que las partes interesadas obtengan información útil. Comenzó su carrera en el desarrollo web full-stack y domina igualmente PHP, Ruby, JavaScript y shell scripting, lo que le permite liderar proyectos de principio a fin e impulsar la innovación en el panorama técnico de una organización.

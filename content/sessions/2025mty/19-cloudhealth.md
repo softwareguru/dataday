@@ -2,7 +2,7 @@
 title: "CloudHealth: Revolucionando la Atención Médica desde la práctica privada hasta empresas multinacionales con la Ingeniería de Datos como pilar principal en la arquitectura de la solución"
 slug: cloudhealth
 speakers:
- - Memo Uganda
+ - Memo Uranga
 time_start: 2025-10-21T14:30:00
 time_end:   2025-10-21T15:10:00
 day: 2025mty

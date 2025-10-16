@@ -1,5 +1,5 @@
 ---
-title: "Memo Uganda"
+title: "Memo Uranga"
 date: 2025-08-05T10:10:26-06:00
 images : 
  - "images/speakers/memo-uganda.jpg"
