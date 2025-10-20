@@ -3,8 +3,8 @@ title: "Likes, views, votos: TikTok y democracia"
 slug: likes-views-votos
 speakers:
  - Fernanda Sobrino
-time_start: 2025-10-21T15:50:00
-time_end:   2025-10-21T16:30:00
+time_start: 2025-10-21T15:10:00
+time_end:   2025-10-21T15:50:00
 day: 2025mty
 gridarea: 13/4/14/5
 room:  Salon 101 D

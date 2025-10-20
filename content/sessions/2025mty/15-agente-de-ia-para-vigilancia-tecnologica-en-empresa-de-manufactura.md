@@ -3,8 +3,8 @@ title: "Agente de IA para Vigilancia Tecnológica en empresa de Manufactura"
 slug: agente-de-ia-para-vigilancia-tecnologica-en-empresa-de-manufactura
 speakers:
  - Juan Baldemar Garza Villegas
-time_start: 2025-10-21T12:40:00
-time_end:   2025-10-21T13:20:00
+time_start: 2025-10-21T12:50:00
+time_end:   2025-10-21T13:30:00
 day: 2025mty
 gridarea: "10/4/11/5"
 room:  Salon 101 D

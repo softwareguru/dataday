@@ -23,56 +23,56 @@ days:
       - type: timelabel
         label: "9:10"
         gridarea: "2/1/3/2"
-      - type: activity
-        label: "Remembranza 10 años, Pedro Galván"
-        gridarea: "2/2/3/6"
-        timelabel: "9:10 - 9:20"
-        gridaream: "2/1/3/2"
 
       - type: timelabel
-        label: "9:20"
+        label: "9:40"
         gridarea: "3/1/4/2"
 
       - type: timelabel
-        label: "9:50"
+        label: "10:10"
         gridarea: "4/1/5/2"
 
       - type: timelabel
-        label: "10:20"
+        label: "10:40"
         gridarea: "5/1/6/2"
-
-      - type: timelabel
-        label: "10:50"
-        gridarea: "6/1/7/2"
       - type: activity
         label: "Break"
-        gridarea: "6/2/7/6"
-        timelabel: "10:50 - 11:10"
-        gridaream: "6/1/7/2"
+        gridarea: "5/2/6/6"
+        timelabel: "10:40 - 11:00"
+        gridaream: "5/1/6/2"
 
       - type: timelabel
-        label: "11:10"
+        label: "11:00"
+        gridarea: "6/1/7/2"
+
+      - type: timelabel
+        label: "11:30"
         gridarea: "7/1/8/2"
 
       - type: timelabel
-        label: "11:40"
+        label: "12:00"
         gridarea: "8/1/9/2"
+      - type: activity
+        label: "Movimiento a aulas de sesión"
+        gridarea: "8/2/9/6"
+        timelabel: "12:00 - 12:10"
+        gridaream: "8/1/9/2"
 
       - type: timelabel
         label: "12:10"
         gridarea: "9/1/10/2"
 
       - type: timelabel
-        label: "12:40"
+        label: "12:50"
         gridarea: "10/1/11/2"
 
       - type: timelabel
-        label: "13:20"
+        label: "13:30"
         gridarea: "11/1/12/2"
       - type: activity
         label: "Comida"
         gridarea: "11/2/12/6"
-        timelabel: "13:20 - 14:30"
+        timelabel: "13:30 - 14:30"
         gridaream: "16/1/17/2"
 
       - type: timelabel

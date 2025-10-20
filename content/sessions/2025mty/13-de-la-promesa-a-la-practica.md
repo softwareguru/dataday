@@ -3,8 +3,8 @@ title: "De la Promesa a la Práctica: Lecciones Aprendidas al Adoptar Herramient
 slug: de-la-promesa-a-la-practica
 speakers:
  - Hector Miguel Cuesta
-time_start: 2025-10-21T12:40:00
-time_end:   2025-10-21T13:20:00
+time_start: 2025-10-21T12:50:00
+time_end:   2025-10-21T13:30:00
 day: 2025mty
 gridarea: 10/2/11/3
 room: Auditorio

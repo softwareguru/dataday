@@ -3,12 +3,12 @@ title: "Navegando la transformación impulsada por IA: Automatización estrategi
 slug: navegando-la-transformacion-impulsada-por-ia
 speakers:
  - Aldo Valadez
-time_start: 2025-10-21T10:20:00
-time_end:   2025-10-21T10:50:00
+time_start: 2025-10-21T10:10:00
+time_end:   2025-10-21T10:40:00
 day: 2025mty
-gridarea: "5/2/6/6"
+gridarea: "4/2/5/6"
 room: Auditorio
-timeslot: 5
+timeslot: 4
 track: Manufactura y Cadena de suministro
 tags:
 slides: 

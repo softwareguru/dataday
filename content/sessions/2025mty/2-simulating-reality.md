@@ -3,12 +3,12 @@ title: "Simulating Reality: From AlphaGo to AlphaEvolve — AI, Evolution & Econ
 slug: simulating-reality
 speakers:
  - Adolfo De Unanue Tiscareno
-time_start: 2025-10-21T09:20:00
-time_end:   2025-10-21T09:50:00
+time_start: 2025-10-21T09:10:00
+time_end:   2025-10-21T09:40:00
 day: 2025mty
-gridarea: "3/2/4/6"
+gridarea: "2/2/3/6"
 room: Auditorio
-timeslot: 3
+timeslot: 2
 track: Política pública
 tags:
 slides: 

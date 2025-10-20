@@ -3,13 +3,13 @@ title: "De la nube al negocio: cimientos invisibles que hacen posible la IA gene
 slug: de-la-nube-al-negocio
 speakers:
  - Jorge Gaona
-time_start: 2025-10-21T11:10:00
-time_end:   2025-10-21T11:40:00
+time_start: 2025-10-21T11:00:00
+time_end:   2025-10-21T11:30:00
 day: 2025mty
-gridarea: 7/2/8/6
+gridarea: 6/2/7/6
 room: Auditorio
 track: Estrategia de negocio
-timeslot: 7
+timeslot: 6
 tags:
 slides: 
 video: 

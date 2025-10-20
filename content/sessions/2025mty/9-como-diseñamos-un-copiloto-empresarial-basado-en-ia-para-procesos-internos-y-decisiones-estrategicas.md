@@ -5,7 +5,7 @@ speakers:
  - Alejandro Monterrubio Hernandez
  - David Aaron Herrera del Castillo
 time_start: 2025-10-21T12:10:00
-time_end:   2025-10-21T12:40:00
+time_end:   2025-10-21T12:50:00
 day: 2025mty
 gridarea: 9/2/10/3
 room: Auditorio

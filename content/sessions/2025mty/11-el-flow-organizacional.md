@@ -4,7 +4,7 @@ slug: el-flow-organizacional
 speakers:
  - Ricardo Alanis
 time_start: 2025-10-21T12:10:00
-time_end:   2025-10-21T12:40:00
+time_end:   2025-10-21T12:50:00
 day: 2025mty
 gridarea: 9/4/10/5
 room: Salón 101 D

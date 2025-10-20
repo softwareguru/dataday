@@ -3,12 +3,12 @@ title: "¿Fallos en la inteligencia artificial? Una mirada desde diferentes áng
 slug: fallos-en-la-inteligencia-artificial
 speakers:
  - Wilebaldo Arteaga Avila
-time_start: 2025-10-21T09:50:00
-time_end:   2025-10-21T10:20:00
+time_start: 2025-10-21T09:40:00
+time_end:   2025-10-21T10:10:00
 day: 2025mty
-gridarea: "4/2/5/6"
+gridarea: "3/2/4/6"
 room: Auditorio
-timeslot: 4
+timeslot: 3
 track: Política pública
 tags:
 slides: 

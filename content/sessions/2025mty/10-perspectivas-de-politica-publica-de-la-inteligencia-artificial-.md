@@ -4,7 +4,7 @@ slug: perspectivas-de-politica-publica-de-la-inteligencia-artificial
 speakers:
  - Laura Pardo
 time_start: 2025-10-21T12:10:00
-time_end:   2025-10-21T13:40:00
+time_end:   2025-10-21T12:50:00
 day: 2025mty
 gridarea: 9/3/10/4
 room: Salon 101 C

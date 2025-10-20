@@ -4,7 +4,7 @@ slug: sql-complejo-descubre-genie
 speakers:
  - Stefania Machado Gonzalez
 time_start: 2025-10-21T12:10:00
-time_end:   2025-10-21T13:20:00
+time_end:   2025-10-21T13:30:00
 day: 2025mty
 gridarea: "9/5/11/6"
 room:   Salon 204
