@@ -10,19 +10,23 @@
     <table id="sessions-table" data-toggle="table" data-search="true" data-search-align="left" data-sortable="true">
       <thead>
         <tr>
-          <th data-field="title" data-sortable="true">Title</th>        
-
+          <th data-field="time_start" data-sortable="true">Inicio</th>        
+          <th data-field="time_end" data-sortable="true">Fin</th>        
+          <th data-field="title" data-sortable="true">Título de la charla</th>        
+          <th data-field="speakers" data-sortable="true">Conferencistas</th>
+          <th data-field="room" data-sortable="true">Sala</th>
         </tr>
       </thead>
         <tbody>
               {{ range .Data.Pages.ByTitle }}
-            <tr>
-            <td>
-              <h4 class="mt-2">
+            <tr style="font-size: 0.9em;">
+              <td>{{ with .Params.time_start | time }}{{ .Format "15:04" }}{{ end }}</td>
+              <td>{{ with .Params.time_end | time }}{{ .Format "15:04" }}{{ end }}</td>
+              <td>
                 <a class="session-title mb-4" href="{{.Permalink}}">{{ .Params.title }}</a>
-                <p class="mb-2" style="color: #ed1b35;">{{ with .Params.speakers }}{{ delimit . ", " " & " }}{{ end }}</p>
-              </h4>
-            </td>
+              </td>
+              <td>{{ with .Params.speakers }}{{ delimit . ", " " & " }}{{ end }}</td>
+              <td> {{.Params.room}}</td>
             </tr>
             {{ end }}
         </tbody>
