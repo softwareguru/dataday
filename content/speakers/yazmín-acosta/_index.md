@@ -1,5 +1,5 @@
 ---
-title: "Yazmin Acosta"
+title: "Yazmín Acosta"
 date: 2025-08-05T10:43:53-06:00
 images : 
  - "images/speakers/yazmin-acosta.jpg"

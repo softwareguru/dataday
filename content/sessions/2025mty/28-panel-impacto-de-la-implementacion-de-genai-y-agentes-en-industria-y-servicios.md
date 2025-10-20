@@ -2,7 +2,7 @@
 title: "Panel: Impacto de la implementacion de GenAI y agentes en industria y servicios"
 slug: impacto-de-la-implementacion-de-genai-y-agentes-en-industria-y-servicios
 speakers:
- - Yazmin Acosta
+ - Yazmín Acosta
  - Rodrigo Lozano
  - Adriana Vallejo
  - Eduardo Gonzalez

@@ -3,7 +3,7 @@ title: "Héctor Miguel Cuesta"
 date: 2025-10-14T09:23:53-06:00
 images : 
  - "images/speakers/hector-miguel-cuesta.jpg"
-designation : Director, BU Technology Partner at Wizeline | Head of Product | Author at Packt | Banking & FinTech | Data Science & AI Leader | PhD in Education |
+designation : Director, BU Technology Partner at Wizeline
 country: ""
 facebook: ""
 instagram: ""
