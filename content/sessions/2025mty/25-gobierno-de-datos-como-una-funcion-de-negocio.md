@@ -13,5 +13,6 @@ timeslot: 25
 tags:
 slides: 
 video: 
+draft: true
 ---
 

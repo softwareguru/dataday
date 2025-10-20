@@ -9,7 +9,7 @@ speakers:
 time_start: 2025-10-21T16:30:00
 time_end:   2025-10-21T17:10:00
 day: 2025mty
-gridarea: 15/2/16/5
+gridarea: 15/2/16/4
 room: Auditorio
 track: Panel
 timeslot: 28
