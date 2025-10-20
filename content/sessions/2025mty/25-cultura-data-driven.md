@@ -15,4 +15,4 @@ slides:
 video: 
 ---
 
-Compartiremos el caso del cambio cultural que estamos realizando en DEACERO para ser una organización dirigida por datos.
+Esta charla explora el proceso de transformación organizacional hacia una toma de decisiones basada en datos. A través de experiencias reales, se muestra cómo integrar la analítica en todos los niveles de la empresa, impulsando la colaboración, la eficiencia y la innovación. Un enfoque que destaca la importancia de la cultura, la capacitación y las herramientas adecuadas para convertir los datos en un recurso estratégico accesible para todos.
