@@ -16,8 +16,9 @@
         <p class="my-1" style="color: #ff6600">{{ with .Params.time_start | time }}{{ .Format "15:04" }}{{ end }}{{ with .Params.time_end | time }} - {{ .Format "15:04" }}{{ end }}.</p>
         <h3>{{ .Title }}</h3>
         <table>
-            {{ range .Params.speakers }}                                
-                {{ $speaker_url := print "/speakers/" . | urlize }}
+            {{ range .Params.speakers }}                              
+                {{ $speaker_url := printf "/speakers/%s" (. | anchorize) }}
+
                   {{ with $.Site.GetPage $speaker_url }}
                     <tr>
                         <td style="padding-right: 1em" width="180">{{ with .Params.images}}
@@ -27,7 +28,7 @@
                         <td>
                             <h4>{{ .Title }}</h4>
                             {{ with .Params.designation }}<em>{{ . }}</em>{{ end }}
-                            <div style="font-size: 0.9em">{{.Content}}</div>
+                            <div style="font-size: 0.8em">{{.Summary}}</div>
                         </td>
                     </tr>
                   {{ end }}
