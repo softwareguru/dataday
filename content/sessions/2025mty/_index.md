@@ -8,6 +8,9 @@ footerscripts:
  - https://unpkg.com/bootstrap-table@1.18.2/dist/bootstrap-table.min.js
 #previous_events: true
 #image: images/card-2024mty.jpg
-layout: list-active
+layout: list
+time_start: 2025-10-21T09:00:00
+time_end:   2025-10-21T18:00:00
+
 ---
 

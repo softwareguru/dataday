@@ -20,8 +20,8 @@
         <tbody>
               {{ range .Data.Pages.ByTitle }}
             <tr style="font-size: 0.9em;">
-              <td>{{ with .Params.time_start | time }}{{ .Format "15:04" }}{{ end }}</td>
-              <td>{{ with .Params.time_end | time }}{{ .Format "15:04" }}{{ end }}</td>
+              <td>Horario</td>
+              <td>Horario</td>
               <td>
                 <a class="session-title mb-4" href="{{.Permalink}}">{{ .Params.title }}</a>
               </td>
