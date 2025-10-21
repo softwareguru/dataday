@@ -95,7 +95,7 @@ days:
         label: "17:10"
         gridarea: "16/1/17/2"
       - type: activity
-        label: "Break y premiación Saturdays AI"
+        label: "Break y premiación AI4GOOD"
         gridarea: "16/2/17/6"
         timelabel: "17:10 - 17:30"
         gridaream: "29/1/30/2"
