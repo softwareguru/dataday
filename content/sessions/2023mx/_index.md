@@ -6,7 +6,6 @@ headscripts:
  - https://unpkg.com/bootstrap-table@1.18.2/dist/bootstrap-table.min.css
 footerscripts:
  - https://unpkg.com/bootstrap-table@1.18.2/dist/bootstrap-table.min.js
-draft: false
 previous_events: true
 image: images/card-2023mx.jpg
 ---

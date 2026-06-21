@@ -8,7 +8,6 @@ time_end:   2023-11-14T14:55:00-06:00
 day: 2023mty
 room: Sala principal 
 track: Liderazgo de organizaciones de datos
-slides: 
 video: 
 gridarea: "12/2/13/3"
 timeslot: 17

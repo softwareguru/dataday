@@ -8,7 +8,6 @@ time_end:   2023-11-14T15:35:00-06:00
 day: 2023mty
 room: Aula 104
 track: Bienestar y salud
-slides: 
 video: https://youtu.be/4S3AgFCY2bE
 gridarea: "13/3/14/4"
 timeslot: 20

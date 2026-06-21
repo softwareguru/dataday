@@ -3,7 +3,6 @@ title: "Juan Antonio Muñoz"
 date: 2022-02-10T11:45:57-06:00
 images:
  - "images/speakers/juan-antonio-muñoz.jpg"
-designation : "Asistente de Investigación en Escuela de Gobierno y Transformación Pública del Tecnologico de Monterrey"
 country: ""
 facebook: ""
 instagram: ""

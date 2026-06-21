@@ -5,7 +5,6 @@ images:
 date: 2020-07-28
 events:
  - 2020
-events:
  - 2021
 ---
 

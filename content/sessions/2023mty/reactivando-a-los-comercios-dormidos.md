@@ -8,7 +8,6 @@ time_end:   2023-11-14T17:15:00-06:00
 day: 2023mty
 room: Sala principal
 track: Logística y consumo
-slides: 
 video: 
 gridarea: "16/2/17/3"
 timeslot: 25

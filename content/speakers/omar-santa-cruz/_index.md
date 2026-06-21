@@ -11,9 +11,8 @@ twitter:
 linkedin: "https://www.linkedin.com/in/mcc-santa-cruz/"
 github: ""
 events:
- - 2022
-events:
  - 2021
+ - 2022
 ---
 
 Soy un profesional del área de datos y cómputo aplicado, estudié ciencias computacionales, una maestría en inteligencia artificial, actualmente curso un doctorado en ciencia de datos. Tengo 10 años de experiencia en diferentes roles relacionados con datos. 

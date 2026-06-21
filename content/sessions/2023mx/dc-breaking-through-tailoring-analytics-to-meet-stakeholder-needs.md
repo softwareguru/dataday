@@ -13,7 +13,6 @@ timeorder: 0
 room: México 3-5
 language: 
 live_url: 
-track: 
 tags:
 slides: 
 video: https://youtu.be/nY0aEeJ6JoM

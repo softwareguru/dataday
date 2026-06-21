@@ -3,13 +3,7 @@ title: "Jess Daubner"
 date: 2022-03-07T18:49:50-06:00
 images:
  - "images/speakers/jess-daubner.jpg"
-designation : "Principal Machine Learning Engineer at Elastic"
-country: ""
-facebook: ""
-instagram: ""
-twitter: ""
 linkedin: "https://www.linkedin.com/in/jessicadaubner/"
-github: ""
 events:
  - 2022
 designation: ML Engineer @ Elastic 

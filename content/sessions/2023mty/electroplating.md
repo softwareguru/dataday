@@ -8,7 +8,6 @@ time_end:   2023-11-14T12:45:00-06:00
 day: 2023mty
 room: Aula 104
 track: Machine learning en procesos industriales
-slides: 
 video: https://youtu.be/Qnk9l065mjQ
 gridarea: "9/3/10/4"
 timeslot: 11

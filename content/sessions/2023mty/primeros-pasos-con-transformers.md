@@ -8,7 +8,6 @@ time_end:   2023-11-14T14:55:00-06:00
 day: 2023mty
 room: Aula 105
 track: Ingeniería de datos
-slides: 
 video: 
 gridarea: "11/4/13/5"
 timeslot: 16

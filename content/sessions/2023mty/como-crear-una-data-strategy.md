@@ -8,7 +8,6 @@ time_end:   2023-11-14T16:15:00-06:00
 day: 2023mty
 room: Aula 105
 track: Liderazgo de organizaciones de datos
-slides: 
 video: 
 gridarea: "13/4/15/5"
 timeslot: 21

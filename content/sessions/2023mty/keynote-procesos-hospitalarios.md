@@ -9,7 +9,6 @@ time_end:   2023-11-14T10:40:00-06:00
 day: 2023mty
 room: Sala principal 
 track: Bienestar y salud
-slides: 
 video: 
 gridarea: "5/2/6/5"
 timeslot: 4

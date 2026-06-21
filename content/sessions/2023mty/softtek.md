@@ -8,7 +8,6 @@ time_end:   2023-11-14T12:05:00-06:00
 day: 2023mty
 room: Sala principal 
 track: Tendencias y perspectivas
-slides: 
 video: https://youtu.be/XJmT1wgAAnI
 gridarea: "8/2/9/3"
 timeslot: 7

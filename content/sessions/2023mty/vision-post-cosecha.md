@@ -9,7 +9,6 @@ day: 2023mty
 room: Aula 104
 language: 
 track: Machine learning en procesos industriales
-slides: 
 video: https://youtu.be/uA8jcIPANWw
 gridarea: "8/3/9/4"
 timeslot: 8
