@@ -5,9 +5,16 @@ publishDir = "public/dataday"
 title = "Data Day MTY"
 enableRobotsTXT = true
 removePathAccents = true
-
+  
 theme = "dataday"
 # post pagination
+
+locale = "es-mx"
+
+[languages.es]
+  locale = "es-mx"
+  label = "Español"
+  direction = "ltr"
 
 [services]
   [services.googleAnalytics]

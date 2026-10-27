@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-{{ $data := index .Site.Data }}
+{{ $data := index hugo.Data }}
 
 <!-- hero -->
 {{ if $data.homepage.banner.enable }}
