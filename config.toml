@@ -9,12 +9,12 @@ removePathAccents = true
 theme = "dataday"
 # post pagination
 
-locale = "es-mx"
-
-[languages.es]
-  locale = "es-mx"
-  label = "Español"
-  direction = "ltr"
+defaultContentLanguage = 'es'
+[languages]
+  [languages.es]
+    locale = "es-mx"
+    label = "Español"
+    direction = "ltr"
 
 [services]
   [services.googleAnalytics]
